@@ -32,14 +32,29 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
   const finished = useRef(false);
   const { remainingMs, expired } = useDeadline(deadlineAt);
 
-  const persist = useCallback((answered: Record<string, number>) => store.saveDraft({
+  const draftOf = useCallback((answered: Record<string, number>): SessionDraft => ({
     kind, questions, answered, startedAt, deadlineAt, meta: { ...meta, instantFeedback: !!instantFeedback },
-  }), [store, kind, questions, startedAt, deadlineAt, meta, instantFeedback]);
+  }), [kind, questions, startedAt, deadlineAt, meta, instantFeedback]);
+  const persist = useCallback((answered: Record<string, number>) => store.saveDraft(draftOf(answered)), [store, draftOf]);
+  /** The answer currently being saved; finish() waits for it so a late save cannot re-create a cleared draft. */
+  const saving = useRef<Promise<unknown>>(Promise.resolve());
+
+  // Time spent with the app in the background does not count towards the current question.
+  useEffect(() => {
+    let hiddenAt: number | null = null;
+    const onVis = () => {
+      if (document.visibilityState === 'hidden') hiddenAt = Date.now();
+      else if (hiddenAt !== null) { shownAt.current += Date.now() - hiddenAt; hiddenAt = null; }
+    };
+    document.addEventListener('visibilitychange', onVis);
+    return () => document.removeEventListener('visibilitychange', onVis);
+  }, []);
 
 
   const finish = useCallback(async (final: Record<string, number>) => {
     if (finished.current) return;
     finished.current = true;
+    await saving.current.catch(() => undefined);
     await store.clearDraft();
     const correct = questions.filter((q) => final[q.id] === q.answerIndex).length;
     onFinish({ answers: final, correct, total: questions.length, ms: Date.now() - startedAt });
@@ -69,9 +84,9 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
     const next = { ...answers, [q.id]: choice };
     setAnswers(next);
     try {
-      await store.recordAttempt({ questionId: q.id, patternId: q.patternId, correct: choice === q.answerIndex, ms: now - shownAt.current, at: now, source: q.source, sessionKind: kind });
-      if (finished.current) return; // the session ended (e.g. time ran out) while saving: do not re-create the draft
-      await persist(next);
+      const attempt = { questionId: q.id, patternId: q.patternId, correct: choice === q.answerIndex, ms: Math.max(0, now - shownAt.current), at: now, source: q.source, sessionKind: kind };
+      saving.current = store.recordAnswer(attempt, draftOf(next));
+      await saving.current;
     } catch {
       setSaveError(true);
     }

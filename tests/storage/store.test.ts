@@ -83,3 +83,45 @@ describe('createMemoryStore', () => {
     expect(await b.getAttempts()).toHaveLength(2);
   });
 });
+
+describe('M2: an answer and its draft are saved together', () => {
+  const draft = { kind: 'morning' as const, questions: [], answered: { q1: 0 }, startedAt: 1, deadlineAt: null };
+  it('recordAnswer stores both the attempt and the draft', async () => {
+    const s = await openStore();
+    await s.recordAnswer(attempt, draft);
+    expect(await s.getAttempts()).toHaveLength(1);
+    expect((await s.getDraft())?.answered).toEqual({ q1: 0 });
+  });
+  it('if the draft cannot be saved, the attempt is not saved either', async () => {
+    const s = await openStore();
+    const bad = { ...draft, meta: { f: () => 1 } }; // functions cannot be stored, so the write fails
+    await expect(s.recordAnswer(attempt, bad)).rejects.toThrow();
+    expect(await s.getAttempts()).toHaveLength(0);
+    expect(await s.getDraft()).toBeNull();
+  });
+});
+
+describe('M6: import checks values, not only types', () => {
+  const base = () => ({ version: 1, exportedAt: 0, attempts: [{ ...attempt }], cards: [], plan: { startDate: '2026-11-09', planDay: 3, lastCompletedDate: null }, settings: { newWordsPerDay: 15, testDate: null }, mocks: [] });
+  const bad: [string, (b: ReturnType<typeof base>) => void][] = [
+    ['planDay 0', (b) => { b.plan.planDay = 0; }],
+    ['planDay 85', (b) => { b.plan.planDay = 85; }],
+    ['planDay 2.5', (b) => { b.plan.planDay = 2.5; }],
+    ['unknown pattern', (b) => { (b.attempts[0] as Record<string, unknown>).patternId = 'P99'; }],
+    ['unknown source', (b) => { (b.attempts[0] as Record<string, unknown>).source = 'book'; }],
+    ['unknown session kind', (b) => { (b.attempts[0] as Record<string, unknown>).sessionKind = 'evening'; }],
+    ['newWordsPerDay 1000', (b) => { b.settings.newWordsPerDay = 1000; }],
+    ['mock form 0', (b) => { (b.mocks as unknown[]).push({ form: 0, raw: 20, scaled: 45, repeat: false, at: 1 }); }],
+    ['raw score 41', (b) => { (b.mocks as unknown[]).push({ form: 1, raw: 41, scaled: 45, repeat: false, at: 1 }); }],
+  ];
+  it.each(bad)('rejects %s and keeps existing data', async (_n, mutate) => {
+    const s = createMemoryStore();
+    await s.recordAttempt({ ...attempt, questionId: 'keep' });
+    const b = base(); mutate(b);
+    await expect(s.importAll(b)).rejects.toBeInstanceOf(ImportError);
+    expect((await s.getAttempts()).map((a) => a.questionId)).toEqual(['keep']);
+  });
+  it('still accepts a valid backup', async () => {
+    await expect(createMemoryStore().importAll(base())).resolves.toBeUndefined();
+  });
+});

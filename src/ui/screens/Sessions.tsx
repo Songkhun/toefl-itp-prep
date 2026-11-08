@@ -147,7 +147,7 @@ export function Afternoon() {
 }
 
 export function Mock() {
-  const { store, content, navigate } = useEnv();
+  const { store, content, clock, navigate } = useEnv();
   const [mock, setMock] = useState<ReturnType<typeof buildMock> | undefined>(undefined);
   const [started, setStarted] = useState(false);
   const [result, setResult] = useState<FinishResult | null>(null);
@@ -171,7 +171,7 @@ export function Mock() {
   }
   return <QuestionPlayer store={store} kind="mock" questions={mock.questions} timeLimitMs={mock.timeLimitMs} meta={{ form: mock.form, repeat: mock.repeat }}
     onFinish={async (r) => {
-      await store.addMockResult({ form: mock.form, raw: r.correct, scaled: rawToScaledStructure(r.correct), repeat: mock.repeat, at: Date.now() });
+      await store.addMockResult({ form: mock.form, raw: r.correct, scaled: rawToScaledStructure(r.correct), repeat: mock.repeat, at: clock().getTime() });
       setResult(r);
     }} />;
 }
@@ -203,7 +203,7 @@ export function Resume() {
   return <QuestionPlayer store={store} kind={draft.kind} questions={draft.questions} draft={draft} meta={draft.meta} instantFeedback={Boolean(draft.meta?.instantFeedback ?? draft.kind === 'morning')}
     onFinish={async (r) => {
       if (draft.kind === 'mock') {
-        await store.addMockResult({ form: Number(draft.meta?.form ?? 0), raw: r.correct, scaled: rawToScaledStructure(r.correct), repeat: !!draft.meta?.repeat, at: Date.now() });
+        await store.addMockResult({ form: Number(draft.meta?.form ?? 0), raw: r.correct, scaled: rawToScaledStructure(r.correct), repeat: !!draft.meta?.repeat, at: clock().getTime() });
       }
       if (draft.kind === 'morning') {
         const today = localDate(clock());

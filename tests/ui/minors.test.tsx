@@ -36,3 +36,37 @@ describe('M9: New set with no content', () => {
     expect(await screen.findByText(/No questions are available for this choice yet/)).toBeInTheDocument();
   });
 });
+
+describe('M7: mock results use the app clock', () => {
+  it('a resumed mock is dated by clock(), not the system time', async () => {
+    const store = createMemoryStore();
+    await store.saveDraft({ kind: 'mock', questions: [q(1)], answered: {}, startedAt: day().getTime(), deadlineAt: day().getTime() + 25 * 60_000, meta: { form: 1, repeat: false } });
+    vi.spyOn(Date, 'now').mockReturnValue(day().getTime() + 1000);
+    app(store, '#/resume');
+    fireEvent.click(await screen.findByRole('button', { name: /^A\. / }));
+    await screen.findByText(/Mock test result/);
+    vi.restoreAllMocks();
+    expect((await store.getMockResults())[0].at).toBe(day().getTime());
+  });
+});
+
+describe('M8: time away from the app is not counted against a question', () => {
+  afterEach(() => { vi.restoreAllMocks(); Object.defineProperty(document, 'visibilityState', { configurable: true, value: 'visible' }); });
+  const setVisible = (v: 'visible' | 'hidden') => {
+    Object.defineProperty(document, 'visibilityState', { configurable: true, value: v });
+    document.dispatchEvent(new Event('visibilitychange'));
+  };
+  it('subtracts the hidden period from the recorded ms', async () => {
+    const now = vi.spyOn(Date, 'now').mockReturnValue(1_000);
+    const store = createMemoryStore();
+    await store.saveDraft({ kind: 'newset', questions: [q(1), q(2)], answered: {}, startedAt: 1_000, deadlineAt: null });
+    app(store, '#/resume');
+    const btn = await screen.findByRole('button', { name: /^A\. / });
+    now.mockReturnValue(3_000); setVisible('hidden');
+    now.mockReturnValue(603_000); setVisible('visible');
+    now.mockReturnValue(604_000);
+    fireEvent.click(btn);
+    await screen.findByText('2 / 2');
+    expect((await store.getAttempts())[0].ms).toBe(3_000);
+  });
+});

@@ -56,7 +56,7 @@ describe('C2: expiry during a pending answer write', () => {
 describe('M3: a failed write does not dead-end the session', () => {
   it('still advances and shows a warning', async () => {
     const base = createMemoryStore();
-    const store: ProgressStore = { ...base, recordAttempt: () => Promise.reject(new Error('quota')) };
+    const store: ProgressStore = { ...base, recordAnswer: () => Promise.reject(new Error('quota')) };
     render(<QuestionPlayer store={store} kind="newset" questions={[q(1), q(2)]} onFinish={() => {}} />);
     fireEvent.click(await screen.findByRole('button', { name: /^A\. / }));
     expect(await screen.findByText(/Item 2/)).toBeInTheDocument();
