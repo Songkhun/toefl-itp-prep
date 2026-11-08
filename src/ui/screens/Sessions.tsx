@@ -200,7 +200,7 @@ export function Resume() {
     if (draft.kind === 'mock') return <MockResultView result={result} questions={draft.questions} repeat={!!draft.meta?.repeat} />;
     return <Done title="Session complete" result={result} questions={draft.questions} />;
   }
-  return <QuestionPlayer store={store} kind={draft.kind} questions={draft.questions} draft={draft} meta={draft.meta} instantFeedback={draft.kind === 'morning'}
+  return <QuestionPlayer store={store} kind={draft.kind} questions={draft.questions} draft={draft} meta={draft.meta} instantFeedback={Boolean(draft.meta?.instantFeedback ?? draft.kind === 'morning')}
     onFinish={async (r) => {
       if (draft.kind === 'mock') {
         await store.addMockResult({ form: Number(draft.meta?.form ?? 0), raw: r.correct, scaled: rawToScaledStructure(r.correct), repeat: !!draft.meta?.repeat, at: Date.now() });
@@ -220,6 +220,7 @@ export function NewSet() {
   const [choice, setChoice] = useState<PatternId | 'mixed'>('mixed');
   const [questions, setQuestions] = useState<Question[] | null>(null);
   const [result, setResult] = useState<FinishResult | null>(null);
+  const [noContent, setNoContent] = useState(false);
   useEffect(() => {
     void loadPlan(() => store.getPlan(), localDate(clock())).then((p) => {
       const s = studiedPatterns(p);
@@ -241,8 +242,10 @@ export function NewSet() {
       <p />
       <button className="primary" onClick={() => {
         const qs = buildNewSet(choice, studied, seed(), content);
+        setNoContent(!qs.length);
         if (qs.length) setQuestions(qs);
       }}>Make me a new set</button>
+      {noContent && <p className="card bad">No questions are available for this choice yet. Try "Mixed" or another pattern.</p>}
     </div>
   );
 }

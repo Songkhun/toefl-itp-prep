@@ -33,8 +33,8 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
   const { remainingMs, expired } = useDeadline(deadlineAt);
 
   const persist = useCallback((answered: Record<string, number>) => store.saveDraft({
-    kind, questions, answered, startedAt, deadlineAt, meta,
-  }), [store, kind, questions, startedAt, deadlineAt, meta]);
+    kind, questions, answered, startedAt, deadlineAt, meta: { ...meta, instantFeedback: !!instantFeedback },
+  }), [store, kind, questions, startedAt, deadlineAt, meta, instantFeedback]);
 
 
   const finish = useCallback(async (final: Record<string, number>) => {

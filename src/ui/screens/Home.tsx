@@ -34,7 +34,6 @@ export function Home() {
 
   return (
     <div>
-      {!store.persistent && <div className="banner">Progress won't be saved on this device (browser storage is blocked, e.g. private mode). Use Settings → Export backup to keep your work.</div>}
       {state.backupDue && <div className="banner">You haven't backed up your progress in the last 7 days. <a href="#/settings">Export a backup</a> so a cleared browser can't erase it.</div>}
       <h1>Day {plan.planDay} · Week {plan.week}</h1>
       <p className="muted">{phaseText}</p>
