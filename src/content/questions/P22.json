@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P22-d01",
+    "patternId": "P22",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Scientists ____ an important discovery when they identified the structure of DNA in 1953.",
+    "options": [
+      "made",
+      "did",
+      "took",
+      "had"
+    ],
+    "answerIndex": 0,
+    "explanation": "The fixed expression is \"make a discovery\": \"made an important discovery.\" \"Make\" is used with discoveries, decisions, and mistakes; \"do\" is used with work, research, and harm."
+  },
+  {
+    "id": "P22-d02",
+    "patternId": "P22",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The price of gasoline tends to ____ when the demand for oil increases.",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "raising"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Rise\" is intransitive (it has no object): \"prices rise.\" \"Raise\" is transitive and needs an object, as in \"raise prices.\""
+  },
+  {
+    "id": "P22-d03",
+    "patternId": "P22",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Volunteers ____ a great deal of work to restore the historic lighthouse.",
+    "options": [
+      "made",
+      "took",
+      "gave",
+      "did"
+    ],
+    "answerIndex": 3,
+    "explanation": "The fixed expression is \"do work\": \"Volunteers did a great deal of work.\""
+  },
+  {
+    "id": "P22-d04",
+    "patternId": "P22",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Identical twins look so much ____ that even their friends sometimes confuse them.",
+    "options": [
+      "like",
+      "alike",
+      "likely",
+      "liking"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Alike\" is used after a verb with no object: \"Identical twins look so much alike.\" \"Like\" needs an object, as in \"look like each other.\""
+  },
+  {
+    "id": "P22-d05",
+    "patternId": "P22",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Most species of birds ____ their eggs in nests.",
+    "options": [
+      "lie",
+      "lain",
+      "lay",
+      "lying"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Lay\" is transitive and takes an object: \"birds lay their eggs.\" \"Lie\" (lay, lain) is intransitive and cannot take an object."
+  },
+  {
+    "id": "P22-d06",
+    "patternId": "P22",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The two governments agreed to ____ the border dispute at a later meeting.",
+    "options": [
+      "discuss about",
+      "discuss on",
+      "discuss",
+      "discussing about"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Discuss\" takes a direct object with no preposition: \"discuss the border dispute.\" \"Discuss about\" is a common error."
+  },
+  {
+    "id": "P22-d07",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Warm air {0} because it is {1} dense {2} the cooler air {3} it.",
+    "options": [
+      "raises",
+      "less",
+      "than",
+      "around"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Rise\" is intransitive and has no object: \"Warm air rises.\" \"Raise\" needs an object."
+  },
+  {
+    "id": "P22-d08",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} bacteria {1} no harm to humans, and many are {2} helpful for {3}.",
+    "options": [
+      "Most",
+      "make",
+      "actually",
+      "digestion"
+    ],
+    "answerIndex": 1,
+    "explanation": "The fixed expression is \"do harm\": \"Most bacteria do no harm to humans.\""
+  },
+  {
+    "id": "P22-d09",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Monarch butterflies that {0} the winter in central Mexico {1} {2} {3} the north in spring.",
+    "options": [
+      "spend",
+      "begin",
+      "returning back",
+      "to"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Return\" already means \"go back,\" so \"back\" is redundant: \"begin returning to the north.\""
+  },
+  {
+    "id": "P22-d10",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Female sea turtles {0} {1} the beach at night, dig a nest {2} the sand, and {3} their eggs.",
+    "options": [
+      "crawl",
+      "onto",
+      "in",
+      "lie"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Lay\" is the transitive verb that takes an object: \"lay their eggs.\" \"Lie\" cannot take an object."
+  },
+  {
+    "id": "P22-d11",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Although bats fly {0} birds, they {1} mammals and {2} their young {3} milk.",
+    "options": [
+      "alike",
+      "are",
+      "feed",
+      "with"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Like\" is a preposition that takes an object: \"bats fly like birds.\" \"Alike\" is not followed by an object."
+  },
+  {
+    "id": "P22-d12",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "When prices {0} too quickly, the central bank {1} {2} {3} interest rates.",
+    "options": [
+      "increase",
+      "may",
+      "decide to",
+      "rise"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Raise\" is transitive and takes an object: \"raise interest rates.\" \"Rise\" cannot take an object."
+  },
+  {
+    "id": "P22-d13",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Scuba divers must ascend {0} {1} from deep water {2} {3} decompression sickness.",
+    "options": [
+      "upward",
+      "slowly",
+      "to",
+      "avoid"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Ascend\" already means \"move upward,\" so \"upward\" is redundant: \"Scuba divers must ascend slowly.\""
+  },
+  {
+    "id": "P22-d14",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Moon's gravity {0} a {1} {2} on the {3} of ocean tides.",
+    "options": [
+      "has",
+      "strong",
+      "affect",
+      "rise and fall"
+    ],
+    "answerIndex": 2,
+    "explanation": "After \"a strong,\" the sentence needs the noun \"effect\": \"a strong effect on the rise and fall of ocean tides.\" \"Affect\" is usually a verb."
+  },
+  {
+    "id": "P22-d15",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Crocodiles {0} spend hours {1} {2} the riverbank, {3} motionless in the sun.",
+    "options": [
+      "often",
+      "resting",
+      "on",
+      "laying"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Lie\" (lying) means \"be in a flat position\" and takes no object: \"lying motionless in the sun.\" \"Laying\" needs an object."
+  },
+  {
+    "id": "P22-d16",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "When the ocean {0} warmer, its water {1} and sea levels {2}, threatening {3} cities.",
+    "options": [
+      "becomes",
+      "expands",
+      "raise",
+      "coastal"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Rise\" is intransitive and has no object: \"sea levels rise.\" \"Raise\" needs an object."
+  }
+]

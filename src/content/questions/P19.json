@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P19-d01",
+    "patternId": "P19",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The ____ of the telescope allowed Galileo to observe the moons of Jupiter.",
+    "options": [
+      "invent",
+      "invention",
+      "inventive",
+      "inventively"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"the\" and before \"of,\" the sentence needs a noun: \"The invention of the telescope.\" \"Invent\" is a verb, \"inventive\" is an adjective, and \"inventively\" is an adverb."
+  },
+  {
+    "id": "P19-d02",
+    "patternId": "P19",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Honeybees communicate the location of food by performing a ____ dance.",
+    "options": [
+      "complexity",
+      "complexly",
+      "complex",
+      "complexities"
+    ],
+    "answerIndex": 2,
+    "explanation": "A noun such as \"dance\" is described by an adjective: \"a complex dance.\" \"Complexity\" is a noun and \"complexly\" is an adverb."
+  },
+  {
+    "id": "P19-d03",
+    "patternId": "P19",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Coral reefs are extremely ____ to changes in water temperature.",
+    "options": [
+      "sensitive",
+      "sensitivity",
+      "sensitively",
+      "sense"
+    ],
+    "answerIndex": 0,
+    "explanation": "After the linking verb \"are\" and the adverb \"extremely,\" the sentence needs an adjective: \"extremely sensitive.\" \"Sensitivity\" and \"sense\" are nouns, and \"sensitively\" is an adverb."
+  },
+  {
+    "id": "P19-d04",
+    "patternId": "P19",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Early sailors navigated ____ by observing the positions of the stars.",
+    "options": [
+      "success",
+      "successful",
+      "succeed",
+      "successfully"
+    ],
+    "answerIndex": 3,
+    "explanation": "The verb \"navigated\" is described by an adverb: \"navigated successfully.\" \"Success\" is a noun, \"succeed\" is a verb, and \"successful\" is an adjective."
+  },
+  {
+    "id": "P19-d05",
+    "patternId": "P19",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Antibiotics have greatly reduced the number of deaths caused by bacterial ____.",
+    "options": [
+      "infect",
+      "infections",
+      "infectious",
+      "infected"
+    ],
+    "answerIndex": 1,
+    "explanation": "The adjective \"bacterial\" must be followed by a noun: \"bacterial infections.\" \"Infect\" is a verb, and \"infectious\" and \"infected\" are adjectives."
+  },
+  {
+    "id": "P19-d06",
+    "patternId": "P19",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The ____ of a diamond is the result of the strong bonds between its carbon atoms.",
+    "options": [
+      "hard",
+      "hardly",
+      "harden",
+      "hardness"
+    ],
+    "answerIndex": 3,
+    "explanation": "After \"the\" and before \"of,\" a noun is needed: \"The hardness of a diamond.\" \"Hard\" is an adjective, \"harden\" is a verb, and \"hardly\" is an adverb meaning \"almost not.\""
+  },
+  {
+    "id": "P19-d07",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Penguins are {0} swimmers that use their {1} wings to {2} themselves {3} the water.",
+    "options": [
+      "skill",
+      "stiff",
+      "propel",
+      "through"
+    ],
+    "answerIndex": 0,
+    "explanation": "The noun \"swimmers\" must be described by an adjective, not the noun \"skill\": \"skillful swimmers.\""
+  },
+  {
+    "id": "P19-d08",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Before the Panama Canal opened, ships {0} between New York and San Francisco {1} to sail around South America, a long and {2} {3}.",
+    "options": [
+      "traveling",
+      "had",
+      "danger",
+      "voyage"
+    ],
+    "answerIndex": 2,
+    "explanation": "The noun \"voyage\" is described by adjectives joined by \"and\": \"a long and dangerous voyage.\" \"Danger\" is a noun."
+  },
+  {
+    "id": "P19-d09",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Volcanic ash from a major eruption can {0} crops, {1} water supplies, and pose a serious {2} to {3}.",
+    "options": [
+      "damage",
+      "contaminate",
+      "dangerous",
+      "aircraft"
+    ],
+    "answerIndex": 2,
+    "explanation": "After \"a serious,\" the sentence needs a noun as the object of \"pose\": \"pose a serious danger.\" \"Dangerous\" is an adjective."
+  },
+  {
+    "id": "P19-d10",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Vitamin C is {0} for the {1} of healthy skin, and a lack of it can {2} a disease {3} scurvy.",
+    "options": [
+      "essential",
+      "maintain",
+      "cause",
+      "called"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"the\" and before \"of,\" a noun is needed: \"the maintenance of healthy skin.\" \"Maintain\" is a verb."
+  },
+  {
+    "id": "P19-d11",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The cotton gin, {0} by Eli Whitney in 1793, made the {1} of seeds from cotton much faster and cotton farming far {2} {3}.",
+    "options": [
+      "invented",
+      "removal",
+      "more",
+      "profit"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Made cotton farming far more ___\" needs an adjective to describe \"cotton farming\": \"far more profitable.\" \"Profit\" is a noun."
+  },
+  {
+    "id": "P19-d12",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Many bats use {0} to locate {1} in complete darkness, a skill that {2} them to hunt with great {3}.",
+    "options": [
+      "echolocation",
+      "insects",
+      "allows",
+      "accurate"
+    ],
+    "answerIndex": 3,
+    "explanation": "After the preposition \"with\" and the adjective \"great,\" a noun is needed: \"with great accuracy.\" \"Accurate\" is an adjective."
+  },
+  {
+    "id": "P19-d13",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Marie Curie {0} two Nobel Prizes for her {1} {2} in physics and {3}.",
+    "options": [
+      "won",
+      "importance",
+      "discoveries",
+      "chemistry"
+    ],
+    "answerIndex": 1,
+    "explanation": "The noun \"discoveries\" must be described by an adjective: \"her important discoveries.\" \"Importance\" is a noun."
+  },
+  {
+    "id": "P19-d14",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The {0} of topsoil by wind and water {1} a {2} problem for farmers {3} the world.",
+    "options": [
+      "erode",
+      "is",
+      "serious",
+      "around"
+    ],
+    "answerIndex": 0,
+    "explanation": "The subject after \"The\" and before \"of\" must be a noun: \"The erosion of topsoil.\" \"Erode\" is a verb."
+  },
+  {
+    "id": "P19-d15",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Octopuses are {0} animals that can solve puzzles, open jars, and change their {1} to {2} from {3}.",
+    "options": [
+      "intelligent",
+      "colorful",
+      "hide",
+      "predators"
+    ],
+    "answerIndex": 1,
+    "explanation": "After the possessive \"their,\" the object of \"change\" must be a noun: \"change their color.\" \"Colorful\" is an adjective."
+  },
+  {
+    "id": "P19-d16",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Wind turbines {0} the energy of moving air {1} electricity without {2} harmful {3}.",
+    "options": [
+      "convert",
+      "into",
+      "producing",
+      "emit"
+    ],
+    "answerIndex": 3,
+    "explanation": "The adjective \"harmful\" must describe a noun, and the object of \"producing\" must be a noun: \"harmful emissions.\" \"Emit\" is a verb."
+  }
+]

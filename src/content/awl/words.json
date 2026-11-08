@@ -6832,5 +6832,1727 @@
       "implicitly"
     ],
     "sublist": 8
+  },
+  {
+    "id": "w-induce",
+    "headword": "induce",
+    "pos": "verb",
+    "definition": "to cause something to happen",
+    "examples": [
+      "Some medicines can induce sleep.",
+      "Changes in day length induce many trees to drop their leaves."
+    ],
+    "forms": [
+      "induced",
+      "induces",
+      "induction"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-inevitable",
+    "headword": "inevitable",
+    "pos": "adjective",
+    "definition": "certain to happen; impossible to avoid",
+    "examples": [
+      "Some loss of heat is inevitable whenever energy changes from one form to another.",
+      "Rapid population growth made the expansion of the city inevitable."
+    ],
+    "forms": [
+      "inevitably",
+      "inevitability"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-infrastructure",
+    "headword": "infrastructure",
+    "pos": "noun",
+    "definition": "the basic systems a society needs, such as roads, bridges, and power supplies",
+    "examples": [
+      "The government invested heavily in transportation infrastructure.",
+      "Strong earthquakes can severely damage a city's infrastructure."
+    ],
+    "forms": [
+      "infrastructures"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-inspect",
+    "headword": "inspect",
+    "pos": "verb",
+    "definition": "to look at something closely to check its condition",
+    "examples": [
+      "Engineers inspect the bridge every two years.",
+      "Officials inspected the factory for safety problems."
+    ],
+    "forms": [
+      "inspected",
+      "inspection",
+      "inspector"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-intense",
+    "headword": "intense",
+    "pos": "adjective",
+    "definition": "very strong or extreme",
+    "examples": [
+      "The intense heat of the summer dried up many small streams.",
+      "The proposal led to intense debate in the legislature."
+    ],
+    "forms": [
+      "intensity",
+      "intensify",
+      "intensive",
+      "intensely"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-manipulate",
+    "headword": "manipulate",
+    "pos": "verb",
+    "definition": "to handle or control something skillfully; to influence someone unfairly",
+    "examples": [
+      "Chimpanzees can manipulate sticks to pull insects out of logs.",
+      "Some advertisers try to manipulate the emotions of consumers."
+    ],
+    "forms": [
+      "manipulated",
+      "manipulation"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-minimize",
+    "headword": "minimize",
+    "pos": "verb",
+    "definition": "to reduce something to the smallest possible amount",
+    "examples": [
+      "Engineers designed the building to minimize energy use.",
+      "Wearing a helmet minimizes the risk of serious head injury."
+    ],
+    "forms": [
+      "minimized",
+      "minimizes",
+      "minimizing"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-nuclear",
+    "headword": "nuclear",
+    "pos": "adjective",
+    "definition": "relating to the nucleus of an atom or to the energy released when atoms are split or joined",
+    "examples": [
+      "Nuclear power plants generate electricity without burning fuel.",
+      "The Sun produces energy through nuclear reactions in its core."
+    ],
+    "forms": [],
+    "sublist": 8
+  },
+  {
+    "id": "w-offset",
+    "headword": "offset",
+    "pos": "verb",
+    "definition": "to balance one effect with an opposite one",
+    "examples": [
+      "Higher costs were offset by an increase in sales.",
+      "Planting trees can partly offset carbon emissions."
+    ],
+    "forms": [
+      "offsets",
+      "offsetting"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-paragraph",
+    "headword": "paragraph",
+    "pos": "noun",
+    "definition": "a section of writing that deals with one main idea",
+    "examples": [
+      "Each paragraph should begin with a clear topic sentence.",
+      "The final paragraph of the article summarizes the main findings."
+    ],
+    "forms": [
+      "paragraphs"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-plus",
+    "headword": "plus",
+    "pos": "preposition",
+    "definition": "in addition to; and also",
+    "examples": [
+      "The study included 200 adults plus 50 children.",
+      "The cost of the trip was the airfare plus the price of the hotel."
+    ],
+    "forms": [],
+    "sublist": 8
+  },
+  {
+    "id": "w-practitioner",
+    "headword": "practitioner",
+    "pos": "noun",
+    "definition": "a person who works in a profession, especially medicine or law",
+    "examples": [
+      "General practitioners are often the first doctors that patients see.",
+      "The workshop brought together researchers and practitioners."
+    ],
+    "forms": [
+      "practitioners"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-predominant",
+    "headword": "predominant",
+    "pos": "adjective",
+    "definition": "most common, strongest, or most important",
+    "examples": [
+      "Spanish is the predominant language in much of South America.",
+      "Grass is the predominant form of vegetation on the prairie."
+    ],
+    "forms": [
+      "predominantly",
+      "predominance",
+      "predominate"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-prospect",
+    "headword": "prospect",
+    "pos": "noun",
+    "definition": "the possibility that something will happen",
+    "examples": [
+      "The prospect of finding gold drew thousands of people to California.",
+      "There is little prospect of rain in the coming week."
+    ],
+    "forms": [
+      "prospects",
+      "prospective"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-radical",
+    "headword": "radical",
+    "pos": "adjective",
+    "definition": "very new and different; affecting the most basic part of something",
+    "examples": [
+      "The printing press brought radical changes to European society.",
+      "Some scientists proposed a radical new theory of the origin of the continents."
+    ],
+    "forms": [
+      "radically"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-random",
+    "headword": "random",
+    "pos": "adjective",
+    "definition": "happening or chosen without any plan or pattern",
+    "examples": [
+      "A random sample of 500 voters was surveyed.",
+      "The movement of gas molecules is random."
+    ],
+    "forms": [
+      "randomly",
+      "randomness"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-reinforce",
+    "headword": "reinforce",
+    "pos": "verb",
+    "definition": "to make something stronger",
+    "examples": [
+      "Steel bars are used to reinforce concrete.",
+      "The new evidence reinforced the original theory."
+    ],
+    "forms": [
+      "reinforced",
+      "reinforcement"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-restore",
+    "headword": "restore",
+    "pos": "verb",
+    "definition": "to bring something back to its original condition",
+    "examples": [
+      "Workers restored the old cathedral after the fire.",
+      "The program aims to restore wetlands along the coast."
+    ],
+    "forms": [
+      "restored",
+      "restoration"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-revise",
+    "headword": "revise",
+    "pos": "verb",
+    "definition": "to change something in order to correct or improve it",
+    "examples": [
+      "Scientists revise their theories when new evidence appears.",
+      "The author revised the manuscript several times."
+    ],
+    "forms": [
+      "revised",
+      "revision"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-schedule",
+    "headword": "schedule",
+    "pos": "noun",
+    "definition": "a plan that lists the times when things will happen",
+    "examples": [
+      "The construction project fell behind schedule.",
+      "The train schedule changes during the winter months."
+    ],
+    "forms": [
+      "schedules",
+      "scheduled"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-tension",
+    "headword": "tension",
+    "pos": "noun",
+    "definition": "a feeling of worry or conflict; the state of being stretched tight",
+    "examples": [
+      "Disputes over water rights created tension between the two states.",
+      "The tension in the steel cables keeps the bridge stable."
+    ],
+    "forms": [
+      "tensions"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-terminate",
+    "headword": "terminate",
+    "pos": "verb",
+    "definition": "to end something",
+    "examples": [
+      "The company terminated the contract after six months.",
+      "The railway line terminates at the coast."
+    ],
+    "forms": [
+      "terminated",
+      "termination"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-theme",
+    "headword": "theme",
+    "pos": "noun",
+    "definition": "the main subject or idea in a piece of writing, art, or discussion",
+    "examples": [
+      "Loss and memory are important themes in the novel.",
+      "The theme of the conference was renewable energy."
+    ],
+    "forms": [
+      "themes",
+      "thematic"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-thereby",
+    "headword": "thereby",
+    "pos": "adverb",
+    "definition": "as a result of this action",
+    "examples": [
+      "The new dam controlled flooding, thereby protecting nearby farms.",
+      "Bees carry pollen from flower to flower, thereby helping plants reproduce."
+    ],
+    "forms": [],
+    "sublist": 8
+  },
+  {
+    "id": "w-uniform",
+    "headword": "uniform",
+    "pos": "adjective",
+    "definition": "the same in all parts or at all times",
+    "examples": [
+      "The temperature inside the cave remains fairly uniform throughout the year.",
+      "The bricks were of uniform size."
+    ],
+    "forms": [
+      "uniformly",
+      "uniformity"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-vehicle",
+    "headword": "vehicle",
+    "pos": "noun",
+    "definition": "a machine used to carry people or goods; a means of expressing something",
+    "examples": [
+      "Electric vehicles produce no exhaust gases.",
+      "Poetry can be a powerful vehicle for political ideas."
+    ],
+    "forms": [
+      "vehicles"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-via",
+    "headword": "via",
+    "pos": "preposition",
+    "definition": "through; by way of",
+    "examples": [
+      "The data were sent to Earth via satellite.",
+      "Many settlers reached Oregon via a long overland trail."
+    ],
+    "forms": [],
+    "sublist": 8
+  },
+  {
+    "id": "w-virtual",
+    "headword": "virtual",
+    "pos": "adjective",
+    "definition": "almost complete; created by a computer to look real",
+    "examples": [
+      "The storm brought traffic to a virtual standstill.",
+      "Students explored a virtual model of an ancient city."
+    ],
+    "forms": [
+      "virtually"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-visual",
+    "headword": "visual",
+    "pos": "adjective",
+    "definition": "relating to seeing or sight",
+    "examples": [
+      "Charts and maps are useful visual aids.",
+      "Many birds rely mainly on visual signals to find food."
+    ],
+    "forms": [
+      "visually",
+      "visualize",
+      "visualization"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-widespread",
+    "headword": "widespread",
+    "pos": "adjective",
+    "definition": "existing or happening in many places or among many people",
+    "examples": [
+      "The disease was widespread in Europe during the fourteenth century.",
+      "There is widespread agreement that regular exercise improves health."
+    ],
+    "forms": [],
+    "sublist": 8
+  },
+  {
+    "id": "w-accommodate",
+    "headword": "accommodate",
+    "pos": "verb",
+    "definition": "to provide enough space for; to adapt to the needs of",
+    "examples": [
+      "The new stadium can accommodate tens of thousands of spectators.",
+      "Schools must accommodate students with different learning needs."
+    ],
+    "forms": [
+      "accommodated",
+      "accommodation"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-analogy",
+    "headword": "analogy",
+    "pos": "noun",
+    "definition": "a comparison that shows how two things are similar",
+    "examples": [
+      "The teacher used an analogy between the heart and a pump.",
+      "Scientists often explain electric current by analogy with flowing water."
+    ],
+    "forms": [
+      "analogies",
+      "analogous"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-anticipate",
+    "headword": "anticipate",
+    "pos": "verb",
+    "definition": "to expect something and prepare for it",
+    "examples": [
+      "The engineers anticipated heavy traffic on the new bridge.",
+      "Farmers anticipate higher prices after a poor harvest."
+    ],
+    "forms": [
+      "anticipated",
+      "anticipation"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-assure",
+    "headword": "assure",
+    "pos": "verb",
+    "definition": "to tell someone confidently that something is true",
+    "examples": [
+      "The pilot assured the passengers that the delay would be short.",
+      "Officials assured residents that the water was safe to drink."
+    ],
+    "forms": [
+      "assured",
+      "assurance"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-attain",
+    "headword": "attain",
+    "pos": "verb",
+    "definition": "to reach or achieve something, usually after effort",
+    "examples": [
+      "Coast redwoods can attain heights of more than 100 meters.",
+      "Few students attain fluency in a language without years of practice."
+    ],
+    "forms": [
+      "attained",
+      "attainment",
+      "attainable"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-behalf",
+    "headword": "behalf",
+    "pos": "noun",
+    "definition": "used in \"on behalf of\": as the representative of someone",
+    "examples": [
+      "The lawyer spoke on behalf of her client.",
+      "The ambassador signed the treaty on behalf of his government."
+    ],
+    "forms": [],
+    "sublist": 9
+  },
+  {
+    "id": "w-bulk",
+    "headword": "bulk",
+    "pos": "noun",
+    "definition": "the main or largest part of something; large size",
+    "examples": [
+      "The bulk of the country's population lives near the coast.",
+      "Grain is usually shipped in bulk."
+    ],
+    "forms": [
+      "bulky"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-cease",
+    "headword": "cease",
+    "pos": "verb",
+    "definition": "to stop",
+    "examples": [
+      "The factory ceased operations in 1985.",
+      "The volcano ceased erupting after several weeks."
+    ],
+    "forms": [
+      "ceased",
+      "ceaseless"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-coherent",
+    "headword": "coherent",
+    "pos": "adjective",
+    "definition": "clear, logical, and well organized",
+    "examples": [
+      "A good essay presents a coherent argument.",
+      "The witness was unable to give a coherent account of the accident."
+    ],
+    "forms": [
+      "coherence",
+      "coherently"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-coincide",
+    "headword": "coincide",
+    "pos": "verb",
+    "definition": "to happen at the same time; to be the same or similar",
+    "examples": [
+      "The festival coincides with the beginning of the harvest.",
+      "Her findings coincided with those of earlier studies."
+    ],
+    "forms": [
+      "coincided",
+      "coincidence"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-commence",
+    "headword": "commence",
+    "pos": "verb",
+    "definition": "to begin (formal)",
+    "examples": [
+      "Construction of the new library will commence in the spring.",
+      "The trial commenced in March."
+    ],
+    "forms": [
+      "commenced",
+      "commencement"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-compatible",
+    "headword": "compatible",
+    "pos": "adjective",
+    "definition": "able to exist or work together without problems",
+    "examples": [
+      "The new software is not compatible with older computers.",
+      "Many economists argue that economic growth can be compatible with environmental protection."
+    ],
+    "forms": [
+      "compatibility",
+      "incompatible"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-concurrent",
+    "headword": "concurrent",
+    "pos": "adjective",
+    "definition": "happening or existing at the same time",
+    "examples": [
+      "The study examined two concurrent trends in the economy.",
+      "The prisoner received two concurrent sentences."
+    ],
+    "forms": [
+      "concurrently"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-confine",
+    "headword": "confine",
+    "pos": "verb",
+    "definition": "to keep someone or something within certain limits",
+    "examples": [
+      "Firefighters confined the fire to a small area of the forest.",
+      "Some species are confined to a single island."
+    ],
+    "forms": [
+      "confined",
+      "confinement"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-controversy",
+    "headword": "controversy",
+    "pos": "noun",
+    "definition": "public disagreement about an issue",
+    "examples": [
+      "The theory caused great controversy when it was first published.",
+      "There is ongoing controversy over the use of genetically modified crops."
+    ],
+    "forms": [
+      "controversies",
+      "controversial"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-converse",
+    "headword": "converse",
+    "pos": "noun",
+    "definition": "the opposite or reverse of something",
+    "examples": [
+      "Many people assume that wealth leads to happiness, but some studies suggest that the converse may be true.",
+      "Students who sleep well often perform better on tests, but the converse is not always true."
+    ],
+    "forms": [
+      "conversely"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-device",
+    "headword": "device",
+    "pos": "noun",
+    "definition": "a tool or machine made for a particular purpose",
+    "examples": [
+      "A seismograph is a device that records earthquakes.",
+      "Smartphones and other electronic devices contain rare metals."
+    ],
+    "forms": [
+      "devices"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-devote",
+    "headword": "devote",
+    "pos": "verb",
+    "definition": "to give time, energy, or attention to something",
+    "examples": [
+      "Marie Curie devoted her life to scientific research.",
+      "The museum devotes an entire floor to ancient Egypt."
+    ],
+    "forms": [
+      "devoted",
+      "devotion"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-diminish",
+    "headword": "diminish",
+    "pos": "verb",
+    "definition": "to become or make smaller or less important",
+    "examples": [
+      "The river's flow diminishes during the dry season.",
+      "The new treatment diminished the patients' pain."
+    ],
+    "forms": [
+      "diminished",
+      "diminishing"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-distort",
+    "headword": "distort",
+    "pos": "verb",
+    "definition": "to change the shape or meaning of something so that it is no longer accurate",
+    "examples": [
+      "Curved mirrors distort the images they reflect.",
+      "The newspaper distorted the scientist's original statement."
+    ],
+    "forms": [
+      "distorted",
+      "distortion"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-duration",
+    "headword": "duration",
+    "pos": "noun",
+    "definition": "the length of time that something lasts",
+    "examples": [
+      "The duration of a total solar eclipse is usually only a few minutes.",
+      "Patients stayed in the hospital for the duration of the treatment."
+    ],
+    "forms": [],
+    "sublist": 9
+  },
+  {
+    "id": "w-erode",
+    "headword": "erode",
+    "pos": "verb",
+    "definition": "to wear away gradually",
+    "examples": [
+      "Wind and rain erode the soft rock of the canyon walls.",
+      "Rising prices can erode the value of savings."
+    ],
+    "forms": [
+      "eroded",
+      "erosion"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-ethic",
+    "headword": "ethic",
+    "pos": "noun",
+    "definition": "a set of moral principles or beliefs about how to behave",
+    "examples": [
+      "The early settlers had a strong work ethic.",
+      "Medical ethics require doctors to protect patient privacy."
+    ],
+    "forms": [
+      "ethics",
+      "ethical",
+      "ethically"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-format",
+    "headword": "format",
+    "pos": "noun",
+    "definition": "the way something is arranged or presented",
+    "examples": [
+      "The report follows a standard format.",
+      "The book is also available in digital format."
+    ],
+    "forms": [
+      "formats",
+      "formatted"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-found",
+    "headword": "found",
+    "pos": "verb",
+    "definition": "to start or establish an organization, city, or institution",
+    "examples": [
+      "Benjamin Franklin helped found the University of Pennsylvania.",
+      "Spanish settlers founded St. Augustine, Florida, in 1565."
+    ],
+    "forms": [
+      "founded",
+      "founder",
+      "foundation"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-inherent",
+    "headword": "inherent",
+    "pos": "adjective",
+    "definition": "existing as a natural or basic part of something",
+    "examples": [
+      "Some risk is inherent in any scientific experiment.",
+      "There are inherent limits to the accuracy of any measurement."
+    ],
+    "forms": [
+      "inherently"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-insight",
+    "headword": "insight",
+    "pos": "noun",
+    "definition": "a clear and deep understanding of something",
+    "examples": [
+      "Fossils provide valuable insight into ancient life.",
+      "The study offers new insights into how children learn languages."
+    ],
+    "forms": [
+      "insights",
+      "insightful"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-integral",
+    "headword": "integral",
+    "pos": "adjective",
+    "definition": "necessary to make something complete",
+    "examples": [
+      "Music is an integral part of many religious ceremonies.",
+      "Wetlands are an integral part of the river ecosystem."
+    ],
+    "forms": [],
+    "sublist": 9
+  },
+  {
+    "id": "w-intermediate",
+    "headword": "intermediate",
+    "pos": "adjective",
+    "definition": "between two stages, levels, or places",
+    "examples": [
+      "The course is designed for intermediate students.",
+      "The tadpole is an intermediate stage in the life of a frog."
+    ],
+    "forms": [],
+    "sublist": 9
+  },
+  {
+    "id": "w-manual",
+    "headword": "manual",
+    "pos": "adjective",
+    "definition": "done with the hands",
+    "examples": [
+      "Before machines were common, most farm work was manual labor.",
+      "The factory replaced many manual tasks with automated systems."
+    ],
+    "forms": [
+      "manually"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-mature",
+    "headword": "mature",
+    "pos": "adjective",
+    "definition": "fully grown or developed",
+    "examples": [
+      "A mature oak tree can produce thousands of acorns in a single year.",
+      "Salmon return to their home streams when they are mature."
+    ],
+    "forms": [
+      "maturity",
+      "matured"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-mediate",
+    "headword": "mediate",
+    "pos": "verb",
+    "definition": "to try to settle a disagreement between two groups",
+    "examples": [
+      "The United Nations mediated talks between the two countries.",
+      "A neutral judge was asked to mediate the dispute."
+    ],
+    "forms": [
+      "mediated",
+      "mediation",
+      "mediator"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-medium",
+    "headword": "medium",
+    "pos": "noun",
+    "definition": "a way of communicating or expressing something; a substance through which something travels",
+    "examples": [
+      "Television became a powerful medium of communication in the 1950s.",
+      "Sound needs a medium, such as air or water, in order to travel."
+    ],
+    "forms": [
+      "media"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-military",
+    "headword": "military",
+    "pos": "adjective",
+    "definition": "relating to soldiers or the armed forces",
+    "examples": [
+      "The Romans built military roads across much of Europe.",
+      "The fort was an important military base during the war."
+    ],
+    "forms": [],
+    "sublist": 9
+  },
+  {
+    "id": "w-minimal",
+    "headword": "minimal",
+    "pos": "adjective",
+    "definition": "very small in amount or degree",
+    "examples": [
+      "The new engine requires minimal maintenance.",
+      "The storm caused only minimal damage."
+    ],
+    "forms": [
+      "minimally"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-mutual",
+    "headword": "mutual",
+    "pos": "adjective",
+    "definition": "shared by or affecting two or more people or groups",
+    "examples": [
+      "The two nations signed a treaty of mutual defense.",
+      "Bees and flowering plants have a relationship of mutual benefit."
+    ],
+    "forms": [
+      "mutually"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-norm",
+    "headword": "norm",
+    "pos": "noun",
+    "definition": "a usual or accepted standard of behavior",
+    "examples": [
+      "Social norms differ from one culture to another.",
+      "Working from home has become the norm for many office workers."
+    ],
+    "forms": [
+      "norms"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-overlap",
+    "headword": "overlap",
+    "pos": "verb",
+    "definition": "to cover part of the same area or share some of the same qualities",
+    "examples": [
+      "The ranges of the two species overlap in northern Mexico.",
+      "The duties of the two departments often overlap."
+    ],
+    "forms": [
+      "overlapped",
+      "overlapping"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-passive",
+    "headword": "passive",
+    "pos": "adjective",
+    "definition": "accepting what happens without taking action",
+    "examples": [
+      "Some students take a passive role in class discussions.",
+      "A passive solar home is heated by sunlight without fans or pumps."
+    ],
+    "forms": [
+      "passively",
+      "passivity"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-portion",
+    "headword": "portion",
+    "pos": "noun",
+    "definition": "a part of something larger",
+    "examples": [
+      "Only a small portion of the Earth's water is fresh water.",
+      "A large portion of the budget was spent on education."
+    ],
+    "forms": [
+      "portions"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-preliminary",
+    "headword": "preliminary",
+    "pos": "adjective",
+    "definition": "coming before a more important action or event",
+    "examples": [
+      "Preliminary results suggest that the drug is effective.",
+      "The architects presented a preliminary design for the new museum."
+    ],
+    "forms": [],
+    "sublist": 9
+  },
+  {
+    "id": "w-protocol",
+    "headword": "protocol",
+    "pos": "noun",
+    "definition": "a set of rules for how something should be done; an international agreement",
+    "examples": [
+      "Hospitals follow strict protocols to prevent infection.",
+      "The Montreal Protocol limited the use of chemicals that damage the ozone layer."
+    ],
+    "forms": [
+      "protocols"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-qualitative",
+    "headword": "qualitative",
+    "pos": "adjective",
+    "definition": "relating to the quality or nature of something rather than its amount",
+    "examples": [
+      "The researchers collected qualitative data through interviews.",
+      "Qualitative studies can explain why people make certain choices."
+    ],
+    "forms": [
+      "qualitatively"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-refine",
+    "headword": "refine",
+    "pos": "verb",
+    "definition": "to make something purer or more exact",
+    "examples": [
+      "Crude oil is refined to produce gasoline.",
+      "Scientists continue to refine their methods of dating fossils."
+    ],
+    "forms": [
+      "refined",
+      "refinement",
+      "refinery"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-relax",
+    "headword": "relax",
+    "pos": "verb",
+    "definition": "to become less tense; to make a rule less strict",
+    "examples": [
+      "The government relaxed restrictions on foreign trade.",
+      "Muscles relax after exercise."
+    ],
+    "forms": [
+      "relaxed",
+      "relaxation"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-restrain",
+    "headword": "restrain",
+    "pos": "verb",
+    "definition": "to control something or keep it within limits",
+    "examples": [
+      "Central banks may raise interest rates to restrain inflation.",
+      "Levees restrain the river during floods."
+    ],
+    "forms": [
+      "restrained",
+      "restraint"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-revolution",
+    "headword": "revolution",
+    "pos": "noun",
+    "definition": "a great change in the way things are done; the overthrow of a government",
+    "examples": [
+      "The Industrial Revolution transformed the economies of Europe.",
+      "The French Revolution began in 1789."
+    ],
+    "forms": [
+      "revolutions",
+      "revolutionary"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-rigid",
+    "headword": "rigid",
+    "pos": "adjective",
+    "definition": "stiff and not easily bent; not flexible",
+    "examples": [
+      "The skeleton forms a rigid frame that supports the body.",
+      "Some schools have rigid rules about student behavior."
+    ],
+    "forms": [
+      "rigidly",
+      "rigidity"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-route",
+    "headword": "route",
+    "pos": "noun",
+    "definition": "a way from one place to another",
+    "examples": [
+      "The Silk Road was a major trade route between China and the Mediterranean.",
+      "Migrating birds often follow the same routes every year."
+    ],
+    "forms": [
+      "routes"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-scenario",
+    "headword": "scenario",
+    "pos": "noun",
+    "definition": "a description of a possible future situation",
+    "examples": [
+      "Climate scientists study several scenarios for future warming.",
+      "In the worst scenario, the dam could fail during a flood."
+    ],
+    "forms": [
+      "scenarios"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-sphere",
+    "headword": "sphere",
+    "pos": "noun",
+    "definition": "a perfectly round object; an area of activity or influence",
+    "examples": [
+      "The Earth is not a perfect sphere.",
+      "Women gained greater influence in the political sphere during the twentieth century."
+    ],
+    "forms": [
+      "spheres",
+      "spherical"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-subordinate",
+    "headword": "subordinate",
+    "pos": "adjective",
+    "definition": "lower in rank or less important",
+    "examples": [
+      "In the army, a lieutenant is subordinate to a captain.",
+      "In the sentence, the clause beginning with \"because\" is a subordinate clause."
+    ],
+    "forms": [
+      "subordinates",
+      "subordination"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-supplement",
+    "headword": "supplement",
+    "pos": "noun",
+    "definition": "something added to make something else complete or better",
+    "examples": [
+      "Doctors sometimes recommend vitamin supplements for older adults.",
+      "The textbook comes with an online supplement."
+    ],
+    "forms": [
+      "supplements",
+      "supplementary"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-suspend",
+    "headword": "suspend",
+    "pos": "verb",
+    "definition": "to stop something for a period of time; to hang something",
+    "examples": [
+      "Classes were suspended during the storm.",
+      "The roadway of the bridge is suspended from steel cables."
+    ],
+    "forms": [
+      "suspended",
+      "suspension"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-team",
+    "headword": "team",
+    "pos": "noun",
+    "definition": "a group of people who work or play together",
+    "examples": [
+      "A team of researchers discovered the new species.",
+      "Each team presented its project to the class."
+    ],
+    "forms": [
+      "teams",
+      "teamwork"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-temporary",
+    "headword": "temporary",
+    "pos": "adjective",
+    "definition": "lasting for only a limited time",
+    "examples": [
+      "After the flood, many families lived in temporary shelters.",
+      "The museum opened a temporary exhibition of Chinese art."
+    ],
+    "forms": [
+      "temporarily"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-trigger",
+    "headword": "trigger",
+    "pos": "verb",
+    "definition": "to cause something to start",
+    "examples": [
+      "Earthquakes can trigger landslides and tsunamis.",
+      "Pollen triggers allergic reactions in many people."
+    ],
+    "forms": [
+      "triggered",
+      "triggers"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-unify",
+    "headword": "unify",
+    "pos": "verb",
+    "definition": "to bring parts together to form a single whole",
+    "examples": [
+      "Otto von Bismarck helped unify Germany in 1871.",
+      "The new constitution unified the separate states."
+    ],
+    "forms": [
+      "unified",
+      "unification"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-violate",
+    "headword": "violate",
+    "pos": "verb",
+    "definition": "to break a rule, law, or agreement",
+    "examples": [
+      "Companies that violate environmental laws may be fined.",
+      "The new policy violated the terms of the treaty."
+    ],
+    "forms": [
+      "violated",
+      "violation"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-vision",
+    "headword": "vision",
+    "pos": "noun",
+    "definition": "the ability to see; an idea of what the future could be",
+    "examples": [
+      "Eagles have extremely sharp vision.",
+      "The founders shared a vision of a free and democratic nation."
+    ],
+    "forms": [
+      "visions",
+      "visionary"
+    ],
+    "sublist": 9
+  },
+  {
+    "id": "w-adjacent",
+    "headword": "adjacent",
+    "pos": "adjective",
+    "definition": "next to or very near something",
+    "examples": [
+      "The library is adjacent to the main campus.",
+      "The fire spread quickly to adjacent buildings."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-albeit",
+    "headword": "albeit",
+    "pos": "conjunction",
+    "definition": "although (usually followed by a word or phrase, not a full clause)",
+    "examples": [
+      "The economy continued to grow, albeit slowly.",
+      "The experiment was a success, albeit a limited one."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-assemble",
+    "headword": "assemble",
+    "pos": "verb",
+    "definition": "to put the parts of something together; to gather in one place",
+    "examples": [
+      "Workers assemble cars on a moving production line.",
+      "A large crowd assembled outside the courthouse."
+    ],
+    "forms": [
+      "assembled",
+      "assembly"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-collapse",
+    "headword": "collapse",
+    "pos": "verb",
+    "definition": "to fall down suddenly; to fail completely",
+    "examples": [
+      "Several buildings collapsed during the earthquake.",
+      "The Western Roman Empire collapsed in the fifth century."
+    ],
+    "forms": [
+      "collapsed",
+      "collapses"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-colleague",
+    "headword": "colleague",
+    "pos": "noun",
+    "definition": "a person you work with",
+    "examples": [
+      "Darwin discussed his ideas with several colleagues before publishing them.",
+      "The professor thanked her colleagues for their comments."
+    ],
+    "forms": [
+      "colleagues"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-compile",
+    "headword": "compile",
+    "pos": "verb",
+    "definition": "to collect information and put it together in one place",
+    "examples": [
+      "Researchers compiled data from hospitals across the country.",
+      "Samuel Johnson compiled a famous dictionary of the English language."
+    ],
+    "forms": [
+      "compiled",
+      "compilation"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-conceive",
+    "headword": "conceive",
+    "pos": "verb",
+    "definition": "to form an idea or plan in the mind",
+    "examples": [
+      "Leonardo da Vinci conceived designs for flying machines centuries before the first airplane.",
+      "Few people in 1900 could conceive of space travel."
+    ],
+    "forms": [
+      "conceived",
+      "conceivable",
+      "inconceivable"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-convince",
+    "headword": "convince",
+    "pos": "verb",
+    "definition": "to make someone believe that something is true",
+    "examples": [
+      "The new data convinced most scientists that the theory was correct.",
+      "The author tries to convince readers that cities must plant more trees."
+    ],
+    "forms": [
+      "convinced",
+      "convincing"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-depress",
+    "headword": "depress",
+    "pos": "verb",
+    "definition": "to reduce the level or activity of something, such as prices or trade",
+    "examples": [
+      "Bad weather depressed sales of summer clothing.",
+      "A large harvest can depress the price of wheat."
+    ],
+    "forms": [
+      "depressed",
+      "depression"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-encounter",
+    "headword": "encounter",
+    "pos": "verb",
+    "definition": "to meet or experience something, often unexpectedly",
+    "examples": [
+      "Early European explorers encountered many unfamiliar animals in Australia.",
+      "Engineers encountered serious problems while building the tunnel."
+    ],
+    "forms": [
+      "encountered",
+      "encounters"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-enormous",
+    "headword": "enormous",
+    "pos": "adjective",
+    "definition": "extremely large",
+    "examples": [
+      "The blue whale is an enormous animal that feeds mainly on tiny krill.",
+      "The project required an enormous amount of money."
+    ],
+    "forms": [
+      "enormously"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-forthcoming",
+    "headword": "forthcoming",
+    "pos": "adjective",
+    "definition": "about to happen or appear soon",
+    "examples": [
+      "The results will be published in a forthcoming report.",
+      "The candidates prepared for the forthcoming election."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-incline",
+    "headword": "incline",
+    "pos": "verb",
+    "definition": "to tend to think or behave in a certain way; to slope",
+    "examples": [
+      "The evidence inclines many historians to accept the earlier date.",
+      "The road inclines steeply as it approaches the mountain pass."
+    ],
+    "forms": [
+      "inclined",
+      "inclination"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-integrity",
+    "headword": "integrity",
+    "pos": "noun",
+    "definition": "honesty and strong moral principles; the state of being whole and undamaged",
+    "examples": [
+      "Scientists must show integrity in reporting their results.",
+      "The earthquake damaged the structural integrity of the building."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-intrinsic",
+    "headword": "intrinsic",
+    "pos": "adjective",
+    "definition": "belonging to the basic nature of something",
+    "examples": [
+      "Many people believe that wilderness has intrinsic value.",
+      "Curiosity is an intrinsic part of human nature."
+    ],
+    "forms": [
+      "intrinsically"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-invoke",
+    "headword": "invoke",
+    "pos": "verb",
+    "definition": "to use a law, rule, or idea to support an action or argument",
+    "examples": [
+      "The president invoked emergency powers during the crisis.",
+      "Both sides invoked the constitution to support their positions."
+    ],
+    "forms": [
+      "invoked",
+      "invocation"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-levy",
+    "headword": "levy",
+    "pos": "verb",
+    "definition": "to officially demand payment of a tax",
+    "examples": [
+      "The British government levied new taxes on the American colonies in the 1760s.",
+      "Many cities levy a tax on hotel rooms."
+    ],
+    "forms": [
+      "levied",
+      "levies"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-likewise",
+    "headword": "likewise",
+    "pos": "adverb",
+    "definition": "in the same way; also",
+    "examples": [
+      "Bees pollinate many crops; likewise, some birds and bats help plants reproduce.",
+      "The first experiment failed, and the second experiment likewise produced no clear result."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-nonetheless",
+    "headword": "nonetheless",
+    "pos": "adverb",
+    "definition": "in spite of what has just been said",
+    "examples": [
+      "The experiment was difficult; nonetheless, the results were clear.",
+      "The journey was long and dangerous, but many settlers made it nonetheless."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-notwithstanding",
+    "headword": "notwithstanding",
+    "pos": "preposition",
+    "definition": "in spite of (formal)",
+    "examples": [
+      "Notwithstanding its small size, the country has a strong economy.",
+      "The project went ahead, notwithstanding strong local opposition."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-odd",
+    "headword": "odd",
+    "pos": "adjective",
+    "definition": "strange or unusual; (of a number) not able to be divided exactly by two",
+    "examples": [
+      "Three, five, and seven are odd numbers.",
+      "The platypus is an odd animal because it is a mammal that lays eggs."
+    ],
+    "forms": [
+      "oddly",
+      "oddity"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-ongoing",
+    "headword": "ongoing",
+    "pos": "adjective",
+    "definition": "continuing; still in progress",
+    "examples": [
+      "The ongoing drought has damaged crops across the region.",
+      "Research on the disease is ongoing."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-panel",
+    "headword": "panel",
+    "pos": "noun",
+    "definition": "a group of experts who discuss or judge something; a flat piece of material",
+    "examples": [
+      "A panel of scientists reviewed the evidence.",
+      "Solar panels convert sunlight into electricity."
+    ],
+    "forms": [
+      "panels"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-persist",
+    "headword": "persist",
+    "pos": "verb",
+    "definition": "to continue to exist; to keep doing something despite difficulties",
+    "examples": [
+      "Some chemicals persist in the environment for decades.",
+      "The explorers persisted in their search despite the cold."
+    ],
+    "forms": [
+      "persisted",
+      "persistent",
+      "persistence"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-pose",
+    "headword": "pose",
+    "pos": "verb",
+    "definition": "to create a problem or threat; to ask a question",
+    "examples": [
+      "Rising sea levels pose a threat to coastal cities.",
+      "The student posed an interesting question about the experiment."
+    ],
+    "forms": [
+      "posed",
+      "poses"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-reluctance",
+    "headword": "reluctance",
+    "pos": "noun",
+    "definition": "unwillingness to do something",
+    "examples": [
+      "Some farmers showed reluctance to adopt new methods.",
+      "The government's reluctance to raise taxes delayed the project."
+    ],
+    "forms": [
+      "reluctant",
+      "reluctantly"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-so-called",
+    "headword": "so-called",
+    "pos": "adjective",
+    "definition": "commonly called by this name (sometimes when the name is not accurate)",
+    "examples": [
+      "The so-called dark side of the Moon receives as much sunlight as the side that faces Earth.",
+      "The so-called Spanish flu of 1918 spread around the world."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-straightforward",
+    "headword": "straightforward",
+    "pos": "adjective",
+    "definition": "easy to understand or do",
+    "examples": [
+      "The instructions for the experiment were straightforward.",
+      "There is no straightforward answer to the question."
+    ],
+    "forms": [],
+    "sublist": 10
+  },
+  {
+    "id": "w-undergo",
+    "headword": "undergo",
+    "pos": "verb",
+    "definition": "to experience a process of change or treatment",
+    "examples": [
+      "Caterpillars undergo a complete transformation to become butterflies.",
+      "The city underwent rapid growth in the nineteenth century."
+    ],
+    "forms": [
+      "underwent",
+      "undergone",
+      "undergoes"
+    ],
+    "sublist": 10
+  },
+  {
+    "id": "w-whereby",
+    "headword": "whereby",
+    "pos": "adverb",
+    "definition": "by which; through which (formal)",
+    "examples": [
+      "Photosynthesis is the process whereby plants use sunlight to make food.",
+      "The two countries signed an agreement whereby each would reduce its tariffs."
+    ],
+    "forms": [],
+    "sublist": 10
   }
 ]
