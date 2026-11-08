@@ -4,7 +4,7 @@ import { validateContent } from '../../src/content/validate';
 import { PATTERNS } from '../../src/content/patterns';
 import type { PatternId, Question } from '../../src/domain/types';
 
-const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17'];
+const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P20', 'P23', 'P24', 'P25'];
 
 describe('generator', () => {
   for (const p of RELEASE1) {
@@ -213,5 +213,35 @@ describe('batch-3 review fixes', () => {
   });
   it('P13 hospital sentence uses natural wording', () => {
     for (const q of many('P13')) expect(q.stem + q.options.join(' ')).not.toMatch(/wait(ed)? less/);
+  });
+});
+
+describe('batch-4 generator guards', () => {
+  const many = (p: PatternId) => Array.from({ length: 150 }, (_, s) => generate(p, 6, s + 1)).flat();
+  const full = (q: Question) => q.type === 'structure' ? q.stem.replace('____', q.options[q.answerIndex]) : q.stem.replace(/\{([0-3])\}/g, (_, i) => q.options[+i]);
+  it('P20 avoids linking-or-action verbs (grow, turn, go) and flat adverbs', () => {
+    for (const q of many('P20')) {
+      expect(full(q)).not.toMatch(/\b(grow|grew|turn|turned|go|went|get|got)\b/);
+      expect(q.options.join('|')).not.toMatch(/\b(slow|quick|loud|fast|hard|late|early|daily|deep|wide)\b/);
+    }
+  });
+  it('P23 never offers plain "but" as wrong after "not only" (it is acceptable)', () => {
+    for (const q of many('P23')) if (/not only/.test(q.stem + q.options.join(' '))) expect(q.options).not.toContain('but');
+  });
+  it('P24 never tests "help" (bare and to-infinitive are both correct)', () => {
+    for (const q of many('P24')) expect(full(q)).not.toMatch(/\bhelp/);
+  });
+  it('P25 never offers "should + verb" (also correct) and avoids insist/suggest (they also take a factual clause)', () => {
+    for (const q of many('P25')) {
+      expect(q.options.join('|')).not.toMatch(/\bshould\b/);
+      expect(q.stem).not.toMatch(/\b(insist|suggest)/);
+    }
+  });
+  it('written-expression keys use at least three positions; 10-item sets fill', () => {
+    for (const p of ['P20', 'P23', 'P24', 'P25'] as PatternId[]) {
+      const keys = new Set(many(p).filter((q) => q.type === 'written-expression').map((q) => q.answerIndex));
+      expect(keys.size, p).toBeGreaterThanOrEqual(3);
+      expect(generate(p, 10, 3), p).toHaveLength(10);
+    }
   });
 });
