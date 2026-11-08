@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P04-d01",
+    "patternId": "P04",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Great Wall of China ____ over many centuries by successive dynasties.",
+    "options": [
+      "built",
+      "was built",
+      "was building",
+      "has built"
+    ],
+    "answerIndex": 1,
+    "explanation": "The wall did not build anything; it received the action, and \"by successive dynasties\" names the doer. A passive verb, \"was built,\" is therefore required."
+  },
+  {
+    "id": "P04-d02",
+    "patternId": "P04",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Most of the world's vanilla ____ in Madagascar.",
+    "options": [
+      "produces",
+      "is producing",
+      "is produced",
+      "producing"
+    ],
+    "answerIndex": 2,
+    "explanation": "Vanilla does not produce something; farmers produce it, so the passive \"is produced\" is needed. \"Produces\" and \"is producing\" are active forms, and \"producing\" is not a main verb."
+  },
+  {
+    "id": "P04-d03",
+    "patternId": "P04",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Penicillin, which ____ by accident in 1928, became the first widely used antibiotic.",
+    "options": [
+      "was discovered",
+      "discovered",
+      "had discovering",
+      "was discovering"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penicillin was the thing discovered, so the adjective clause needs the passive \"was discovered.\" \"Discovered\" and \"was discovering\" are active and would mean that penicillin discovered something."
+  },
+  {
+    "id": "P04-d04",
+    "patternId": "P04",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Before the printing press was invented, books had to ____ by hand.",
+    "options": [
+      "copy",
+      "copying",
+      "copied",
+      "be copied"
+    ],
+    "answerIndex": 3,
+    "explanation": "Books receive the action of copying, so a passive infinitive, \"be copied,\" must follow \"had to.\" \"Copy\" is active, and \"copying\" and \"copied\" cannot follow \"had to\" directly."
+  },
+  {
+    "id": "P04-d05",
+    "patternId": "P04",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The results of an experiment ____ by other researchers before they can be accepted.",
+    "options": [
+      "must confirm",
+      "must be confirmed",
+      "must be confirming",
+      "must have confirmed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Results are confirmed by researchers, so the passive \"must be confirmed\" is correct. The other choices are active and would mean that the results do the confirming."
+  },
+  {
+    "id": "P04-d06",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} by Frederic Auguste Bartholdi, the Statue of Liberty {1} in 1886 as a {2} friendship {3} France and the United States.",
+    "options": [
+      "Designed",
+      "was dedicate",
+      "symbol of",
+      "between"
+    ],
+    "answerIndex": 1,
+    "explanation": "A passive verb needs \"be\" + the past participle, so \"was dedicate\" must be \"was dedicated.\" \"Designed\" correctly begins a participle phrase describing the statue."
+  },
+  {
+    "id": "P04-d07",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Much of what {0} about {1} Egyptian medicine {2} from papyrus documents that {3} more than three thousand years ago.",
+    "options": [
+      "is known",
+      "ancient",
+      "comes",
+      "were writing"
+    ],
+    "answerIndex": 3,
+    "explanation": "Documents are written by people, so the passive needs the past participle: \"were written.\" \"Were writing\" is active and would mean that the documents were doing the writing."
+  },
+  {
+    "id": "P04-d08",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Insulin {0} in the pancreas and {1} the amount of sugar that {2} {3} the body's cells.",
+    "options": [
+      "is produced",
+      "regulates",
+      "is absorbing",
+      "by"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sugar is absorbed by the cells, so the verb must be the passive \"is absorbed.\" The phrase \"by the body's cells\" shows that sugar receives the action."
+  },
+  {
+    "id": "P04-d09",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "In the 1800s, thousands of miles of railroad track {0} {1} the American West {2} {3} workers.",
+    "options": [
+      "laid",
+      "across",
+      "by",
+      "immigrant"
+    ],
+    "answerIndex": 0,
+    "explanation": "The track was laid by workers, so the sentence needs the passive main verb \"were laid.\" With only \"laid,\" the sentence has no correct verb, because track cannot lay anything."
+  },
+  {
+    "id": "P04-d10",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Dead Sea Scrolls, {0} {1} in caves near Qumran, {2} by scholars {3} more than seventy years.",
+    "options": [
+      "which",
+      "were discovered",
+      "have been studying",
+      "for"
+    ],
+    "answerIndex": 2,
+    "explanation": "The scrolls are studied by scholars, so the passive form \"have been studied\" is needed. \"Have been studying\" is active and would mean that the scrolls are doing the studying."
+  }
+]

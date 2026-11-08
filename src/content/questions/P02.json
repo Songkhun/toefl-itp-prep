@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P02-d01",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The migration patterns of the monarch butterfly ____ scientists for decades.",
+    "options": [
+      "has puzzled",
+      "have puzzled",
+      "puzzling",
+      "it has puzzled"
+    ],
+    "answerIndex": 1,
+    "explanation": "The subject is the plural \"patterns,\" not \"butterfly,\" so the verb must be \"have puzzled.\" \"Has puzzled\" wrongly agrees with the nearest noun, \"butterfly.\""
+  },
+  {
+    "id": "P02-d02",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Neither the director nor the actors ____ aware that the film would become a classic.",
+    "options": [
+      "was",
+      "being",
+      "were",
+      "has been"
+    ],
+    "answerIndex": 2,
+    "explanation": "With \"neither ... nor,\" the verb agrees with the subject closer to it, the plural \"actors,\" so \"were\" is correct. \"Was\" and \"has been\" are singular, and \"being\" is not a main verb."
+  },
+  {
+    "id": "P02-d03",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Each of the planets in our solar system ____ the Sun in an elliptical orbit.",
+    "options": [
+      "orbit",
+      "are orbiting",
+      "orbiting",
+      "orbits"
+    ],
+    "answerIndex": 3,
+    "explanation": "The subject is \"Each,\" which is singular, so the verb must be \"orbits.\" The plural noun \"planets\" is inside a prepositional phrase and does not control the verb."
+  },
+  {
+    "id": "P02-d04",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The number of languages spoken worldwide ____ to be about seven thousand.",
+    "options": [
+      "is estimated",
+      "are estimated",
+      "estimating",
+      "have estimated"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"The number of\" is a singular subject, so it takes \"is estimated.\" Do not confuse it with \"a number of,\" which is plural."
+  },
+  {
+    "id": "P02-d05",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "drill",
+    "stem": "There ____ several competing theories about why the dinosaurs became extinct.",
+    "options": [
+      "is",
+      "has",
+      "are",
+      "being"
+    ],
+    "answerIndex": 2,
+    "explanation": "In a sentence beginning with \"There,\" the verb agrees with the noun that follows it. \"Several competing theories\" is plural, so the verb must be \"are.\""
+  },
+  {
+    "id": "P02-d06",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The study of ancient climates {0} that the Earth {1} several {2} ice ages {3} its history.",
+    "options": [
+      "reveal",
+      "has experienced",
+      "major",
+      "over"
+    ],
+    "answerIndex": 0,
+    "explanation": "The subject is \"The study,\" which is singular, so the verb should be \"reveals.\" The plural noun \"climates\" is part of a prepositional phrase and does not affect the verb."
+  },
+  {
+    "id": "P02-d07",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "One {0} famous paintings {1} Vincent van Gogh {2} The Starry Night, {3} he painted in 1889.",
+    "options": [
+      "of the most",
+      "by",
+      "are",
+      "which"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject is \"One,\" so the verb must be singular: \"is.\" The plural \"paintings\" belongs to the phrase \"of the most famous paintings.\""
+  },
+  {
+    "id": "P02-d08",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Mathematics, {0} physics and chemistry, {1} the foundation {2} most engineering {3}.",
+    "options": [
+      "along with",
+      "form",
+      "of",
+      "programs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Phrases such as \"along with\" do not make a subject plural, so the subject is still \"Mathematics,\" which is singular. The verb should be \"forms.\""
+  },
+  {
+    "id": "P02-d09",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The economic policies that the government {0} {1} the 1930s {2} to reduce {3}.",
+    "options": [
+      "introduced",
+      "in",
+      "was designed",
+      "unemployment"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject of the sentence is the plural noun \"policies,\" so the verb must be \"were designed.\" The singular \"government\" is the subject of the adjective clause, not of the main verb."
+  },
+  {
+    "id": "P02-d10",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The rapid growth of cities {0} the nineteenth century {1} problems that {2} urban planners {3} unable to solve.",
+    "options": [
+      "during",
+      "created",
+      "early",
+      "was"
+    ],
+    "answerIndex": 3,
+    "explanation": "In the clause \"that early urban planners ... unable to solve,\" the subject is the plural \"planners,\" so the verb must be \"were.\""
+  }
+]

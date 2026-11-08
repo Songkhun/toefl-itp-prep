@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P03-d01",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Since the invention of the telescope, astronomers ____ thousands of new stars.",
+    "options": [
+      "discovered",
+      "have discovered",
+      "had discovered",
+      "discovering"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Since\" + a past starting point signals an action continuing up to now, which requires the present perfect: \"have discovered.\" The simple past and past perfect do not connect the action to the present."
+  },
+  {
+    "id": "P03-d02",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Mount Vesuvius ____ the Roman city of Pompeii in A.D. 79.",
+    "options": [
+      "has destroyed",
+      "destroys",
+      "destroyed",
+      "had been destroying"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"In A.D. 79\" is a finished time in the past, so the simple past \"destroyed\" is needed. The present perfect cannot be used with a specific past date."
+  },
+  {
+    "id": "P03-d03",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "drill",
+    "stem": "By the time Columbus reached the Americas, Indigenous peoples ____ there for thousands of years.",
+    "options": [
+      "lived",
+      "have lived",
+      "are living",
+      "had lived"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"By the time\" + a past event with \"for thousands of years\" describes a situation that lasted up to that past moment, so the past perfect \"had lived\" is required. \"Have lived\" connects to the present, not to 1492."
+  },
+  {
+    "id": "P03-d04",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "drill",
+    "stem": "By 2050, the world's population ____ nearly ten billion, according to many demographers.",
+    "options": [
+      "will have reached",
+      "has reached",
+      "had reached",
+      "reached"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"By\" + a future date calls for the future perfect, \"will have reached.\" The other tenses describe the present or past, which do not fit a prediction about 2050."
+  },
+  {
+    "id": "P03-d05",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Thomas Edison ____ more than a thousand patents during his lifetime.",
+    "options": [
+      "has received",
+      "receives",
+      "received",
+      "is receiving"
+    ],
+    "answerIndex": 2,
+    "explanation": "Edison's lifetime is a finished period in the past, so the simple past \"received\" is correct. The present perfect \"has received\" would wrongly suggest that the period continues now."
+  },
+  {
+    "id": "P03-d06",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "In 1928, Alexander Fleming {0} that a mold {1} Penicillium {2} the bacteria {3} one of his culture dishes.",
+    "options": [
+      "has noticed",
+      "called",
+      "had killed",
+      "in"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"In 1928\" is a finished past time, so the verb must be the simple past \"noticed,\" not the present perfect. \"Had killed\" is correct because the killing happened before he noticed it."
+  },
+  {
+    "id": "P03-d07",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Since 1970, average temperatures {0} Arctic {1} more than twice {2} the global {3}.",
+    "options": [
+      "in the",
+      "rose",
+      "as fast as",
+      "average"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Since 1970\" describes a period that continues to the present, so the present perfect \"have risen\" is required. The simple past \"rose\" cannot be used with \"since.\""
+  },
+  {
+    "id": "P03-d08",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} Kitty Hawk, North Carolina, the Wright brothers {1} their first {2} powered flight in 1903, and five years later Wilbur {3} their airplane in France.",
+    "options": [
+      "Near",
+      "made",
+      "successful",
+      "have demonstrated"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Five years later\" refers to a finished time in the past (1908), so the verb should be the simple past \"demonstrated.\" The present perfect cannot describe an event fixed at a past time."
+  },
+  {
+    "id": "P03-d09",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "When the first settlers {0} in Iceland in the ninth century, {1} forests {2} {3} of the island.",
+    "options": [
+      "arrived",
+      "birch",
+      "are covering",
+      "large parts"
+    ],
+    "answerIndex": 2,
+    "explanation": "The clause \"When the first settlers arrived\" places the situation in the past, so the verb must be past: \"covered\" or \"were covering.\" The present progressive \"are covering\" does not fit a past time frame."
+  },
+  {
+    "id": "P03-d10",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Scientists {0} the existence {1} black holes {2} decades, but the first image of one {3} only in 2019.",
+    "options": [
+      "have predicted",
+      "of",
+      "since",
+      "was published"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Since\" must be followed by a starting point, such as \"since 1916\"; with a length of time like \"decades,\" the correct word is \"for.\" The present perfect \"have predicted\" correctly matches \"for decades.\""
+  }
+]

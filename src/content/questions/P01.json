@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P01-d01",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ the largest planet in the solar system, with a mass more than twice that of all the other planets combined.",
+    "options": [
+      "Jupiter, which is",
+      "Jupiter is",
+      "Jupiter being",
+      "That Jupiter is"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sentence needs a subject and a main verb, and only \"Jupiter is\" supplies both. \"Jupiter, which is\" and \"That Jupiter is\" turn the verb into part of a clause, and \"being\" is not a main verb."
+  },
+  {
+    "id": "P01-d02",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "drill",
+    "stem": "In the early nineteenth century, the Erie Canal ____ the Great Lakes with the Atlantic Ocean.",
+    "options": [
+      "linking",
+      "to link",
+      "linked",
+      "which linked"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject \"the Erie Canal\" has no main verb, so the past-tense verb \"linked\" is needed. \"Linking\" and \"to link\" are not main verbs, and \"which linked\" makes an adjective clause that leaves the sentence without a verb."
+  },
+  {
+    "id": "P01-d03",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ in the deep ocean produce their own light through a chemical process called bioluminescence.",
+    "options": [
+      "Many organisms living",
+      "Many organisms live",
+      "There are many organisms living",
+      "Living many organisms"
+    ],
+    "answerIndex": 0,
+    "explanation": "The verb \"produce\" needs a subject, and \"Many organisms living in the deep ocean\" is a noun phrase that can serve as one. \"Many organisms live\" and \"There are\" add a second main verb, and \"Living many organisms\" has the wrong word order."
+  },
+  {
+    "id": "P01-d04",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Although coral reefs cover less than one percent of the ocean floor, ____ about a quarter of all marine species.",
+    "options": [
+      "supporting",
+      "they support",
+      "which support",
+      "and support"
+    ],
+    "answerIndex": 1,
+    "explanation": "After the dependent clause beginning with \"Although,\" the sentence needs a main clause with its own subject and verb: \"they support.\" \"Supporting\" and \"and support\" have no subject, and \"which support\" is an adjective clause, so the sentence would have no main clause."
+  },
+  {
+    "id": "P01-d05",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Rosetta Stone, discovered in 1799, ____ scholars to decipher Egyptian hieroglyphs.",
+    "options": [
+      "allowing",
+      "which allowed",
+      "it allowed",
+      "allowed"
+    ],
+    "answerIndex": 3,
+    "explanation": "The subject \"The Rosetta Stone\" needs a main verb, so \"allowed\" is correct. \"It allowed\" repeats the subject, and \"allowing\" and \"which allowed\" are not main verbs."
+  },
+  {
+    "id": "P01-d06",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Mississippi River {0} water from {1} of thirty-one states {2} Canadian {3}.",
+    "options": [
+      "it drains",
+      "all or part",
+      "and two",
+      "provinces"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence already has the subject \"The Mississippi River,\" so the pronoun \"it\" creates a double subject. The correct verb is simply \"drains.\""
+  },
+  {
+    "id": "P01-d07",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} more snow {1} in winter than melts in summer, glaciers gradually {2} over {3} years.",
+    "options": [
+      "When",
+      "falls",
+      "forming",
+      "many"
+    ],
+    "answerIndex": 2,
+    "explanation": "The main clause \"glaciers gradually ...\" needs a finite verb, so \"forming\" must be \"form.\" The verb \"falls\" is correct because the \"When\" clause needs its own verb."
+  },
+  {
+    "id": "P01-d08",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Silk Road, {0} of trade routes {1} China with the Mediterranean, {2} silk, spices, and ideas {3} centuries.",
+    "options": [
+      "a network",
+      "connecting",
+      "it carried",
+      "for"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject is \"The Silk Road\"; the phrase between the commas only describes it. Adding \"it\" creates a double subject, so the verb should be just \"carried.\""
+  },
+  {
+    "id": "P01-d09",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Photosynthesis, the process {0} green plants {1} sunlight {2} chemical energy, {3} oxygen as a by-product.",
+    "options": [
+      "by which",
+      "converting",
+      "into",
+      "releases"
+    ],
+    "answerIndex": 1,
+    "explanation": "The clause \"by which green plants ...\" needs a finite verb, so \"converting\" should be \"convert.\" \"Releases\" is correct because it is the main verb for the singular subject \"Photosynthesis.\""
+  },
+  {
+    "id": "P01-d10",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "In 1869, {0} of the first transcontinental railroad {1} the United States {2} {3} the travel time between the coasts.",
+    "options": [
+      "the completion",
+      "in",
+      "dramatically",
+      "reducing"
+    ],
+    "answerIndex": 3,
+    "explanation": "The subject \"the completion\" has no main verb; \"reducing\" must be the past-tense verb \"reduced.\" An -ing form alone cannot be the main verb of a sentence."
+  }
+]

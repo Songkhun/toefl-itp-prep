@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P05-d01",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Marie Curie, ____ won Nobel Prizes in both physics and chemistry, was born in Warsaw.",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "whose"
+    ],
+    "answerIndex": 1,
+    "explanation": "The clause needs a subject pronoun that refers to a person, so \"who\" is correct. \"Whom\" is an object form, \"which\" refers to things, and \"whose\" must be followed by a noun."
+  },
+  {
+    "id": "P05-d02",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Amazon is a region ____ thousands of plant species have not yet been identified.",
+    "options": [
+      "which",
+      "that",
+      "in which",
+      "whom"
+    ],
+    "answerIndex": 2,
+    "explanation": "The clause after the blank is already complete, so the connector must show place: \"in which\" (or \"where\"). \"Which\" and \"that\" would need to fill a missing subject or object, and there is none."
+  },
+  {
+    "id": "P05-d03",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "drill",
+    "stem": "A seismograph is an instrument ____ the ground motion caused by earthquakes.",
+    "options": [
+      "that measures",
+      "measures",
+      "it measures",
+      "which it measures"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"That measures\" forms an adjective clause describing \"instrument.\" \"Measures\" and \"it measures\" create a second main verb, and \"which it measures\" adds an extra pronoun."
+  },
+  {
+    "id": "P05-d04",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Ernest Hemingway, ____ novels are known for their simple style, won the Nobel Prize in Literature in 1954.",
+    "options": [
+      "who",
+      "his",
+      "that his",
+      "whose"
+    ],
+    "answerIndex": 3,
+    "explanation": "The novels belong to Hemingway, so the possessive relative pronoun \"whose\" is needed. \"His\" cannot join the clause to the sentence, and \"who\" would leave \"novels\" without a connection."
+  },
+  {
+    "id": "P05-d05",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The cells ____ the body uses to fight infection are called white blood cells.",
+    "options": [
+      "whom",
+      "what",
+      "that",
+      "whose"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"That\" introduces an adjective clause in which it is the object of \"uses.\" \"Whom\" refers only to people, \"what\" cannot follow a noun, and \"whose\" must be followed by a noun."
+  },
+  {
+    "id": "P05-d06",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Charles Darwin {0} the Galapagos Islands, {1} unique wildlife {2} influenced {3} theory of evolution.",
+    "options": [
+      "visited",
+      "which its",
+      "later",
+      "his"
+    ],
+    "answerIndex": 1,
+    "explanation": "To show that the wildlife belongs to the islands, the clause needs \"whose,\" not \"which its.\" A relative pronoun and a possessive pronoun cannot be used together."
+  },
+  {
+    "id": "P05-d07",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The architect {0} {1} the Sydney Opera House {2} Jorn Utzon, {3} of Denmark.",
+    "options": [
+      "who",
+      "he designed",
+      "was",
+      "a native"
+    ],
+    "answerIndex": 1,
+    "explanation": "In the adjective clause, \"who\" is already the subject, so the pronoun \"he\" must be removed: \"who designed.\""
+  },
+  {
+    "id": "P05-d08",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Sequoia trees, {0} can live {1} more than three thousand years, {2} the {3} living organisms on Earth.",
+    "options": [
+      "that",
+      "for",
+      "are among",
+      "oldest"
+    ],
+    "answerIndex": 0,
+    "explanation": "A clause set off by commas is nonrestrictive, and nonrestrictive clauses about things use \"which,\" not \"that.\" The correct form is \"Sequoia trees, which can live ...\""
+  },
+  {
+    "id": "P05-d09",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Biologists {0} a gene {1} {2} the rate at {3} cells divide.",
+    "options": [
+      "have identified",
+      "that",
+      "controls",
+      "where"
+    ],
+    "answerIndex": 3,
+    "explanation": "After the preposition \"at,\" the relative pronoun must be \"which\": \"the rate at which cells divide.\" \"Where\" refers to places and cannot follow a preposition."
+  },
+  {
+    "id": "P05-d10",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Museums {0} artifacts {1} ancient cultures {2} {3} people would otherwise never see.",
+    "options": [
+      "display",
+      "from",
+      "whom",
+      "most"
+    ],
+    "answerIndex": 2,
+    "explanation": "The clause describes the artifacts, which are things, so the relative pronoun should be \"that\" or \"which.\" \"Whom\" is used only for people."
+  }
+]
