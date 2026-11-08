@@ -22,7 +22,7 @@ export const P05: Template[] = [
     build(rng) {
       const f = choice(WHOSE_FACTS, rng);
       return structure(P, `${strip(f.head)} ____ ${f.owned} ${f.rest} ${strip(f.main)}.`, 'whose', ['who', "who's", 'which'],
-        `"Whose" shows possession: the ${f.owned} ${f.ownedPlural ? 'belong' : 'belongs'} to ${strip(f.head).toLowerCase()}. "Who's" means "who is".`, rng);
+        `"Whose" shows possession: the ${f.owned} ${f.ownedPlural ? 'belong' : 'belongs'} to ${strip(f.head).toLowerCase()}. "Who's" means "who is", and "who" and "which" cannot show possession.`, rng);
     },
   },
   {

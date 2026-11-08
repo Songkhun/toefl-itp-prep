@@ -98,3 +98,19 @@ describe('quality fixes from item review', () => {
     for (const q of many('P06')) expect(q.options.join('|')).not.toMatch(/is the river begin/);
   });
 });
+
+import { sentenceWords } from '../../src/generator';
+describe('near-duplicate control', () => {
+  it('no two items in a 10-item set share most of their words (one could give away the other)', () => {
+    for (const p of RELEASE1) {
+      for (let seed = 1; seed <= 30; seed++) {
+        const set = generate(p, 10, seed).map(sentenceWords);
+        for (let i = 0; i < set.length; i++) for (let j = i + 1; j < set.length; j++) {
+          const inter = [...set[i]].filter((w) => set[j].has(w)).length;
+          const jac = inter / (set[i].size + set[j].size - inter);
+          expect(jac, `${p} seed ${seed}`).toBeLessThan(0.6);
+        }
+      }
+    }
+  });
+});

@@ -19,11 +19,11 @@ export const ACTIVE_FACTS: ActiveFact[] = [
   { sg: 'The [bakery]', pl: '[Bakeries]', verb: V('sell', 'sells', 'sold', 'sold', 'selling'), rest: 'fresh [bread] [every] morning' },
   { sg: 'The [river]', pl: '[Rivers]', verb: V('carry', 'carries', 'carried', 'carried', 'carrying'), rest: '[sediment] [toward] the sea' },
 ];
-export const P01_FRONTS = ['[Today],', 'In [general],'];
+export const P01_FRONTS = (plural: boolean) => (plural ? ['[Today],', 'In [general],', 'In many [countries],'] : ['[Today],', 'These [days],']);
 
 /** One-time past events (simple past with a finished time). */
 export const EVENT_FACTS: ActiveFact[] = [
-  { sg: 'The city [council]', pl: 'Several city [councils]', verb: V('approve', 'approves', 'approved', 'approved', 'approving'), rest: 'a new [plan] [for] the central park' },
+  { sg: 'The city [council]', pl: 'Several city [councils]', verb: V('approve', 'approves', 'approved', 'approved', 'approving'), rest: 'a new [plan] [for] the city\'s main park' },
   { sg: 'The [company]', pl: 'Both [companies]', verb: V('open', 'opens', 'opened', 'opened', 'opening'), rest: 'new [factories] [in] Asia' },
   { sg: 'The [university]', pl: 'Several [universities]', verb: V('launch', 'launches', 'launched', 'launched', 'launching'), rest: 'online [degree] [programs]' },
   { sg: 'The [government]', pl: 'Many [governments]', verb: V('introduce', 'introduces', 'introduced', 'introduced', 'introducing'), rest: 'a [tax] [on] plastic bags' },
@@ -40,12 +40,8 @@ export const STATE_FACTS: ActiveFact[] = [
   { sg: 'The [school]', pl: 'These [schools]', verb: V('teach', 'teaches', 'taught', 'taught', 'teaching'), rest: 'students [about] local [history]' },
   { sg: 'The [company]', pl: 'These [companies]', verb: V('export', 'exports', 'exported', 'exported', 'exporting'), rest: 'electronic [equipment] [to] Asia' },
 ];
-export const SINCE_TIMES = (plural: boolean) => [
-  `since ${plural ? 'they' : 'it'} opened in 2005`,
-  `since ${plural ? 'they were' : 'it was'} founded in 1998`,
-  'since the early 1990s',
-];
-export const REPORT_FRONTS = ['According to [local] reports,', 'As [expected],', 'By [all] accounts,'];
+export const SINCE_TIMES = (plural: boolean) => (plural ? ['since the early 1990s', 'for more than twenty years'] : ['since it opened in 2005', 'since it was founded in 1998', 'since the early 1990s']);
+export const REPORT_FRONTS = ['According to official [records],', 'According to the [report],'];
 
 /** Subject–verb agreement facts: head noun, distracting phrase with the opposite number, verb options. */
 export interface AgreementFact { head: string; plural: boolean; dist: string; distNoun: string; ok: string; bad: string; other: [string, string]; rest: string }
@@ -84,7 +80,7 @@ export interface RelFact { head: string; human: boolean; plural: boolean; clause
 export const REL_FACTS: RelFact[] = [
   { head: 'The [scientist]', human: true, plural: false, clause: 'discovered the new [element]', main: 'received an [international] [award]' },
   { head: 'The [architect]', human: true, plural: false, clause: 'designed the [museum]', main: 'was born [in] [Spain]' },
-  { head: 'The [students]', human: true, plural: true, clause: 'completed the [course]', main: 'received a [certificate] [of] completion' },
+  { head: 'The [students]', human: true, plural: true, clause: 'completed the [course]', main: 'received a [certificate] [from] the dean' },
   { head: 'The [author]', human: true, plural: false, clause: 'wrote this [novel]', main: 'lives [in] a small [village]' },
   { head: 'The [engineers]', human: true, plural: true, clause: 'built the [dam]', main: 'worked [on] it for five [years]' },
   { head: 'The [bridge]', human: false, plural: false, clause: 'connects the two [islands]', main: 'was [built] in [1932]' },
@@ -103,8 +99,8 @@ export const WHOSE_FACTS: WhoseFact[] = [
 ];
 
 /** Noun-clause facts. */
-export const NC_LEADS = ['[Scientists] still do not [know]', '[Researchers] are trying to [explain]', '[Historians] have long [wondered]'];
-export const NC_LEADS_PLAIN = ['Scientists still do not know', 'Researchers are trying to explain', 'It is not clear', 'Historians have long wondered'];
+export const NC_LEADS = ['[Scientists] still [debate]', '[Researchers] are still trying to [explain]', 'Experts [still] [disagree] about'];
+export const NC_LEADS_PLAIN = ['Scientists still debate', 'Researchers are still trying to explain', 'It is still not entirely clear', 'Experts still disagree about'];
 /** ok/bad are the clause core; tail completes the sentence and may carry [markers]. */
 export interface EmbeddedQ { wh: string; ok: string; bad: [string, string, string]; tail: string }
 export const EMBEDDED_QS: EmbeddedQ[] = [
@@ -113,7 +109,7 @@ export const EMBEDDED_QS: EmbeddedQ[] = [
   { wh: 'when', ok: 'the first cities appeared', bad: ['did the first cities appear', 'appeared the first cities', 'the first cities appearing'], tail: 'in [Mesopotamia]' },
   { wh: 'why', ok: 'some birds migrate', bad: ['do some birds migrate', 'migrate some birds', 'some birds migrating'], tail: 'at [night]' },
   { wh: 'where', ok: 'the earliest farmers lived', bad: ['did the earliest farmers live', 'lived the earliest farmers', 'the earliest farmers living'], tail: 'in that [region]' },
-  { wh: 'how', ok: 'bees communicate', bad: ['do bees communicate', 'communicate bees', 'bees communicating'], tail: 'with each [other]' },
+  { wh: 'how', ok: 'some birds navigate', bad: ['do some birds navigate', 'navigate some birds', 'some birds navigating'], tail: 'across entire [oceans]' },
 ];
 export interface ClauseFact { clause: string; main: string }
 export const THAT_FACTS: ClauseFact[] = [

@@ -6,7 +6,7 @@ const P = 'P02' as const;
 const EACH = [
   { noun: 'students', ok: 'has', bad: 'have', ing: 'having', rest: 'a [locker] [in] the main hall' },
   { noun: 'paintings', ok: 'was', bad: 'were', ing: 'being', rest: 'carefully [restored] [before] the exhibition' },
-  { noun: 'cities', ok: 'is', bad: 'are', ing: 'being', rest: 'connected [to] the capital [by] a fast railway' },
+  { noun: 'cities', ok: 'is', bad: 'are', ing: 'being', rest: 'connected [to] the capital [by] a high-speed railway' },
   { noun: 'volunteers', ok: 'receives', bad: 'receive', ing: 'receiving', rest: 'a [certificate] at the end [of] the program' },
 ];
 const why = (f: AgreementFact) =>

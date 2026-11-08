@@ -11,7 +11,7 @@ export const P06: Template[] = [
       const q = choice(EMBEDDED_QS, rng);
       const tail = strip(q.tail);
       return structure(P, `${choice(NC_LEADS_PLAIN, rng)} ${q.wh} ____ ${tail}.`, q.ok, q.bad,
-        `Inside a noun clause, use statement word order (subject + verb): "${q.wh} ${q.ok}". Do not use question order or an -ing / "to" form.`, rng);
+        `Inside a noun clause, use statement word order (subject + verb): "${q.wh} ${q.ok}". Question order, inverted order, and -ing or "to" forms are all wrong here.`, rng);
     },
   },
   {
