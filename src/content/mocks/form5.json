@@ -1,0 +1,642 @@
+[
+  {
+    "id": "M5-01",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ the first national park in the world when it was established in 1872.",
+    "options": [
+      "Yellowstone became",
+      "Yellowstone, which became",
+      "Yellowstone becoming",
+      "That Yellowstone became"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence needs a subject and a main verb: \"Yellowstone became.\" The \"which\" and \"that\" options leave the sentence without a main verb, and \"becoming\" is not a main verb.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-02",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "mock",
+    "stem": "In the 1930s, ____ thousands of farm families to leave the southern Great Plains.",
+    "options": [
+      "severe dust storms forcing",
+      "because severe dust storms forced",
+      "severe dust storms, which forced",
+      "severe dust storms forced"
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence needs a subject and a main verb: \"severe dust storms forced.\" \"Forcing\" is not a main verb, and the \"because\" and \"which\" options leave the sentence without a main clause.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-03",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The paintings in the cave at Lascaux ____ to be about 17,000 years old.",
+    "options": [
+      "is believed",
+      "believe",
+      "are believed",
+      "believing"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject is the plural noun \"paintings,\" so the verb must be plural: \"are believed.\" The paintings do not do the believing, so the passive is needed.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-04",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Since the first commercial oil well in the United States was drilled in Pennsylvania in 1859, petroleum ____ one of the world's most important sources of energy.",
+    "options": [
+      "becomes",
+      "had become",
+      "became",
+      "has become"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Since\" + a past point in time is used with the present perfect: \"Since ... 1859, petroleum has become one of the world's most important sources of energy.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-05",
+    "patternId": "P04",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The Eiffel Tower ____ for the 1889 World's Fair in Paris.",
+    "options": [
+      "was built",
+      "built",
+      "was building",
+      "has built"
+    ],
+    "answerIndex": 0,
+    "explanation": "The tower received the action, so the passive \"was built\" is needed. \"Built,\" \"was building,\" and \"has built\" are active and would mean that the tower did the building.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-06",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Mary Anning was a fossil collector ____ discoveries along the English coast changed scientific ideas about prehistoric life.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "that her"
+    ],
+    "answerIndex": 2,
+    "explanation": "The relative pronoun shows possession (\"her discoveries\"), so \"whose\" is needed: \"a fossil collector whose discoveries changed scientific ideas.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-07",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Economists continue to debate ____ raising the minimum wage reduces employment.",
+    "options": [
+      "whether",
+      "whether does",
+      "what",
+      "about"
+    ],
+    "answerIndex": 0,
+    "explanation": "A yes/no question becomes a noun clause with \"whether\" and statement word order: \"debate whether raising the minimum wage reduces employment.\" \"What\" needs a missing subject or object in the clause, and \"whether does\" uses question order.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-08",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ a large part of their country lies below sea level, the Dutch have built an extensive system of dikes, dams, and pumps.",
+    "options": [
+      "Because of",
+      "Due to",
+      "Because",
+      "In spite of"
+    ],
+    "answerIndex": 2,
+    "explanation": "A full clause (\"a large part of their country lies below sea level\") must be introduced by a conjunction such as \"because.\" \"Because of,\" \"due to,\" and \"in spite of\" must be followed by a noun phrase, not a clause.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-09",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ into the desert floor of southern Peru, the Nazca Lines are best viewed from the air.",
+    "options": [
+      "They were etched",
+      "Etching",
+      "Having etched",
+      "Etched"
+    ],
+    "answerIndex": 3,
+    "explanation": "The lines received the action, so the reduced passive participle \"Etched\" is correct. \"Etching\" and \"Having etched\" are active, and \"They were etched\" creates two clauses with no connector.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-10",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Marie Tharp, ____, helped create some of the first detailed maps of the ocean floor.",
+    "options": [
+      "was an American geologist",
+      "an American geologist",
+      "who an American geologist",
+      "she was an American geologist"
+    ],
+    "answerIndex": 1,
+    "explanation": "An appositive is a noun phrase that renames the noun before it, with no verb: \"Marie Tharp, an American geologist, helped create.\" The other options add a verb or leave \"who\" without a verb.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-11",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Lake Superior has ____ surface area of any freshwater lake in the world.",
+    "options": [
+      "larger",
+      "the most large",
+      "the largest",
+      "most largest"
+    ],
+    "answerIndex": 2,
+    "explanation": "A comparison with \"of any ... in the world\" needs the superlative with \"the\": \"the largest surface area.\" \"Large\" is a short adjective, so it takes \"-est,\" not \"most.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-12",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Not until the 1840s ____ used as an anesthetic in surgery.",
+    "options": [
+      "ether was",
+      "did ether",
+      "ether did",
+      "was ether"
+    ],
+    "answerIndex": 3,
+    "explanation": "When a sentence begins with \"Not until,\" the subject and auxiliary are inverted: \"Not until the 1840s was ether used.\" \"Did ether used\" is wrong because \"did\" cannot form a passive with a past participle.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-13",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Had the Spanish Armada defeated the English fleet in 1588, the history of North America ____ very differently.",
+    "options": [
+      "might have developed",
+      "might develop",
+      "would develop",
+      "had developed"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Had ... defeated\" is an inverted past unreal condition (\"If the Spanish Armada had defeated\"), so the result clause needs a modal + \"have\" + past participle: \"might have developed.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-14",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The city of Venice decided ____ movable barriers to protect itself from unusually high tides.",
+    "options": [
+      "building",
+      "build",
+      "to build",
+      "built"
+    ],
+    "answerIndex": 2,
+    "explanation": "The verb \"decide\" is followed by an infinitive: \"decided to build.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-15",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Months of unusually heavy rain in 1926 and 1927 made the Mississippi River ____ its banks in many places.",
+    "options": [
+      "overflow",
+      "to overflow",
+      "overflowing",
+      "overflowed"
+    ],
+    "answerIndex": 0,
+    "explanation": "The causative \"make\" + object is followed by the base form of the verb: \"made the Mississippi River overflow its banks.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-16",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Mesabi Range in Minnesota, {0} contains {1} deposits of iron ore, {2} much of the iron {3} by the American steel industry in the twentieth century.",
+    "options": [
+      "which",
+      "rich",
+      "supplying",
+      "used"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject \"The Mesabi Range\" needs a main verb: \"supplied much of the iron.\" \"Supplying\" is not a main verb.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-17",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The collection of Japanese woodblock prints {0} by the museum {1} hundreds of works {2} {3} nineteenth century.",
+    "options": [
+      "owned",
+      "include",
+      "from",
+      "the"
+    ],
+    "answerIndex": 1,
+    "explanation": "The subject is \"collection,\" which is singular, so the verb must be \"includes.\" The plural \"prints\" is part of a prepositional phrase and does not control the verb.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-18",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Since the first modern Olympic Games {0} held in Athens in 1896, the number of {1} nations {2} {3} more than two hundred.",
+    "options": [
+      "were",
+      "participating",
+      "grew",
+      "to"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Since\" + a past point in time describes a period continuing to the present, so the present perfect is needed: \"the number of participating nations has grown to more than two hundred.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-19",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "By the time Spanish soldiers {0} in Peru in 1532, the Inca {1} built an empire {2} {3} along much of the Andes.",
+    "options": [
+      "arrived",
+      "have",
+      "that",
+      "stretched"
+    ],
+    "answerIndex": 1,
+    "explanation": "An action completed before another past event uses the past perfect: \"By the time Spanish soldiers arrived ..., the Inca had built an empire.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-20",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Many ancient Greek and Roman texts {0} survive today {1} {2} by monks {3} the Middle Ages.",
+    "options": [
+      "that",
+      "were",
+      "copying",
+      "during"
+    ],
+    "answerIndex": 2,
+    "explanation": "The texts received the action, so the passive \"be + past participle\" is needed: \"were copied by monks.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-21",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Zora Neale Hurston, {0} {1} collected African American folklore in Florida, {2} best known {3} her novel Their Eyes Were Watching God.",
+    "options": [
+      "which",
+      "also",
+      "is",
+      "for"
+    ],
+    "answerIndex": 0,
+    "explanation": "The relative pronoun refers to a person, so it must be \"who\": \"Zora Neale Hurston, who also collected African American folklore.\" \"Which\" is used for things.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-22",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Ancient farmers in Mesopotamia {0} canals {1} the Tigris and Euphrates rivers, {2} wheat and barley, and {3} sheep and goats.",
+    "options": [
+      "dug",
+      "from",
+      "grew",
+      "raising"
+    ],
+    "answerIndex": 3,
+    "explanation": "Items in a series must have the same form. \"Dug\" and \"grew\" are past-tense verbs, so the third verb must be \"raised,\" not \"raising.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-23",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Romantic poets {0} early nineteenth-century England {1} emotion, {2}, and the beauty of {3} world.",
+    "options": [
+      "in",
+      "celebrated",
+      "imaginative",
+      "the natural"
+    ],
+    "answerIndex": 2,
+    "explanation": "Items in a series must have the same form. \"Emotion\" and \"the beauty of the natural world\" are nouns, so the second item must be the noun \"imagination,\" not the adjective \"imaginative.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-24",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "A central bank {0} raises interest rates usually discourages borrowing, {1} consumer spending, and slows the {2} {3} inflation.",
+    "options": [
+      "that",
+      "reducing",
+      "rate",
+      "of"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verbs in the series must be parallel: \"discourages borrowing, reduces consumer spending, and slows the rate of inflation.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-25",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Some scientists think that Stonehenge {0} have {1} {2} a kind of {3} calendar.",
+    "options": [
+      "may",
+      "serve",
+      "as",
+      "solar"
+    ],
+    "answerIndex": 1,
+    "explanation": "A modal + \"have\" is followed by a past participle: \"may have served as a kind of solar calendar.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-26",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "As glaciers {0} downhill, they {1} deep valleys, and when they melt, they leave behind {2} of rock that mark the farthest point of {3} advance.",
+    "options": [
+      "move",
+      "carve",
+      "ridges",
+      "its"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pronoun refers to \"glaciers,\" which is plural, so the possessive must be \"their\": \"the farthest point of their advance.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-27",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Pioneer families on the Great Plains often built {0} houses from blocks of sod because {1} {2} few trees in {3} region.",
+    "options": [
+      "they",
+      "there",
+      "were",
+      "the"
+    ],
+    "answerIndex": 0,
+    "explanation": "A possessive form is needed before the noun \"houses\": \"built their houses.\" \"They\" is a subject pronoun.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-28",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Great Plains once supported {0} {1} of bison, {2} were hunted almost to extinction {3} the late nineteenth century.",
+    "options": [
+      "vast",
+      "herd",
+      "which",
+      "by"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Plains supported many groups of bison, so the countable noun must be plural: \"vast herds of bison.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-29",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Hudson River {0} named after Henry Hudson, {1} English explorer who sailed up {2} river {3} 1609.",
+    "options": [
+      "was",
+      "a",
+      "the",
+      "in"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"An\" is used before a vowel sound: \"an English explorer.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-30",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The {0} of the steam engine {1} manufacturers to {2} goods far more {3} than before.",
+    "options": [
+      "develop",
+      "allowed",
+      "produce",
+      "efficiently"
+    ],
+    "answerIndex": 0,
+    "explanation": "After \"The\" and before \"of,\" a noun is needed: \"The development of the steam engine.\" \"Develop\" is a verb.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-31",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Mediterranean region, {0} hot, dry summers and mild, {1} winters, is {2} for growing olives {3} grapes.",
+    "options": [
+      "with",
+      "rainy",
+      "suitability",
+      "and"
+    ],
+    "answerIndex": 2,
+    "explanation": "After the linking verb \"is,\" an adjective is needed: \"is suitable for growing olives and grapes.\" \"Suitability\" is a noun.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-32",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The violinist Niccolò Paganini was famous for the {0} speed and {1} of his {2}, which astonished {3} audiences.",
+    "options": [
+      "extraordinary",
+      "precise",
+      "playing",
+      "European"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"And\" joins two nouns after \"the extraordinary\": \"the extraordinary speed and precision of his playing.\" \"Precise\" is an adjective.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-33",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "During the hyperinflation of 1923, prices in Germany rose so {0} that many workers {1} paid {2} {3} day.",
+    "options": [
+      "rapid",
+      "were",
+      "more than once",
+      "a"
+    ],
+    "answerIndex": 0,
+    "explanation": "The action verb \"rose\" is modified by an adverb: \"prices rose so rapidly.\" \"Rapid\" is an adjective.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-34",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Viewed from orbit, the Earth's atmosphere looks {0} {1}, like a {2} blue line {3} the planet's edge.",
+    "options": [
+      "remarkably",
+      "thinly",
+      "narrow",
+      "along"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Looks\" is a linking verb here, so it is followed by an adjective: \"the Earth's atmosphere looks remarkably thin.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-35",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Under a microscope, the six arms of a snowflake {0} {1} identical, but {2} are often {3} different.",
+    "options": [
+      "may look",
+      "nearly",
+      "they",
+      "slight"
+    ],
+    "answerIndex": 3,
+    "explanation": "An adjective such as \"different\" is modified by an adverb: \"slightly different.\" \"Slight\" is an adjective.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-36",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Economists usually explain prices {0} terms {1} the interaction {2} supply {3} demand.",
+    "options": [
+      "in",
+      "of",
+      "between",
+      "with"
+    ],
+    "answerIndex": 3,
+    "explanation": "The fixed pattern is \"between ... and\": \"the interaction between supply and demand.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-37",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "In the highlands of Scotland, many farmers {0} sheep because the soil is too {1} and the climate too {2} for {3} crops.",
+    "options": [
+      "rise",
+      "poor",
+      "harsh",
+      "most"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Raise\" takes an object and means \"to breed or grow\": \"farmers raise sheep.\" \"Rise\" means \"to go up\" and cannot take an object.",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-38",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Each winter, {0} gray whales return {1} to the {2} lagoons of Baja California to give birth {3} their calves.",
+    "options": [
+      "many",
+      "back",
+      "warm",
+      "to"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Return\" already means \"go back,\" so \"back\" is redundant: \"gray whales return to the warm lagoons.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-39",
+    "patternId": "P23",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Ancient Carthage, {0} rivaled Rome for {1} of the western Mediterranean, was famous for both {2} wealthy merchants {3} its powerful navy.",
+    "options": [
+      "which",
+      "control",
+      "its",
+      "or"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Both\" pairs with \"and,\" not \"or\": \"both its wealthy merchants and its powerful navy.\"",
+    "mockForm": 5
+  },
+  {
+    "id": "M5-40",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The city council ordered that every factory {0} the river {1} {2} wastewater before {3} it.",
+    "options": [
+      "along",
+      "treats",
+      "its",
+      "releasing"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"ordered that,\" the verb in the that-clause is in the base form (the subjunctive): \"that every factory along the river treat its wastewater.\"",
+    "mockForm": 5
+  }
+]

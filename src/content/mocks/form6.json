@@ -1,0 +1,642 @@
+[
+  {
+    "id": "M6-01",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Under the economic theory of mercantilism, ____ that a nation grew wealthy by exporting more goods than it imported.",
+    "options": [
+      "was assumed",
+      "assuming",
+      "having assumed",
+      "it was assumed"
+    ],
+    "answerIndex": 3,
+    "explanation": "The main clause needs a subject and a verb: \"it was assumed that ...\" \"Was assumed\" has no subject, and \"assuming\" and \"having assumed\" are not main verbs.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-02",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Among the most celebrated works of the Harlem Renaissance ____ the poems of Langston Hughes.",
+    "options": [
+      "is",
+      "are",
+      "being",
+      "they are"
+    ],
+    "answerIndex": 1,
+    "explanation": "When a sentence begins with a prepositional phrase such as \"Among ...,\" the subject comes after the verb. The subject is \"the poems,\" which is plural, so the verb is \"are.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-03",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "mock",
+    "stem": "By the time the Berlin Wall fell in 1989, it ____ the city for twenty-eight years.",
+    "options": [
+      "divided",
+      "has divided",
+      "was dividing",
+      "had divided"
+    ],
+    "answerIndex": 3,
+    "explanation": "An action that continued up to another past event uses the past perfect: \"By the time the Berlin Wall fell in 1989, it had divided the city for twenty-eight years.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-04",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Inflation is the rate ____ the general level of prices rises over time.",
+    "options": [
+      "which",
+      "at which",
+      "in that",
+      "where"
+    ],
+    "answerIndex": 1,
+    "explanation": "The preposition belongs with the relative pronoun: prices rise at a rate, so \"the rate at which the general level of prices rises.\" \"Which\" alone leaves out the preposition.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-05",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ the Vikings abandoned their settlement in Newfoundland after a relatively short time remains uncertain.",
+    "options": [
+      "Why did",
+      "Because",
+      "Why",
+      "That why"
+    ],
+    "answerIndex": 2,
+    "explanation": "A noun clause can be the subject of a sentence and uses statement word order: \"Why the Vikings abandoned their settlement ... remains uncertain.\" \"Why did\" uses question order, and \"because\" cannot introduce a subject.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-06",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ having almost no natural resources, Singapore became one of the wealthiest countries in Asia.",
+    "options": [
+      "Despite",
+      "Even though",
+      "Because",
+      "However"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Despite\" is a preposition and can be followed by a gerund phrase: \"Despite having almost no natural resources.\" \"Even though\" and \"because\" need a full clause with a subject, and \"however\" cannot introduce a phrase this way.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-07",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The Domesday Book, ____ in 1086, recorded the land and property of much of England.",
+    "options": [
+      "was compiled",
+      "compiling",
+      "compiled",
+      "it was compiled"
+    ],
+    "answerIndex": 2,
+    "explanation": "The book received the action, so the reduced passive participle \"compiled\" is correct (= \"which was compiled\"). \"Compiling\" is active, and the other options add a second main verb.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-08",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____, the quipu allowed Inca officials to keep records of census and tax data.",
+    "options": [
+      "A device made of knotted cords",
+      "It was a device made of knotted cords",
+      "Made a device of knotted cords",
+      "The device was made of knotted cords"
+    ],
+    "answerIndex": 0,
+    "explanation": "An appositive is a noun phrase with no main verb that renames a noun; it can come before the subject: \"A device made of knotted cords, the quipu allowed ...\" The other options contain a full clause or are ungrammatical.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-09",
+    "patternId": "P10",
+    "type": "structure",
+    "source": "mock",
+    "stem": "A government can try to stimulate a weak economy by cutting taxes, increasing public spending, and ____.",
+    "options": [
+      "offering subsidies to struggling industries",
+      "to offer subsidies to struggling industries",
+      "subsidies are offered to struggling industries",
+      "it offers subsidies to struggling industries"
+    ],
+    "answerIndex": 0,
+    "explanation": "Items after \"by\" must be parallel gerund phrases: \"by cutting taxes, increasing public spending, and offering subsidies to struggling industries.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-10",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The more a currency's value falls, ____ imported goods become for consumers.",
+    "options": [
+      "more expensive",
+      "the most expensive",
+      "the more expensive",
+      "most expensive"
+    ],
+    "answerIndex": 2,
+    "explanation": "The double comparative uses \"the + comparative ... , the + comparative\": \"The more a currency's value falls, the more expensive imported goods become.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-11",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Hardly ever ____ in the Dry Valleys of Antarctica, which are among the driest places on Earth.",
+    "options": [
+      "any precipitation falls",
+      "does any precipitation fall",
+      "falls any precipitation",
+      "any precipitation does fall"
+    ],
+    "answerIndex": 1,
+    "explanation": "When a sentence begins with a negative expression such as \"Hardly ever,\" the auxiliary comes before the subject: \"Hardly ever does any precipitation fall.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-12",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "mock",
+    "stem": "If the colonists at Jamestown ____ more food before the winter of 1609–1610, fewer of them would have starved.",
+    "options": [
+      "stored",
+      "would store",
+      "have stored",
+      "had stored"
+    ],
+    "answerIndex": 3,
+    "explanation": "An unreal condition about the past uses the past perfect in the if-clause and \"would have\" + past participle in the result clause: \"If the colonists had stored more food ..., fewer of them would have starved.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-13",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Many British manufacturers objected to ____ the Corn Laws, which kept the price of bread high.",
+    "options": [
+      "maintain",
+      "maintaining",
+      "be maintained",
+      "have maintained"
+    ],
+    "answerIndex": 1,
+    "explanation": "In \"object to,\" \"to\" is a preposition, so it is followed by a gerund: \"objected to maintaining the Corn Laws.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-14",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Nineteenth-century American politicians fiercely debated ____ gold or silver should serve as the basis of the nation's currency.",
+    "options": [
+      "either",
+      "both",
+      "neither",
+      "whether"
+    ],
+    "answerIndex": 3,
+    "explanation": "The noun clause after \"debated\" needs \"whether ... or\": \"debated whether gold or silver should serve.\" \"Either,\" \"both,\" and \"neither\" cannot introduce a clause.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-15",
+    "patternId": "P25",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The peace treaty required that all prisoners of war ____ without delay.",
+    "options": [
+      "be released",
+      "are released",
+      "were released",
+      "released"
+    ],
+    "answerIndex": 0,
+    "explanation": "After \"required that,\" the verb in the that-clause is in the base form (the subjunctive). In the passive this is \"be\" + past participle: \"that all prisoners of war be released.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-16",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Code of Hammurabi, which {0} carved on a stone {1} around 1754 B.C., {2} among the {3} surviving written legal codes.",
+    "options": [
+      "was",
+      "pillar",
+      "being",
+      "oldest"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject \"The Code of Hammurabi\" needs a main verb: \"is among the oldest surviving written legal codes.\" \"Being\" is not a main verb.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-17",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The economic effects of the silver {0} flowed into Europe from the Americas in the sixteenth century {1} still {2} {3} economic historians.",
+    "options": [
+      "that",
+      "is",
+      "debated",
+      "by"
+    ],
+    "answerIndex": 1,
+    "explanation": "The subject is \"effects,\" which is plural, so the verb must be \"are\": \"The economic effects ... are still debated.\" \"Silver\" and \"Americas\" are not the subject.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-18",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Since Dmitri Mendeleev {0} his periodic table in 1869, chemists {1} dozens of elements {2} were unknown {3} his time.",
+    "options": [
+      "published",
+      "discovered",
+      "that",
+      "in"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Since\" + a past point in time describes a period continuing to the present, so the present perfect is needed: \"chemists have discovered dozens of elements.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-19",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Terracotta Army of China's first emperor {0} accidentally {1} by farmers {2} were digging a well {3} 1974.",
+    "options": [
+      "was",
+      "discovering",
+      "who",
+      "in"
+    ],
+    "answerIndex": 1,
+    "explanation": "The army received the action, so the passive \"be + past participle\" is needed: \"was accidentally discovered by farmers.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-20",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "During the Great Chicago Fire of 1871, {0} ten thousand buildings were destroyed, and many {1} {2} were later {3} with structures of brick and stone.",
+    "options": [
+      "more than",
+      "of",
+      "them",
+      "replacing"
+    ],
+    "answerIndex": 3,
+    "explanation": "The buildings received the action, so the passive needs a past participle: \"were later replaced with structures of brick and stone.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-21",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Ibn Battuta, a fourteenth-century traveler {0} journeys took him {1} North Africa to China, {2} a detailed account of the places {3} he visited.",
+    "options": [
+      "who",
+      "from",
+      "left",
+      "that"
+    ],
+    "answerIndex": 0,
+    "explanation": "The relative pronoun shows possession (\"his journeys\"), so it must be \"whose\": \"a traveler whose journeys took him from North Africa to China.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-22",
+    "patternId": "P07",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "{0} the Industrial Revolution greatly increased the production of goods, it also {1} to dangerous working conditions {2} many factories, {3} children often worked long hours.",
+    "options": [
+      "Despite",
+      "led",
+      "in",
+      "where"
+    ],
+    "answerIndex": 0,
+    "explanation": "A full clause (\"the Industrial Revolution greatly increased ...\") must be introduced by a conjunction such as \"Although.\" \"Despite\" is a preposition and must be followed by a noun phrase.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-23",
+    "patternId": "P08",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Mount Tambora in Indonesia {0} in 1815, {1} so much ash and sulfur gas into the atmosphere that the following year, {2} as \"the Year Without a Summer,\" {3} unusually cold in Europe and North America.",
+    "options": [
+      "erupted",
+      "sending",
+      "knowing",
+      "was"
+    ],
+    "answerIndex": 2,
+    "explanation": "The year is described by others, so the reduced passive participle is needed: \"the following year, known as 'the Year Without a Summer,' was unusually cold.\" \"Knowing\" is active.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-24",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The economist Adam Smith argued that dividing work into specialized tasks {0} productivity, {1} the cost of goods, and {2} {3} the wealth of a nation.",
+    "options": [
+      "raises",
+      "lowers",
+      "ultimately",
+      "increasing"
+    ],
+    "answerIndex": 3,
+    "explanation": "The verbs in the series must be parallel: \"raises productivity, lowers the cost of goods, and ultimately increases the wealth of a nation.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-25",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Bauhaus school aimed to combine art with {0} production, to train students in many {1} crafts, and {2} simple, {3} objects for everyday use.",
+    "options": [
+      "industrial",
+      "different",
+      "creating",
+      "functional"
+    ],
+    "answerIndex": 2,
+    "explanation": "The infinitives after \"aimed\" must be parallel: \"to combine ..., to train ..., and to create simple, functional objects.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-26",
+    "patternId": "P11",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Although Mount Chimborazo in Ecuador is {0} lower {1} Mount Everest, its summit is {2} from the center of the Earth than {3} other point on the planet's surface.",
+    "options": [
+      "much",
+      "than",
+      "farthest",
+      "any"
+    ],
+    "answerIndex": 2,
+    "explanation": "A comparison of two things with \"than\" uses the comparative form: \"its summit is farther from the center of the Earth than any other point.\" \"Farthest\" is a superlative and cannot be followed by \"than.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-27",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Some historians argue that the Library of Alexandria may {0} {1} gradually over several centuries instead of being destroyed {2} {3} single fire.",
+    "options": [
+      "have",
+      "declining",
+      "in",
+      "a"
+    ],
+    "answerIndex": 1,
+    "explanation": "A modal + \"have\" is followed by a past participle: \"may have declined gradually.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-28",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The passenger pigeon was once {0} most abundant bird in North America, but by 1914 {1} had been hunted {2} extinction, partly because of {3} habit of nesting in huge colonies.",
+    "options": [
+      "the",
+      "it",
+      "to",
+      "their"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pronoun refers to \"The passenger pigeon,\" which is singular, so the possessive must be \"its\": \"partly because of its habit of nesting in huge colonies.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-29",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Although Benjamin Franklin {0} {1} little formal schooling, he educated {2} through {3} reading.",
+    "options": [
+      "received",
+      "very",
+      "him",
+      "extensive"
+    ],
+    "answerIndex": 2,
+    "explanation": "When the object is the same person as the subject, a reflexive pronoun is needed: \"he educated himself.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-30",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Early twentieth-century explorers in Antarctica often {0} {1} heavy sledges loaded {2} food, fuel, and scientific {3}.",
+    "options": [
+      "had to",
+      "pull",
+      "with",
+      "equipments"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Equipment\" is an uncountable noun and has no plural form: \"scientific equipment.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-31",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Danube, {0} second-longest river in Europe, flows through more countries than {1} other river {2} {3} world.",
+    "options": [
+      "a",
+      "any",
+      "in",
+      "the"
+    ],
+    "answerIndex": 0,
+    "explanation": "An ordinal or superlative such as \"second-longest\" identifies one specific river, so it takes \"the\": \"the second-longest river in Europe.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-32",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Before {0} Civil War, cotton was {1} most valuable export of the United States, and {2} economy depended {3} on enslaved labor.",
+    "options": [
+      "the",
+      "a",
+      "the Southern",
+      "heavily"
+    ],
+    "answerIndex": 1,
+    "explanation": "A superlative such as \"most valuable\" takes \"the\": \"cotton was the most valuable export of the United States.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-33",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Inflation {0} the {1} of money, so that each dollar buys {2} goods and services than {3}.",
+    "options": [
+      "reduces",
+      "valuable",
+      "fewer",
+      "before"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"the\" and before \"of,\" a noun is needed: \"Inflation reduces the value of money.\" \"Valuable\" is an adjective.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-34",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Alfred Wegener {0} that the continents had once been joined, but his theory was {1} rejected because he {2} not {3} the forces that moved them.",
+    "options": [
+      "proposed",
+      "widely",
+      "could",
+      "explanation"
+    ],
+    "answerIndex": 3,
+    "explanation": "After the modal \"could not,\" a verb is needed: \"he could not explain the forces that moved them.\" \"Explanation\" is a noun.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-35",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The economy of Japan grew {0} {1} the decades {2} World War II, making it {3} of the largest in the world.",
+    "options": [
+      "rapid",
+      "during",
+      "after",
+      "one"
+    ],
+    "answerIndex": 0,
+    "explanation": "The action verb \"grew\" is modified by an adverb: \"The economy of Japan grew rapidly.\" \"Rapid\" is an adjective.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-36",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The ice sheet that covers Greenland is {0} thick, {1} more than three kilometers {2} {3} points.",
+    "options": [
+      "enormous",
+      "reaching",
+      "at",
+      "some"
+    ],
+    "answerIndex": 0,
+    "explanation": "An adjective such as \"thick\" is modified by an adverb: \"enormously thick.\" \"Enormous\" is an adjective.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-37",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The theory {0} evolution by natural selection was developed {1} Charles Darwin and Alfred Russel Wallace, who arrived {2} it independently; their papers {3} the subject were read together in 1858.",
+    "options": [
+      "of",
+      "by",
+      "to",
+      "on"
+    ],
+    "answerIndex": 2,
+    "explanation": "The fixed phrase is \"arrive at\" an idea or conclusion: \"who arrived at it independently.\" \"Arrive to\" is not used this way.",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-38",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Many economists attribute the rapid growth of East Asian economies {0} high rates {1} saving, investment {2} education, and a strong emphasis {3} exports.",
+    "options": [
+      "for",
+      "of",
+      "in",
+      "on"
+    ],
+    "answerIndex": 0,
+    "explanation": "The fixed pattern is \"attribute X to Y\": \"attribute the rapid growth of East Asian economies to high rates of saving.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-39",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Pioneers crossing the mountains of the West {0} lowered {1} wagons with ropes as they descended {2} {3} steepest slopes.",
+    "options": [
+      "sometimes",
+      "their",
+      "down",
+      "the"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Descend\" already means \"go down,\" so \"down\" is redundant: \"as they descended the steepest slopes.\"",
+    "mockForm": 6
+  },
+  {
+    "id": "M6-40",
+    "patternId": "P24",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Ancient Sparta made boys {0} their families {1} the age of seven and {2} in military barracks, {3} they were trained as soldiers.",
+    "options": [
+      "to leave",
+      "at",
+      "live",
+      "where"
+    ],
+    "answerIndex": 0,
+    "explanation": "The causative \"make\" + object is followed by the base form of the verb, without \"to\": \"made boys leave their families ... and live in military barracks.\"",
+    "mockForm": 6
+  }
+]
