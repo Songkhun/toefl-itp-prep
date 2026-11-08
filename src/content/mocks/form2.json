@@ -628,9 +628,9 @@
     "patternId": "P25",
     "type": "written-expression",
     "source": "mock",
-    "stem": "The committee {0} that every {1} {2} the safety training {3} beginning work in the laboratory.",
+    "stem": "The {0} recommended that every {1} {2} the safety training {3} beginning work in the laboratory.",
     "options": [
-      "recommended",
+      "committee",
       "student",
       "completes",
       "before"

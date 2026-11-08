@@ -292,7 +292,7 @@
     "patternId": "P03",
     "type": "written-expression",
     "source": "mock",
-    "stem": "Over the past fifty years, computers {0} nearly every {1} of {2} {3}.",
+    "stem": "Since the 1970s, computers {0} nearly every {1} of {2} {3}.",
     "options": [
       "changed",
       "aspect",
@@ -300,7 +300,7 @@
       "life"
     ],
     "answerIndex": 0,
-    "explanation": "\"Over the past fifty years\" describes a period continuing to the present, so the present perfect is needed: \"computers have changed.\"",
+    "explanation": "\"Since\" + a past point in time describes a period continuing to the present, so the present perfect is needed: \"computers have changed.\"",
     "mockForm": 4
   },
   {

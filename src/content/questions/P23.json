@@ -79,10 +79,10 @@
     "patternId": "P23",
     "type": "written-expression",
     "source": "drill",
-    "stem": "Cacti {0} long droughts because they can {1} store water in their stems {2} lose very {3} of it to evaporation.",
+    "stem": "Cacti {0} long droughts because they can both store water in their {1} {2} lose very {3} of it to evaporation.",
     "options": [
       "survive",
-      "both",
+      "stems",
       "or",
       "little"
     ],
@@ -139,10 +139,10 @@
     "patternId": "P23",
     "type": "written-expression",
     "source": "drill",
-    "stem": "Early telephones were {0} expensive {1} unreliable, so {2} few households {3} them.",
+    "stem": "Early telephones were {0} expensive and {1}, so {2} few households {3} them.",
     "options": [
       "either",
-      "and",
+      "unreliable",
       "relatively",
       "owned"
     ],

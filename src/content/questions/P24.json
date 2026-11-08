@@ -79,14 +79,14 @@
     "patternId": "P24",
     "type": "written-expression",
     "source": "drill",
-    "stem": "City officials {0} engineers {1} the old bridge carefully before {2} it {3} traffic.",
+    "stem": "City officials had engineers {0} the old bridge {1} before {2} it {3} traffic.",
     "options": [
-      "had",
       "to inspect",
+      "carefully",
       "reopening",
       "to"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "\"Have\" + person is followed by the base form, not the to-infinitive: \"had engineers inspect the old bridge.\""
   },
   {
@@ -94,9 +94,9 @@
     "patternId": "P24",
     "type": "written-expression",
     "source": "drill",
-    "stem": "Strong winds can {0} even {1} trees {2} {3}.",
+    "stem": "Strong {0} can make even {1} trees {2} {3}.",
     "options": [
-      "make",
+      "winds",
       "tall",
       "to sway",
       "dangerously"
@@ -109,10 +109,10 @@
     "patternId": "P24",
     "type": "written-expression",
     "source": "drill",
-    "stem": "Before the printing press {0} invented, wealthy readers {1} {2} books {3} by hand.",
+    "stem": "Before the printing press {0} invented, wealthy {1} had {2} books {3} by hand.",
     "options": [
       "was",
-      "had",
+      "readers",
       "their",
       "copy"
     ],
@@ -139,14 +139,14 @@
     "patternId": "P24",
     "type": "written-expression",
     "source": "drill",
-    "stem": "The yearly flooding of the Nile {0} ancient Egyptian {1} {2} crops in soil {3} was rich in nutrients.",
+    "stem": "The yearly flooding of the Nile let ancient Egyptian {0} {1} crops in soil {2} was rich {3} nutrients.",
     "options": [
-      "let",
       "farmers",
       "to grow",
-      "that"
+      "that",
+      "in"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "\"Let\" + object is followed by the base form without \"to\": \"let ancient Egyptian farmers grow crops.\""
   }
 ]

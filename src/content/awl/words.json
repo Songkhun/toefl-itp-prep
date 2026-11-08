@@ -6948,7 +6948,7 @@
     "pos": "adjective",
     "definition": "relating to the nucleus of an atom or to the energy released when atoms are split or joined",
     "examples": [
-      "Nuclear power plants generate electricity without burning fuel.",
+      "Nuclear power plants generate electricity without burning fossil fuels.",
       "The Sun produces energy through nuclear reactions in its core."
     ],
     "forms": [],
@@ -7147,7 +7147,7 @@
     "id": "w-terminate",
     "headword": "terminate",
     "pos": "verb",
-    "definition": "to end something",
+    "definition": "to end; to bring something to an end",
     "examples": [
       "The company terminated the contract after six months.",
       "The railway line terminates at the coast."
@@ -7493,7 +7493,7 @@
     "id": "w-converse",
     "headword": "converse",
     "pos": "noun",
-    "definition": "the opposite or reverse of something",
+    "definition": "the reverse of a statement or relationship (if A causes B, the converse is that B causes A)",
     "examples": [
       "Many people assume that wealth leads to happiness, but some studies suggest that the converse may be true.",
       "Students who sleep well often perform better on tests, but the converse is not always true."
@@ -7568,7 +7568,7 @@
     "pos": "noun",
     "definition": "the length of time that something lasts",
     "examples": [
-      "The duration of a total solar eclipse is usually only a few minutes.",
+      "The duration of totality in a solar eclipse is usually only a few minutes.",
       "Patients stayed in the hospital for the duration of the treatment."
     ],
     "forms": [],
@@ -7631,8 +7631,7 @@
     ],
     "forms": [
       "founded",
-      "founder",
-      "foundation"
+      "founder"
     ],
     "sublist": 9
   },
@@ -7743,9 +7742,7 @@
       "Television became a powerful medium of communication in the 1950s.",
       "Sound needs a medium, such as air or water, in order to travel."
     ],
-    "forms": [
-      "media"
-    ],
+    "forms": [],
     "sublist": 9
   },
   {
@@ -7824,7 +7821,7 @@
     "definition": "accepting what happens without taking action",
     "examples": [
       "Some students take a passive role in class discussions.",
-      "A passive solar home is heated by sunlight without fans or pumps."
+      "Some voters remain passive and do not take part in elections."
     ],
     "forms": [
       "passively",
