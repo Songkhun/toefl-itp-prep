@@ -114,3 +114,16 @@ describe('near-duplicate control', () => {
     }
   });
 });
+
+describe('capitalization', () => {
+  it('the word after an introductory comma is lowercase (unless a proper noun)', () => {
+    for (const p of RELEASE1) {
+      for (let seed = 1; seed <= 100; seed++) {
+        for (const q of generate(p, 6, seed)) {
+          const text = q.type === 'structure' ? q.stem.replace('____', q.options[q.answerIndex]) : q.stem.replace(/\{([0-3])\}/g, (_, i) => q.options[+i]);
+          expect(text, text).not.toMatch(/, (?!London|Asia|Monet|Germany|Spain)[A-Z]/);
+        }
+      }
+    }
+  });
+});

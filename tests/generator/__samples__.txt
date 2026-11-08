@@ -82,7 +82,7 @@
 [P01 written-expression] _A:Hospitals_ _B:they train_ nurses _C:in_ _D:emergency_ care.
    ANSWER: B  — The subject is already "hospitals", so the pronoun "they" is an unnecessary second subject. The correct form is just "train".
 
-[P01 written-expression] In many _A:countries_, _B:Companies_ _C:exporting_ electronic equipment _D:to_ Asia.
+[P01 written-expression] In many _A:countries_, _B:companies_ _C:exporting_ electronic equipment _D:to_ Asia.
    ANSWER: C  — "exporting" cannot be the main verb of a sentence. The sentence needs the verb "export".
 
 [P01 structure] ____ teaches students about local history.

@@ -11,7 +11,7 @@ export interface Template {
 /** Remove [underline] markers, keeping the text. */
 export const strip = (s: string) => s.replace(/\[!?([^\]]*)\]/g, '$1');
 export const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
-export const low = (s: string) => s.charAt(0).toLowerCase() + s.slice(1);
+export const low = (s: string) => s.replace(/^(\[?)(.)/, (_, b: string, c: string) => b + c.toLowerCase());
 
 /** Structure item: stem has one "____"; options shuffled; answer tracked. */
 export function structure(patternId: PatternId, stem: string, correct: string, wrong: [string, string, string], explanation: string, rng: Rng): Built {
