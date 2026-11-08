@@ -34,7 +34,7 @@
     "patternId": "P05",
     "type": "structure",
     "source": "drill",
-    "stem": "A seismograph is an instrument ____ the intensity of earthquakes.",
+    "stem": "A seismograph is an instrument ____ the ground motion caused by earthquakes.",
     "options": [
       "that measures",
       "measures",

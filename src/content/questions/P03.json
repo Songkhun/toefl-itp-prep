@@ -42,7 +42,7 @@
       "had lived"
     ],
     "answerIndex": 3,
-    "explanation": "\"By the time\" + a past event signals an action completed before that event, so the past perfect \"had lived\" is correct. \"Have lived\" connects to the present, not to 1492."
+    "explanation": "\"By the time\" + a past event with \"for thousands of years\" describes a situation that lasted up to that past moment, so the past perfect \"had lived\" is required. \"Have lived\" connects to the present, not to 1492."
   },
   {
     "id": "P03-d04",
@@ -109,7 +109,7 @@
     "patternId": "P03",
     "type": "written-expression",
     "source": "drill",
-    "stem": "{0} Kitty Hawk, North Carolina, the Wright brothers {1} their first {2} powered flight in 1903, and five years later they {3} their airplane in France.",
+    "stem": "{0} Kitty Hawk, North Carolina, the Wright brothers {1} their first {2} powered flight in 1903, and five years later Wilbur {3} their airplane in France.",
     "options": [
       "Near",
       "made",
@@ -144,7 +144,7 @@
       "have predicted",
       "of",
       "since",
-      "was captured"
+      "was published"
     ],
     "answerIndex": 2,
     "explanation": "\"Since\" must be followed by a starting point, such as \"since 1916\"; with a length of time like \"decades,\" the correct word is \"for.\" The present perfect \"have predicted\" correctly matches \"for decades.\""

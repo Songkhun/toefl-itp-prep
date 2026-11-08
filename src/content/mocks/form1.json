@@ -116,7 +116,7 @@
     "patternId": "P08",
     "type": "structure",
     "source": "mock",
-    "stem": "____ by the Spanish in the sixteenth century, the potato soon became a staple food throughout Europe.",
+    "stem": "____ by the Spanish in the sixteenth century, the potato eventually became a staple food throughout Europe.",
     "options": [
       "Introducing to Europe",
       "Introduced to Europe",
@@ -228,7 +228,7 @@
     "patternId": "P24",
     "type": "structure",
     "source": "mock",
-    "stem": "Egyptian pharaohs had their tombs ____ with scenes of daily life and religious ritual.",
+    "stem": "Wealthy Egyptian officials had their tombs ____ with scenes of daily life and religious ritual.",
     "options": [
       "decorated",
       "decorate",
@@ -295,7 +295,7 @@
     "stem": "When the Titanic sank in April 1912, it {0} at sea for {1} five days, {2} Southampton {3} April 10.",
     "options": [
       "has been",
-      "fewer than",
+      "nearly",
       "having left",
       "on"
     ],
@@ -340,7 +340,7 @@
     "patternId": "P05",
     "type": "written-expression",
     "source": "mock",
-    "stem": "The Inuit, {0} have lived in the Arctic for thousands of years, {1} tools and clothing {2} {3} extreme cold.",
+    "stem": "The Inuit, {0} have lived in the Arctic for centuries, {1} tools and clothing {2} {3} extreme cold.",
     "options": [
       "whom",
       "developed",

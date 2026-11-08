@@ -64,7 +64,7 @@
     "patternId": "P06",
     "type": "structure",
     "source": "drill",
-    "stem": "The question of ____ life exists on other planets has fascinated scientists for centuries.",
+    "stem": "The question of ____ there is life on other planets has fascinated scientists for centuries.",
     "options": [
       "that",
       "whether",
@@ -72,7 +72,7 @@
       "which"
     ],
     "answerIndex": 1,
-    "explanation": "After a preposition, a yes/no noun clause is introduced by \"whether.\" \"That\" cannot follow a preposition, and \"what\" and \"which\" need a missing element in the clause."
+    "explanation": "After a preposition, a yes/no noun clause is introduced by \"whether.\" \"That\" cannot follow a preposition, and \"what\" and \"which\" cannot introduce the complete clause \"there is life on other planets.\""
   },
   {
     "id": "P06-d06",
@@ -81,7 +81,7 @@
     "source": "drill",
     "stem": "Scientists {0} determine {1} {2} {3} radiometric dating.",
     "options": [
-      "cannot",
+      "cannot precisely",
       "how old",
       "is the fossil",
       "without"
@@ -147,6 +147,6 @@
       "among"
     ],
     "answerIndex": 0,
-    "explanation": "A noun clause used as the subject of a sentence must begin with \"Whether,\" not \"If.\" \"If\" can introduce an adverb clause, but not a subject clause."
+    "explanation": "A noun clause used as the subject of a sentence must begin with \"Whether,\" not \"If.\" \"If\" can introduce a noun clause only as an object (\"Scientists wonder if…\"); it cannot begin a subject clause."
   }
 ]

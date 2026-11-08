@@ -165,7 +165,7 @@
     "definition": "to form or make up something",
     "examples": [
       "Women constitute nearly half of the workforce.",
-      "The United States Constitution was signed in 1787."
+      "Small farms constitute the majority of agricultural land in the region."
     ],
     "forms": [
       "constitution",
@@ -249,7 +249,7 @@
     "forms": [
       "definition",
       "defined",
-      "definite"
+      "redefine"
     ],
     "sublist": 1
   },
@@ -1504,7 +1504,7 @@
     "definition": "usual, typical, or expected",
     "examples": [
       "A normal human heart beats about seventy times a minute.",
-      "Bears normally sleep through the winter."
+      "Many bears normally sleep through most of the winter."
     ],
     "forms": [
       "normally",
@@ -2222,7 +2222,7 @@
     "pos": "verb",
     "definition": "to make certain that something happens",
     "examples": [
-      "Vaccination programs ensure that diseases do not spread.",
+      "Vaccination programs help ensure that diseases do not spread.",
       "Careful planning ensured the success of the expedition."
     ],
     "forms": [
@@ -2352,8 +2352,7 @@
       "In some instances, the disease causes no symptoms."
     ],
     "forms": [
-      "instances",
-      "for instance"
+      "instances"
     ],
     "sublist": 3
   }
