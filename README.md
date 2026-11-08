@@ -18,15 +18,14 @@ npm run build           # production build in dist/
 
 The build is a static site; any static host works. The app uses relative paths, so it also works in a sub-folder.
 
-**Option A: Netlify Drop (no account setup beyond sign-in, easiest)**
+**Live site (GitHub Pages, automatic):** https://songkhun.github.io/toefl-itp-prep/
+
+Every push to `main` runs the tests, builds the app and publishes it (`.github/workflows/deploy.yml`). Progress is the action's run in the repository's **Actions** tab. An installed app picks up the new version the next time it is opened online.
+
+**Alternative: Netlify Drop**
 1. `npm run build`
 2. Go to https://app.netlify.com/drop and drag the `dist` folder onto the page.
 3. Open the URL it gives you on your phone.
-
-**Option B: GitHub Pages**
-1. Create a GitHub repository and push this project.
-2. `npm run build`, then publish `dist/` to a `gh-pages` branch, e.g. `npx gh-pages -d dist`.
-3. In the repository settings → Pages, choose the `gh-pages` branch. Your app is at `https://<user>.github.io/<repo>/`.
 
 ## Install on your phone
 
