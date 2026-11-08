@@ -1,5 +1,6 @@
 import { openDB, type IDBPDatabase } from 'idb';
-import type { PatternId, Question, Source } from '../domain/types';
+import { PATTERN_IDS, type PatternId, type Question, type Source } from '../domain/types';
+import { PLAN_DAYS } from '../plan/plan';
 
 export type SessionKind = 'morning' | 'afternoon' | 'mock' | 'newset';
 
@@ -42,6 +43,8 @@ export interface ProgressStore {
   getSettings(): Promise<Settings>;
   saveSettings(s: Settings): Promise<void>;
   recordAttempt(a: Attempt): Promise<void>;
+  /** Saves an answer and the updated draft in one transaction: both are written or neither is. */
+  recordAnswer(a: Attempt, d: SessionDraft): Promise<void>;
   getAttempts(): Promise<Attempt[]>;
   getCards(): Promise<CardState[]>;
   saveCard(c: CardState): Promise<void>;
@@ -69,6 +72,10 @@ export const DEFAULT_SETTINGS: Settings = { newWordsPerDay: 15, testDate: null }
 const isObj = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null && !Array.isArray(v);
 const isNum = (v: unknown) => typeof v === 'number' && Number.isFinite(v);
 const isStr = (v: unknown) => typeof v === 'string';
+const isInt = (v: unknown, min: number, max: number) => Number.isInteger(v) && (v as number) >= min && (v as number) <= max;
+const oneOf = (v: unknown, list: readonly string[]) => typeof v === 'string' && list.includes(v);
+const SOURCES: readonly Source[] = ['drill', 'mock', 'generated'];
+const KINDS: readonly SessionKind[] = ['morning', 'afternoon', 'mock', 'newset'];
 const isDate = (v: unknown) => typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v);
 
 function checkArray(name: string, v: unknown, ok: (x: Record<string, unknown>) => boolean): void {
@@ -82,16 +89,16 @@ export function validateBackup(data: unknown): BackupV1 {
   if (!isObj(data)) throw new ImportError('This file is not a TOEFL ITP Prep backup.');
   if (data.version !== 1) throw new ImportError(`Unsupported backup version: ${String(data.version)}.`);
   checkArray('attempts', data.attempts, (a) =>
-    isStr(a.questionId) && isStr(a.patternId) && typeof a.correct === 'boolean' && isNum(a.ms) && isNum(a.at) && isStr(a.source) && isStr(a.sessionKind));
+    isStr(a.questionId) && oneOf(a.patternId, PATTERN_IDS) && typeof a.correct === 'boolean' && isNum(a.ms) && (a.ms as number) >= 0 && isNum(a.at) && oneOf(a.source, SOURCES) && oneOf(a.sessionKind, KINDS));
   checkArray('cards', data.cards, (c) =>
-    isStr(c.wordId) && isNum(c.ease) && isNum(c.intervalDays) && isNum(c.reps) && isNum(c.dueAt) && isNum(c.lapses));
+    isStr(c.wordId) && isNum(c.ease) && (c.ease as number) > 0 && isNum(c.intervalDays) && (c.intervalDays as number) >= 0 && isInt(c.reps, 0, Infinity) && isNum(c.dueAt) && isInt(c.lapses, 0, Infinity));
   checkArray('mocks', data.mocks, (m) =>
-    isNum(m.form) && isNum(m.raw) && isNum(m.scaled) && typeof m.repeat === 'boolean' && isNum(m.at));
+    isInt(m.form, 1, Infinity) && isInt(m.raw, 0, 40) && isNum(m.scaled) && typeof m.repeat === 'boolean' && isNum(m.at));
   const p = data.plan;
-  if (p !== null && !(isObj(p) && isDate(p.startDate) && isNum(p.planDay) && (p.lastCompletedDate === null || isDate(p.lastCompletedDate))))
+  if (p !== null && !(isObj(p) && isDate(p.startDate) && isInt(p.planDay, 1, PLAN_DAYS) && (p.lastCompletedDate === null || isDate(p.lastCompletedDate))))
     throw new ImportError('Backup plan data is not valid.');
   const s = data.settings;
-  if (!(isObj(s) && isNum(s.newWordsPerDay) && (s.testDate === null || isDate(s.testDate))))
+  if (!(isObj(s) && isInt(s.newWordsPerDay, 5, 40) && (s.testDate === null || isDate(s.testDate))))
     throw new ImportError('Backup settings are not valid.');
   return data as unknown as BackupV1;
 }
@@ -109,6 +116,7 @@ export function createMemoryStore(): ProgressStore {
     getSettings: async () => clone(settings),
     saveSettings: async (s) => { settings = clone(s); },
     recordAttempt: async (a) => { attempts.push(clone(a)); },
+    recordAnswer: async (a, d) => { const ca = clone(a); const cd = clone(d); attempts.push(ca); draft = cd; },
     getAttempts: async () => clone(attempts),
     getCards: async () => clone([...cards.values()]),
     saveCard: async (c) => { cards.set(c.wordId, clone(c)); },
@@ -143,6 +151,21 @@ function idbStore(db: Db): ProgressStore {
     getSettings: async () => (await kvGet<Settings>('settings')) ?? { ...DEFAULT_SETTINGS },
     saveSettings: (s) => kvPut('settings', s),
     recordAttempt: async (a) => { await db.add('attempts', a); },
+    recordAnswer: async (a, d) => {
+      const tx = db.transaction(['attempts', 'kv'], 'readwrite');
+      const done = tx.done;
+      done.catch(() => undefined); // awaited below; avoid an unhandled rejection if we abort first
+      try {
+        const added = tx.objectStore('attempts').add(a);
+        added.catch(() => undefined);
+        await tx.objectStore('kv').put(d, 'draft');
+        await added;
+      } catch (e) {
+        try { tx.abort(); } catch { /* already aborted */ }
+        throw e;
+      }
+      await done;
+    },
     getAttempts: () => db.getAll('attempts') as Promise<Attempt[]>,
     getCards: () => db.getAll('cards') as Promise<CardState[]>,
     saveCard: async (c) => { await db.put('cards', c); },
