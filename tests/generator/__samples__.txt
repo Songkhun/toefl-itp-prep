@@ -1,0 +1,627 @@
+[P01 structure] The city council ____ new plans for public parks.
+   A) approving
+   B) approves
+   C) to approve
+   D) which approves
+   ANSWER: B  — The sentence has a subject ("The city council") but no main verb. "approves" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+
+[P01 structure] ____ offer free courses in computer skills.
+   A) Libraries they
+   B) Libraries
+   C) Because libraries
+   D) That libraries
+   ANSWER: B  — The verb "offer" needs a simple subject. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "Libraries they" repeats the subject.
+
+[P01 structure] Today, ____ medical research projects.
+   A) universities funding
+   B) funding universities
+   C) universities fund
+   D) when universities fund
+   ANSWER: C  — After the introductory phrase, the sentence still needs a subject and a main verb: "universities fund". An -ing form is not a main verb, and "when…" makes the clause dependent.
+
+[P01 written-expression] _A:Hospitals_ _B:training_ nurses in _C:emergency_ care _D:every_ year.
+   ANSWER: B  — "training" cannot be the main verb of a sentence. The sentence needs the verb "train".
+
+[P01 written-expression] _A:Today_, the _B:school_ _C:it teaches_ students _D:about_ local history.
+   ANSWER: C  — The subject is already "the school", so the pronoun "it" is an unnecessary second subject. The correct form is just "teaches".
+
+[P01 structure] Newspapers ____ articles about the economy.
+   A) which publish
+   B) publishing
+   C) publish
+   D) to publish
+   ANSWER: C  — The sentence has a subject ("Newspapers") but no main verb. "publish" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+
+[P01 structure] ____ grows rice in the river valley.
+   A) Because the farmer
+   B) The farmer it
+   C) The farmer
+   D) That the farmer
+   ANSWER: C  — The verb "grows" needs a simple subject. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "The farmer it" repeats the subject.
+
+[P01 written-expression] The city _A:council_ _B:approving_ new _C:plans_ for public parks _D:every_ year.
+   ANSWER: B  — "approving" cannot be the main verb of a sentence. The sentence needs the verb "approves".
+
+[P01 written-expression] _A:Each_ year, the _B:newspaper_ _C:it publishes_ articles _D:about_ the economy.
+   ANSWER: C  — The subject is already "the newspaper", so the pronoun "it" is an unnecessary second subject. The correct form is just "publishes".
+
+[P01 structure] City councils ____ new plans for public parks.
+   A) to approve
+   B) approving
+   C) approve
+   D) which approve
+   ANSWER: C  — The sentence has a subject ("City councils") but no main verb. "approve" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+
+[P01 structure] ____ offers free courses in computer skills.
+   A) That the library
+   B) The library
+   C) Because the library
+   D) The library it
+   ANSWER: B  — The verb "offers" needs a simple subject. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "The library it" repeats the subject.
+
+[P01 structure] In most years, ____ scientific research.
+   A) when governments support
+   B) governments support
+   C) governments supporting
+   D) supporting governments
+   ANSWER: B  — After the introductory phrase, the sentence still needs a subject and a main verb: "governments support". An -ing form is not a main verb, and "when…" makes the clause dependent.
+
+[P01 written-expression] _A:Today_, the _B:museum_ _C:attracting_ large numbers of _D:visitors_.
+   ANSWER: C  — "attracting" cannot be the main verb of a sentence. The sentence needs the verb "attracts".
+
+[P01 written-expression] In _A:most_ years, the _B:government_ _C:it supports_ scientific _D:research_.
+   ANSWER: C  — The subject is already "the government", so the pronoun "it" is an unnecessary second subject. The correct form is just "supports".
+
+[P01 structure] The newspaper ____ articles about the economy.
+   A) to publish
+   B) publishing
+   C) publishes
+   D) which publishes
+   ANSWER: C  — The sentence has a subject ("The newspaper") but no main verb. "publishes" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+
+[P01 structure] Each year, ____ rice in the river valley.
+   A) growing farmers
+   B) farmers growing
+   C) when farmers grow
+   D) farmers grow
+   ANSWER: D  — After the introductory phrase, the sentence still needs a subject and a main verb: "farmers grow". An -ing form is not a main verb, and "when…" makes the clause dependent.
+
+[P01 written-expression] _A:Each_ year, the _B:company_ _C:exporting_ electronic _D:equipment_ to Asia.
+   ANSWER: C  — "exporting" cannot be the main verb of a sentence. The sentence needs the verb "exports".
+
+[P01 structure] Universities ____ medical research projects.
+   A) funding
+   B) fund
+   C) which fund
+   D) to fund
+   ANSWER: B  — The sentence has a subject ("Universities") but no main verb. "fund" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+
+[P01 structure] ____ teach students about local history.
+   A) Schools
+   B) Schools they
+   C) Because schools
+   D) That schools
+   ANSWER: A  — The verb "teach" needs a simple subject. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "Schools they" repeats the subject.
+
+[P01 written-expression] _A:Newspapers_ _B:publishing_ articles _C:about_ the economy _D:every_ year.
+   ANSWER: B  — "publishing" cannot be the main verb of a sentence. The sentence needs the verb "publish".
+
+[P02 structure] The quality of the local schools ____ greatly in recent years.
+   A) has improved
+   B) have improved
+   C) to improve
+   D) improving
+   ANSWER: A  — The subject is "the quality" (singular), not "of the local schools". The phrase in between does not change the subject, so the verb must be "has improved".
+
+[P02 structure] Each of the students ____ a locker in the main hall.
+   A) having
+   B) have
+   C) they have
+   D) has
+   ANSWER: D  — "Each" is the real subject and it is singular, so the verb is "has". "Of the students" does not change that.
+
+[P02 written-expression] The _A:results_ of the recent _B:survey_ _C:shows_ a clear _D:change_ in public opinion.
+   ANSWER: C  — The subject is "the results" (plural), not "of the recent survey". The phrase in between does not change the subject, so the verb must be "show".
+
+[P02 written-expression] _A:Each_ of the _B:students_ _C:have_ a _D:locker_ in the main hall.
+   ANSWER: C  — "Each" is singular, so the verb must be "has", not "have".
+
+[P02 structure] The walls of the ancient temple ____ covered with detailed paintings.
+   A) are
+   B) to be
+   C) being
+   D) is
+   ANSWER: A  — The subject is "the walls" (plural), not "of the ancient temple". The phrase in between does not change the subject, so the verb must be "are".
+
+[P02 structure] Each of the paintings ____ restored before the exhibition.
+   A) being
+   B) was
+   C) they were
+   D) were
+   ANSWER: B  — "Each" is the real subject and it is singular, so the verb is "was". "Of the paintings" does not change that.
+
+[P02 written-expression] The _A:leaders_ of the _B:organization_ _C:has agreed_ to _D:meet_ again next year.
+   ANSWER: C  — The subject is "the leaders" (plural), not "of the organization". The phrase in between does not change the subject, so the verb must be "have agreed".
+
+[P02 written-expression] _A:Each_ of the _B:volunteers_ _C:receive_ a _D:certificate_ at the end.
+   ANSWER: C  — "Each" is singular, so the verb must be "receives", not "receive".
+
+[P02 structure] Each of the cities ____ connected by a fast railway.
+   A) they are
+   B) being
+   C) are
+   D) is
+   ANSWER: D  — "Each" is the real subject and it is singular, so the verb is "is". "Of the cities" does not change that.
+
+[P02 written-expression] The _A:effect_ of these new _B:policies_ _C:are_ difficult to _D:measure_.
+   ANSWER: C  — The subject is "the effect" (singular), not "of these new policies". The phrase in between does not change the subject, so the verb must be "is".
+
+[P02 structure] The results of the recent survey ____ a clear change in public opinion.
+   A) showing
+   B) to show
+   C) shows
+   D) show
+   ANSWER: D  — The subject is "the results" (plural), not "of the recent survey". The phrase in between does not change the subject, so the verb must be "show".
+
+[P02 written-expression] The _A:quality_ of the local _B:schools_ _C:have improved_ greatly in recent _D:years_.
+   ANSWER: C  — The subject is "the quality" (singular), not "of the local schools". The phrase in between does not change the subject, so the verb must be "has improved".
+
+[P02 written-expression] _A:Each_ of the _B:cities_ _C:are_ connected by a fast _D:railway_.
+   ANSWER: C  — "Each" is singular, so the verb must be "is", not "are".
+
+[P02 structure] The leaders of the organization ____ to meet again next year.
+   A) has agreed
+   B) have agreed
+   C) agreeing
+   D) to agree
+   ANSWER: B  — The subject is "the leaders" (plural), not "of the organization". The phrase in between does not change the subject, so the verb must be "have agreed".
+
+[P02 written-expression] The _A:causes_ of the _B:disease_ _C:remains_ largely _D:unknown_.
+   ANSWER: C  — The subject is "the causes" (plural), not "of the disease". The phrase in between does not change the subject, so the verb must be "remain".
+
+[P02 written-expression] The _A:price_ of fresh _B:vegetables_ _C:rise_ sharply in the _D:winter_.
+   ANSWER: C  — The subject is "the price" (singular), not "of fresh vegetables". The phrase in between does not change the subject, so the verb must be "rises".
+
+[P02 structure] The number of international students ____ steadily since 2010.
+   A) to increase
+   B) have increased
+   C) has increased
+   D) increasing
+   ANSWER: C  — The subject is "the number" (singular), not "of international students". The phrase in between does not change the subject, so the verb must be "has increased".
+
+[P02 written-expression] The _A:walls_ of the ancient _B:temple_ _C:is_ covered with detailed _D:paintings_.
+   ANSWER: C  — The subject is "the walls" (plural), not "of the ancient temple". The phrase in between does not change the subject, so the verb must be "are".
+
+[P02 structure] The members of the planning committee ____ every Thursday morning.
+   A) meet
+   B) meeting
+   C) meets
+   D) to meet
+   ANSWER: A  — The subject is "the members" (plural), not "of the planning committee". The phrase in between does not change the subject, so the verb must be "meet".
+
+[P02 structure] Each of the volunteers ____ a certificate at the end.
+   A) they receive
+   B) receive
+   C) receives
+   D) receiving
+   ANSWER: C  — "Each" is the real subject and it is singular, so the verb is "receives". "Of the volunteers" does not change that.
+
+[P03 structure] The city council ____ new plans for public parks in 2015.
+   A) has approved
+   B) approves
+   C) approved
+   D) is approving
+   ANSWER: C  — "in 2015" refers to a finished time in the past, so the simple past "approved" is needed. The present perfect cannot be used with a finished past time.
+
+[P03 structure] The library ____ free courses in computer skills since 2010.
+   A) offers
+   B) is offering
+   C) offered
+   D) has offered
+   ANSWER: D  — "since 2010" describes an action from a past point up to now, so the present perfect "has offered" is needed.
+
+[P03 written-expression] The _A:newspaper_ _B:has published_ articles _C:about_ the economy two decades _D:ago_.
+   ANSWER: B  — "two decades ago" is a finished past time, so the verb must be simple past: "published", not "has published".
+
+[P03 written-expression] _A:Hospitals_ _B:trained_ nurses in _C:emergency_ care _D:since_ 2005.
+   ANSWER: B  — With "since 2005", the action continues up to now, so the present perfect "have trained" is required, not "trained".
+
+[P03 structure] The newspaper ____ articles about the economy last year.
+   A) has published
+   B) published
+   C) publishes
+   D) is publishing
+   ANSWER: B  — "last year" refers to a finished time in the past, so the simple past "published" is needed. The present perfect cannot be used with a finished past time.
+
+[P03 structure] Farmers ____ rice in the river valley since 1998.
+   A) have grown
+   B) grew
+   C) are growing
+   D) grow
+   ANSWER: A  — "since 1998" describes an action from a past point up to now, so the present perfect "have grown" is needed.
+
+[P03 written-expression] _A:Companies_ _B:have exported_ electronic _C:equipment_ to Asia last _D:year_.
+   ANSWER: B  — "last year" is a finished past time, so the verb must be simple past: "exported", not "have exported".
+
+[P03 written-expression] The _A:company_ _B:exported_ electronic _C:equipment_ to Asia _D:since_ the early 1990s.
+   ANSWER: B  — With "since the early 1990s", the action continues up to now, so the present perfect "has exported" is required, not "exported".
+
+[P03 structure] Hospitals ____ nurses in emergency care in 1998.
+   A) trained
+   B) have trained
+   C) are training
+   D) train
+   ANSWER: A  — "in 1998" refers to a finished time in the past, so the simple past "trained" is needed. The present perfect cannot be used with a finished past time.
+
+[P03 structure] Governments ____ scientific research since 2005.
+   A) are supporting
+   B) have supported
+   C) support
+   D) supported
+   ANSWER: B  — "since 2005" describes an action from a past point up to now, so the present perfect "have supported" is needed.
+
+[P03 written-expression] _A:Governments_ _B:have supported_ scientific _C:research_ last _D:year_.
+   ANSWER: B  — "last year" is a finished past time, so the verb must be simple past: "supported", not "have supported".
+
+[P03 written-expression] The _A:university_ _B:funded_ medical _C:research_ projects _D:since_ 2010.
+   ANSWER: B  — With "since 2010", the action continues up to now, so the present perfect "has funded" is required, not "funded".
+
+[P03 structure] Governments ____ scientific research two decades ago.
+   A) support
+   B) supported
+   C) have supported
+   D) are supporting
+   ANSWER: B  — "two decades ago" refers to a finished time in the past, so the simple past "supported" is needed. The present perfect cannot be used with a finished past time.
+
+[P03 structure] The museum ____ large numbers of visitors since 2005.
+   A) has attracted
+   B) attracted
+   C) attracts
+   D) is attracting
+   ANSWER: A  — "since 2005" describes an action from a past point up to now, so the present perfect "has attracted" is needed.
+
+[P03 written-expression] The _A:hospital_ _B:has trained_ nurses in _C:emergency_ care last _D:year_.
+   ANSWER: B  — "last year" is a finished past time, so the verb must be simple past: "trained", not "has trained".
+
+[P03 written-expression] _A:Schools_ _B:taught_ students _C:about_ local history _D:since_ the early 1990s.
+   ANSWER: B  — With "since the early 1990s", the action continues up to now, so the present perfect "have taught" is required, not "taught".
+
+[P03 structure] The farmer ____ rice in the river valley in 2015.
+   A) is growing
+   B) has grown
+   C) grew
+   D) grows
+   ANSWER: C  — "in 2015" refers to a finished time in the past, so the simple past "grew" is needed. The present perfect cannot be used with a finished past time.
+
+[P03 structure] Museums ____ large numbers of visitors since 2005.
+   A) attracted
+   B) have attracted
+   C) are attracting
+   D) attract
+   ANSWER: B  — "since 2005" describes an action from a past point up to now, so the present perfect "have attracted" is needed.
+
+[P03 written-expression] _A:Newspapers_ _B:have published_ articles _C:about_ the economy in _D:1998_.
+   ANSWER: B  — "in 1998" is a finished past time, so the verb must be simple past: "published", not "have published".
+
+[P03 written-expression] The _A:museum_ _B:attracted_ large numbers of _C:visitors_ _D:since_ the early 1990s.
+   ANSWER: B  — With "since the early 1990s", the action continues up to now, so the present perfect "has attracted" is required, not "attracted".
+
+[P04 structure] The new vaccine ____ in several hospitals last year.
+   A) tested
+   B) was tested
+   C) has tested
+   D) testing
+   ANSWER: B  — "The new vaccine" receives the action, so the passive voice is needed: "was tested" (be + past participle).
+
+[P04 structure] The new vaccine ____ in several hospitals in 1998.
+   A) was testing
+   B) was tested
+   C) was test
+   D) being tested
+   ANSWER: B  — "The new vaccine" receives the action, so the passive voice is needed: "was tested" (be + past participle).
+
+[P04 written-expression] The music _A:festival_ _B:was hold_ in the main _C:square_ two decades _D:ago_.
+   ANSWER: B  — After "was", a passive verb needs the past participle: "was held", not "was hold".
+
+[P04 written-expression] Several new _A:species_ _B:were identifying_ in the _C:rainforest_ last _D:year_.
+   ANSWER: B  — "Several new species" cannot perform this action; it receives it. Use the passive "were identified", not the active "were identifying".
+
+[P04 structure] The bridge ____ across the river two decades ago.
+   A) has built
+   B) building
+   C) was built
+   D) built
+   ANSWER: C  — "The bridge" receives the action, so the passive voice is needed: "was built" (be + past participle).
+
+[P04 structure] The new law ____ by the national parliament last year.
+   A) was approve
+   B) was approved
+   C) was approving
+   D) being approved
+   ANSWER: B  — "The new law" receives the action, so the passive voice is needed: "was approved" (be + past participle).
+
+[P04 written-expression] The _A:paintings_ _B:were sell_ at an _C:auction_ in London in _D:1998_.
+   ANSWER: B  — After "were", a passive verb needs the past participle: "were sold", not "were sell".
+
+[P04 written-expression] The music _A:festival_ _B:was holding_ in the main _C:square_ last _D:year_.
+   ANSWER: B  — "The music festival" cannot perform this action; it receives it. Use the passive "was held", not the active "was holding".
+
+[P04 structure] Several new species ____ in the rainforest in 2015.
+   A) have identified
+   B) identifying
+   C) were identified
+   D) identified
+   ANSWER: C  — "Several new species" receives the action, so the passive voice is needed: "were identified" (be + past participle).
+
+[P04 structure] The bridge ____ across the river last year.
+   A) was building
+   B) was built
+   C) was build
+   D) being built
+   ANSWER: B  — "The bridge" receives the action, so the passive voice is needed: "was built" (be + past participle).
+
+[P04 written-expression] The new _A:vaccine_ _B:was test_ in several _C:hospitals_ last _D:year_.
+   ANSWER: B  — After "was", a passive verb needs the past participle: "was tested", not "was test".
+
+[P04 written-expression] Several new _A:species_ _B:were identifying_ in the _C:rainforest_ in _D:2015_.
+   ANSWER: B  — "Several new species" cannot perform this action; it receives it. Use the passive "were identified", not the active "were identifying".
+
+[P04 structure] The paintings ____ at an auction in London in 1998.
+   A) have sold
+   B) sold
+   C) selling
+   D) were sold
+   ANSWER: D  — "The paintings" receives the action, so the passive voice is needed: "were sold" (be + past participle).
+
+[P04 written-expression] The _A:paintings_ _B:were selling_ at an _C:auction_ in London two decades _D:ago_.
+   ANSWER: B  — "The paintings" cannot perform this action; it receives it. Use the passive "were sold", not the active "were selling".
+
+[P04 structure] The test results ____ in a scientific journal in 2015.
+   A) publishing
+   B) have published
+   C) were published
+   D) published
+   ANSWER: C  — "The test results" receives the action, so the passive voice is needed: "were published" (be + past participle).
+
+[P04 written-expression] The test _A:results_ _B:were publish_ in a scientific _C:journal_ in _D:2015_.
+   ANSWER: B  — After "were", a passive verb needs the past participle: "were published", not "were publish".
+
+[P04 written-expression] The music _A:festival_ _B:was holding_ in the main _C:square_ in _D:2015_.
+   ANSWER: B  — "The music festival" cannot perform this action; it receives it. Use the passive "was held", not the active "was holding".
+
+[P04 structure] The ancient manuscripts ____ in a cave near the coast in 2015.
+   A) were discovered
+   B) discovered
+   C) discovering
+   D) have discovered
+   ANSWER: A  — "The ancient manuscripts" receives the action, so the passive voice is needed: "were discovered" (be + past participle).
+
+[P04 structure] The music festival ____ in the main square in 1998.
+   A) was hold
+   B) being held
+   C) was held
+   D) was holding
+   ANSWER: C  — "The music festival" receives the action, so the passive voice is needed: "was held" (be + past participle).
+
+[P04 written-expression] Several new _A:species_ _B:were identifying_ in the _C:rainforest_ two decades _D:ago_.
+   ANSWER: B  — "Several new species" cannot perform this action; it receives it. Use the passive "were identified", not the active "were identifying".
+
+[P05 structure] The scientist ____ discovered the new element received an international award.
+   A) which
+   B) who
+   C) she
+   D) what
+   ANSWER: B  — The blank begins an adjective clause describing "the scientist". Use "who" for people. A pronoun like "she" would create a second subject, and "what" cannot follow a noun.
+
+[P05 structure] The author ____ novel won the prize gave a public lecture.
+   A) who
+   B) which
+   C) who's
+   D) whose
+   ANSWER: D  — "Whose" shows possession: the novel belongs to the author. "Who's" means "who is".
+
+[P05 written-expression] The _A:architect_ _B:which_ _C:designed_ the museum was born in _D:Spain_.
+   ANSWER: B  — "The architect" refers to a person or people, so the relative pronoun must be "who", not "which".
+
+[P05 written-expression] The _A:bridge_ _B:which_ _C:it connects the two islands_ was built in _D:1932_.
+   ANSWER: C  — Inside the clause, "which" is already the subject, so the pronoun "it" must be removed.
+
+[P05 structure] The author ____ wrote this novel lives in a small village.
+   A) which
+   B) what
+   C) who
+   D) she
+   ANSWER: C  — The blank begins an adjective clause describing "the author". Use "who" for people. A pronoun like "she" would create a second subject, and "what" cannot follow a noun.
+
+[P05 structure] The company ____ products are sold worldwide employs over ten thousand people.
+   A) which
+   B) who
+   C) who's
+   D) whose
+   ANSWER: D  — "Whose" shows possession: the products belongs to the company. "Who's" means "who is".
+
+[P05 written-expression] The _A:bridge_ _B:who_ _C:connects_ the two islands was built in _D:1932_.
+   ANSWER: B  — "The bridge" refers to a thing, so the relative pronoun must be "which", not "who".
+
+[P05 written-expression] The _A:trains_ _B:which_ _C:they run between the two cities_ are often _D:crowded_.
+   ANSWER: C  — Inside the clause, "which" is already the subject, so the pronoun "they" must be removed.
+
+[P05 structure] The trains ____ run between the two cities are often crowded.
+   A) they
+   B) what
+   C) who
+   D) which
+   ANSWER: D  — The blank begins an adjective clause describing "the trains". Use "which" for things. A pronoun like "they" would create a second subject, and "what" cannot follow a noun.
+
+[P05 structure] The student ____ essay was selected will read it at the ceremony.
+   A) whose
+   B) who
+   C) which
+   D) who's
+   ANSWER: A  — "Whose" shows possession: the essay belongs to the student. "Who's" means "who is".
+
+[P05 written-expression] The _A:author_ _B:which_ _C:wrote_ this novel lives in a small _D:village_.
+   ANSWER: B  — "The author" refers to a person or people, so the relative pronoun must be "who", not "which".
+
+[P05 written-expression] The _A:architect_ _B:who_ _C:he designed the museum_ was born in _D:Spain_.
+   ANSWER: C  — Inside the clause, "who" is already the subject, so the pronoun "he" must be removed.
+
+[P05 structure] The bridge ____ connects the two islands was built in 1932.
+   A) which
+   B) what
+   C) it
+   D) who
+   ANSWER: A  — The blank begins an adjective clause describing "the bridge". Use "which" for things. A pronoun like "it" would create a second subject, and "what" cannot follow a noun.
+
+[P05 written-expression] The _A:trains_ _B:who_ _C:run_ between the two cities are often _D:crowded_.
+   ANSWER: B  — "The trains" refers to a thing, so the relative pronoun must be "which", not "who".
+
+[P05 structure] The machines ____ produce the parts were made in Germany.
+   A) who
+   B) they
+   C) what
+   D) which
+   ANSWER: D  — The blank begins an adjective clause describing "the machines". Use "which" for things. A pronoun like "they" would create a second subject, and "what" cannot follow a noun.
+
+[P05 structure] The farmers ____ crops were damaged received help from the government.
+   A) who
+   B) which
+   C) who's
+   D) whose
+   ANSWER: D  — "Whose" shows possession: the crops belongs to the farmers. "Who's" means "who is".
+
+[P05 written-expression] The _A:students_ _B:which_ _C:completed_ the course received a _D:certificate_.
+   ANSWER: B  — "The students" refers to a person or people, so the relative pronoun must be "who", not "which".
+
+[P05 written-expression] The _A:river_ _B:which_ _C:it flows through the city_ often floods in _D:spring_.
+   ANSWER: C  — Inside the clause, "which" is already the subject, so the pronoun "it" must be removed.
+
+[P05 structure] The architect ____ designed the museum was born in Spain.
+   A) what
+   B) who
+   C) which
+   D) she
+   ANSWER: B  — The blank begins an adjective clause describing "the architect". Use "who" for people. A pronoun like "she" would create a second subject, and "what" cannot follow a noun.
+
+[P05 written-expression] The _A:machines_ _B:who_ _C:produce_ the parts were made in _D:Germany_.
+   ANSWER: B  — "The machines" refers to a thing, so the relative pronoun must be "which", not "who".
+
+[P06 structure] It is not clear why ____.
+   A) did the dinosaurs disappear so suddenly
+   B) the dinosaurs disappeared so suddenly
+   C) disappeared the dinosaurs so suddenly
+   D) the dinosaurs to disappear so suddenly
+   ANSWER: B  — Inside a noun clause, use statement word order (subject + verb): "why the dinosaurs disappeared so suddenly". Do not use question order or an -ing / "to" form.
+
+[P06 structure] ____ the climate is changing is now accepted by most scientists.
+   A) It
+   B) What
+   C) Because
+   D) That
+   ANSWER: D  — The subject of "is" is the whole clause "that the climate is changing". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
+
+[P06 structure] ____ the researchers found surprised the whole team.
+   A) Because
+   B) That
+   C) What
+   D) It
+   ANSWER: C  — "the researchers found" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
+
+[P06 written-expression] _A:Scientists_ still do not _B:know_ _C:why_ _D:do some birds migrate at night_.
+   ANSWER: D  — A noun clause uses statement word order: "why some birds migrate at night", not question order "do some birds migrate at night".
+
+[P06 written-expression] _A:What_ the _B:earth_ orbits the sun _C:was_ once a controversial _D:idea_.
+   ANSWER: A  — "The earth orbits the sun" is a complete clause, so it must begin with "That", not "What".
+
+[P06 structure] Scientists still do not know when ____.
+   A) the first cities appeared
+   B) did the first cities appear
+   C) appeared the first cities
+   D) the first cities appearing
+   ANSWER: A  — Inside a noun clause, use statement word order (subject + verb): "when the first cities appeared". Do not use question order or an -ing / "to" form.
+
+[P06 structure] ____ the company lost money last year surprised many investors.
+   A) Because
+   B) It
+   C) That
+   D) What
+   ANSWER: C  — The subject of "surprised" is the whole clause "that the company lost money last year". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
+
+[P06 written-expression] _A:What_ the _B:climate_ is changing _C:is_ now accepted by most _D:scientists_.
+   ANSWER: A  — "The climate is changing" is a complete clause, so it must begin with "That", not "What".
+
+[P06 structure] Researchers are trying to explain why ____.
+   A) do some birds migrate at night
+   B) some birds migrate at night
+   C) some birds migrating at night
+   D) migrate some birds at night
+   ANSWER: B  — Inside a noun clause, use statement word order (subject + verb): "why some birds migrate at night". Do not use question order or an -ing / "to" form.
+
+[P06 structure] ____ the earth orbits the sun was once a controversial idea.
+   A) What
+   B) Because
+   C) It
+   D) That
+   ANSWER: D  — The subject of "was" is the whole clause "that the earth orbits the sun". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
+
+[P06 structure] ____ the museum owns is worth millions of dollars.
+   A) That
+   B) Because
+   C) What
+   D) It
+   ANSWER: C  — "the museum owns" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
+
+[P06 written-expression] _A:Historians_ have long _B:wondered_ _C:how_ _D:were the pyramids built_.
+   ANSWER: D  — A noun clause uses statement word order: "how the pyramids were built", not question order "were the pyramids built".
+
+[P06 structure] Scientists still do not know where ____.
+   A) the river begins
+   B) is the river begin
+   C) does the river begin
+   D) the river beginning
+   ANSWER: A  — Inside a noun clause, use statement word order (subject + verb): "where the river begins". Do not use question order or an -ing / "to" form.
+
+[P06 written-expression] _A:What_ the _B:company_ lost money last year _C:surprised_ many _D:investors_.
+   ANSWER: A  — "The company lost money last year" is a complete clause, so it must begin with "That", not "What".
+
+[P06 structure] It is not clear where ____.
+   A) the river begins
+   B) is the river begin
+   C) the river beginning
+   D) does the river begin
+   ANSWER: A  — Inside a noun clause, use statement word order (subject + verb): "where the river begins". Do not use question order or an -ing / "to" form.
+
+[P06 structure] Historians have long wondered when ____.
+   A) the first cities appeared
+   B) the first cities appearing
+   C) appeared the first cities
+   D) did the first cities appear
+   ANSWER: A  — Inside a noun clause, use statement word order (subject + verb): "when the first cities appeared". Do not use question order or an -ing / "to" form.
+
+[P06 structure] ____ the students wrote impressed their teachers.
+   A) It
+   B) That
+   C) What
+   D) Because
+   ANSWER: C  — "the students wrote" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
+
+[P06 structure] Historians have long wondered how ____.
+   A) were the pyramids built
+   B) the pyramids to be built
+   C) the pyramids built were
+   D) the pyramids were built
+   ANSWER: D  — Inside a noun clause, use statement word order (subject + verb): "how the pyramids were built". Do not use question order or an -ing / "to" form.
+
+[P06 structure] ____ regular exercise improves memory has been shown in many studies.
+   A) What
+   B) It
+   C) Because
+   D) That
+   ANSWER: D  — The subject of "has" is the whole clause "that regular exercise improves memory". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
+
+[P06 structure] Researchers are trying to explain how ____.
+   A) communicate bees with each other
+   B) do bees communicate with each other
+   C) bees communicating with each other
+   D) bees communicate with each other
+   ANSWER: D  — Inside a noun clause, use statement word order (subject + verb): "how bees communicate with each other". Do not use question order or an -ing / "to" form.
