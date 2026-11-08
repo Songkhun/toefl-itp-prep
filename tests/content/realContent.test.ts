@@ -4,10 +4,10 @@ import { PATTERNS } from '../../src/content/patterns';
 import { hasGenerator } from '../../src/generator';
 import type { PatternId } from '../../src/domain/types';
 
-const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12'];
-const FORMS = [1, 2];
+const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P18'];
+const FORMS = [1, 2, 3];
 
-describe('real content (releases 1–2)', () => {
+describe('real content (releases 1–3)', () => {
   it('is valid', () => {
     expect(validateContent({ patterns: PATTERNS, questions: allBankQuestions(), words: realContent.allWords() })).toEqual([]);
   });
@@ -34,12 +34,15 @@ describe('real content (releases 1–2)', () => {
     });
   }
   it('mock forms do not share sentences', () => {
-    const one = new Set(realContent.mockForm(1).map((q) => q.stem));
-    expect(realContent.mockForm(2).filter((q) => one.has(q.stem))).toEqual([]);
+    for (const a of FORMS) for (const b of FORMS) {
+      if (a >= b) continue;
+      const one = new Set(realContent.mockForm(a).map((q) => q.stem));
+      expect(realContent.mockForm(b).filter((q) => one.has(q.stem)), `${a} vs ${b}`).toEqual([]);
+    }
   });
-  it('has at least 300 words with no duplicate headwords, in sublist order', () => {
+  it('has at least 450 words with no duplicate headwords, in sublist order', () => {
     const w = realContent.allWords();
-    expect(w.length).toBeGreaterThanOrEqual(300);
+    expect(w.length).toBeGreaterThanOrEqual(450);
     expect(new Set(w.map((x) => x.headword.toLowerCase())).size).toBe(w.length);
     for (let i = 1; i < w.length; i++) expect(w[i].sublist).toBeGreaterThanOrEqual(w[i - 1].sublist);
   });

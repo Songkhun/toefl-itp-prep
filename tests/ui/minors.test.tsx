@@ -31,7 +31,7 @@ describe('M9: New set with no content', () => {
     const store = createMemoryStore();
     await store.savePlan({ startDate: '2026-11-01', planDay: 30, lastCompletedDate: null });
     app(store, '#/newset');
-    fireEvent.change(await screen.findByLabelText('Pattern'), { target: { value: 'P13' } });
+    fireEvent.change(await screen.findByLabelText('Pattern'), { target: { value: 'P22' } }); // a pattern with no generator and no drill items yet
     fireEvent.click(screen.getByRole('button', { name: /Make me a new set/ }));
     expect(await screen.findByText(/No questions are available for this choice yet/)).toBeInTheDocument();
   });

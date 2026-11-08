@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P16-d01",
+    "patternId": "P16",
+    "type": "structure",
+    "source": "drill",
+    "stem": "A honeybee shows other bees where food is located by moving ____ body in a pattern called the waggle dance.",
+    "options": [
+      "its",
+      "it's",
+      "their",
+      "his"
+    ],
+    "answerIndex": 0,
+    "explanation": "The singular noun \"honeybee\" needs the singular possessive \"its\": \"moving its body.\" \"It's\" means \"it is,\" \"their\" is plural, and \"his\" is not used for an animal like this."
+  },
+  {
+    "id": "P16-d02",
+    "patternId": "P16",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The professor asked Maria and ____ to present the findings of the survey.",
+    "options": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pronoun is an object of the verb \"asked,\" so the object form is needed: \"asked Maria and me.\" \"I\" is a subject form, \"myself\" is used only when the subject is \"I,\" and \"mine\" is possessive."
+  },
+  {
+    "id": "P16-d03",
+    "patternId": "P16",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Octopuses can change the color of ____ skin in a fraction of a second.",
+    "options": [
+      "its",
+      "them",
+      "their",
+      "theirs"
+    ],
+    "answerIndex": 2,
+    "explanation": "The plural noun \"octopuses\" requires the plural possessive adjective \"their\" before a noun: \"their skin.\" \"Its\" is singular, \"them\" is an object pronoun, and \"theirs\" cannot come before a noun."
+  },
+  {
+    "id": "P16-d04",
+    "patternId": "P16",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Newly hatched sea turtles must find their way to the ocean by ____, without any help from their parents.",
+    "options": [
+      "theirselves",
+      "itself",
+      "themselves",
+      "them"
+    ],
+    "answerIndex": 2,
+    "explanation": "The reflexive pronoun for the plural subject \"sea turtles\" is \"themselves\": \"by themselves.\" \"Theirselves\" is not a standard word, \"itself\" is singular, and \"by them\" would refer to someone else."
+  },
+  {
+    "id": "P16-d05",
+    "patternId": "P16",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Moon has no light of ____ own; it reflects light from the Sun.",
+    "options": [
+      "it's",
+      "their",
+      "it",
+      "its"
+    ],
+    "answerIndex": 3,
+    "explanation": "The possessive form for the singular noun \"Moon\" is \"its,\" with no apostrophe: \"of its own.\" \"It's\" means \"it is,\" and \"their\" is plural."
+  },
+  {
+    "id": "P16-d06",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Venus is similar to Earth in size, but {0} thick atmosphere traps so much heat that {1} surface is hotter than {2} of {3} other planet.",
+    "options": [
+      "its",
+      "it's",
+      "that",
+      "any"
+    ],
+    "answerIndex": 1,
+    "explanation": "The possessive of \"it\" has no apostrophe: \"its surface.\" \"It's\" is a contraction of \"it is\" or \"it has.\""
+  },
+  {
+    "id": "P16-d07",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Marie and Pierre Curie shared the 1903 Nobel Prize in Physics for {0} {1} on radioactivity, and {2} later became the first person to win {3} Nobel Prizes.",
+    "options": [
+      "their",
+      "research",
+      "they",
+      "two"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pronoun must agree with \"the first person,\" which refers only to Marie Curie: \"she later became the first person.\" \"They\" incorrectly refers to both Curies."
+  },
+  {
+    "id": "P16-d08",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The results of the experiment surprised both the lead researcher and {0}, so {1} decided to repeat {2} under {3} conditions.",
+    "options": [
+      "I",
+      "we",
+      "it",
+      "stricter"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pronoun is an object of the verb \"surprised,\" so the object form is required: \"surprised both the lead researcher and me.\" \"I\" is a subject form."
+  },
+  {
+    "id": "P16-d09",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Homing pigeons released hundreds of kilometers from {0} lofts can usually find {1} way back {2} {3} days.",
+    "options": [
+      "their",
+      "its",
+      "within",
+      "a few"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pronoun must agree with the plural noun \"pigeons\": \"find their way back.\" \"Its\" is singular."
+  },
+  {
+    "id": "P16-d10",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The giant panda spends most of {0} day eating bamboo, a plant that provides {1} with so little energy that the animal must consume large quantities {2} meet {3} daily needs.",
+    "options": [
+      "its",
+      "it",
+      "to",
+      "their"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pronoun refers to the singular noun \"the animal\" (the giant panda), so it must be singular: \"its daily needs.\" \"Their\" is plural."
+  }
+]

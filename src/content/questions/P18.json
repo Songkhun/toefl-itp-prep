@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P18-d01",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The kiwi is ____ native to New Zealand.",
+    "options": [
+      "a flightless bird",
+      "an flightless bird",
+      "flightless bird",
+      "the flightless birds"
+    ],
+    "answerIndex": 0,
+    "explanation": "A singular countable noun such as \"bird\" needs an article, and \"a\" is used before a consonant sound: \"a flightless bird.\" \"An\" is only for vowel sounds, and \"the flightless birds\" is plural."
+  },
+  {
+    "id": "P18-d02",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Light from the Sun takes ____ to reach the planet Saturn.",
+    "options": [
+      "more than a hour",
+      "more than hour",
+      "more than an hour",
+      "more than the hour"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Hour\" begins with a vowel sound because the \"h\" is silent, so it takes \"an\": \"more than an hour.\" \"Hour\" is a singular countable noun and cannot appear without an article here."
+  },
+  {
+    "id": "P18-d03",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ is the longest river in South America.",
+    "options": [
+      "Amazon",
+      "The Amazon",
+      "An Amazon",
+      "Amazon River"
+    ],
+    "answerIndex": 1,
+    "explanation": "The names of rivers take \"the\": \"The Amazon.\" Without \"the,\" both \"Amazon\" and \"Amazon River\" are incorrect, and \"an\" is never used with a unique name."
+  },
+  {
+    "id": "P18-d04",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Harvard, founded in 1636, is ____ oldest institution of higher learning in the United States.",
+    "options": [
+      "an",
+      "a",
+      "most",
+      "the"
+    ],
+    "answerIndex": 3,
+    "explanation": "A superlative adjective such as \"oldest\" takes \"the\": \"the oldest institution.\" \"A\" and \"an\" cannot be used with a superlative, and \"most oldest\" is a double superlative."
+  },
+  {
+    "id": "P18-d05",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Mount Kilimanjaro is the highest mountain in ____.",
+    "options": [
+      "the Africa",
+      "Africa",
+      "an Africa",
+      "the African"
+    ],
+    "answerIndex": 1,
+    "explanation": "The names of continents take no article: \"in Africa.\" \"The Africa\" and \"an Africa\" are incorrect, and \"African\" is an adjective."
+  },
+  {
+    "id": "P18-d06",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Marie Curie was ____ to win Nobel Prizes in two different sciences.",
+    "options": [
+      "first person",
+      "a first person",
+      "first the person",
+      "the first person"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ordinal numbers such as \"first\" take \"the\": \"the first person.\" \"A first person\" and \"first person\" without an article are incorrect here, and \"first the person\" has the wrong word order."
+  },
+  {
+    "id": "P18-d07",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "In 1953, Edmund Hillary and Tenzing Norgay became the first climbers confirmed to reach ____.",
+    "options": [
+      "summit of the Mount Everest",
+      "the summit of the Mount Everest",
+      "the summit of Mount Everest",
+      "a summit of Mount Everest"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Summit\" is specified by the \"of\" phrase, so it takes \"the,\" but the name of a single mountain takes no article: \"the summit of Mount Everest.\" A mountain has only one summit, so \"a summit\" is wrong."
+  },
+  {
+    "id": "P18-d08",
+    "patternId": "P18",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Sahara receives so little rain that ____ of its surface has almost no plant life.",
+    "options": [
+      "the most",
+      "a most",
+      "mostly",
+      "most"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Most of\" meaning \"the largest part of\" takes no article: \"most of its surface.\" \"The most of\" and \"a most of\" are incorrect, and \"mostly\" is an adverb."
+  },
+  {
+    "id": "P18-d09",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Pacific Ocean covers {0} area than all of {1} Earth's dry land combined, and it {2} {3} point on the planet.",
+    "options": [
+      "a larger",
+      "the",
+      "contains",
+      "a deepest"
+    ],
+    "answerIndex": 3,
+    "explanation": "A superlative adjective takes \"the,\" not \"a\": \"the deepest point.\""
+  },
+  {
+    "id": "P18-d10",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Thomas Edison, {0} inventor who {1} more than one thousand patents in {2} United States, established {3} research laboratory in Menlo Park, New Jersey.",
+    "options": [
+      "an",
+      "held",
+      "the",
+      "a industrial"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Industrial\" begins with a vowel sound, so it takes \"an\": \"an industrial research laboratory.\""
+  },
+  {
+    "id": "P18-d11",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Founded in 1088, {0} University of Bologna is often described as {1} oldest university in {2} operation in {3}.",
+    "options": [
+      "the",
+      "an",
+      "continuous",
+      "the world"
+    ],
+    "answerIndex": 1,
+    "explanation": "A superlative adjective such as \"oldest\" requires \"the\": \"the oldest university.\" \"An\" cannot be used with a superlative."
+  },
+  {
+    "id": "P18-d12",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Ferdinand Magellan, {0} European navigator, organized {1} first voyage around {2}, although he was killed in the Philippines {3} the voyage was completed.",
+    "options": [
+      "an",
+      "the",
+      "the world",
+      "before"
+    ],
+    "answerIndex": 0,
+    "explanation": "The choice between \"a\" and \"an\" depends on sound, not spelling. \"European\" begins with a \"y\" sound, so it takes \"a\": \"a European navigator.\""
+  },
+  {
+    "id": "P18-d13",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} are {1} land animals, and {2} adult male can reach {3} of more than five meters.",
+    "options": [
+      "Giraffes",
+      "the tallest",
+      "a",
+      "a height"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Adult\" begins with a vowel sound, so it takes \"an\": \"an adult male.\""
+  },
+  {
+    "id": "P18-d14",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Water {0} at 100 degrees Celsius at {1}, but at {2} top of a high mountain it boils at {3} lower temperature.",
+    "options": [
+      "boils",
+      "the sea level",
+      "the",
+      "a"
+    ],
+    "answerIndex": 1,
+    "explanation": "The fixed expression \"at sea level\" takes no article. \"At the sea level\" is incorrect."
+  },
+  {
+    "id": "P18-d15",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} stretch more than 4,800 kilometers, from {1} British Columbia in Canada to {2} in the {3} United States.",
+    "options": [
+      "Rocky Mountains",
+      "northern",
+      "New Mexico",
+      "southwestern"
+    ],
+    "answerIndex": 0,
+    "explanation": "The names of mountain ranges take \"the\": \"The Rocky Mountains stretch.\" Single mountains, such as Mount Everest, take no article, but ranges do."
+  },
+  {
+    "id": "P18-d16",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Ice floats because it is less dense than {0}, {1} property that allows {2} to survive the winter beneath {3} frozen surface of a lake.",
+    "options": [
+      "liquid water",
+      "a unusual",
+      "fish",
+      "the"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Unusual\" begins with a vowel sound, so it takes \"an\": \"an unusual property.\""
+  }
+]

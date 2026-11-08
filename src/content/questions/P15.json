@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P15-d01",
+    "patternId": "P15",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Some species of bamboo can ____ nearly a meter in a single day.",
+    "options": [
+      "grows",
+      "grow",
+      "growing",
+      "to grow"
+    ],
+    "answerIndex": 1,
+    "explanation": "A modal such as \"can\" is always followed by the base form of a verb: \"can grow.\" Modals never take -s, -ing, or \"to\" after them."
+  },
+  {
+    "id": "P15-d02",
+    "patternId": "P15",
+    "type": "structure",
+    "source": "drill",
+    "stem": "In the Middle Ages, a letter sent from London to Rome could ____ several weeks to arrive.",
+    "options": [
+      "take",
+      "took",
+      "taking",
+      "to take"
+    ],
+    "answerIndex": 0,
+    "explanation": "The modal \"could\" is followed by the base form: \"could take.\" Even when the meaning is past, the verb after a modal does not change to the past tense."
+  },
+  {
+    "id": "P15-d03",
+    "patternId": "P15",
+    "type": "structure",
+    "source": "drill",
+    "stem": "According to the leading hypothesis, the dinosaurs may ____ out after a large asteroid struck the Earth about 66 million years ago.",
+    "options": [
+      "died",
+      "had died",
+      "have died",
+      "be died"
+    ],
+    "answerIndex": 2,
+    "explanation": "To talk about a possibility in the past, use \"modal + have + past participle\": \"may have died.\" A modal cannot be followed by \"died,\" \"had,\" or \"be died.\""
+  },
+  {
+    "id": "P15-d04",
+    "patternId": "P15",
+    "type": "structure",
+    "source": "drill",
+    "stem": "A person who wants to become a licensed pilot ____ pass both a written examination and a flight test.",
+    "options": [
+      "must to",
+      "must",
+      "has",
+      "musting"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Must\" is followed directly by the base form: \"must pass.\" \"Must to\" and \"musting\" do not exist, and \"has\" would need \"to\" (\"has to pass\")."
+  },
+  {
+    "id": "P15-d05",
+    "patternId": "P15",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Ancient Egyptian builders ____ ramps to raise the heavy stones of the pyramids.",
+    "options": [
+      "might used",
+      "might have use",
+      "might using",
+      "might have used"
+    ],
+    "answerIndex": 3,
+    "explanation": "A guess about the past uses \"modal + have + past participle\": \"might have used.\" \"Might used\" and \"might using\" have the wrong verb form, and \"have use\" needs the past participle."
+  },
+  {
+    "id": "P15-d06",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Cacti {0} survive long periods without rain because they {1} water in {2} thick, {3} stems.",
+    "options": [
+      "are able to",
+      "can stored",
+      "their",
+      "fleshy"
+    ],
+    "answerIndex": 1,
+    "explanation": "The modal \"can\" must be followed by the base form: \"can store.\" The past form \"stored\" is incorrect after a modal."
+  },
+  {
+    "id": "P15-d07",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "In most democracies, citizens must {0} at least eighteen years old {1} {2} vote in national {3}.",
+    "options": [
+      "are",
+      "in order",
+      "to",
+      "elections"
+    ],
+    "answerIndex": 0,
+    "explanation": "After the modal \"must,\" the verb \"be\" stays in its base form: \"must be at least eighteen years old.\" \"Must are\" is incorrect."
+  },
+  {
+    "id": "P15-d08",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Freshly poured concrete {0} {1} moist for several days so that it {2} {3} full strength.",
+    "options": [
+      "should",
+      "be kept",
+      "can reaches",
+      "its"
+    ],
+    "answerIndex": 2,
+    "explanation": "A modal is followed by the base form, with no -s ending: \"so that it can reach.\" \"Can reaches\" is incorrect."
+  },
+  {
+    "id": "P15-d09",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Scientists believe that liquid water {0} once {1} across the surface of Mars and that microscopic life {2} have {3} there.",
+    "options": [
+      "may",
+      "have flowed",
+      "might",
+      "exist"
+    ],
+    "answerIndex": 3,
+    "explanation": "A possibility in the past is expressed with \"modal + have + past participle\": \"might have existed.\" After \"have,\" the base form \"exist\" is incorrect."
+  },
+  {
+    "id": "P15-d10",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Before refrigerators were invented, people {0} {1} meat by smoking it or {2} it {3} salt.",
+    "options": [
+      "used to",
+      "preserving",
+      "covering",
+      "with"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Used to\" for a past habit is followed by the base form: \"used to preserve.\" \"Used to preserving\" mixes it up with \"be used to + -ing,\" which means \"be accustomed to.\""
+  }
+]

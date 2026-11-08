@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P13-d01",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "drill",
+    "stem": "If pure water ____ to 100 degrees Celsius at sea level, it boils.",
+    "options": [
+      "is heated",
+      "will be heated",
+      "would be heated",
+      "heating"
+    ],
+    "answerIndex": 0,
+    "explanation": "A general scientific fact uses the zero conditional: present tense in both clauses, so \"If pure water is heated ..., it boils.\" \"Will\" and \"would\" do not belong in this if-clause, and \"heating\" is not a verb."
+  },
+  {
+    "id": "P13-d02",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "drill",
+    "stem": "If the dinosaurs had not become extinct, mammals ____ to dominate the land.",
+    "options": [
+      "will never rise",
+      "had never risen",
+      "might never have risen",
+      "never rising"
+    ],
+    "answerIndex": 2,
+    "explanation": "An unreal condition about the past (\"had not become\") takes \"would/might/could + have + past participle\" in the result clause: \"might never have risen.\" \"Will\" is for real conditions, and \"had risen\" belongs in the if-clause, not the result clause."
+  },
+  {
+    "id": "P13-d03",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "drill",
+    "stem": "If the Earth had no atmosphere, the sky ____ black even during the day.",
+    "options": [
+      "will appear",
+      "would appear",
+      "would have appeared",
+      "appears"
+    ],
+    "answerIndex": 1,
+    "explanation": "An unreal present condition uses the past tense in the if-clause (\"had\") and \"would + base verb\" in the result: \"would appear.\" \"Would have appeared\" refers to the past, and \"will appear\" and \"appears\" are for real conditions."
+  },
+  {
+    "id": "P13-d04",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Many early explorers later wished that they ____ more accurate maps before setting out.",
+    "options": [
+      "have",
+      "will have",
+      "had had",
+      "having"
+    ],
+    "answerIndex": 2,
+    "explanation": "A wish about an earlier past situation uses the past perfect: \"wished that they had had.\" \"Have\" and \"will have\" cannot follow \"wish\" for an unreal past, and \"having\" is not a finite verb."
+  },
+  {
+    "id": "P13-d05",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Most seeds will not germinate ____ they receive enough moisture.",
+    "options": [
+      "without",
+      "otherwise",
+      "in case of",
+      "unless"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Unless\" means \"if not\" and introduces a clause with a subject and verb: \"unless they receive enough moisture.\" \"Without\" and \"in case of\" must be followed by a noun phrase, and \"otherwise\" is an adverb, not a conjunction."
+  },
+  {
+    "id": "P13-d06",
+    "patternId": "P13",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "If the Panama Canal {0} not been built, ships sailing from New York to San Francisco {1} {2} around the southern tip {3} South America.",
+    "options": [
+      "had",
+      "will have had",
+      "to travel",
+      "of"
+    ],
+    "answerIndex": 1,
+    "explanation": "An unreal past condition (\"had not been built\") requires \"would + have + past participle\" in the result clause: \"would have had to travel.\" \"Will\" is used only for real conditions."
+  },
+  {
+    "id": "P13-d07",
+    "patternId": "P13",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "If bees {0} to {1}, many flowering plants {2} have difficulty {3} pollinated.",
+    "options": [
+      "were",
+      "disappear",
+      "will",
+      "being"
+    ],
+    "answerIndex": 2,
+    "explanation": "An imagined future condition with \"were to\" takes \"would\" in the result clause: \"many flowering plants would have difficulty.\" \"Will\" does not match the unreal condition."
+  },
+  {
+    "id": "P13-d08",
+    "patternId": "P13",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "If the Earth {0} faster on its axis, days {1} {2} shorter than {3} are now.",
+    "options": [
+      "will rotate",
+      "would be",
+      "much",
+      "they"
+    ],
+    "answerIndex": 0,
+    "explanation": "An unreal present condition uses the past tense in the if-clause: \"If the Earth rotated faster.\" \"Will\" is not used in an if-clause of this kind."
+  },
+  {
+    "id": "P13-d09",
+    "patternId": "P13",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Many adults wish that they {0} {1} a second language {2} they were {3}.",
+    "options": [
+      "have",
+      "learned",
+      "when",
+      "young"
+    ],
+    "answerIndex": 0,
+    "explanation": "A wish about the past uses the past perfect: \"wish that they had learned.\" \"Have learned\" is not used after \"wish\" for an unreal past situation."
+  },
+  {
+    "id": "P13-d10",
+    "patternId": "P13",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "If the Titanic {0} enough {1} for everyone on board, {2} passengers {3} survived.",
+    "options": [
+      "had carried",
+      "lifeboats",
+      "many more",
+      "might had"
+    ],
+    "answerIndex": 3,
+    "explanation": "The result clause of an unreal past condition is \"modal + have + past participle\": \"might have survived.\" A modal is always followed by the base form \"have,\" never \"had.\""
+  }
+]
