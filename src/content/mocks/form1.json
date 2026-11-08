@@ -1,0 +1,642 @@
+[
+  {
+    "id": "M1-01",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Although the koala resembles a bear, ____ actually a marsupial closely related to the wombat.",
+    "options": [
+      "it is",
+      "is",
+      "being",
+      "which is"
+    ],
+    "answerIndex": 0,
+    "explanation": "The main clause after the \"Although\" clause needs both a subject and a verb, which \"it is\" provides. \"Is\" lacks a subject, and \"being\" and \"which is\" do not form a main clause.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-02",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "mock",
+    "stem": "In 1848, ____ at Sutter's Mill in California set off a rush of prospectors to the West.",
+    "options": [
+      "discovered gold",
+      "the discovery of gold",
+      "gold was discovered",
+      "was the discovery of gold"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verb \"set off\" needs a noun subject, and \"the discovery of gold\" is a noun phrase. \"Gold was discovered\" would add a second verb without a connector.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-03",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The extent to which human activity influences regional weather patterns ____ a subject of ongoing research.",
+    "options": [
+      "remain",
+      "are remaining",
+      "remains",
+      "have remained"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject is \"The extent,\" which is singular, so the verb is \"remains.\" The plural \"patterns\" is the last noun before the blank, but it belongs to the adjective clause.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-04",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "mock",
+    "stem": "By the time the Panama Canal opened in 1914, American engineers ____ on the project for a decade.",
+    "options": [
+      "have worked",
+      "were working",
+      "are working",
+      "had been working"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"By the time\" + a past event, together with \"for a decade,\" calls for the past perfect progressive, \"had been working.\" The present perfect \"have worked\" does not fit a past time frame.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-05",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The Mohs scale, ____ minerals are ranked according to their hardness, was devised by Friedrich Mohs in 1812.",
+    "options": [
+      "which",
+      "that",
+      "by which",
+      "which it"
+    ],
+    "answerIndex": 2,
+    "explanation": "The clause \"minerals are ranked ...\" is complete, so the relative pronoun must follow a preposition: \"by which.\" \"Which\" and \"that\" would need a missing subject or object, and \"that\" cannot begin a clause set off by commas.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-06",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Scientists have long debated ____ in the evolution of human intelligence.",
+    "options": [
+      "what role language played",
+      "what role did language play",
+      "language played what role",
+      "which language role played"
+    ],
+    "answerIndex": 0,
+    "explanation": "The object of \"debated\" is a noun clause, which uses statement word order: \"what role language played.\" \"What role did language play\" is question word order.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-07",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ glass is hard and rigid, it lacks the orderly crystal structure found in most solids.",
+    "options": [
+      "Despite",
+      "However",
+      "Even",
+      "Although"
+    ],
+    "answerIndex": 3,
+    "explanation": "A full clause (\"glass is hard and rigid\") must be introduced by a subordinating conjunction such as \"Although.\" \"Despite\" must be followed by a noun phrase, and \"However\" and \"Even\" cannot join two clauses.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-08",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ by the Spanish in the sixteenth century, the potato soon became a staple food throughout Europe.",
+    "options": [
+      "Introducing to Europe",
+      "Introduced to Europe",
+      "It was introduced to Europe",
+      "Having introduced to Europe"
+    ],
+    "answerIndex": 1,
+    "explanation": "The potato was introduced by the Spanish, so a past participle phrase, \"Introduced to Europe,\" is needed. The -ing forms are active, and \"It was introduced\" creates a comma splice.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-09",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Mount Kilimanjaro, ____, rises nearly 5,900 meters above sea level.",
+    "options": [
+      "is the highest peak in Africa",
+      "which the highest peak in Africa",
+      "the highest peak in Africa",
+      "it is the highest peak in Africa"
+    ],
+    "answerIndex": 2,
+    "explanation": "The phrase between the commas is an appositive, a noun phrase that renames the subject. Adding \"is\" or \"it is\" creates an extra verb, and \"which\" without a verb is incomplete.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-10",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The blue whale is ____ animal known to have ever existed.",
+    "options": [
+      "more large",
+      "larger",
+      "the larger",
+      "the largest"
+    ],
+    "answerIndex": 3,
+    "explanation": "The blue whale is compared with all animals, so the superlative \"the largest\" is required. \"Larger\" is used for two things, and \"more large\" is not the correct form.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-11",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Only after the invention of the microscope ____ able to observe individual cells.",
+    "options": [
+      "were scientists",
+      "scientists were",
+      "scientists they were",
+      "were scientists who"
+    ],
+    "answerIndex": 0,
+    "explanation": "When a sentence begins with \"Only after,\" the subject and verb are inverted: \"were scientists.\" Normal order, \"scientists were,\" is wrong after this expression.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-12",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "mock",
+    "stem": "If the Earth's axis were not tilted, there ____ no seasons.",
+    "options": [
+      "will be",
+      "would be",
+      "would have been",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Were\" in the if-clause marks an unreal present condition, so the result clause uses \"would\" + base verb: \"would be.\" \"Would have been\" is for unreal past conditions.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-13",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Early aviators had difficulty ____ aircraft that were both light and strong.",
+    "options": [
+      "to build",
+      "build",
+      "built",
+      "building"
+    ],
+    "answerIndex": 3,
+    "explanation": "The expression \"have difficulty\" is followed by a gerund, so \"building\" is correct. \"To build\" is a common trap, but it does not follow this expression.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-14",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The economist argued that the policy would harm not only consumers ____ small businesses.",
+    "options": [
+      "and also",
+      "as well",
+      "but also",
+      "or"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Not only\" must be paired with \"but also.\" \"And also\" and \"as well\" do not complete this paired conjunction.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-15",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Egyptian pharaohs had their tombs ____ with scenes of daily life and religious ritual.",
+    "options": [
+      "decorated",
+      "decorate",
+      "decorating",
+      "to decorate"
+    ],
+    "answerIndex": 0,
+    "explanation": "In the causative \"have + object + past participle,\" the object receives the action, so \"had their tombs decorated\" is correct. The tombs did not decorate anything, so the base form and -ing form are wrong.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-16",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Halley's Comet, {0} {1} from Earth about every seventy-six years, {2} {3} in 1986.",
+    "options": [
+      "which",
+      "is visible",
+      "it was",
+      "last seen"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject \"Halley's Comet\" already exists, so \"it\" creates a double subject. The main verb should be \"was last seen\" without \"it.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-17",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The theory {0} the continents {1} as a single landmass {2} {3} most geologists for decades.",
+    "options": [
+      "that",
+      "were once joined",
+      "were",
+      "rejected by"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subject is the singular noun \"theory,\" so the main verb must be \"was rejected.\" The plural \"continents\" belongs to the noun clause explaining the theory.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-18",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Not until recently {0} the effects of microplastics {1} marine life {2} {3} in detail.",
+    "options": [
+      "has",
+      "on",
+      "been",
+      "studied"
+    ],
+    "answerIndex": 0,
+    "explanation": "In this inverted sentence, the subject is the plural \"the effects,\" so the auxiliary must be \"have,\" not \"has.\" The inversion after \"Not until\" is correct.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-19",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "When the Titanic sank in April 1912, it {0} at sea for {1} five days, {2} Southampton {3} April 10.",
+    "options": [
+      "has been",
+      "fewer than",
+      "having left",
+      "on"
+    ],
+    "answerIndex": 0,
+    "explanation": "The ship had been at sea before a past event (sinking in 1912), so the past perfect \"had been\" is required. The present perfect \"has been\" cannot describe a period that ended in the past.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-20",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Since the early 1990s, {0} planets {1} stars other than the Sun {2} {3} astronomers.",
+    "options": [
+      "thousands of",
+      "orbiting",
+      "were identified",
+      "by"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Since the early 1990s\" describes a period that continues to the present, so the present perfect is needed: \"have been identified.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-21",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Rubber, {0} {1} from the sap of certain tropical trees, {2} {3} eighteenth-century Europe to erase pencil marks.",
+    "options": [
+      "which",
+      "is obtained",
+      "was using",
+      "in"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rubber was used by people, so the verb must be passive: \"was used.\" \"Was using\" is active and would mean that rubber did the using.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-22",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Inuit, {0} have lived in the Arctic for thousands of years, {1} tools and clothing {2} {3} extreme cold.",
+    "options": [
+      "whom",
+      "developed",
+      "suited",
+      "to"
+    ],
+    "answerIndex": 0,
+    "explanation": "The relative pronoun is the subject of \"have lived,\" so it must be the subject form \"who,\" not the object form \"whom.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-23",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The cheetah is {0} for its {1} speed, its {2}, and {3} eyesight.",
+    "options": [
+      "known",
+      "remarkable",
+      "agility",
+      "it has keen"
+    ],
+    "answerIndex": 3,
+    "explanation": "Items in a series must be parallel. The first two items are noun phrases (\"its remarkable speed,\" \"its agility\"), so the third should be \"its keen eyesight,\" not a clause.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-24",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The poetry of Emily Dickinson is {0}, {1}, and {2} {3}.",
+    "options": [
+      "brief",
+      "intensely",
+      "often",
+      "surprising"
+    ],
+    "answerIndex": 1,
+    "explanation": "The series describes the poetry after \"is,\" so all items must be adjectives: \"brief, intense, and often surprising.\" \"Intensely\" is an adverb and breaks the parallel structure.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-25",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Ancient Romans built roads {0} armies quickly, {1} goods, and {2} taxes from {3} provinces.",
+    "options": [
+      "to move",
+      "to transport",
+      "for collecting",
+      "distant"
+    ],
+    "answerIndex": 2,
+    "explanation": "The purposes in this series are infinitives (\"to move,\" \"to transport\"), so the third must also be an infinitive: \"to collect.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-26",
+    "patternId": "P11",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "{0} Mercury is {1} to the Sun, Venus is {2} than {3} in the solar system.",
+    "options": [
+      "Even though",
+      "closer",
+      "hotter",
+      "any planet"
+    ],
+    "answerIndex": 3,
+    "explanation": "Venus is itself a planet, so the comparison must exclude it: \"than any other planet.\" Without \"other,\" the sentence says that Venus is hotter than itself.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-27",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Visitors to the national park must {0} a permit before {1} {2} {3} areas.",
+    "options": [
+      "to obtain",
+      "camping",
+      "in",
+      "remote"
+    ],
+    "answerIndex": 0,
+    "explanation": "A modal such as \"must\" is followed by the base form of the verb, so \"must obtain\" is correct. \"Camping\" is correct because \"before\" is a preposition here and takes a gerund.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-28",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Charles Darwin shared {0} ideas about natural selection with {1} colleagues before {2} {3} On the Origin of Species.",
+    "options": [
+      "his",
+      "few",
+      "him",
+      "published"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Before\" introduces a clause here, and the subject of \"published\" must be the subject pronoun \"he,\" not the object pronoun \"him.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-29",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "When a chameleon changes color, {0} does so {1} to regulate {2} body temperature and {3} other chameleons.",
+    "options": [
+      "it",
+      "mainly",
+      "their",
+      "to signal"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pronoun refers to \"a chameleon,\" which is singular and not a person, so it must be \"its.\" \"Their\" would need a plural antecedent.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-30",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Coral reefs provide shelter for {0} {1} of fish {2} {3} animals.",
+    "options": [
+      "thousands of",
+      "kind",
+      "and other",
+      "marine"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Kind\" is a countable noun, and after \"thousands of\" it must be plural: \"kinds.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-31",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "{0} is {1} hot desert in {2}, covering {3} North Africa.",
+    "options": [
+      "The Sahara",
+      "a largest",
+      "the world",
+      "much of"
+    ],
+    "answerIndex": 1,
+    "explanation": "A superlative such as \"largest\" requires the definite article \"the,\" not \"a.\" The correct phrase is \"the largest hot desert.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-32",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The {0} of oil {1} Beaumont, Texas, in 1901 {2} the state's economy {3} a decade.",
+    "options": [
+      "discover",
+      "near",
+      "transformed",
+      "within"
+    ],
+    "answerIndex": 0,
+    "explanation": "After \"The\" and before \"of,\" a noun is needed, so the verb \"discover\" must be the noun \"discovery.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-33",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Many {0} consider the printing press {1} influential invention {2} the history of {3}.",
+    "options": [
+      "historians",
+      "the most",
+      "in",
+      "communicate"
+    ],
+    "answerIndex": 3,
+    "explanation": "The object of the preposition \"of\" must be a noun, so the verb \"communicate\" should be \"communication.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-34",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The architect Frank Lloyd Wright {0} that buildings should exist in {1} with their {2} {3}.",
+    "options": [
+      "believed",
+      "harmonious",
+      "natural",
+      "surroundings"
+    ],
+    "answerIndex": 1,
+    "explanation": "After the preposition \"in,\" a noun is required, so the adjective \"harmonious\" must be \"harmony.\" The phrase \"in harmony with\" is the correct expression.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-35",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The deep blue color of the Hope Diamond {0} by {1} {2} amounts {3} boron.",
+    "options": [
+      "is caused",
+      "extreme",
+      "small",
+      "of"
+    ],
+    "answerIndex": 1,
+    "explanation": "A word that modifies the adjective \"small\" must be an adverb, so \"extreme\" should be \"extremely.\" \"Small\" is correct because it modifies the noun \"amounts.\"",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-36",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Hummingbirds {0} hover {1} place by {2} their wings {3} fast.",
+    "options": [
+      "can",
+      "in",
+      "beating",
+      "extraordinary"
+    ],
+    "answerIndex": 3,
+    "explanation": "The word modifies the adverb \"fast,\" so it must itself be an adverb: \"extraordinarily.\" An adjective cannot modify an adverb.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-37",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Although the desert {0} {1} during the day, many animals {2} active {3} night.",
+    "options": [
+      "seems",
+      "lifelessly",
+      "become",
+      "at"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Seems\" is a linking verb, so it is followed by an adjective that describes the subject: \"seems lifeless.\" An adverb cannot follow a linking verb in this way.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-38",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The development of the polio vaccine in the 1950s was {0} {1} {2} years of {3} research.",
+    "options": [
+      "largely",
+      "the result",
+      "from",
+      "careful"
+    ],
+    "answerIndex": 2,
+    "explanation": "The fixed expression is \"the result of,\" not \"the result from.\" \"Result from\" is used only when \"result\" is a verb.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-39",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Engineers from {0} countries {1} {2} to {3} the International Space Station.",
+    "options": [
+      "many",
+      "cooperated",
+      "together",
+      "build"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Cooperate\" already means \"work together,\" so \"together\" is redundant and should be removed.",
+    "mockForm": 1
+  },
+  {
+    "id": "M1-40",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "During the 1960s, {0} scientists {1} {2} the pesticide DDT {3}.",
+    "options": [
+      "many",
+      "urged",
+      "that",
+      "is banned"
+    ],
+    "answerIndex": 3,
+    "explanation": "After verbs of urging or recommending followed by \"that,\" formal English uses the subjunctive, the base form of the verb: \"be banned.\" \"Is banned\" is the ordinary present tense.",
+    "mockForm": 1
+  }
+]

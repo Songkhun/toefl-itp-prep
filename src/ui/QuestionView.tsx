@@ -5,7 +5,7 @@ const LETTERS = 'ABCD';
 export function Stem({ q }: { q: Question }) {
   if (q.type === 'structure') {
     const [before, after] = q.stem.split('____');
-    return <p className="stem">{before}<span className="blank" aria-label="blank">______</span>{after}</p>;
+    return <p className="stem">{before}<span className="blank" aria-label="blank">{"\u00a0".repeat(10)}</span>{after}</p>;
   }
   const parts = q.stem.split(/\{([0-3])\}/);
   return (

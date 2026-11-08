@@ -80,3 +80,12 @@ describe('ReviewList', () => {
     expect(screen.getByText(/No answer/)).toBeInTheDocument();
   });
 });
+
+import { Stem } from '../../src/ui/QuestionView';
+describe('Stem', () => {
+  it('renders the structure blank as a single styled gap, not underscore characters', () => {
+    const { container } = render(<Stem q={s(1)} />);
+    expect(container.textContent).not.toContain('_');
+    expect(container.querySelector('.blank')).not.toBeNull();
+  });
+});

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P06-d01",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ the dinosaurs became extinct is still debated by scientists.",
+    "options": [
+      "Why",
+      "Because",
+      "Why did",
+      "That why"
+    ],
+    "answerIndex": 0,
+    "explanation": "The subject of \"is\" must be a noun clause, and \"Why the dinosaurs became extinct\" is one. \"Because\" makes an adverb clause, which cannot be a subject, and \"Why did\" uses question word order inside a noun clause."
+  },
+  {
+    "id": "P06-d02",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Archaeologists do not know exactly ____ the statues on Easter Island.",
+    "options": [
+      "how moved the islanders",
+      "how did the islanders move",
+      "how the islanders moved",
+      "the islanders moved how"
+    ],
+    "answerIndex": 2,
+    "explanation": "A noun clause uses statement word order, subject before verb: \"how the islanders moved.\" \"How did the islanders move\" is question word order, which is wrong inside a sentence."
+  },
+  {
+    "id": "P06-d03",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ the Earth revolves around the Sun was not widely accepted until the seventeenth century.",
+    "options": [
+      "What",
+      "Since",
+      "It is",
+      "That"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"That\" turns the complete statement \"the Earth revolves around the Sun\" into a noun clause that can be the subject of \"was.\" \"What\" needs a missing subject or object in its clause, and \"Since\" makes an adverb clause."
+  },
+  {
+    "id": "P06-d04",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Economists study ____ affects consumer spending during a recession.",
+    "options": [
+      "it",
+      "what",
+      "that it",
+      "which it"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"What\" introduces a noun clause and also acts as the subject of \"affects.\" The other choices add a pronoun such as \"it\" or do not form a correct noun clause."
+  },
+  {
+    "id": "P06-d05",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The question of ____ life exists on other planets has fascinated scientists for centuries.",
+    "options": [
+      "that",
+      "whether",
+      "what",
+      "which"
+    ],
+    "answerIndex": 1,
+    "explanation": "After a preposition, a yes/no noun clause is introduced by \"whether.\" \"That\" cannot follow a preposition, and \"what\" and \"which\" need a missing element in the clause."
+  },
+  {
+    "id": "P06-d06",
+    "patternId": "P06",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Scientists {0} determine {1} {2} {3} radiometric dating.",
+    "options": [
+      "cannot",
+      "how old",
+      "is the fossil",
+      "without"
+    ],
+    "answerIndex": 2,
+    "explanation": "A noun clause uses statement word order, so it should be \"how old the fossil is.\" \"Is the fossil\" is question word order."
+  },
+  {
+    "id": "P06-d07",
+    "patternId": "P06",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} the universe {1} {2} supported {3} Edwin Hubble's observations in 1929.",
+    "options": [
+      "That",
+      "is expanding",
+      "were",
+      "by"
+    ],
+    "answerIndex": 2,
+    "explanation": "A noun clause used as a subject is singular, so the verb must be \"was supported.\" The clause \"That the universe is expanding\" is one idea, not a plural noun."
+  },
+  {
+    "id": "P06-d08",
+    "patternId": "P06",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Historians disagree about {0} {1} the decline of the Maya civilization and {2} {3} so sudden.",
+    "options": [
+      "what",
+      "caused",
+      "why",
+      "was it"
+    ],
+    "answerIndex": 3,
+    "explanation": "Inside a noun clause, the subject comes before the verb, so \"why was it\" should be \"why it was.\" \"What caused\" is correct because \"what\" is the subject of that clause."
+  },
+  {
+    "id": "P06-d09",
+    "patternId": "P06",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} {1} many birds {2} at night {3} confirmed by radar studies.",
+    "options": [
+      "The fact",
+      "which",
+      "migrate",
+      "was"
+    ],
+    "answerIndex": 1,
+    "explanation": "A noun clause that explains \"the fact\" is introduced by \"that,\" not \"which.\" \"Which\" would need a missing subject or object in the clause, but \"many birds migrate at night\" is complete."
+  },
+  {
+    "id": "P06-d10",
+    "patternId": "P06",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} Neanderthals {1} spoken language {2} still debated {3} scientists.",
+    "options": [
+      "If",
+      "used",
+      "is",
+      "among"
+    ],
+    "answerIndex": 0,
+    "explanation": "A noun clause used as the subject of a sentence must begin with \"Whether,\" not \"If.\" \"If\" can introduce an adverb clause, but not a subject clause."
+  }
+]

@@ -72,7 +72,7 @@ export function VocabSession({ onDone }: { onDone: () => void }) {
         <button className="primary" onClick={() => setRevealed(true)}>Show answer</button>
       ) : (
         <>
-          <div className="big">{word.headword}</div>
+          {kind !== 'word-to-meaning' && <div className="big">{word.headword}</div>}
           <p>{word.definition}</p>
           {word.examples.map((e) => <p key={e} className="muted">“{e}”</p>)}
           {word.forms.length > 0 && <p className="muted">Family: {word.forms.join(', ')}</p>}
