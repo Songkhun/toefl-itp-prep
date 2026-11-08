@@ -1,7 +1,7 @@
 [
   {
     "id": "w-analyse",
-    "headword": "analyse",
+    "headword": "analyze",
     "pos": "verb",
     "definition": "to examine something carefully in order to understand it",
     "examples": [
@@ -9,10 +9,10 @@
       "A careful analysis of the data revealed a seasonal pattern."
     ],
     "forms": [
-      "analyze",
       "analyzed",
       "analysis",
-      "analytical"
+      "analytical",
+      "analyse"
     ],
     "sublist": 1
   },
@@ -556,7 +556,7 @@
   },
   {
     "id": "w-labour",
-    "headword": "labour",
+    "headword": "labor",
     "pos": "noun",
     "definition": "work, especially physical work; also workers as a group",
     "examples": [
@@ -564,9 +564,9 @@
       "Copying books by hand was a slow and laborious process."
     ],
     "forms": [
-      "labor",
       "laborer",
-      "laborious"
+      "laborious",
+      "labour"
     ],
     "sublist": 1
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "id": "w-maximise",
-    "headword": "maximise",
+    "headword": "maximize",
     "pos": "verb",
     "definition": "to make something as large or great as possible",
     "examples": [
@@ -2445,9 +2445,9 @@
       "The maximum depth of the Pacific Ocean is nearly eleven kilometers."
     ],
     "forms": [
-      "maximize",
       "maximum",
-      "maximal"
+      "maximal",
+      "maximise"
     ],
     "sublist": 3
   },
@@ -4592,5 +4592,2245 @@
       "whereas"
     ],
     "sublist": 5
+  },
+  {
+    "id": "w-abstract",
+    "headword": "abstract",
+    "pos": "adjective",
+    "definition": "based on general ideas rather than real, physical things",
+    "examples": [
+      "Mathematics often deals with abstract ideas such as infinity.",
+      "Abstract art does not try to show objects as they really look."
+    ],
+    "forms": [
+      "abstraction",
+      "abstractions"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-accurate",
+    "headword": "accurate",
+    "pos": "adjective",
+    "definition": "correct and exact, without mistakes",
+    "examples": [
+      "Accurate maps are essential for safe navigation.",
+      "Modern satellites measure the height of mountains with great accuracy."
+    ],
+    "forms": [
+      "accurately",
+      "accuracy",
+      "inaccurate"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-acknowledge",
+    "headword": "acknowledge",
+    "pos": "verb",
+    "definition": "to accept or admit that something is true or exists",
+    "examples": [
+      "Scientists now acknowledge that the climate is changing.",
+      "The author acknowledged the help of many colleagues in the preface."
+    ],
+    "forms": [
+      "acknowledged",
+      "acknowledgment",
+      "acknowledgement"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-aggregate",
+    "headword": "aggregate",
+    "pos": "noun",
+    "definition": "a total formed by combining several separate amounts",
+    "examples": [
+      "Economists study the aggregate demand for goods in a whole economy.",
+      "Concrete is made by mixing cement with an aggregate such as sand or gravel."
+    ],
+    "forms": [
+      "aggregates",
+      "aggregation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-allocate",
+    "headword": "allocate",
+    "pos": "verb",
+    "definition": "to give a share of something for a particular purpose",
+    "examples": [
+      "The government allocated funds for new schools.",
+      "The allocation of water between farms and cities is often debated."
+    ],
+    "forms": [
+      "allocated",
+      "allocation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-assign",
+    "headword": "assign",
+    "pos": "verb",
+    "definition": "to give someone a task or a role",
+    "examples": [
+      "Each student was assigned a different research topic.",
+      "The professor collected the assignments on Friday."
+    ],
+    "forms": [
+      "assigned",
+      "assignment",
+      "assignments"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-attach",
+    "headword": "attach",
+    "pos": "verb",
+    "definition": "to fasten or join one thing to another",
+    "examples": [
+      "Barnacles attach themselves to rocks and the hulls of ships.",
+      "Infants form a strong attachment to their caregivers."
+    ],
+    "forms": [
+      "attached",
+      "attachment"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-author",
+    "headword": "author",
+    "pos": "noun",
+    "definition": "the writer of a book, article, or other text",
+    "examples": [
+      "The author of the report recommended stricter safety rules.",
+      "Mark Twain authored novels about life along the Mississippi River."
+    ],
+    "forms": [
+      "authors",
+      "authored",
+      "authorship"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-bond",
+    "headword": "bond",
+    "pos": "noun",
+    "definition": "a strong connection; a force that holds atoms together",
+    "examples": [
+      "A water molecule contains two bonds between hydrogen and oxygen atoms.",
+      "Many animals form strong bonds with their offspring."
+    ],
+    "forms": [
+      "bonds",
+      "bonding"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-brief",
+    "headword": "brief",
+    "pos": "adjective",
+    "definition": "lasting only a short time; using few words",
+    "examples": [
+      "The speaker gave a brief summary of the results.",
+      "Total solar eclipses are brief, usually lasting only a few minutes."
+    ],
+    "forms": [
+      "briefly",
+      "brevity"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-capable",
+    "headword": "capable",
+    "pos": "adjective",
+    "definition": "having the ability or power to do something",
+    "examples": [
+      "Some parrots are capable of learning hundreds of words.",
+      "The new telescope has the capability to detect very faint galaxies."
+    ],
+    "forms": [
+      "capability",
+      "capabilities",
+      "incapable"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-cite",
+    "headword": "cite",
+    "pos": "verb",
+    "definition": "to mention something as an example or as a source of information",
+    "examples": [
+      "Researchers must cite the sources of their data.",
+      "The court case is often cited as a turning point in civil rights history."
+    ],
+    "forms": [
+      "cited",
+      "citation",
+      "citations"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-cooperate",
+    "headword": "cooperate",
+    "pos": "verb",
+    "definition": "to work together toward a shared goal",
+    "examples": [
+      "Several countries cooperated to build the International Space Station.",
+      "Wolves hunt large prey through close cooperation."
+    ],
+    "forms": [
+      "cooperated",
+      "cooperation",
+      "cooperative"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-discriminate",
+    "headword": "discriminate",
+    "pos": "verb",
+    "definition": "to treat people unfairly because of their group; to see a difference",
+    "examples": [
+      "Laws in many countries make it illegal to discriminate against workers because of their age.",
+      "Bats can discriminate between objects of slightly different sizes."
+    ],
+    "forms": [
+      "discrimination",
+      "discriminated"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-display",
+    "headword": "display",
+    "pos": "verb",
+    "definition": "to show something so that people can see it",
+    "examples": [
+      "Museums display only a small part of their collections.",
+      "Male peacocks display their tail feathers to attract mates."
+    ],
+    "forms": [
+      "displayed",
+      "displays"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-diverse",
+    "headword": "diverse",
+    "pos": "adjective",
+    "definition": "very different from one another; of many kinds",
+    "examples": [
+      "Rain forests contain a diverse range of plant and animal life.",
+      "The diversity of languages in Papua New Guinea is remarkable."
+    ],
+    "forms": [
+      "diversity",
+      "diversify"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-domain",
+    "headword": "domain",
+    "pos": "noun",
+    "definition": "an area of knowledge or activity; an area controlled by a ruler",
+    "examples": [
+      "Medical ethics is a complex domain of study.",
+      "The king's domain stretched from the mountains to the sea."
+    ],
+    "forms": [
+      "domains"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-edit",
+    "headword": "edit",
+    "pos": "verb",
+    "definition": "to correct and prepare a text for publication",
+    "examples": [
+      "She edited the journal for more than twenty years.",
+      "The second edition of the dictionary contained thousands of new words."
+    ],
+    "forms": [
+      "edited",
+      "editor",
+      "edition"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-enhance",
+    "headword": "enhance",
+    "pos": "verb",
+    "definition": "to improve the quality or value of something",
+    "examples": [
+      "Regular exercise can enhance memory and concentration.",
+      "The enhancement of the image revealed details that had been invisible."
+    ],
+    "forms": [
+      "enhanced",
+      "enhancement"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-estate",
+    "headword": "estate",
+    "pos": "noun",
+    "definition": "a large area of land owned by one person or family; all the property a person owns",
+    "examples": [
+      "The family owned a large estate in the countryside.",
+      "After his death, his estate was divided among his children."
+    ],
+    "forms": [
+      "estates"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-exceed",
+    "headword": "exceed",
+    "pos": "verb",
+    "definition": "to be greater than a particular number or amount",
+    "examples": [
+      "Temperatures in the desert can exceed 50 degrees Celsius.",
+      "Drivers who exceed the speed limit may be fined."
+    ],
+    "forms": [
+      "exceeded",
+      "excess",
+      "excessive"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-expert",
+    "headword": "expert",
+    "pos": "noun",
+    "definition": "a person with special knowledge or skill in a subject",
+    "examples": [
+      "Experts disagree about the age of the cave paintings.",
+      "The museum relied on the expertise of local historians."
+    ],
+    "forms": [
+      "experts",
+      "expertise"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-explicit",
+    "headword": "explicit",
+    "pos": "adjective",
+    "definition": "stated clearly and directly",
+    "examples": [
+      "The instructions were explicit about the safety equipment required.",
+      "The constitution explicitly protects freedom of speech."
+    ],
+    "forms": [
+      "explicitly"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-federal",
+    "headword": "federal",
+    "pos": "adjective",
+    "definition": "relating to the central government of a country made up of states",
+    "examples": [
+      "The United States has a federal system of government.",
+      "Federal laws apply in every state."
+    ],
+    "forms": [
+      "federation",
+      "federalism"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-fee",
+    "headword": "fee",
+    "pos": "noun",
+    "definition": "an amount of money paid for a service or to join something",
+    "examples": [
+      "Many national parks charge an entrance fee.",
+      "University tuition fees have risen in many countries."
+    ],
+    "forms": [
+      "fees"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-flexible",
+    "headword": "flexible",
+    "pos": "adjective",
+    "definition": "able to bend easily; able to change to suit new conditions",
+    "examples": [
+      "Rubber is a flexible material.",
+      "Many employers now offer greater flexibility in working hours."
+    ],
+    "forms": [
+      "flexibility",
+      "inflexible"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-furthermore",
+    "headword": "furthermore",
+    "pos": "adverb",
+    "definition": "in addition; used to add another point",
+    "examples": [
+      "The plan is expensive. Furthermore, it would take years to complete.",
+      "Furthermore, the study found no link between the two diseases."
+    ],
+    "forms": [],
+    "sublist": 6
+  },
+  {
+    "id": "w-gender",
+    "headword": "gender",
+    "pos": "noun",
+    "definition": "the state of being male or female, especially in social and cultural terms",
+    "examples": [
+      "The survey asked about age, gender, and education.",
+      "In some languages, every noun has a grammatical gender."
+    ],
+    "forms": [
+      "genders"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-ignorant",
+    "headword": "ignorant",
+    "pos": "adjective",
+    "definition": "lacking knowledge or information about something",
+    "examples": [
+      "Early doctors were ignorant of the role of germs in disease.",
+      "Ignorance of the law is not usually accepted as an excuse."
+    ],
+    "forms": [
+      "ignorance",
+      "ignore",
+      "ignored"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-incentive",
+    "headword": "incentive",
+    "pos": "noun",
+    "definition": "something that encourages a person to do something",
+    "examples": [
+      "Tax breaks give companies an incentive to invest.",
+      "Higher wages are an incentive for workers to stay."
+    ],
+    "forms": [
+      "incentives"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-incidence",
+    "headword": "incidence",
+    "pos": "noun",
+    "definition": "how often something happens, especially something bad",
+    "examples": [
+      "The incidence of malaria has fallen in many regions.",
+      "Researchers studied the incidence of heart disease among older adults."
+    ],
+    "forms": [],
+    "sublist": 6
+  },
+  {
+    "id": "w-incorporate",
+    "headword": "incorporate",
+    "pos": "verb",
+    "definition": "to include something as part of a larger whole",
+    "examples": [
+      "The new design incorporates solar panels into the roof.",
+      "Roman architecture incorporated many Greek ideas."
+    ],
+    "forms": [
+      "incorporated",
+      "incorporation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-index",
+    "headword": "index",
+    "pos": "noun",
+    "definition": "an alphabetical list of topics at the end of a book; a number that shows a level or change",
+    "examples": [
+      "The index lists every person mentioned in the book.",
+      "The consumer price index measures changes in the cost of living."
+    ],
+    "forms": [
+      "indexes",
+      "indices",
+      "indexed"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-inhibit",
+    "headword": "inhibit",
+    "pos": "verb",
+    "definition": "to slow down or prevent a process",
+    "examples": [
+      "Cold temperatures inhibit the growth of bacteria.",
+      "Some medicines work by inhibiting certain enzymes."
+    ],
+    "forms": [
+      "inhibited",
+      "inhibiting",
+      "inhibition"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-initiate",
+    "headword": "initiate",
+    "pos": "verb",
+    "definition": "to start something",
+    "examples": [
+      "The government initiated a program to plant millions of trees.",
+      "The president took the initiative in the peace talks."
+    ],
+    "forms": [
+      "initiated",
+      "initiative",
+      "initiation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-input",
+    "headword": "input",
+    "pos": "noun",
+    "definition": "information, energy, or materials that are put into a system",
+    "examples": [
+      "The committee asked for input from local residents.",
+      "Plants convert an input of light energy into chemical energy."
+    ],
+    "forms": [
+      "inputs"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-instruct",
+    "headword": "instruct",
+    "pos": "verb",
+    "definition": "to teach someone or to tell someone what to do",
+    "examples": [
+      "Pilots are instructed to check their instruments before every flight.",
+      "The course offers instruction in several languages."
+    ],
+    "forms": [
+      "instructed",
+      "instruction",
+      "instructions",
+      "instructor"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-intelligence",
+    "headword": "intelligence",
+    "pos": "noun",
+    "definition": "the ability to learn, understand, and think",
+    "examples": [
+      "Dolphins are known for their intelligence.",
+      "Psychologists have long debated how to measure intelligence."
+    ],
+    "forms": [
+      "intelligent"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-interval",
+    "headword": "interval",
+    "pos": "noun",
+    "definition": "a period of time between two events",
+    "examples": [
+      "The geyser erupts at regular intervals.",
+      "Blood samples were taken at intervals of two hours."
+    ],
+    "forms": [
+      "intervals"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-lecture",
+    "headword": "lecture",
+    "pos": "noun",
+    "definition": "a formal talk given to teach people about a subject",
+    "examples": [
+      "The professor gave a lecture on the history of medicine.",
+      "She has lectured at universities around the world."
+    ],
+    "forms": [
+      "lectures",
+      "lectured",
+      "lecturer"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-migrate",
+    "headword": "migrate",
+    "pos": "verb",
+    "definition": "to move from one region to another, often with the seasons",
+    "examples": [
+      "Many birds migrate south for the winter.",
+      "The migration of monarch butterflies covers thousands of kilometers."
+    ],
+    "forms": [
+      "migrated",
+      "migration",
+      "migrant",
+      "migratory"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-minimum",
+    "headword": "minimum",
+    "pos": "noun",
+    "definition": "the smallest amount or number that is possible or allowed",
+    "examples": [
+      "Plants need a minimum amount of light to grow.",
+      "Many countries have a minimum wage that employers must pay."
+    ],
+    "forms": [
+      "minimal",
+      "minimize"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-ministry",
+    "headword": "ministry",
+    "pos": "noun",
+    "definition": "a government department led by a minister",
+    "examples": [
+      "The Ministry of Health published new guidelines.",
+      "Each minister is responsible for one area of government policy."
+    ],
+    "forms": [
+      "minister",
+      "ministers",
+      "ministries"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-motive",
+    "headword": "motive",
+    "pos": "noun",
+    "definition": "a reason for doing something",
+    "examples": [
+      "Historians debate the motives of the early explorers.",
+      "Students who are motivated tend to learn faster."
+    ],
+    "forms": [
+      "motives",
+      "motivate",
+      "motivated",
+      "motivation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-neutral",
+    "headword": "neutral",
+    "pos": "adjective",
+    "definition": "not supporting either side in a conflict; neither acid nor base",
+    "examples": [
+      "Switzerland remained neutral during both world wars.",
+      "Pure water is chemically neutral, with a pH of 7."
+    ],
+    "forms": [
+      "neutrality",
+      "neutralize"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-nevertheless",
+    "headword": "nevertheless",
+    "pos": "adverb",
+    "definition": "despite what has just been said",
+    "examples": [
+      "The experiment was difficult. Nevertheless, the results were clear.",
+      "The plan was risky; nevertheless, the government approved it."
+    ],
+    "forms": [],
+    "sublist": 6
+  },
+  {
+    "id": "w-overseas",
+    "headword": "overseas",
+    "pos": "adverb",
+    "definition": "in or to a foreign country across the sea",
+    "examples": [
+      "Many students choose to study overseas.",
+      "The company manufactures most of its products overseas."
+    ],
+    "forms": [],
+    "sublist": 6
+  },
+  {
+    "id": "w-precede",
+    "headword": "precede",
+    "pos": "verb",
+    "definition": "to happen or come before something else",
+    "examples": [
+      "A period of heavy rain preceded the flood.",
+      "The Bronze Age preceded the Iron Age."
+    ],
+    "forms": [
+      "preceded",
+      "preceding",
+      "precedent"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-presume",
+    "headword": "presume",
+    "pos": "verb",
+    "definition": "to believe that something is true without being certain",
+    "examples": [
+      "The ship was presumed lost after it failed to arrive.",
+      "Under the law, a person is presumed innocent until proven guilty."
+    ],
+    "forms": [
+      "presumed",
+      "presumably",
+      "presumption"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-rational",
+    "headword": "rational",
+    "pos": "adjective",
+    "definition": "based on clear thought and reason",
+    "examples": [
+      "Economists often assume that people make rational choices.",
+      "The scientist offered a rational explanation for the strange lights."
+    ],
+    "forms": [
+      "rationally",
+      "irrational"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-recover",
+    "headword": "recover",
+    "pos": "verb",
+    "definition": "to become healthy again; to get back something that was lost",
+    "examples": [
+      "Most patients recover from the illness within a week.",
+      "The economy took several years to recover after the crisis."
+    ],
+    "forms": [
+      "recovered",
+      "recovery"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-reveal",
+    "headword": "reveal",
+    "pos": "verb",
+    "definition": "to make something known or able to be seen",
+    "examples": [
+      "X-rays revealed a hidden painting beneath the surface.",
+      "The study revealed a link between sleep and memory."
+    ],
+    "forms": [
+      "revealed",
+      "revelation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-scope",
+    "headword": "scope",
+    "pos": "noun",
+    "definition": "the range of things that a subject or activity deals with",
+    "examples": [
+      "The report was limited in scope to coastal regions.",
+      "The project grew in scope as new problems were discovered."
+    ],
+    "forms": [],
+    "sublist": 6
+  },
+  {
+    "id": "w-subsidy",
+    "headword": "subsidy",
+    "pos": "noun",
+    "definition": "money that a government pays to reduce the cost of something",
+    "examples": [
+      "Farmers in many countries receive subsidies from the government.",
+      "The government subsidized the cost of public transportation."
+    ],
+    "forms": [
+      "subsidies",
+      "subsidize",
+      "subsidized"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-tape",
+    "headword": "tape",
+    "pos": "noun",
+    "definition": "a long, narrow strip of material, often used to stick things together or to record sound",
+    "examples": [
+      "Early computers stored data on magnetic tape.",
+      "The interviews were recorded on tape and later transcribed."
+    ],
+    "forms": [
+      "tapes"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-trace",
+    "headword": "trace",
+    "pos": "verb",
+    "definition": "to find the origin of something; to follow the development of something",
+    "examples": [
+      "Scientists traced the disease to contaminated water.",
+      "The book traces the history of the city from ancient times."
+    ],
+    "forms": [
+      "traced",
+      "traces"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-transform",
+    "headword": "transform",
+    "pos": "verb",
+    "definition": "to change something completely",
+    "examples": [
+      "A caterpillar transforms into a butterfly.",
+      "The steam engine brought about a transformation in industry."
+    ],
+    "forms": [
+      "transformed",
+      "transformation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-transport",
+    "headword": "transport",
+    "pos": "noun",
+    "definition": "the movement of people or goods from one place to another",
+    "examples": [
+      "Rivers were the main means of transport in early America.",
+      "Railroads transported grain from the farms to the cities."
+    ],
+    "forms": [
+      "transported",
+      "transportation"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-underlie",
+    "headword": "underlie",
+    "pos": "verb",
+    "definition": "to be the basic cause or idea behind something",
+    "examples": [
+      "Several factors underlie the decline in bird populations.",
+      "The underlying cause of the disease remains unknown."
+    ],
+    "forms": [
+      "underlying",
+      "underlies"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-utilise",
+    "headword": "utilize",
+    "pos": "verb",
+    "definition": "to use something for a practical purpose",
+    "examples": [
+      "Plants utilize sunlight to produce food.",
+      "The efficient utilization of resources reduces waste."
+    ],
+    "forms": [
+      "utilized",
+      "utilization",
+      "utilise"
+    ],
+    "sublist": 6
+  },
+  {
+    "id": "w-adapt",
+    "headword": "adapt",
+    "pos": "verb",
+    "definition": "to change in order to suit new conditions",
+    "examples": [
+      "Camels are well adapted to life in the desert.",
+      "Many species cannot adapt quickly to climate change."
+    ],
+    "forms": [
+      "adapted",
+      "adaptation",
+      "adaptable"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-adult",
+    "headword": "adult",
+    "pos": "noun",
+    "definition": "a fully grown person or animal",
+    "examples": [
+      "Adult frogs breathe through both their lungs and their skin.",
+      "Many adults return to university to study."
+    ],
+    "forms": [
+      "adults",
+      "adulthood"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-advocate",
+    "headword": "advocate",
+    "pos": "verb",
+    "definition": "to publicly support an idea or policy",
+    "examples": [
+      "Many doctors advocate regular exercise.",
+      "She was a strong advocate of women's education."
+    ],
+    "forms": [
+      "advocated",
+      "advocacy"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-aid",
+    "headword": "aid",
+    "pos": "noun",
+    "definition": "help, especially money or food given to people in need",
+    "examples": [
+      "Many countries sent aid after the earthquake.",
+      "Hearing aids help people with hearing loss."
+    ],
+    "forms": [
+      "aids",
+      "aided"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-channel",
+    "headword": "channel",
+    "pos": "noun",
+    "definition": "a passage for water; a way of communicating",
+    "examples": [
+      "The English Channel separates Britain from France.",
+      "Farmers dug channels to carry water to their fields."
+    ],
+    "forms": [
+      "channels"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-chemical",
+    "headword": "chemical",
+    "pos": "noun",
+    "definition": "a substance produced by or used in chemistry",
+    "examples": [
+      "Some plants release chemicals that keep insects away.",
+      "Chemical reactions can produce heat or light."
+    ],
+    "forms": [
+      "chemicals",
+      "chemically",
+      "chemistry"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-classic",
+    "headword": "classic",
+    "pos": "adjective",
+    "definition": "typical; of high quality and lasting value",
+    "examples": [
+      "The novel is considered a classic of American literature.",
+      "The experiment is a classic example of the scientific method."
+    ],
+    "forms": [
+      "classics",
+      "classical"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-comprehensive",
+    "headword": "comprehensive",
+    "pos": "adjective",
+    "definition": "including all or almost all parts of something",
+    "examples": [
+      "The library has a comprehensive collection of maps.",
+      "The report gave a comprehensive review of the evidence."
+    ],
+    "forms": [
+      "comprehensively"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-comprise",
+    "headword": "comprise",
+    "pos": "verb",
+    "definition": "to consist of; to be made up of",
+    "examples": [
+      "The United Kingdom comprises England, Scotland, Wales, and Northern Ireland.",
+      "The solar system comprises the Sun and all the objects that orbit it."
+    ],
+    "forms": [
+      "comprises",
+      "comprised"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-confirm",
+    "headword": "confirm",
+    "pos": "verb",
+    "definition": "to show that something is true or correct",
+    "examples": [
+      "Later experiments confirmed the original results.",
+      "The discovery provided confirmation of the theory."
+    ],
+    "forms": [
+      "confirmed",
+      "confirmation"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-contrary",
+    "headword": "contrary",
+    "pos": "adjective",
+    "definition": "completely different or opposite",
+    "examples": [
+      "Contrary to popular belief, bats are not blind.",
+      "The evidence was contrary to what the scientists had expected."
+    ],
+    "forms": [],
+    "sublist": 7
+  },
+  {
+    "id": "w-convert",
+    "headword": "convert",
+    "pos": "verb",
+    "definition": "to change something into a different form",
+    "examples": [
+      "Solar panels convert sunlight into electricity.",
+      "The conversion of forests into farmland has reduced wildlife habitat."
+    ],
+    "forms": [
+      "converted",
+      "conversion"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-couple",
+    "headword": "couple",
+    "pos": "noun",
+    "definition": "two people or things of the same kind; a few",
+    "examples": [
+      "The couple founded the company in their garage.",
+      "The repairs took a couple of weeks."
+    ],
+    "forms": [
+      "coupled"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-decade",
+    "headword": "decade",
+    "pos": "noun",
+    "definition": "a period of ten years",
+    "examples": [
+      "The population of the city doubled in a decade.",
+      "The drought lasted for nearly two decades."
+    ],
+    "forms": [
+      "decades"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-definite",
+    "headword": "definite",
+    "pos": "adjective",
+    "definition": "clear and certain; fixed",
+    "examples": [
+      "There is no definite answer to the question.",
+      "The cause of the fire was never definitely established."
+    ],
+    "forms": [
+      "definitely",
+      "indefinite"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-deny",
+    "headword": "deny",
+    "pos": "verb",
+    "definition": "to say that something is not true; to refuse to give or allow",
+    "examples": [
+      "The company denied any responsibility for the accident.",
+      "In the past, many women were denied the right to vote."
+    ],
+    "forms": [
+      "denied",
+      "denial"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-differentiate",
+    "headword": "differentiate",
+    "pos": "verb",
+    "definition": "to see or show the difference between things",
+    "examples": [
+      "Young children learn to differentiate between colors.",
+      "Cells differentiate into specialized types as an embryo develops."
+    ],
+    "forms": [
+      "differentiated",
+      "differentiation"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-dispose",
+    "headword": "dispose",
+    "pos": "verb",
+    "definition": "to get rid of something",
+    "examples": [
+      "Hospitals must dispose of medical waste safely.",
+      "The disposal of nuclear waste remains a serious problem."
+    ],
+    "forms": [
+      "disposed",
+      "disposal"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-dynamic",
+    "headword": "dynamic",
+    "pos": "adjective",
+    "definition": "always changing and developing; full of energy",
+    "examples": [
+      "Ecosystems are dynamic, not fixed.",
+      "The city has a dynamic economy based on technology."
+    ],
+    "forms": [
+      "dynamics",
+      "dynamically"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-eliminate",
+    "headword": "eliminate",
+    "pos": "verb",
+    "definition": "to remove something completely",
+    "examples": [
+      "Vaccination eliminated smallpox worldwide.",
+      "The body eliminates waste through the kidneys."
+    ],
+    "forms": [
+      "eliminated",
+      "elimination"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-empirical",
+    "headword": "empirical",
+    "pos": "adjective",
+    "definition": "based on observation or experiment rather than theory",
+    "examples": [
+      "The theory has strong empirical support.",
+      "Scientists collected empirical data from hundreds of sites."
+    ],
+    "forms": [
+      "empirically"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-equip",
+    "headword": "equip",
+    "pos": "verb",
+    "definition": "to supply the tools or things needed for a task",
+    "examples": [
+      "The laboratory is equipped with modern microscopes.",
+      "Early expeditions carried heavy equipment across the ice."
+    ],
+    "forms": [
+      "equipped",
+      "equipment"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-extract",
+    "headword": "extract",
+    "pos": "verb",
+    "definition": "to remove or take out something, often with effort",
+    "examples": [
+      "Miners extract copper from the ore.",
+      "Vanilla extract is made from the beans of an orchid."
+    ],
+    "forms": [
+      "extracted",
+      "extraction"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-file",
+    "headword": "file",
+    "pos": "noun",
+    "definition": "a collection of documents or computer data stored together",
+    "examples": [
+      "The hospital keeps a file on every patient.",
+      "The researcher saved the data in several computer files."
+    ],
+    "forms": [
+      "files",
+      "filed"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-finite",
+    "headword": "finite",
+    "pos": "adjective",
+    "definition": "having a limit or end",
+    "examples": [
+      "Fossil fuels are a finite resource.",
+      "The Earth has only a finite amount of fresh water."
+    ],
+    "forms": [
+      "infinite",
+      "infinitely"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-foundation",
+    "headword": "foundation",
+    "pos": "noun",
+    "definition": "the basic idea or support on which something is built",
+    "examples": [
+      "Newton's laws laid the foundation for classical physics.",
+      "The ancient temple's stone foundations are still visible."
+    ],
+    "forms": [
+      "foundations",
+      "found",
+      "founded"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-globe",
+    "headword": "globe",
+    "pos": "noun",
+    "definition": "the world; a round model of the Earth",
+    "examples": [
+      "Trade connects cities across the globe.",
+      "Global temperatures have risen over the past century."
+    ],
+    "forms": [
+      "global",
+      "globally",
+      "globalization"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-grade",
+    "headword": "grade",
+    "pos": "noun",
+    "definition": "a level of quality; a mark given for school work",
+    "examples": [
+      "The mine produced high-grade iron ore.",
+      "Her grades improved steadily during the year."
+    ],
+    "forms": [
+      "grades",
+      "graded"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-guarantee",
+    "headword": "guarantee",
+    "pos": "verb",
+    "definition": "to promise that something will happen",
+    "examples": [
+      "The constitution guarantees freedom of religion.",
+      "A good education does not guarantee a high income."
+    ],
+    "forms": [
+      "guaranteed",
+      "guarantees"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-hierarchy",
+    "headword": "hierarchy",
+    "pos": "noun",
+    "definition": "a system in which people or things are arranged in ranks",
+    "examples": [
+      "Chickens establish a pecking order, a clear social hierarchy within the flock.",
+      "The army is organized in a strict hierarchical structure."
+    ],
+    "forms": [
+      "hierarchies",
+      "hierarchical"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-identical",
+    "headword": "identical",
+    "pos": "adjective",
+    "definition": "exactly the same",
+    "examples": [
+      "Identical twins develop from a single fertilized egg.",
+      "The two samples were identical in chemical composition."
+    ],
+    "forms": [
+      "identically"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-ideology",
+    "headword": "ideology",
+    "pos": "noun",
+    "definition": "a set of ideas or beliefs, especially about politics",
+    "examples": [
+      "The two parties had very different ideologies.",
+      "The conflict was driven more by ideology than by economics."
+    ],
+    "forms": [
+      "ideologies",
+      "ideological"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-infer",
+    "headword": "infer",
+    "pos": "verb",
+    "definition": "to reach a conclusion from evidence",
+    "examples": [
+      "From the fossils, scientists inferred that the region was once covered by sea.",
+      "Readers must often infer the author's opinion."
+    ],
+    "forms": [
+      "inferred",
+      "inference"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-innovate",
+    "headword": "innovate",
+    "pos": "verb",
+    "definition": "to introduce new ideas or methods",
+    "examples": [
+      "Companies must innovate to stay competitive.",
+      "The printing press was one of the most important innovations in history."
+    ],
+    "forms": [
+      "innovation",
+      "innovations",
+      "innovative"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-insert",
+    "headword": "insert",
+    "pos": "verb",
+    "definition": "to put something into something else",
+    "examples": [
+      "The doctor inserted a thin tube into the vein.",
+      "Scientists inserted a new gene into the plant's cells."
+    ],
+    "forms": [
+      "inserted",
+      "insertion"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-intervene",
+    "headword": "intervene",
+    "pos": "verb",
+    "definition": "to become involved in a situation in order to change it",
+    "examples": [
+      "The government intervened to prevent the bank from failing.",
+      "Early medical intervention can save lives."
+    ],
+    "forms": [
+      "intervened",
+      "intervention"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-isolate",
+    "headword": "isolate",
+    "pos": "verb",
+    "definition": "to separate something from other things",
+    "examples": [
+      "Researchers isolated the virus in the laboratory.",
+      "Island species often evolve in isolation."
+    ],
+    "forms": [
+      "isolated",
+      "isolation"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-media",
+    "headword": "media",
+    "pos": "noun",
+    "definition": "newspapers, television, radio, and the internet considered together",
+    "examples": [
+      "The media reported widely on the election.",
+      "Social media has changed the way news spreads."
+    ],
+    "forms": [
+      "medium"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-mode",
+    "headword": "mode",
+    "pos": "noun",
+    "definition": "a particular way or method of doing something",
+    "examples": [
+      "Walking was the main mode of transport for most people in the past.",
+      "The device can operate in two different modes."
+    ],
+    "forms": [
+      "modes"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-paradigm",
+    "headword": "paradigm",
+    "pos": "noun",
+    "definition": "a model or typical example; a set of accepted ideas",
+    "examples": [
+      "The theory of evolution created a new paradigm in biology.",
+      "Thomas Kuhn described how scientific paradigms change."
+    ],
+    "forms": [
+      "paradigms"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-phenomenon",
+    "headword": "phenomenon",
+    "pos": "noun",
+    "definition": "an event or fact that can be observed, especially an unusual one",
+    "examples": [
+      "The northern lights are a natural phenomenon caused by particles from the Sun.",
+      "Scientists study many weather phenomena, such as tornadoes and hurricanes."
+    ],
+    "forms": [
+      "phenomena"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-priority",
+    "headword": "priority",
+    "pos": "noun",
+    "definition": "something that is more important than other things",
+    "examples": [
+      "Public health was the government's top priority.",
+      "Emergency rooms treat patients in order of priority."
+    ],
+    "forms": [
+      "priorities",
+      "prioritize"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-prohibit",
+    "headword": "prohibit",
+    "pos": "verb",
+    "definition": "to officially forbid something",
+    "examples": [
+      "Many cities prohibit smoking in restaurants.",
+      "The prohibition of alcohol in the United States lasted from 1920 to 1933."
+    ],
+    "forms": [
+      "prohibited",
+      "prohibition"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-publication",
+    "headword": "publication",
+    "pos": "noun",
+    "definition": "the act of printing and selling a text; a book or magazine",
+    "examples": [
+      "The publication of On the Origin of Species changed biology.",
+      "The journal is a respected scientific publication."
+    ],
+    "forms": [
+      "publications"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-quote",
+    "headword": "quote",
+    "pos": "verb",
+    "definition": "to repeat the exact words of another person",
+    "examples": [
+      "The report quoted several experts.",
+      "The article began with a quotation from Shakespeare."
+    ],
+    "forms": [
+      "quoted",
+      "quotation",
+      "quotations"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-release",
+    "headword": "release",
+    "pos": "verb",
+    "definition": "to let something go free; to make something available",
+    "examples": [
+      "Volcanoes release large amounts of gas into the atmosphere.",
+      "The results of the study were released last year."
+    ],
+    "forms": [
+      "released",
+      "releases"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-reverse",
+    "headword": "reverse",
+    "pos": "verb",
+    "definition": "to change something to its opposite; to go backward",
+    "examples": [
+      "The court reversed its earlier decision.",
+      "The Earth's magnetic field has reversed many times in the past."
+    ],
+    "forms": [
+      "reversed",
+      "reversal",
+      "reversible"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-simulate",
+    "headword": "simulate",
+    "pos": "verb",
+    "definition": "to create conditions that are like real ones, often for study or training",
+    "examples": [
+      "Pilots train in machines that simulate real flight.",
+      "Computer simulations help scientists predict the weather."
+    ],
+    "forms": [
+      "simulated",
+      "simulation",
+      "simulations"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-sole",
+    "headword": "sole",
+    "pos": "adjective",
+    "definition": "only; single",
+    "examples": [
+      "The sole survivor of the shipwreck reached the shore after two days.",
+      "Bamboo is almost the sole food of the giant panda."
+    ],
+    "forms": [
+      "solely"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-somewhat",
+    "headword": "somewhat",
+    "pos": "adverb",
+    "definition": "to some degree; slightly",
+    "examples": [
+      "The results were somewhat different from what was expected.",
+      "Temperatures fell somewhat during the night."
+    ],
+    "forms": [],
+    "sublist": 7
+  },
+  {
+    "id": "w-submit",
+    "headword": "submit",
+    "pos": "verb",
+    "definition": "to give a document or plan to someone for a decision",
+    "examples": [
+      "Students must submit their essays by Friday.",
+      "The submission of the report was delayed."
+    ],
+    "forms": [
+      "submitted",
+      "submission"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-successor",
+    "headword": "successor",
+    "pos": "noun",
+    "definition": "a person or thing that comes after another",
+    "examples": [
+      "The king named his son as his successor.",
+      "The new model is the successor to a very popular design."
+    ],
+    "forms": [
+      "successors",
+      "succession",
+      "successive"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-survive",
+    "headword": "survive",
+    "pos": "verb",
+    "definition": "to continue to live or exist",
+    "examples": [
+      "Few plants can survive in the extreme cold of Antarctica.",
+      "The survival of the species depends on protecting its habitat."
+    ],
+    "forms": [
+      "survived",
+      "survival",
+      "survivor"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-thesis",
+    "headword": "thesis",
+    "pos": "noun",
+    "definition": "a main idea or argument; a long piece of writing for a university degree",
+    "examples": [
+      "Her thesis examined the history of the railroad.",
+      "The author's main thesis is that trade drove the growth of cities."
+    ],
+    "forms": [
+      "theses"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-topic",
+    "headword": "topic",
+    "pos": "noun",
+    "definition": "a subject that is discussed or written about",
+    "examples": [
+      "Climate change is a common topic of debate.",
+      "Each student chose a topic for a research paper."
+    ],
+    "forms": [
+      "topics",
+      "topical"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-transmit",
+    "headword": "transmit",
+    "pos": "verb",
+    "definition": "to pass something from one person, place, or thing to another",
+    "examples": [
+      "Mosquitoes can transmit malaria to humans.",
+      "Satellites transmit signals over long distances."
+    ],
+    "forms": [
+      "transmitted",
+      "transmission"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-ultimate",
+    "headword": "ultimate",
+    "pos": "adjective",
+    "definition": "final; most extreme or important",
+    "examples": [
+      "The ultimate goal of the project is to find a cure.",
+      "Most of the energy on Earth ultimately comes from the Sun."
+    ],
+    "forms": [
+      "ultimately"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-unique",
+    "headword": "unique",
+    "pos": "adjective",
+    "definition": "being the only one of its kind",
+    "examples": [
+      "Each person's fingerprints are unique.",
+      "The island's unique wildlife attracts many scientists."
+    ],
+    "forms": [
+      "uniquely",
+      "uniqueness"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-visible",
+    "headword": "visible",
+    "pos": "adjective",
+    "definition": "able to be seen",
+    "examples": [
+      "The planet Venus is often visible just after sunset.",
+      "Fog reduced visibility on the highway."
+    ],
+    "forms": [
+      "visibility",
+      "invisible"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-voluntary",
+    "headword": "voluntary",
+    "pos": "adjective",
+    "definition": "done because you choose to, not because you must",
+    "examples": [
+      "Participation in the study was voluntary.",
+      "Many people volunteer at local hospitals."
+    ],
+    "forms": [
+      "voluntarily",
+      "volunteer",
+      "volunteers"
+    ],
+    "sublist": 7
+  },
+  {
+    "id": "w-abandon",
+    "headword": "abandon",
+    "pos": "verb",
+    "definition": "to leave something or someone completely; to give up an idea or plan",
+    "examples": [
+      "The settlers abandoned the village after the river dried up.",
+      "The project was abandoned because of rising costs."
+    ],
+    "forms": [
+      "abandoned",
+      "abandonment"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-accompany",
+    "headword": "accompany",
+    "pos": "verb",
+    "definition": "to go with someone or to happen at the same time as something",
+    "examples": [
+      "Thunder usually accompanies lightning.",
+      "Children must be accompanied by an adult."
+    ],
+    "forms": [
+      "accompanied",
+      "accompanies"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-accumulate",
+    "headword": "accumulate",
+    "pos": "verb",
+    "definition": "to gradually increase in amount",
+    "examples": [
+      "Snow accumulates on the mountains during the winter.",
+      "The accumulation of sediment formed a new delta."
+    ],
+    "forms": [
+      "accumulated",
+      "accumulation"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-ambiguous",
+    "headword": "ambiguous",
+    "pos": "adjective",
+    "definition": "having more than one possible meaning",
+    "examples": [
+      "The wording of the law was ambiguous.",
+      "The ambiguity of the results led to further research."
+    ],
+    "forms": [
+      "ambiguity",
+      "unambiguous"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-append",
+    "headword": "append",
+    "pos": "verb",
+    "definition": "to add something to the end of a document",
+    "examples": [
+      "The author appended a list of sources to the report.",
+      "Detailed tables appear in the appendix."
+    ],
+    "forms": [
+      "appended",
+      "appendix",
+      "appendices"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-appreciate",
+    "headword": "appreciate",
+    "pos": "verb",
+    "definition": "to understand the value of something; to increase in value",
+    "examples": [
+      "Few people appreciated the importance of the discovery at the time.",
+      "Land in the city center has appreciated rapidly."
+    ],
+    "forms": [
+      "appreciated",
+      "appreciation"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-arbitrary",
+    "headword": "arbitrary",
+    "pos": "adjective",
+    "definition": "based on chance or personal choice rather than reason",
+    "examples": [
+      "The border between the two countries was drawn in an arbitrary way.",
+      "The choice of starting point was arbitrary."
+    ],
+    "forms": [
+      "arbitrarily"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-automate",
+    "headword": "automate",
+    "pos": "verb",
+    "definition": "to make a process work by machine without people",
+    "examples": [
+      "Many factories have automated their production lines.",
+      "Automation has reduced the number of workers needed in many industries."
+    ],
+    "forms": [
+      "automated",
+      "automation",
+      "automatic",
+      "automatically"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-bias",
+    "headword": "bias",
+    "pos": "noun",
+    "definition": "an unfair preference for or against something",
+    "examples": [
+      "Researchers must avoid bias when they select participants.",
+      "The survey results were biased toward city residents."
+    ],
+    "forms": [
+      "biased",
+      "unbiased"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-chart",
+    "headword": "chart",
+    "pos": "noun",
+    "definition": "a diagram that shows information clearly",
+    "examples": [
+      "The chart shows population growth over fifty years.",
+      "Early sailors charted the coastlines of unknown lands."
+    ],
+    "forms": [
+      "charts",
+      "charted"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-clarify",
+    "headword": "clarify",
+    "pos": "verb",
+    "definition": "to make something easier to understand",
+    "examples": [
+      "The professor clarified the main points of the lecture.",
+      "The new rules need further clarification."
+    ],
+    "forms": [
+      "clarified",
+      "clarification",
+      "clarity"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-commodity",
+    "headword": "commodity",
+    "pos": "noun",
+    "definition": "a product that can be bought and sold, such as grain or oil",
+    "examples": [
+      "Coffee is one of the most widely traded commodities.",
+      "The price of a commodity depends on supply and demand."
+    ],
+    "forms": [
+      "commodities"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-complement",
+    "headword": "complement",
+    "pos": "verb",
+    "definition": "to add to something in a way that improves it",
+    "examples": [
+      "The museum's new wing complements the original building.",
+      "Field work is a useful complement to laboratory research."
+    ],
+    "forms": [
+      "complements",
+      "complementary"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-conform",
+    "headword": "conform",
+    "pos": "verb",
+    "definition": "to follow rules or accepted standards",
+    "examples": [
+      "All new buildings must conform to safety regulations.",
+      "The results conformed to the predictions of the model."
+    ],
+    "forms": [
+      "conformed",
+      "conformity"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-contemporary",
+    "headword": "contemporary",
+    "pos": "adjective",
+    "definition": "belonging to the present time; existing at the same time",
+    "examples": [
+      "The gallery displays contemporary art.",
+      "Contemporary accounts of the battle describe heavy rain."
+    ],
+    "forms": [
+      "contemporaries"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-contradict",
+    "headword": "contradict",
+    "pos": "verb",
+    "definition": "to say or show that something is the opposite of what is true",
+    "examples": [
+      "The new evidence contradicts the earlier theory.",
+      "There is a contradiction between the two reports."
+    ],
+    "forms": [
+      "contradicted",
+      "contradiction",
+      "contradictory"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-crucial",
+    "headword": "crucial",
+    "pos": "adjective",
+    "definition": "extremely important",
+    "examples": [
+      "Bees play a crucial role in pollinating crops.",
+      "Clean water is crucial for public health."
+    ],
+    "forms": [
+      "crucially"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-currency",
+    "headword": "currency",
+    "pos": "noun",
+    "definition": "the system of money used in a country",
+    "examples": [
+      "The euro is the currency of many European countries.",
+      "Some ancient societies used shells as currency."
+    ],
+    "forms": [
+      "currencies"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-denote",
+    "headword": "denote",
+    "pos": "verb",
+    "definition": "to be a sign or symbol of something; to mean",
+    "examples": [
+      "In chemistry, the letter H denotes hydrogen.",
+      "A red flag on the beach denotes dangerous conditions."
+    ],
+    "forms": [
+      "denoted",
+      "denotes"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-detect",
+    "headword": "detect",
+    "pos": "verb",
+    "definition": "to notice or discover something that is hard to see",
+    "examples": [
+      "Sharks can detect tiny amounts of blood in the water.",
+      "Early detection of the disease improves the chances of recovery."
+    ],
+    "forms": [
+      "detected",
+      "detection",
+      "detector"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-deviate",
+    "headword": "deviate",
+    "pos": "verb",
+    "definition": "to move away from the usual or expected way",
+    "examples": [
+      "The ship deviated from its course during the storm.",
+      "Any deviation from the standard procedure must be recorded."
+    ],
+    "forms": [
+      "deviated",
+      "deviation"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-displace",
+    "headword": "displace",
+    "pos": "verb",
+    "definition": "to force something or someone out of its usual place",
+    "examples": [
+      "The flood displaced thousands of families.",
+      "An object fully submerged in water displaces a volume of water equal to its own volume."
+    ],
+    "forms": [
+      "displaced",
+      "displacement"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-drama",
+    "headword": "drama",
+    "pos": "noun",
+    "definition": "a play for the theater; an exciting or emotional event",
+    "examples": [
+      "Ancient Greek drama included both tragedies and comedies.",
+      "The novel describes the drama of life during the war."
+    ],
+    "forms": [
+      "dramatic",
+      "dramatically"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-eventual",
+    "headword": "eventual",
+    "pos": "adjective",
+    "definition": "happening at the end of a long process",
+    "examples": [
+      "The trade dispute led to the eventual collapse of the alliance.",
+      "Most of the seeds eventually germinated."
+    ],
+    "forms": [
+      "eventually"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-exhibit",
+    "headword": "exhibit",
+    "pos": "verb",
+    "definition": "to show something publicly; to show a quality or sign",
+    "examples": [
+      "The museum exhibits fossils from around the world.",
+      "The exhibition attracted thousands of visitors."
+    ],
+    "forms": [
+      "exhibited",
+      "exhibition"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-exploit",
+    "headword": "exploit",
+    "pos": "verb",
+    "definition": "to use something fully for profit; to treat someone unfairly for profit",
+    "examples": [
+      "Early settlers exploited the region's rich forests.",
+      "Laws were passed to prevent the exploitation of child workers."
+    ],
+    "forms": [
+      "exploited",
+      "exploitation"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-fluctuate",
+    "headword": "fluctuate",
+    "pos": "verb",
+    "definition": "to change frequently, especially up and down",
+    "examples": [
+      "Prices fluctuate according to supply and demand.",
+      "Daily temperature fluctuations in the desert can be extreme."
+    ],
+    "forms": [
+      "fluctuated",
+      "fluctuation",
+      "fluctuations"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-guideline",
+    "headword": "guideline",
+    "pos": "noun",
+    "definition": "advice about how something should be done",
+    "examples": [
+      "Doctors follow national guidelines when prescribing medicine.",
+      "The report includes guidelines for safe drinking water."
+    ],
+    "forms": [
+      "guidelines"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-highlight",
+    "headword": "highlight",
+    "pos": "verb",
+    "definition": "to draw special attention to something",
+    "examples": [
+      "The report highlighted the need for better roads.",
+      "One highlight of the conference was a talk on space exploration."
+    ],
+    "forms": [
+      "highlighted",
+      "highlights"
+    ],
+    "sublist": 8
+  },
+  {
+    "id": "w-implicit",
+    "headword": "implicit",
+    "pos": "adjective",
+    "definition": "suggested but not stated directly",
+    "examples": [
+      "There was an implicit agreement between the two leaders.",
+      "The rules of the game were implicitly understood by all players."
+    ],
+    "forms": [
+      "implicitly"
+    ],
+    "sublist": 8
   }
 ]

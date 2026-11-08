@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P17-d01",
+    "patternId": "P17",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The museum received ____ about the origin of the painting from an anonymous letter.",
+    "options": [
+      "an information",
+      "informations",
+      "some information",
+      "many information"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Information\" is an uncountable noun, so it cannot take \"an,\" a plural -s, or \"many\": \"some information.\""
+  },
+  {
+    "id": "P17-d02",
+    "patternId": "P17",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Jupiter is one of the ____ in the solar system that have rings.",
+    "options": [
+      "planet",
+      "planets",
+      "planet's",
+      "planetary"
+    ],
+    "answerIndex": 1,
+    "explanation": "The expression \"one of the\" is followed by a plural noun: \"one of the planets.\" The singular \"planet\" and the possessive \"planet's\" are incorrect, and \"planetary\" is an adjective."
+  },
+  {
+    "id": "P17-d03",
+    "patternId": "P17",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Climbers who attempt to reach the summit of Mount Everest must carry a great deal of ____.",
+    "options": [
+      "an equipment",
+      "equipment's",
+      "equipment",
+      "equipments"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Equipment\" is uncountable, so it has no plural form and no \"an\": \"a great deal of equipment.\" \"A great deal of\" is used only with uncountable nouns."
+  },
+  {
+    "id": "P17-d04",
+    "patternId": "P17",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Relatively ____ survived the voyage of Magellan's fleet around the world.",
+    "options": [
+      "few sailors",
+      "little sailors",
+      "few sailor",
+      "a little sailors"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Few\" is used with plural countable nouns: \"few sailors.\" \"Little\" is used with uncountable nouns, and \"few\" cannot be followed by a singular noun."
+  },
+  {
+    "id": "P17-d05",
+    "patternId": "P17",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Great Wall of China was built and rebuilt over a period of ____.",
+    "options": [
+      "much centuries",
+      "many century",
+      "a many centuries",
+      "many centuries"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Many\" is used with plural countable nouns: \"many centuries.\" \"Much\" is for uncountable nouns, and \"many\" cannot be followed by a singular noun or preceded by \"a.\""
+  },
+  {
+    "id": "P17-d06",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Scientists have gathered {0} {1} showing that the {2} ancestors of whales once {3} on land.",
+    "options": [
+      "a great deal of",
+      "evidences",
+      "earliest",
+      "lived"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Evidence\" is an uncountable noun and has no plural form: \"a great deal of evidence.\""
+  },
+  {
+    "id": "P17-d07",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Great Barrier Reef {0} home to more than a thousand {1} of fish and {2} kinds {3} coral.",
+    "options": [
+      "is",
+      "species",
+      "several hundreds",
+      "of"
+    ],
+    "answerIndex": 2,
+    "explanation": "When a number word such as \"hundred\" comes after another number or \"several,\" it does not take -s: \"several hundred kinds.\" \"Hundreds\" is used only without a number before it, as in \"hundreds of kinds.\""
+  },
+  {
+    "id": "P17-d08",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "There {0} still {1} disagreement among historians about how the ancient city of Troy was destroyed, partly because {2} written {3} from that period survive.",
+    "options": [
+      "is",
+      "much",
+      "little",
+      "records"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Records\" is a plural countable noun, so it takes \"few,\" not \"little\": \"few written records.\" \"Little\" is used only with uncountable nouns."
+  },
+  {
+    "id": "P17-d09",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Each of the {0} {1} in the experiment {2} a different {3} of fertilizer.",
+    "options": [
+      "plants",
+      "used",
+      "received",
+      "number"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Fertilizer\" is uncountable here, so the correct word is \"amount\": \"a different amount of fertilizer.\" \"Number\" is used with plural countable nouns."
+  },
+  {
+    "id": "P17-d10",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "For many pioneer families, the {0} journey along the Oregon Trail began in Missouri and ended in {1} Willamette Valley, {2} {3} soil attracted farmers.",
+    "options": [
+      "five-months",
+      "the",
+      "where",
+      "fertile"
+    ],
+    "answerIndex": 0,
+    "explanation": "A number + noun used as an adjective before another noun stays singular and is hyphenated: \"the five-month journey.\" The plural \"five-months\" is incorrect in this position."
+  }
+]

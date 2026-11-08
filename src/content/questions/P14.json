@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P14-d01",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Bats are able to avoid ____ into obstacles in complete darkness by using echolocation.",
+    "options": [
+      "flying",
+      "to fly",
+      "fly",
+      "flown"
+    ],
+    "answerIndex": 0,
+    "explanation": "The verb \"avoid\" is always followed by a gerund: \"avoid flying.\" It is never followed by an infinitive or a base verb."
+  },
+  {
+    "id": "P14-d02",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "drill",
+    "stem": "In November 1805, the Lewis and Clark expedition finally managed ____ the Pacific coast.",
+    "options": [
+      "reach",
+      "reaching",
+      "to reach",
+      "reached"
+    ],
+    "answerIndex": 2,
+    "explanation": "The verb \"manage\" is followed by an infinitive: \"managed to reach.\" \"Managed reaching\" and \"managed reach\" are not correct."
+  },
+  {
+    "id": "P14-d03",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Instead of ____ its own nest, the common cuckoo lays its eggs in the nests of other birds.",
+    "options": [
+      "to build",
+      "build",
+      "built",
+      "building"
+    ],
+    "answerIndex": 3,
+    "explanation": "A verb that follows a preposition such as \"of\" must be a gerund: \"Instead of building.\" Infinitives and base verbs cannot follow a preposition."
+  },
+  {
+    "id": "P14-d04",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Lightning rods are installed on tall buildings ____ them from damage.",
+    "options": [
+      "protect",
+      "to protect",
+      "for protect",
+      "protected"
+    ],
+    "answerIndex": 1,
+    "explanation": "An infinitive of purpose explains why something is done: \"to protect them.\" \"For\" cannot be followed by a base verb, and \"protect\" or \"protected\" would create a second main verb."
+  },
+  {
+    "id": "P14-d05",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "drill",
+    "stem": "As early as the nineteenth century, engineers considered ____ a tunnel under the English Channel.",
+    "options": [
+      "to dig",
+      "dig",
+      "digging",
+      "dug"
+    ],
+    "answerIndex": 2,
+    "explanation": "The verb \"consider\" is followed by a gerund: \"considered digging.\" \"Considered to dig\" is not standard when \"consider\" means \"think about doing.\""
+  },
+  {
+    "id": "P14-d06",
+    "patternId": "P14",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Arctic terns are famous for {0} farther than any other bird, {1} from the Arctic to the Antarctic {2} back {3} year.",
+    "options": [
+      "migrate",
+      "traveling",
+      "and",
+      "each"
+    ],
+    "answerIndex": 0,
+    "explanation": "After a preposition such as \"for,\" a verb must take the gerund form: \"famous for migrating.\" The base form \"migrate\" cannot follow a preposition."
+  },
+  {
+    "id": "P14-d07",
+    "patternId": "P14",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Wright brothers succeeded in {0} the first powered, controlled airplane flight in 1903 {1} several years {2} with gliders {3} wind tunnels.",
+    "options": [
+      "making",
+      "after spending",
+      "to experiment",
+      "and"
+    ],
+    "answerIndex": 2,
+    "explanation": "The expression \"spend time\" is followed by a gerund: \"spending several years experimenting.\" The infinitive \"to experiment\" is incorrect here."
+  },
+  {
+    "id": "P14-d08",
+    "patternId": "P14",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "It is important {0} {1} antibiotics {2} prescribed, because stopping {3} too early can allow some bacteria to survive.",
+    "options": [
+      "to",
+      "taking",
+      "as",
+      "them"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pattern \"It is + adjective\" is followed by an infinitive, which is \"to\" + base verb: \"It is important to take.\" \"To taking\" is incorrect."
+  },
+  {
+    "id": "P14-d09",
+    "patternId": "P14",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Female sea turtles often return to the beaches where they hatched {0} {1} {2} eggs, a behavior that biologists have long hoped {3}.",
+    "options": [
+      "in order",
+      "to lay",
+      "their",
+      "explaining"
+    ],
+    "answerIndex": 3,
+    "explanation": "The verb \"hope\" is followed by an infinitive, not a gerund: \"have long hoped to explain.\""
+  },
+  {
+    "id": "P14-d10",
+    "patternId": "P14",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Charles Lindbergh became famous {0} {1} the first solo nonstop flight {2} the Atlantic Ocean {3} 1927.",
+    "options": [
+      "for",
+      "make",
+      "across",
+      "in"
+    ],
+    "answerIndex": 1,
+    "explanation": "A verb after the preposition \"for\" must be a gerund: \"famous for making.\" The base form \"make\" cannot follow a preposition."
+  }
+]

@@ -1217,3 +1217,503 @@
 
 [P12 written-expression] _A:Little_ _B:the early settlers knew_ about the _C:harsh_ _D:winters_.
    ANSWER: B  — After "Little" at the start of a sentence, use question word order: "did the early settlers know", not "the early settlers knew".
+
+[P13 structure] If the farmers planted drought-resistant seeds, their crops ____ the dry summer.
+   A) would survive
+   B) would survived
+   C) surviving
+   D) would to survive
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause: "would survive". After "would", use the base form, without "to".
+
+[P13 structure] If the store ____ its prices, more customers would have bought its products.
+   A) would lower
+   B) lowering
+   C) has lowered
+   D) had lowered
+   ANSWER: D  — The main clause "would have bought" shows an unreal past condition, so the if-clause needs the past perfect: "had lowered". "Would" does not belong in the if-clause.
+
+[P13 structure] Most farmers wish they ____ more modern machinery for their fields.
+   A) own
+   B) owning
+   C) owned
+   D) will own
+   ANSWER: C  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they owned".
+
+[P13 written-expression] If the _A:hospital_ _B:will hire_ more nurses, patients would spend less _C:time_ waiting for _D:care_.
+   ANSWER: B  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "hired".
+
+[P13 written-expression] Some new _A:employees_ _B:wish_ they _C:know_ more about the _D:history_ of the firm.
+   ANSWER: C  — After "wish", a present situation is described with the simple past: "knew", not "know".
+
+[P13 structure] If the researchers had used a larger sample, the results ____ more reliable.
+   A) would been
+   B) would have been
+   C) would had been
+   D) will have been
+   ANSWER: B  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have been".
+
+[P13 written-expression] If the _A:students_ _B:will read_ the _C:instructions_ carefully, they would make fewer _D:mistakes_.
+   ANSWER: B  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "read".
+
+[P13 written-expression] Many language learners _A:wish_ they _B:speak_ more _C:fluently_ _D:at_ work.
+   ANSWER: B  — After "wish", a present situation is described with the simple past: "spoke", not "speak".
+
+[P13 structure] If the city had built more bicycle lanes, fewer people ____ to work.
+   A) would have driven
+   B) would driven
+   C) will have driven
+   D) would had driven
+   ANSWER: A  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have driven".
+
+[P13 structure] Many travelers wish they ____ more time to explore each city.
+   A) had
+   B) will have
+   C) have
+   D) having
+   ANSWER: A  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they had".
+
+[P13 written-expression] If the researchers _A:will use_ a larger _B:sample_, the _C:results_ would be more _D:reliable_.
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "used".
+
+[P13 structure] If the region had received more rain, the lake ____ to its normal level.
+   A) would risen
+   B) would had risen
+   C) will have risen
+   D) would have risen
+   ANSWER: D  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have risen".
+
+[P13 structure] Many commuters wish they ____ closer to their offices.
+   A) will live
+   B) lived
+   C) living
+   D) live
+   ANSWER: B  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they lived".
+
+[P13 written-expression] If the gallery _A:had opened_ on _B:weekends_, more _C:families_ _D:would visited_ its exhibits.
+   ANSWER: D  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have visited", not "would visited".
+
+[P13 written-expression] If the city _A:will build_ more bicycle _B:lanes_, fewer _C:people_ _D:would drive_ to work.
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "built".
+
+[P13 written-expression] If the store _A:will lower_ its _B:prices_, more _C:customers_ would buy its _D:products_.
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "lowered".
+
+[P13 written-expression] If the _A:region_ _B:will receive_ more _C:rain_, the _D:lake_ would rise to its normal level.
+   ANSWER: B  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "received".
+
+[P13 written-expression] If the hospital _A:had hired_ more nurses, patients _B:would spent_ less _C:time_ waiting for _D:care_.
+   ANSWER: B  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have spent", not "would spent".
+
+[P13 written-expression] If the store _A:will lower_ its prices, more _B:customers_ _C:would buy_ its _D:products_.
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "lowered".
+
+[P13 written-expression] Many _A:travelers_ wish they _B:have_ more _C:time_ to explore each _D:city_.
+   ANSWER: B  — After "wish", a present situation is described with the simple past: "had", not "have".
+
+[P14 structure] Many birds avoid ____ near busy roads.
+   A) nesting
+   B) to nest
+   C) nested
+   D) nest
+   ANSWER: A  — The verb "avoid" is followed by a gerund (-ing form), not an infinitive: "avoid nesting".
+
+[P14 structure] The members decided ____ the vote until Friday.
+   A) postpone
+   B) postponing
+   C) postponed
+   D) to postpone
+   ANSWER: D  — The verb "decide" is followed by an infinitive (to + base verb): "decided to postpone".
+
+[P14 structure] The curator is responsible for ____ many rare paintings.
+   A) protect
+   B) protected
+   C) to protect
+   D) protecting
+   ANSWER: D  — A verb that follows a preposition such as "for" must be a gerund (-ing form): "for protecting".
+
+[P14 written-expression] The _A:engineers_ _B:postponed_ _C:to launch_ the satellite _D:until_ spring.
+   ANSWER: C  — "postpone" takes a gerund, not an infinitive: "postponed launching".
+
+[P14 written-expression] The _A:landlord_ refused _B:lowering_ the _C:rent_ _D:this_ year.
+   ANSWER: B  — "refuse" takes an infinitive, not a gerund: "refused to lower".
+
+[P14 written-expression] _A:Some_ desert _B:plants_ _C:are capable of_ _D:to survive_ long periods without water.
+   ANSWER: D  — After the preposition "of", use a gerund: "of surviving", not "to survive".
+
+[P14 structure] The workers finished ____ the bridge before winter.
+   A) painting
+   B) painted
+   C) to paint
+   D) paint
+   ANSWER: A  — The verb "finish" is followed by a gerund (-ing form), not an infinitive: "finished painting".
+
+[P14 structure] Many young couples cannot afford ____ a house in the city.
+   A) buy
+   B) bought
+   C) to buy
+   D) buying
+   ANSWER: C  — The verb "afford" is followed by an infinitive (to + base verb): "cannot afford to buy".
+
+[P14 written-expression] _A:City_ planners considered _B:to build_ a _C:second_ _D:airport_.
+   ANSWER: B  — "consider" takes a gerund, not an infinitive: "considered building".
+
+[P14 written-expression] The climbers _A:managed_ _B:reaching_ the _C:summit_ _D:before_ dark.
+   ANSWER: B  — "manage" takes an infinitive, not a gerund: "managed to reach".
+
+[P14 written-expression] The _A:doctors_ succeeded in _B:to identify_ the _C:cause_ _D:of_ the illness.
+   ANSWER: B  — After the preposition "in", use a gerund: "in identifying", not "to identify".
+
+[P14 structure] Most patients enjoy ____ in the hospital garden.
+   A) walked
+   B) walking
+   C) to walk
+   D) walk
+   ANSWER: B  — The verb "enjoy" is followed by a gerund (-ing form), not an infinitive: "enjoy walking".
+
+[P14 structure] The railway plans ____ its network across the country.
+   A) to expand
+   B) expand
+   C) expanded
+   D) expanding
+   ANSWER: A  — The verb "plan" is followed by an infinitive (to + base verb): "plans to expand".
+
+[P14 written-expression] The _A:engineers_ _B:were interested in_ _C:to design_ a _D:quieter_ engine.
+   ANSWER: C  — After the preposition "in", use a gerund: "in designing", not "to design".
+
+[P14 structure] The local bakery hopes ____ three new stores next year.
+   A) open
+   B) opened
+   C) to open
+   D) opening
+   ANSWER: C  — The verb "hope" is followed by an infinitive (to + base verb): "hopes to open".
+
+[P14 structure] The author is famous for ____ detective novels set in London.
+   A) written
+   B) writing
+   C) write
+   D) to write
+   ANSWER: B  — A verb that follows a preposition such as "for" must be a gerund (-ing form): "for writing".
+
+[P14 written-expression] _A:Both_ _B:countries_ agreed _C:reducing_ their carbon emissions _D:by_ half.
+   ANSWER: C  — "agree" takes an infinitive, not a gerund: "agreed to reduce".
+
+[P14 written-expression] The _A:witness_ _B:denied_ _C:to see_ the _D:stolen_ car.
+   ANSWER: C  — "deny" takes a gerund, not an infinitive: "denied seeing".
+
+[P14 structure] The doctors succeeded in ____ the cause of the illness.
+   A) identify
+   B) identifying
+   C) to identify
+   D) identified
+   ANSWER: B  — A verb that follows a preposition such as "in" must be a gerund (-ing form): "in identifying".
+
+[P14 written-expression] Most _A:patients_ enjoy _B:to walk_ _C:in_ the hospital _D:garden_.
+   ANSWER: B  — "enjoy" takes a gerund, not an infinitive: "enjoy walking".
+
+[P15 structure] Visitors to the laboratory must ____ protective glasses.
+   A) wear
+   B) to wear
+   C) wears
+   D) wearing
+   ANSWER: A  — A modal such as "must" is always followed by the base form of the verb, with no "to" and no ending: "must wear".
+
+[P15 structure] The first people in the Americas may ____ a land bridge from Asia.
+   A) have cross
+   B) had crossed
+   C) crossed
+   D) have crossed
+   ANSWER: D  — To talk about the past with a modal, use modal + have + past participle: "may have crossed". "Had" and the simple past cannot follow a modal.
+
+[P15 written-expression] Some _A:insects_ _B:can_ _C:survives_ _D:freezing_ temperatures.
+   ANSWER: C  — "Can" is followed by the base form of the verb: "can survive", not "can survives".
+
+[P15 written-expression] The _A:ancient_ city _B:must_ _C:had been_ _D:abandoned_ suddenly.
+   ANSWER: C  — A modal about the past takes "have", not "had": "must have been".
+
+[P15 structure] Careful scientists should ____ important experiments.
+   A) repeat
+   B) to repeat
+   C) repeats
+   D) repeating
+   ANSWER: A  — A modal such as "should" is always followed by the base form of the verb, with no "to" and no ending: "should repeat".
+
+[P15 written-expression] Regular _A:exercise_ _B:may_ _C:lowered_ the risk of heart _D:disease_.
+   ANSWER: C  — "May" is followed by the base form of the verb: "may lower", not "may lowered".
+
+[P15 written-expression] The _A:builders_ should _B:had tested_ the _C:bridge_ more _D:carefully_.
+   ANSWER: B  — A modal about the past takes "have", not "had": "should have tested".
+
+[P15 structure] A small change in temperature can ____ the growth of crops.
+   A) affecting
+   B) affects
+   C) affect
+   D) to affect
+   ANSWER: C  — A modal such as "can" is always followed by the base form of the verb, with no "to" and no ending: "can affect".
+
+[P15 structure] The missing letter might ____ lost in the mail.
+   A) had been
+   B) have been
+   C) have be
+   D) was
+   ANSWER: B  — To talk about the past with a modal, use modal + have + past participle: "might have been". "Had" and the simple past cannot follow a modal.
+
+[P15 structure] Students should ____ their essays by Friday.
+   A) to submit
+   B) submits
+   C) submit
+   D) submitting
+   ANSWER: C  — A modal such as "should" is always followed by the base form of the verb, with no "to" and no ending: "should submit".
+
+[P15 structure] The fire could ____ in the kitchen.
+   A) have start
+   B) had started
+   C) have started
+   D) started
+   ANSWER: C  — To talk about the past with a modal, use modal + have + past participle: "could have started". "Had" and the simple past cannot follow a modal.
+
+[P15 written-expression] _A:All_ _B:drivers_ _C:must_ _D:stops_ at a red light.
+   ANSWER: D  — "Must" is followed by the base form of the verb: "must stop", not "must stops".
+
+[P15 written-expression] A small change in _A:temperature_ _B:can_ _C:affected_ the growth of _D:crops_.
+   ANSWER: C  — "Can" is followed by the base form of the verb: "can affect", not "can affected".
+
+[P15 written-expression] The first _A:people_ in the Americas _B:may_ _C:had crossed_ a land _D:bridge_ from Asia.
+   ANSWER: C  — A modal about the past takes "have", not "had": "may have crossed".
+
+[P15 written-expression] Visitors to the _A:laboratory_ must _B:wears_ _C:protective_ _D:glasses_.
+   ANSWER: B  — "Must" is followed by the base form of the verb: "must wear", not "must wears".
+
+[P15 written-expression] The missing _A:letter_ might _B:had been_ _C:lost_ in the _D:mail_.
+   ANSWER: B  — A modal about the past takes "have", not "had": "might have been".
+
+[P15 structure] Regular exercise may ____ the risk of heart disease.
+   A) lower
+   B) lowers
+   C) to lower
+   D) lowering
+   ANSWER: A  — A modal such as "may" is always followed by the base form of the verb, with no "to" and no ending: "may lower".
+
+[P15 written-expression] Regular exercise _A:may_ _B:lowers_ the _C:risk_ of heart _D:disease_.
+   ANSWER: B  — "May" is followed by the base form of the verb: "may lower", not "may lowers".
+
+[P15 written-expression] The builders _A:should_ _B:had tested_ the _C:bridge_ more _D:carefully_.
+   ANSWER: B  — A modal about the past takes "have", not "had": "should have tested".
+
+[P15 written-expression] Visitors to the laboratory _A:must_ _B:wore_ _C:protective_ _D:glasses_.
+   ANSWER: B  — "Must" is followed by the base form of the verb: "must wear", not "must wore".
+
+[P16 structure] Many birds build ____ nests in tall trees.
+   A) their
+   B) its
+   C) them
+   D) they're
+   ANSWER: A  — The pronoun refers to the plural noun "birds", so it must be the plural possessive "their". "They're" means "they are".
+
+[P16 structure] The river gradually changed ____ course over many centuries.
+   A) their
+   B) it's
+   C) it
+   D) its
+   ANSWER: D  — The pronoun refers to the singular noun "river", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+
+[P16 structure] The farmers harvested the apples and sold ____ at the local market.
+   A) their
+   B) it
+   C) they
+   D) them
+   ANSWER: D  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+
+[P16 written-expression] Early _A:farmers_ _B:stored_ _C:its_ grain in clay _D:pots_.
+   ANSWER: C  — "farmers" is plural, so the possessive must be "their", not "its".
+
+[P16 written-expression] The planet _A:Mercury_ _B:completes_ _C:their_ _D:orbit_ in about 88 days.
+   ANSWER: C  — "Mercury" is singular, so the possessive must be "its", not "their".
+
+[P16 written-expression] The _A:library_ received two old _B:maps_ and _C:displayed_ _D:they_ in the main hall.
+   ANSWER: D  — An object of a verb needs an object pronoun: "them", not "they".
+
+[P16 structure] The glacier has lost much of ____ ice over the past century.
+   A) their
+   B) it
+   C) its
+   D) it's
+   ANSWER: C  — The pronoun refers to the singular noun "glacier", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+
+[P16 written-expression] Female _A:mammals_ feed _B:its_ _C:young_ with _D:milk_.
+   ANSWER: B  — "mammals" is plural, so the possessive must be "their", not "its".
+
+[P16 structure] An octopus can change ____ color very quickly.
+   A) its
+   B) their
+   C) it
+   D) it's
+   ANSWER: A  — The pronoun refers to the singular noun "octopus", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+
+[P16 structure] A deciduous tree loses ____ leaves every autumn.
+   A) it
+   B) it's
+   C) their
+   D) its
+   ANSWER: D  — The pronoun refers to the singular noun "tree", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+
+[P16 written-expression] _A:Honeybees_ _B:use_ _C:its_ _D:dances_ to share the location of food.
+   ANSWER: C  — "Honeybees" is plural, so the possessive must be "their", not "its".
+
+[P16 structure] The students presented ____ findings at the conference.
+   A) they're
+   B) its
+   C) their
+   D) them
+   ANSWER: C  — The pronoun refers to the plural noun "students", so it must be the plural possessive "their". "They're" means "they are".
+
+[P16 structure] The teacher marked the essays and returned ____ to the class.
+   A) it
+   B) they
+   C) their
+   D) them
+   ANSWER: D  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+
+[P16 written-expression] The _A:scientists_ collected the _B:samples_ and tested _C:they_ in the _D:laboratory_.
+   ANSWER: C  — An object of a verb needs an object pronoun: "them", not "they".
+
+[P16 structure] Female mammals feed ____ young with milk.
+   A) its
+   B) them
+   C) they're
+   D) their
+   ANSWER: D  — The pronoun refers to the plural noun "mammals", so it must be the plural possessive "their". "They're" means "they are".
+
+[P16 structure] The scientists collected the samples and tested ____ in the laboratory.
+   A) them
+   B) it
+   C) they
+   D) their
+   ANSWER: A  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+
+[P16 written-expression] An octopus _A:can change_ _B:it's_ _C:color_ very _D:quickly_.
+   ANSWER: B  — The possessive form is "its" with no apostrophe. "It's" means "it is".
+
+[P16 written-expression] The _A:library_ received two old _B:maps_ and displayed _C:they_ in the main _D:hall_.
+   ANSWER: C  — An object of a verb needs an object pronoun: "them", not "they".
+
+[P16 structure] Honeybees use ____ dances to share the location of food.
+   A) its
+   B) their
+   C) they're
+   D) them
+   ANSWER: B  — The pronoun refers to the plural noun "Honeybees", so it must be the plural possessive "their". "They're" means "they are".
+
+[P16 written-expression] The students _A:presented_ _B:its_ _C:findings_ at the _D:conference_.
+   ANSWER: B  — "students" is plural, so the possessive must be "their", not "its".
+
+[P17 structure] The Nile is one of the ____ in the world.
+   A) longest rivers
+   B) longest river
+   C) most longest rivers
+   D) longest river's
+   ANSWER: A  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the longest rivers".
+
+[P17 structure] During the storm, several ____ were badly damaged.
+   A) building's
+   B) building
+   C) kind of building
+   D) buildings
+   ANSWER: D  — With a countable noun, "several" requires the plural form: "several buildings".
+
+[P17 structure] The laboratory bought ____ for its experiments.
+   A) many equipments
+   B) an equipment
+   C) some new equipments
+   D) some new equipment
+   ANSWER: D  — "Equipment" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "some new equipment".
+
+[P17 written-expression] _A:The cheetah_ _B:is_ one of the _C:fastest_ _D:animal_ on land.
+   ANSWER: D  — After "one of the", use a plural noun: "animals", not "animal".
+
+[P17 written-expression] In such _A:dry_ soil, few _B:plant_ _C:can_ _D:survive_ for long.
+   ANSWER: B  — With a countable noun, "few" requires the plural form: "few plants", not "plant".
+
+[P17 written-expression] The _A:professor_ _B:gave_ the students some useful _C:advices_ about their _D:essays_.
+   ANSWER: C  — "Advice" is uncountable, so it has no plural: write "advice", not "advices".
+
+[P17 structure] Jupiter is one of the ____ in the night sky.
+   A) most brightest objects
+   B) brightest object's
+   C) brightest object
+   D) brightest objects
+   ANSWER: D  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the brightest objects".
+
+[P17 structure] At the gate, all ____ must show a ticket.
+   A) passenger
+   B) passenger's
+   C) passengers
+   D) kind of passenger
+   ANSWER: C  — With a countable noun, "all" requires the plural form: "all passengers".
+
+[P17 written-expression] Tokyo _A:is_ one of the _B:largest_ _C:city_ _D:in_ the world.
+   ANSWER: C  — After "one of the", use a plural noun: "cities", not "city".
+
+[P17 written-expression] The researchers _A:gathered_ a great deal of _B:informations_ _C:about_ the _D:disease_.
+   ANSWER: B  — "Information" is uncountable, so it has no plural: write "information", not "informations".
+
+[P17 structure] K2 is one of the ____ on Earth.
+   A) highest mountains
+   B) highest mountain's
+   C) highest mountain
+   D) most highest mountains
+   ANSWER: A  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the highest mountains".
+
+[P17 structure] A number of ____ have applied for the scholarship.
+   A) students
+   B) student's
+   C) student
+   D) kind of student
+   ANSWER: A  — With a countable noun, "a number of" requires the plural form: "a number of students".
+
+[P17 structure] Both ____ were tested twice in the laboratory.
+   A) kind of sample
+   B) samples
+   C) sample
+   D) sample's
+   ANSWER: B  — With a countable noun, "both" requires the plural form: "both samples".
+
+[P17 structure] Each passenger may bring ____ on the bus.
+   A) a small amount of luggage
+   B) many luggages
+   C) a luggage
+   D) a small amount of luggages
+   ANSWER: A  — "Luggage" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "a small amount of luggage".
+
+[P17 structure] The Sahara is one of the ____ on Earth.
+   A) driest region
+   B) driest regions
+   C) driest region's
+   D) most driest regions
+   ANSWER: B  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the driest regions".
+
+[P17 structure] The hotel replaced ____ in its rooms.
+   A) a furniture
+   B) most of the old furniture
+   C) many furnitures
+   D) most of the old furnitures
+   ANSWER: B  — "Furniture" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "most of the old furniture".
+
+[P17 structure] The cheetah is one of the ____ on land.
+   A) fastest animals
+   B) most fastest animals
+   C) fastest animal's
+   D) fastest animal
+   ANSWER: A  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the fastest animals".
+
+[P17 structure] The researchers gathered ____ about the disease.
+   A) an information
+   B) a great deal of information
+   C) many informations
+   D) a great deal of informations
+   ANSWER: B  — "Information" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "a great deal of information".
+
+[P17 written-expression] Both _A:sample_ _B:were_ tested _C:twice_ in the _D:laboratory_.
+   ANSWER: A  — With a countable noun, "both" requires the plural form: "both samples", not "sample".
+
+[P17 written-expression] The _A:laboratory_ _B:bought_ some new _C:equipments_ for its _D:experiments_.
+   ANSWER: C  — "Equipment" is uncountable, so it has no plural: write "equipment", not "equipments".
