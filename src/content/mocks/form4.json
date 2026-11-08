@@ -1,0 +1,642 @@
+[
+  {
+    "id": "M4-01",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ the largest coral reef system in the world.",
+    "options": [
+      "The Great Barrier Reef, which is",
+      "Being the Great Barrier Reef",
+      "That the Great Barrier Reef is",
+      "The Great Barrier Reef is"
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence needs a subject and a main verb: \"The Great Barrier Reef is.\" The \"which\" and \"that\" options create clauses with no main verb, and \"being\" is not a main verb.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-02",
+    "patternId": "P01",
+    "type": "structure",
+    "source": "mock",
+    "stem": "In 1903, ____ the first powered, controlled airplane flight near Kitty Hawk, North Carolina.",
+    "options": [
+      "the Wright brothers making",
+      "when the Wright brothers made",
+      "the Wright brothers, who made",
+      "the Wright brothers made"
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence needs a subject and a main verb: \"the Wright brothers made.\" \"Making\" is not a main verb, and the \"when\" and \"who\" options leave the sentence without a main clause.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-03",
+    "patternId": "P02",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The number of species living in tropical rain forests ____ far greater than the number in temperate forests.",
+    "options": [
+      "are",
+      "is",
+      "being",
+      "have been"
+    ],
+    "answerIndex": 1,
+    "explanation": "The subject is \"The number,\" which is singular, so the verb is \"is.\" (\"A number of\" means \"many\" and takes a plural verb, but \"the number of\" is singular.)",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-04",
+    "patternId": "P03",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Since the invention of the microscope, scientists ____ thousands of species of microorganisms.",
+    "options": [
+      "identify",
+      "identifying",
+      "have identified",
+      "had been identified"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Since\" + a past point in time is used with the present perfect: \"Since the invention of the microscope, scientists have identified.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-05",
+    "patternId": "P05",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Alexander Fleming was the scientist ____ penicillin in 1928.",
+    "options": [
+      "which discovered",
+      "whom discovered",
+      "discovered who",
+      "who discovered"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Who\" is the subject relative pronoun for people: \"the scientist who discovered penicillin.\" \"Which\" is for things, and \"whom\" is an object pronoun.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-06",
+    "patternId": "P06",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Scientists are still investigating exactly ____ migrating birds find their way across thousands of kilometers.",
+    "options": [
+      "how do",
+      "how",
+      "what do",
+      "that how"
+    ],
+    "answerIndex": 1,
+    "explanation": "A noun clause uses statement word order, not question order: \"how migrating birds find their way.\" \"How do\" uses question order.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-07",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ the Sahara is extremely dry today, ancient rock paintings show that parts of it were once covered with grassland.",
+    "options": [
+      "Despite",
+      "In spite of",
+      "However",
+      "Although"
+    ],
+    "answerIndex": 3,
+    "explanation": "A full clause (\"the Sahara is extremely dry\") must be introduced by a conjunction such as \"although.\" \"Despite\" and \"in spite of\" must be followed by a noun phrase, and \"however\" cannot join two clauses this way.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-08",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "mock",
+    "stem": "____ in 1937, the Golden Gate Bridge was once the longest suspension bridge in the world.",
+    "options": [
+      "Completing",
+      "It was completed",
+      "Completed",
+      "Having completed"
+    ],
+    "answerIndex": 2,
+    "explanation": "The bridge received the action, so the reduced passive participle \"Completed\" is correct. \"Completing\" and \"Having completed\" are active, and \"It was completed\" creates two clauses with no connector.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-09",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Mount Everest, ____, lies on the border between Nepal and China.",
+    "options": [
+      "is the highest mountain above sea level",
+      "the highest mountain above sea level",
+      "which the highest mountain above sea level",
+      "it is the highest mountain above sea level"
+    ],
+    "answerIndex": 1,
+    "explanation": "An appositive is a noun phrase that renames the noun before it, with no verb: \"Mount Everest, the highest mountain above sea level, lies.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-10",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The planet Jupiter is ____ all the other planets in the solar system combined.",
+    "options": [
+      "massiver than",
+      "more massive",
+      "more massive than",
+      "the most massive than"
+    ],
+    "answerIndex": 2,
+    "explanation": "A long adjective forms its comparative with \"more ... than\": \"more massive than all the other planets.\" \"Massiver\" is not a word, and a superlative cannot be followed by \"than.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-11",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Only after the invention of the telescope ____ the moons of Jupiter.",
+    "options": [
+      "astronomers could see",
+      "could astronomers see",
+      "astronomers saw",
+      "did astronomers saw"
+    ],
+    "answerIndex": 1,
+    "explanation": "When a sentence begins with \"Only after,\" the subject and auxiliary are inverted: \"could astronomers see.\" \"Did astronomers saw\" is wrong because \"did\" must be followed by the base form.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-12",
+    "patternId": "P13",
+    "type": "structure",
+    "source": "mock",
+    "stem": "If the Earth ____ no Moon, its ocean tides would be much weaker.",
+    "options": [
+      "has",
+      "would have",
+      "will have",
+      "had"
+    ],
+    "answerIndex": 3,
+    "explanation": "An unreal present condition uses the past tense in the if-clause and \"would\" in the main clause: \"If the Earth had no Moon, its ocean tides would be much weaker.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-13",
+    "patternId": "P14",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Many early pilots avoided ____ at night because they could not see the ground clearly.",
+    "options": [
+      "to fly",
+      "fly",
+      "flown",
+      "flying"
+    ],
+    "answerIndex": 3,
+    "explanation": "The verb \"avoid\" is followed by a gerund: \"avoided flying.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-14",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "mock",
+    "stem": "Lightning can strike ____ tall buildings but also open fields and lone trees.",
+    "options": [
+      "both",
+      "either",
+      "not only",
+      "neither"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"But also\" pairs with \"not only\": \"not only tall buildings but also open fields.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-15",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "mock",
+    "stem": "The Roman emperor Augustus had many public buildings in Rome ____ in marble.",
+    "options": [
+      "rebuilt",
+      "rebuild",
+      "to rebuild",
+      "rebuilding"
+    ],
+    "answerIndex": 0,
+    "explanation": "The buildings received the action, so \"have\" + object is followed by the past participle: \"had many public buildings rebuilt.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-16",
+    "patternId": "P01",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Suez Canal, {0} opened in 1869, {1} the Mediterranean Sea {2} {3} Red Sea.",
+    "options": [
+      "which",
+      "connecting",
+      "with",
+      "the"
+    ],
+    "answerIndex": 1,
+    "explanation": "The subject \"The Suez Canal\" needs a main verb: \"connects the Mediterranean Sea with the Red Sea.\" \"Connecting\" is not a main verb.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-17",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "A large collection {0} letters written by Abraham Lincoln {1} {2} at the Library of Congress {3} Washington, D.C.",
+    "options": [
+      "of",
+      "are",
+      "kept",
+      "in"
+    ],
+    "answerIndex": 1,
+    "explanation": "The subject is \"collection,\" which is singular, so the verb must be \"is\": \"A large collection of letters ... is kept.\" The plural \"letters\" is part of a prepositional phrase.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-18",
+    "patternId": "P02",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Each of the planets {0} {1} the Sun in an {2} path {3} an orbit.",
+    "options": [
+      "travel",
+      "around",
+      "elliptical",
+      "called"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Each\" is singular, so the verb must be singular: \"Each of the planets travels.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-19",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Since the 1970s, computers {0} nearly every {1} of {2} {3}.",
+    "options": [
+      "changed",
+      "aspect",
+      "daily",
+      "life"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Since\" + a past point in time describes a period continuing to the present, so the present perfect is needed: \"computers have changed.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-20",
+    "patternId": "P03",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "By the time the American Civil War {0} in 1865, hundreds of thousands of soldiers {1} {2} their {3}.",
+    "options": [
+      "ended",
+      "have",
+      "lost",
+      "lives"
+    ],
+    "answerIndex": 1,
+    "explanation": "An action completed before another past event uses the past perfect: \"By the time the war ended, ... soldiers had lost their lives.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-21",
+    "patternId": "P04",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The first smallpox vaccine {0} {1} by Edward Jenner {2} the {3}.",
+    "options": [
+      "was",
+      "develop",
+      "in",
+      "1790s"
+    ],
+    "answerIndex": 1,
+    "explanation": "The passive voice is \"be + past participle\": \"was developed by Edward Jenner.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-22",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Amazon River, {0} carries more water {1} any other river, flows {2} the Atlantic {3}.",
+    "options": [
+      "whose",
+      "than",
+      "into",
+      "Ocean"
+    ],
+    "answerIndex": 0,
+    "explanation": "The relative pronoun is the subject of \"carries\" and refers to a thing, so it must be \"which\": \"The Amazon River, which carries more water.\" \"Whose\" shows possession.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-23",
+    "patternId": "P05",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Galileo Galilei observed the four largest moons of Jupiter, {0} {1} now {2} the Galilean moons {3} his honor.",
+    "options": [
+      "who",
+      "are",
+      "called",
+      "in"
+    ],
+    "answerIndex": 0,
+    "explanation": "The relative pronoun refers to \"moons,\" which are things, so it must be \"which\": \"the four largest moons of Jupiter, which are now called the Galilean moons.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-24",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Effective scientific writing should be {0}, {1}, and {2} {3}.",
+    "options": [
+      "accuracy",
+      "clear",
+      "well",
+      "organized"
+    ],
+    "answerIndex": 0,
+    "explanation": "Items in a series must have the same form. \"Clear\" and \"well organized\" are adjectives, so the first item must be the adjective \"accurate,\" not the noun \"accuracy.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-25",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Ancient astronomers {0} the stars in order to track the seasons, {1} calendars, and {2} {3}.",
+    "options": [
+      "studied",
+      "create",
+      "predicting",
+      "eclipses"
+    ],
+    "answerIndex": 2,
+    "explanation": "The verbs after \"to\" must be parallel: \"to track the seasons, create calendars, and predict eclipses.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-26",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Many people {0} the bicycle {1} the 1890s because it {2} cheap, practical, and {3}.",
+    "options": [
+      "adopted",
+      "in",
+      "was",
+      "enjoyment"
+    ],
+    "answerIndex": 3,
+    "explanation": "Items in a series must have the same form. \"Cheap\" and \"practical\" are adjectives, so the third item must be the adjective \"enjoyable,\" not the noun \"enjoyment.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-27",
+    "patternId": "P15",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Some species of tortoise {0} {1} {2} more than {3} years.",
+    "options": [
+      "can",
+      "lives",
+      "for",
+      "one hundred"
+    ],
+    "answerIndex": 1,
+    "explanation": "A modal such as \"can\" is followed by the base form of the verb: \"can live.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-28",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The giant panda spends most of {0} day {1} bamboo, {2} provides {3} with relatively little energy.",
+    "options": [
+      "their",
+      "eating",
+      "which",
+      "it"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pronoun refers to \"The giant panda,\" which is singular, so the possessive must be \"its\": \"most of its day.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-29",
+    "patternId": "P16",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The wings of bats {0} {1} very differently from {2} of {3}.",
+    "options": [
+      "are",
+      "built",
+      "that",
+      "birds"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pronoun replaces the plural noun \"wings,\" so it must be \"those\": \"differently from those of birds.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-30",
+    "patternId": "P17",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Owls {0} on small mammals and on many {1} {2} large {3}.",
+    "options": [
+      "feed",
+      "kind",
+      "of",
+      "insects"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"many,\" a countable noun must be plural: \"many kinds of large insects.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-31",
+    "patternId": "P18",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Antarctica is {0} coldest continent on Earth, and almost all of {1} surface is covered by a {2} sheet {3} ice.",
+    "options": [
+      "a",
+      "its",
+      "thick",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "A superlative adjective such as \"coldest\" takes \"the\": \"Antarctica is the coldest continent.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-32",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The {0} rise in sea levels {1} a serious {2} to low-lying {3} nations.",
+    "options": [
+      "gradual",
+      "poses",
+      "threaten",
+      "island"
+    ],
+    "answerIndex": 2,
+    "explanation": "After \"a serious,\" the object of \"poses\" must be a noun: \"a serious threat.\" \"Threaten\" is a verb.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-33",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Carbon dioxide in the atmosphere {0} heat {1} contributes {2} the {3} of the planet.",
+    "options": [
+      "traps",
+      "and",
+      "to",
+      "warm"
+    ],
+    "answerIndex": 3,
+    "explanation": "After \"the\" and before \"of,\" a noun is needed: \"the warming of the planet.\" \"Warm\" is an adjective or a verb.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-34",
+    "patternId": "P19",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The ancient Romans were {0} {1} who built roads and aqueducts, {2} of which {3} still in use today.",
+    "options": [
+      "skill",
+      "engineers",
+      "some",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "The noun \"engineers\" must be described by an adjective: \"skilled engineers\" or \"skillful engineers.\" \"Skill\" is a noun.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-35",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "In the desert, temperatures drop {0} after {1} sun sets, and the nights can be {2} {3}.",
+    "options": [
+      "sharp",
+      "the",
+      "surprisingly",
+      "cold"
+    ],
+    "answerIndex": 0,
+    "explanation": "The action verb \"drop\" is modified by an adverb: \"temperatures drop sharply.\" \"Sharp\" is an adjective here.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-36",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Dolphins communicate {0} with one another {1} a {2} range {3} sounds.",
+    "options": [
+      "effective",
+      "using",
+      "wide",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "The action verb \"communicate\" is modified by an adverb: \"communicate effectively.\" \"Effective\" is an adjective.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-37",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "Hummingbirds {0} their wings so {1} that {2} wings look {3}.",
+    "options": [
+      "beat",
+      "rapidly",
+      "the",
+      "blurrily"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Look\" is a linking verb here, so it is followed by an adjective: \"the wings look blurry.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-38",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The Rocky Mountains stretch {0} more than 4,000 kilometers, {1} New Mexico in the south {2} British Columbia {3} the north.",
+    "options": [
+      "for",
+      "from",
+      "until",
+      "in"
+    ],
+    "answerIndex": 2,
+    "explanation": "A range in space uses \"from ... to\": \"from New Mexico in the south to British Columbia in the north.\" \"Until\" is used for time, not distance.",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-39",
+    "patternId": "P22",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "In 1922, archaeologists {0} an {1} discovery when they {2} the nearly intact tomb {3} Tutankhamun.",
+    "options": [
+      "did",
+      "extraordinary",
+      "found",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "The fixed expression is \"make a discovery\": \"archaeologists made an extraordinary discovery.\"",
+    "mockForm": 4
+  },
+  {
+    "id": "M4-40",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "mock",
+    "stem": "The U.S. Constitution {0} that the President {1} a natural-born citizen and {2} at least thirty-five {3} old.",
+    "options": [
+      "requires",
+      "be",
+      "is",
+      "years"
+    ],
+    "answerIndex": 2,
+    "explanation": "After \"requires that,\" every verb in the clause is in the base form: \"that the President be a natural-born citizen and be at least thirty-five years old.\"",
+    "mockForm": 4
+  }
+]

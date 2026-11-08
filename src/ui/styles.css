@@ -46,3 +46,8 @@ tr.weak td { color: var(--bad); font-weight: 600; }
 input, select { font: inherit; min-height: 44px; padding: 6px 10px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); }
 label { display: block; margin: 12px 0 4px; font-weight: 600; }
 svg text { fill: var(--muted); font-size: 11px; }
+
+.table-scroll { overflow-x: auto; max-width: 100%; margin: 0.75rem 0; }
+.lesson table { border-collapse: collapse; font-size: 0.9rem; }
+.lesson th, .lesson td { border: 1px solid var(--border, #ccc); padding: 0.35rem 0.5rem; text-align: left; vertical-align: top; }
+.lesson th { font-weight: 600; }

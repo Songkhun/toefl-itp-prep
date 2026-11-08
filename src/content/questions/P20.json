@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P20-d01",
+    "patternId": "P20",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The population of Chicago increased ____ after the railroads arrived in the 1850s.",
+    "options": [
+      "dramatic",
+      "dramatically",
+      "drama",
+      "dramatics"
+    ],
+    "answerIndex": 1,
+    "explanation": "An action verb such as \"increased\" is described by an adverb: \"increased dramatically.\" \"Dramatic\" is an adjective, and \"drama\" and \"dramatics\" are nouns."
+  },
+  {
+    "id": "P20-d02",
+    "patternId": "P20",
+    "type": "structure",
+    "source": "drill",
+    "stem": "A bar of pure gold feels surprisingly ____ when it is held in the hand.",
+    "options": [
+      "heavy",
+      "heavily",
+      "heaviness",
+      "heaviest"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Feel\" is used here as a linking verb, so it is followed by an adjective: \"feels surprisingly heavy.\" The adverb \"surprisingly\" modifies the adjective."
+  },
+  {
+    "id": "P20-d03",
+    "patternId": "P20",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Many owls can fly almost ____ because of the soft edges of their feathers.",
+    "options": [
+      "silence",
+      "silent",
+      "silences",
+      "silently"
+    ],
+    "answerIndex": 3,
+    "explanation": "The action verb \"fly\" is described by an adverb: \"fly almost silently.\" \"Silent\" is an adjective, and \"silence\" is a noun."
+  },
+  {
+    "id": "P20-d04",
+    "patternId": "P20",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The surface of Venus is ____ hot, with temperatures high enough to melt lead.",
+    "options": [
+      "extreme",
+      "extremity",
+      "extremely",
+      "extremes"
+    ],
+    "answerIndex": 2,
+    "explanation": "An adjective such as \"hot\" is modified by an adverb: \"extremely hot.\" \"Extreme\" is an adjective, and \"extremity\" and \"extremes\" are nouns."
+  },
+  {
+    "id": "P20-d05",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Violins {0} by Antonio Stradivari are {1} valuable, and many of them still {2} {3} today.",
+    "options": [
+      "made",
+      "extremely",
+      "sound",
+      "beautifully"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Sound\" is a linking verb here, so it takes an adjective, not an adverb: \"still sound beautiful.\""
+  },
+  {
+    "id": "P20-d06",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Sea otters {0} use rocks {1} tools to break open the {2} shells of clams and {3}.",
+    "options": [
+      "skillful",
+      "as",
+      "hard",
+      "mussels"
+    ],
+    "answerIndex": 0,
+    "explanation": "The verb \"use\" must be modified by an adverb: \"Sea otters skillfully use rocks.\" \"Skillful\" is an adjective."
+  },
+  {
+    "id": "P20-d07",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Rain falls so {0} in parts of the Atacama Desert that the {1} landscape {2} {3} lifeless.",
+    "options": [
+      "rare",
+      "dry",
+      "appears",
+      "almost"
+    ],
+    "answerIndex": 0,
+    "explanation": "The action verb \"falls\" is modified by an adverb: \"falls so rarely.\" \"Rare\" is an adjective. (\"Appears almost lifeless\" is correct because \"appear\" is a linking verb.)"
+  },
+  {
+    "id": "P20-d08",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The water of the Dead Sea is so {0} that people can float {1} on {2} surface {3} swimming.",
+    "options": [
+      "salty",
+      "easy",
+      "its",
+      "without"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verb \"float\" is modified by an adverb: \"float easily.\" \"Easy\" is an adjective."
+  },
+  {
+    "id": "P20-d09",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Honey that is stored {0} in a sealed container can remain {1} for an {2} {3} time.",
+    "options": [
+      "properly",
+      "edible",
+      "extraordinary",
+      "long"
+    ],
+    "answerIndex": 2,
+    "explanation": "The adjective \"long\" is modified by an adverb: \"an extraordinarily long time.\" \"Extraordinary\" is an adjective."
+  },
+  {
+    "id": "P20-d10",
+    "patternId": "P20",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The sides of the Great Pyramid of Giza are aligned {0} {1} with the four {2} directions, a {3} achievement for its time.",
+    "options": [
+      "almost",
+      "perfect",
+      "compass",
+      "remarkable"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verb \"are aligned\" is modified by an adverb: \"aligned almost perfectly.\" \"Perfect\" is an adjective."
+  }
+]

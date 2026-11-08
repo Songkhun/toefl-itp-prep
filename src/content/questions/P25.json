@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P25-d01",
+    "patternId": "P25",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The doctor recommended that the patient ____ more rest.",
+    "options": [
+      "get",
+      "gets",
+      "got",
+      "will get"
+    ],
+    "answerIndex": 0,
+    "explanation": "After \"recommend that,\" the verb is in the base form (subjunctive) for every subject: \"that the patient get more rest.\""
+  },
+  {
+    "id": "P25-d02",
+    "patternId": "P25",
+    "type": "structure",
+    "source": "drill",
+    "stem": "It is essential that every passenger ____ a seat belt during takeoff.",
+    "options": [
+      "wears",
+      "wear",
+      "wore",
+      "wearing"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"it is essential that,\" use the base form of the verb: \"that every passenger wear a seat belt.\""
+  },
+  {
+    "id": "P25-d03",
+    "patternId": "P25",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Many states require that children ____ vaccinated before they enter public school.",
+    "options": [
+      "are",
+      "were",
+      "be",
+      "being"
+    ],
+    "answerIndex": 2,
+    "explanation": "After \"require that,\" the base form \"be\" is used, even in the passive: \"that children be vaccinated.\""
+  },
+  {
+    "id": "P25-d04",
+    "patternId": "P25",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The committee demanded that the report ____ before the end of the month.",
+    "options": [
+      "is completed",
+      "was completed",
+      "completes",
+      "be completed"
+    ],
+    "answerIndex": 3,
+    "explanation": "After \"demand that,\" use the base form; in the passive this is \"be\" + past participle: \"that the report be completed.\""
+  },
+  {
+    "id": "P25-d05",
+    "patternId": "P25",
+    "type": "structure",
+    "source": "drill",
+    "stem": "It is important that a scientist ____ careful records of every experiment.",
+    "options": [
+      "keep",
+      "keeps",
+      "kept",
+      "is keeping"
+    ],
+    "answerIndex": 0,
+    "explanation": "After \"it is important that,\" use the base form of the verb: \"that a scientist keep careful records.\""
+  },
+  {
+    "id": "P25-d06",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The {0} required that every student {1} a research paper {2} {3} the semester.",
+    "options": [
+      "professor",
+      "submits",
+      "before",
+      "the end of"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"require that,\" use the base form, not the -s form: \"that every student submit a research paper.\""
+  },
+  {
+    "id": "P25-d07",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "As the hurricane {0}, officials ordered that all residents {1} the {2} area {3}.",
+    "options": [
+      "approached",
+      "left",
+      "coastal",
+      "immediately"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"order that,\" use the base form, even when the main verb is in the past: \"that all residents leave the coastal area.\""
+  },
+  {
+    "id": "P25-d08",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The guide {0} that each hiker carry plenty of {1} {2} and {3} the marked trail at all times.",
+    "options": [
+      "required",
+      "water",
+      "during the hike",
+      "follows"
+    ],
+    "answerIndex": 3,
+    "explanation": "Both verbs after \"required that\" must be in the base form: \"that each hiker carry plenty of water ... and follow the marked trail.\""
+  },
+  {
+    "id": "P25-d09",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Doctors recommend that a person with the flu {0} home from work {1} rest {2} {3} possible.",
+    "options": [
+      "stays",
+      "and",
+      "as much",
+      "as"
+    ],
+    "answerIndex": 0,
+    "explanation": "After \"recommend that,\" use the base form: \"that a person with the flu stay home from work.\""
+  },
+  {
+    "id": "P25-d10",
+    "patternId": "P25",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The {0} of the competition require that every entry {1} received {2} midnight on the {3} day.",
+    "options": [
+      "rules",
+      "is",
+      "by",
+      "final"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"require that,\" the passive uses the base form \"be\": \"that every entry be received by midnight.\""
+  }
+]

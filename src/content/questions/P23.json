@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P23-d01",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Platypuses are unusual mammals because they ____ lay eggs and produce milk.",
+    "options": [
+      "both",
+      "either",
+      "neither",
+      "not only"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"And\" pairs with \"both\": \"both lay eggs and produce milk.\" \"Either\" pairs with \"or,\" \"neither\" with \"nor,\" and \"not only\" with \"but also.\""
+  },
+  {
+    "id": "P23-d02",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Neither the Moon ____ Mercury has a substantial atmosphere.",
+    "options": [
+      "or",
+      "nor",
+      "and",
+      "but"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Neither\" pairs with \"nor\": \"Neither the Moon nor Mercury.\""
+  },
+  {
+    "id": "P23-d03",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "drill",
+    "stem": "In the early 1800s, goods were usually transported ____ by river or by horse-drawn wagon.",
+    "options": [
+      "both",
+      "neither",
+      "either",
+      "not only"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Or\" pairs with \"either\": \"either by river or by horse-drawn wagon.\""
+  },
+  {
+    "id": "P23-d04",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The researchers could not determine ____ the sample had been contaminated or the equipment was faulty.",
+    "options": [
+      "whether",
+      "either",
+      "neither",
+      "both"
+    ],
+    "answerIndex": 0,
+    "explanation": "A noun clause that presents two possibilities uses \"whether ... or\": \"determine whether the sample had been contaminated or the equipment was faulty.\""
+  },
+  {
+    "id": "P23-d05",
+    "patternId": "P23",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Wright brothers were not only skilled mechanics ____ careful scientific observers.",
+    "options": [
+      "and also",
+      "but also",
+      "also",
+      "or"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Not only\" pairs with \"but also\": \"not only skilled mechanics but also careful scientific observers.\""
+  },
+  {
+    "id": "P23-d06",
+    "patternId": "P23",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Cacti {0} long droughts because they can both store water in their {1} {2} lose very {3} of it to evaporation.",
+    "options": [
+      "survive",
+      "stems",
+      "or",
+      "little"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Both\" pairs with \"and,\" not \"or\": \"both store water in their stems and lose very little of it.\""
+  },
+  {
+    "id": "P23-d07",
+    "patternId": "P23",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The kiwi, a bird native to New Zealand, can neither fly {0} see well, but it has {1} {2} sense of {3}.",
+    "options": [
+      "or",
+      "an",
+      "excellent",
+      "smell"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Neither\" pairs with \"nor\": \"can neither fly nor see well.\""
+  },
+  {
+    "id": "P23-d08",
+    "patternId": "P23",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Researchers are studying {0} the decline {1} bee populations {2} caused mainly by pesticides {3} by disease.",
+    "options": [
+      "whether",
+      "of",
+      "is",
+      "nor"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Whether\" pairs with \"or,\" not \"nor\": \"whether ... caused mainly by pesticides or by disease.\" \"Nor\" pairs only with \"neither.\""
+  },
+  {
+    "id": "P23-d09",
+    "patternId": "P23",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Many historians believe that Troy was {0} only a legend {1} also a real city that {2} in what is now {3}.",
+    "options": [
+      "not",
+      "and",
+      "existed",
+      "Turkey"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Not only\" pairs with \"but also\": \"not only a legend but also a real city.\""
+  },
+  {
+    "id": "P23-d10",
+    "patternId": "P23",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Early telephones were {0} expensive and {1}, so {2} few households {3} them.",
+    "options": [
+      "either",
+      "unreliable",
+      "relatively",
+      "owned"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"And\" pairs with \"both\": \"both expensive and unreliable.\" \"Either\" must pair with \"or.\""
+  }
+]

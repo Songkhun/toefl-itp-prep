@@ -628,14 +628,14 @@
     "patternId": "P25",
     "type": "written-expression",
     "source": "mock",
-    "stem": "During the 1960s, {0} scientists {1} {2} the pesticide DDT {3}.",
+    "stem": "During the 1960s, {0} scientists urged that the {1} DDT {2} {3}.",
     "options": [
       "many",
-      "urged",
-      "that",
-      "is banned"
+      "pesticide",
+      "is banned",
+      "completely"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "After verbs of urging or recommending followed by \"that,\" formal English uses the subjunctive, the base form of the verb: \"be banned.\" \"Is banned\" is the ordinary present tense.",
     "mockForm": 1
   }

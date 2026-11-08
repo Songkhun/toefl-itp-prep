@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P24-d01",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "drill",
+    "stem": "In medieval Europe, lords often made peasants ____ on their land for several days each week.",
+    "options": [
+      "work",
+      "to work",
+      "working",
+      "worked"
+    ],
+    "answerIndex": 0,
+    "explanation": "In the active voice, \"make\" + object is followed by the base form of the verb: \"made peasants work.\""
+  },
+  {
+    "id": "P24-d02",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Many national parks do not let visitors ____ the wild animals.",
+    "options": [
+      "to feed",
+      "feed",
+      "feeding",
+      "fed"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Let\" + object is followed by the base form: \"let visitors feed.\" \"Let\" is never followed by \"to.\""
+  },
+  {
+    "id": "P24-d03",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The museum had the ancient manuscript ____ by experts before putting it on display.",
+    "options": [
+      "examine",
+      "examined",
+      "to examine",
+      "examining"
+    ],
+    "answerIndex": 1,
+    "explanation": "When the object receives the action, \"have\" + object is followed by the past participle: \"had the ancient manuscript examined by experts.\""
+  },
+  {
+    "id": "P24-d04",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Advertising campaigns in the 1920s got many Americans ____ products on credit.",
+    "options": [
+      "buy",
+      "bought",
+      "to buy",
+      "buys"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Get\" + person is followed by the to-infinitive: \"got many Americans to buy products.\""
+  },
+  {
+    "id": "P24-d05",
+    "patternId": "P24",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The scientist had her assistants ____ the temperature of the samples every hour.",
+    "options": [
+      "to record",
+      "recorded",
+      "records",
+      "record"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Have\" + person is followed by the base form: \"had her assistants record the temperature.\""
+  },
+  {
+    "id": "P24-d06",
+    "patternId": "P24",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "City officials had engineers {0} the old bridge {1} before {2} it {3} traffic.",
+    "options": [
+      "to inspect",
+      "carefully",
+      "reopening",
+      "to"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Have\" + person is followed by the base form, not the to-infinitive: \"had engineers inspect the old bridge.\""
+  },
+  {
+    "id": "P24-d07",
+    "patternId": "P24",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Strong {0} can make even {1} trees {2} {3}.",
+    "options": [
+      "winds",
+      "tall",
+      "to sway",
+      "dangerously"
+    ],
+    "answerIndex": 2,
+    "explanation": "In the active voice, \"make\" + object is followed by the base form: \"make even tall trees sway.\""
+  },
+  {
+    "id": "P24-d08",
+    "patternId": "P24",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Before the printing press {0} invented, wealthy {1} had {2} books {3} by hand.",
+    "options": [
+      "was",
+      "readers",
+      "their",
+      "copy"
+    ],
+    "answerIndex": 3,
+    "explanation": "When the object receives the action, \"have\" + object is followed by the past participle: \"had their books copied by hand.\""
+  },
+  {
+    "id": "P24-d09",
+    "patternId": "P24",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Wealthy merchants in Renaissance Italy often had their portraits {0} by {1} artists, {2} were {3} paid.",
+    "options": [
+      "paint",
+      "leading",
+      "who",
+      "well"
+    ],
+    "answerIndex": 0,
+    "explanation": "The portraits receive the action, so \"have\" + object is followed by the past participle: \"had their portraits painted.\""
+  },
+  {
+    "id": "P24-d10",
+    "patternId": "P24",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The yearly flooding of the Nile let ancient Egyptian {0} {1} crops in soil {2} was rich {3} nutrients.",
+    "options": [
+      "farmers",
+      "to grow",
+      "that",
+      "in"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Let\" + object is followed by the base form without \"to\": \"let ancient Egyptian farmers grow crops.\""
+  }
+]

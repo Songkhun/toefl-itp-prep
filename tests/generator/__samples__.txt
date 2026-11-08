@@ -1717,3 +1717,391 @@
 
 [P17 written-expression] The _A:laboratory_ _B:bought_ some new _C:equipments_ for its _D:experiments_.
    ANSWER: C  — "Equipment" is uncountable, so it has no plural: write "equipment", not "equipments".
+
+[P20 structure] The population of the city increased ____ after the war.
+   A) rapidly
+   B) rapid
+   C) more rapid
+   D) rapidity
+   ANSWER: A  — The word modifies the verb "increased", so it must be an adverb: "increased rapidly". Adjectives describe nouns, not verbs.
+
+[P20 structure] The water in the mountain lake looks ____ even in winter.
+   A) clarity
+   B) clearly
+   C) more clearly
+   D) clear
+   ANSWER: D  — "Looks" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "looks clear".
+
+[P20 written-expression] Food _A:prices_ rose _B:sharp_ _C:during_ the _D:drought_.
+   ANSWER: B  — An adverb is needed to describe the verb "rose": "sharply", not the adjective "sharp".
+
+[P20 written-expression] The explanation in the _A:textbook_ _B:sounds_ _C:reasonably_ to most _D:readers_.
+   ANSWER: C  — After the linking verb "sounds", use an adjective that describes the subject: "reasonable", not the adverb "reasonably".
+
+[P20 written-expression] The _A:surgeon_ _B:operated_ _C:careful_ _D:on_ the injured patient.
+   ANSWER: C  — An adverb is needed to describe the verb "operated": "carefully", not the adjective "careful".
+
+[P20 structure] The new engine runs ____ in cold weather.
+   A) efficiency
+   B) efficiently
+   C) efficient
+   D) more efficient
+   ANSWER: B  — The word modifies the verb "runs", so it must be an adverb: "runs efficiently". Adjectives describe nouns, not verbs.
+
+[P20 written-expression] The _A:patient_ became _B:calmly_ _C:after_ the _D:treatment_.
+   ANSWER: B  — After the linking verb "became", use an adjective that describes the subject: "calm", not the adverb "calmly".
+
+[P20 structure] The witness answered ____ during the trial.
+   A) more calm
+   B) calmly
+   C) calm
+   D) calmness
+   ANSWER: B  — The word modifies the verb "answered", so it must be an adverb: "answered calmly". Adjectives describe nouns, not verbs.
+
+[P20 structure] The island economy depends ____ on tourism.
+   A) heavy
+   B) heavily
+   C) more heavy
+   D) heaviness
+   ANSWER: B  — The word modifies the verb "depends", so it must be an adverb: "depends heavily". Adjectives describe nouns, not verbs.
+
+[P20 written-expression] The _A:results_ of the survey seemed _B:surprisingly_ _C:to_ most _D:economists_.
+   ANSWER: B  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
+
+[P20 structure] The air in the desert feels ____ at night.
+   A) coolness
+   B) cool
+   C) coolly
+   D) more coolly
+   ANSWER: B  — "Feels" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "feels cool".
+
+[P20 written-expression] The _A:volcano_ _B:erupts_ _C:frequent_ _D:but_ rarely causes damage.
+   ANSWER: C  — An adverb is needed to describe the verb "erupts": "frequently", not the adjective "frequent".
+
+[P20 written-expression] The old _A:bridge_ _B:remains_ _C:safely_ _D:for_ light traffic.
+   ANSWER: C  — After the linking verb "remains", use an adjective that describes the subject: "safe", not the adverb "safely".
+
+[P20 written-expression] The _A:population_ of the _B:city_ _C:increased_ _D:rapid_ after the war.
+   ANSWER: D  — An adverb is needed to describe the verb "increased": "rapidly", not the adjective "rapid".
+
+[P20 written-expression] The results of the _A:survey_ _B:seemed_ _C:surprisingly_ _D:to_ most economists.
+   ANSWER: C  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
+
+[P20 structure] The volcano erupts ____ but rarely causes damage.
+   A) frequency
+   B) frequent
+   C) more frequent
+   D) frequently
+   ANSWER: D  — The word modifies the verb "erupts", so it must be an adverb: "erupts frequently". Adjectives describe nouns, not verbs.
+
+[P20 written-expression] The island _A:economy_ _B:depends_ _C:heavy_ on _D:tourism_.
+   ANSWER: C  — An adverb is needed to describe the verb "depends": "heavily", not the adjective "heavy".
+
+[P20 written-expression] The _A:results_ of the _B:survey_ _C:seemed_ _D:surprisingly_ to most economists.
+   ANSWER: D  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
+
+[P20 written-expression] The _A:volcano_ _B:erupts_ _C:frequent_ but rarely _D:causes_ damage.
+   ANSWER: C  — An adverb is needed to describe the verb "erupts": "frequently", not the adjective "frequent".
+
+[P20 structure] The results of the survey seemed ____ to most economists.
+   A) surprise
+   B) surprisingly
+   C) surprising
+   D) more surprisingly
+   ANSWER: C  — "Seemed" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "seemed surprising".
+
+[P23 structure] The region is famous both for its wine ____ for its cheese.
+   A) and
+   B) or
+   C) but
+   D) nor
+   ANSWER: A  — "Both" is always paired with "and": "both for its wine and for its cheese".
+
+[P23 structure] The disease affects both young children ____ older adults.
+   A) but
+   B) or
+   C) and
+   D) nor
+   ANSWER: C  — "Both" is always paired with "and": "both young children and older adults".
+
+[P23 written-expression] The _A:experiment_ can be done either in the _B:morning_ _C:and_ in the _D:evening_.
+   ANSWER: C  — "Either" is always paired with "or", so "and" is wrong: "either ... or".
+
+[P23 structure] The festival attracts not only local residents ____ tourists from abroad.
+   A) but also
+   B) or also
+   C) and also
+   D) nor
+   ANSWER: A  — "Not only" is paired with "but (also)": "not only local residents but also tourists from abroad".
+
+[P23 structure] Honeybees provide not only honey ____ pollination for many crops.
+   A) and also
+   B) or also
+   C) but also
+   D) nor
+   ANSWER: C  — "Not only" is paired with "but (also)": "not only honey but also pollination for many crops".
+
+[P23 structure] Applications may be submitted either online ____ by mail.
+   A) but also
+   B) nor
+   C) and
+   D) or
+   ANSWER: D  — "Either" is always paired with "or": "either online or by mail".
+
+[P23 written-expression] Visitors _A:can_ enter either through the main gate _B:but also_ through the _C:side_ _D:door_.
+   ANSWER: B  — "Either" is always paired with "or", so "but also" is wrong: "either ... or".
+
+[P23 written-expression] The _A:gallery_ _B:displays_ both _C:paintings_ _D:but_ sculptures.
+   ANSWER: D  — "Both" is always paired with "and", so "but" is wrong: "both ... and".
+
+[P23 structure] The early settlers had neither electricity ____ running water.
+   A) or
+   B) but
+   C) and
+   D) nor
+   ANSWER: D  — "Neither" is always paired with "nor": "neither electricity nor running water".
+
+[P23 structure] The new drug is neither cheap ____ widely available.
+   A) but
+   B) nor
+   C) and
+   D) or
+   ANSWER: B  — "Neither" is always paired with "nor": "neither cheap nor widely available".
+
+[P23 structure] Bamboo is not only strong ____ flexible.
+   A) and also
+   B) or also
+   C) but also
+   D) nor
+   ANSWER: C  — "Not only" is paired with "but (also)": "not only strong but also flexible".
+
+[P23 written-expression] _A:Honeybees_ provide not only _B:honey_ _C:and also_ _D:pollination_ for many crops.
+   ANSWER: C  — "Not only" is paired with "but (also)", so "and also" is wrong: "not only ... but also".
+
+[P23 written-expression] Visitors _A:can_ enter either through the main _B:gate_ _C:and_ through the _D:side_ door.
+   ANSWER: C  — "Either" is always paired with "or", so "and" is wrong: "either ... or".
+
+[P23 written-expression] The _A:festival_ _B:attracts_ not only local _C:residents_ _D:or also_ tourists from abroad.
+   ANSWER: D  — "Not only" is paired with "but (also)", so "or also" is wrong: "not only ... but also".
+
+[P23 written-expression] The _A:experiment_ _B:can_ be done either in the _C:morning_ _D:nor_ in the evening.
+   ANSWER: D  — "Either" is always paired with "or", so "nor" is wrong: "either ... or".
+
+[P23 structure] Visitors can enter either through the main gate ____ through the side door.
+   A) or
+   B) nor
+   C) but also
+   D) and
+   ANSWER: A  — "Either" is always paired with "or": "either through the main gate or through the side door".
+
+[P23 written-expression] The early _A:settlers_ _B:had_ neither _C:electricity_ _D:but_ running water.
+   ANSWER: D  — "Neither" is always paired with "nor", so "but" is wrong: "neither ... nor".
+
+[P23 written-expression] _A:Bamboo_ _B:is_ not only _C:strong_ _D:nor_ flexible.
+   ANSWER: D  — "Not only" is paired with "but (also)", so "nor" is wrong: "not only ... but also".
+
+[P23 structure] The gallery displays both paintings ____ sculptures.
+   A) nor
+   B) and
+   C) but
+   D) or
+   ANSWER: B  — "Both" is always paired with "and": "both paintings and sculptures".
+
+[P23 written-expression] The festival attracts not only local _A:residents_ _B:nor_ _C:tourists_ from _D:abroad_.
+   ANSWER: B  — "Not only" is paired with "but (also)", so "nor" is wrong: "not only ... but also".
+
+[P24 structure] The professor made the students ____ their essays twice.
+   A) rewrite
+   B) to rewrite
+   C) rewrites
+   D) rewrote
+   ANSWER: A  — After "make" + person, use the base form of the verb without "to": "made the students rewrite".
+
+[P24 structure] The residents got the city ____ the broken streetlights.
+   A) repaired
+   B) repair
+   C) repairs
+   D) to repair
+   ANSWER: D  — Unlike "make", "let" and "have", the verb "get" + person takes an infinitive with "to": "got the city to repair".
+
+[P24 structure] The gallery had the old painting ____ by an expert.
+   A) restoring
+   B) have restored
+   C) restore
+   D) restored
+   ANSWER: D  — When someone else does the action to a thing, use "have" + thing + past participle: "had the old painting restored".
+
+[P24 written-expression] The doctor _A:had_ the _B:patient_ _C:to describe_ the pain _D:carefully_.
+   ANSWER: C  — "Have" + person is followed by the base form, without "to": "had ... describe".
+
+[P24 written-expression] The _A:publisher_ had the _B:novel_ _C:translate_ into _D:Spanish_.
+   ANSWER: C  — The novel cannot do the action itself, so use "have" + thing + past participle: "had ... translated".
+
+[P24 structure] The coach made the players ____ extra laps after practice.
+   A) run
+   B) to run
+   C) runs
+   D) ran
+   ANSWER: A  — After "make" + person, use the base form of the verb without "to": "made the players run".
+
+[P24 structure] The driver had the brakes ____ before the long trip.
+   A) checking
+   B) checked
+   C) check
+   D) have checked
+   ANSWER: B  — When someone else does the action to a thing, use "have" + thing + past participle: "had the brakes checked".
+
+[P24 structure] The zookeepers let the visitors ____ the goats by hand.
+   A) to feed
+   B) feeds
+   C) feed
+   D) fed
+   ANSWER: C  — After "let" + person, use the base form of the verb without "to": "let the visitors feed".
+
+[P24 structure] The author got a famous scientist ____ the introduction to the book.
+   A) writes
+   B) wrote
+   C) to write
+   D) write
+   ANSWER: C  — Unlike "make", "let" and "have", the verb "get" + person takes an infinitive with "to": "got a famous scientist to write".
+
+[P24 written-expression] Some _A:parents_ _B:let_ their _C:children_ _D:to choose_ their own books.
+   ANSWER: D  — "Let" + person is followed by the base form, without "to": "let ... choose".
+
+[P24 written-expression] The _A:manager_ _B:got_ the _C:workers_ _D:accept_ the new schedule.
+   ANSWER: D  — "Get" + person takes an infinitive with "to": "got ... to accept".
+
+[P24 structure] The teacher had each student ____ a poem aloud.
+   A) recited
+   B) to recite
+   C) recite
+   D) recites
+   ANSWER: C  — After "have" + person, use the base form of the verb without "to": "had each student recite".
+
+[P24 structure] The owners had the roof ____ after the storm.
+   A) repaired
+   B) have repaired
+   C) repairing
+   D) repair
+   ANSWER: A  — When someone else does the action to a thing, use "have" + thing + past participle: "had the roof repaired".
+
+[P24 written-expression] The _A:doctor_ _B:had_ the _C:patient_ _D:to describe_ the pain carefully.
+   ANSWER: D  — "Have" + person is followed by the base form, without "to": "had ... describe".
+
+[P24 written-expression] The _A:owners_ had the _B:roof_ _C:repair_ _D:after_ the storm.
+   ANSWER: C  — The roof cannot do the action itself, so use "have" + thing + past participle: "had ... repaired".
+
+[P24 structure] The manager got the workers ____ the new schedule.
+   A) accepted
+   B) accepts
+   C) to accept
+   D) accept
+   ANSWER: C  — Unlike "make", "let" and "have", the verb "get" + person takes an infinitive with "to": "got the workers to accept".
+
+[P24 written-expression] The _A:coach_ made the players _B:to run_ extra _C:laps_ _D:after_ practice.
+   ANSWER: B  — "Make" + person is followed by the base form, without "to": "made ... run".
+
+[P24 written-expression] The manager _A:got_ the _B:workers_ _C:accept_ the new _D:schedule_.
+   ANSWER: C  — "Get" + person takes an infinitive with "to": "got ... to accept".
+
+[P24 written-expression] The publisher _A:had_ the _B:novel_ _C:translate_ into _D:Spanish_.
+   ANSWER: C  — The novel cannot do the action itself, so use "have" + thing + past participle: "had ... translated".
+
+[P24 structure] Some parents let their children ____ their own books.
+   A) choose
+   B) to choose
+   C) chose
+   D) chooses
+   ANSWER: A  — After "let" + person, use the base form of the verb without "to": "let their children choose".
+
+[P25 structure] The doctor recommended that the patient ____ more water.
+   A) drink
+   B) drinks
+   C) drinking
+   D) to drink
+   ANSWER: A  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "the patient drink", not "drinks".
+
+[P25 structure] It is essential that every applicant ____ two photographs.
+   A) submitting
+   B) submits
+   C) submit
+   D) to submit
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "every applicant submit", not "submits".
+
+[P25 written-expression] The committee proposed that the _A:city_ _B:builds_ a _C:new_ _D:library_.
+   ANSWER: B  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "build", not "builds".
+
+[P25 structure] It is advisable that a traveler ____ some local currency.
+   A) carry
+   B) to carry
+   C) carries
+   D) carrying
+   ANSWER: A  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "a traveler carry", not "carries".
+
+[P25 written-expression] The _A:coach_ advised that every _B:athlete_ _C:rests_ before the _D:race_.
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "rest", not "rests".
+
+[P25 written-expression] The manager demanded that the _A:report_ _B:is_ _C:finished_ by _D:Friday_.
+   ANSWER: B  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "be", not "is".
+
+[P25 written-expression] The _A:teacher_ _B:asked_ that each _C:student_ _D:brings_ a dictionary to class.
+   ANSWER: D  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "bring", not "brings".
+
+[P25 structure] It is necessary that each visitor ____ at the front desk.
+   A) registering
+   B) register
+   C) to register
+   D) registers
+   ANSWER: B  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "each visitor register", not "registers".
+
+[P25 structure] It is imperative that the sample ____ kept cold.
+   A) being
+   B) is
+   C) be
+   D) to be
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "the sample be", not "is".
+
+[P25 written-expression] It is _A:vital_ that a _B:pilot_ _C:follows_ the safety _D:checklist_.
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "follow", not "follows".
+
+[P25 written-expression] The _A:judge_ _B:ordered_ that the tenant _C:pays_ the _D:rent_ immediately.
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "pay", not "pays".
+
+[P25 written-expression] The pool _A:rules_ _B:require_ that every _C:swimmer_ _D:wears_ a cap.
+   ANSWER: D  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "wear", not "wears".
+
+[P25 written-expression] The law requires that each _A:driver_ _B:carries_ a _C:valid_ _D:license_.
+   ANSWER: B  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "carry", not "carries".
+
+[P25 structure] The teacher asked that each student ____ a dictionary to class.
+   A) bring
+   B) bringing
+   C) brings
+   D) to bring
+   ANSWER: A  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "each student bring", not "brings".
+
+[P25 written-expression] The pool _A:rules_ _B:require_ that every swimmer _C:wears_ a _D:cap_.
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "wear", not "wears".
+
+[P25 written-expression] It is _A:essential_ that every _B:applicant_ _C:submits_ two _D:photographs_.
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "submit", not "submits".
+
+[P25 written-expression] It is _A:essential_ that every _B:applicant_ _C:submits_ _D:two_ photographs.
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "submit", not "submits".
+
+[P25 structure] The pool rules require that every swimmer ____ a cap.
+   A) wears
+   B) to wear
+   C) wear
+   D) wearing
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "every swimmer wear", not "wears".
+
+[P25 written-expression] The _A:law_ requires that each _B:driver_ _C:carries_ a valid _D:license_.
+   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "carry", not "carries".
+
+[P25 structure] The judge ordered that the tenant ____ the rent immediately.
+   A) pays
+   B) to pay
+   C) paying
+   D) pay
+   ANSWER: D  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "the tenant pay", not "pays".

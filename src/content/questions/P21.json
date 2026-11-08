@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P21-d01",
+    "patternId": "P21",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Each molecule of water ____ two hydrogen atoms and one oxygen atom.",
+    "options": [
+      "consists of",
+      "consists from",
+      "consists on",
+      "consists by"
+    ],
+    "answerIndex": 0,
+    "explanation": "The fixed phrase is \"consist of\": \"Each molecule of water consists of two hydrogen atoms and one oxygen atom.\""
+  },
+  {
+    "id": "P21-d02",
+    "patternId": "P21",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Many flowering plants depend ____ insects, birds, or wind to carry pollen from flower to flower.",
+    "options": [
+      "of",
+      "on",
+      "from",
+      "at"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verb \"depend\" is followed by \"on\": \"depend on insects.\""
+  },
+  {
+    "id": "P21-d03",
+    "patternId": "P21",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Bats are the only mammals ____ true flight.",
+    "options": [
+      "capable to",
+      "capable for",
+      "capable of",
+      "capable in"
+    ],
+    "answerIndex": 2,
+    "explanation": "The adjective \"capable\" is followed by \"of\": \"capable of true flight.\""
+  },
+  {
+    "id": "P21-d04",
+    "patternId": "P21",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Smoking is a major cause of lung cancer and is responsible ____ most cases of the disease.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answerIndex": 1,
+    "explanation": "The fixed phrase is \"responsible for\": \"responsible for most cases.\""
+  },
+  {
+    "id": "P21-d05",
+    "patternId": "P21",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ the extremely cold climate, vast forests of larch trees grow in Siberia.",
+    "options": [
+      "In spite of",
+      "In spite",
+      "Despite of",
+      "Spite of"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct phrase is \"in spite of\" (or \"despite\" with no \"of\"): \"In spite of the extremely cold climate.\" \"Despite of\" is never correct."
+  },
+  {
+    "id": "P21-d06",
+    "patternId": "P21",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Benjamin Franklin is best known ____ his experiments with electricity and his role in American independence.",
+    "options": [
+      "as",
+      "with",
+      "from",
+      "for"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Known for\" introduces the reason someone is famous: \"best known for his experiments.\" \"Known as\" must be followed by a name or role, such as \"known as a scientist.\""
+  },
+  {
+    "id": "P21-d07",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Unlike mammals, most reptiles {0} {1} their surroundings {2} regulate {3} body temperature.",
+    "options": [
+      "rely",
+      "in",
+      "to",
+      "their"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verb \"rely\" is followed by \"on\": \"rely on their surroundings.\""
+  },
+  {
+    "id": "P21-d08",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The {0} of the Western Roman Empire in the fifth century {1} {2} a long period of political {3} in Europe.",
+    "options": [
+      "collapse",
+      "resulted",
+      "to",
+      "instability"
+    ],
+    "answerIndex": 2,
+    "explanation": "The verb \"result\" is followed by \"in\" when it introduces the effect: \"resulted in a long period of political instability.\""
+  },
+  {
+    "id": "P21-d09",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The success {0} the Apollo 11 mission was due {1} the {2} of {3} engineers and scientists.",
+    "options": [
+      "of",
+      "on",
+      "efforts",
+      "thousands of"
+    ],
+    "answerIndex": 1,
+    "explanation": "The fixed phrase is \"due to\": \"was due to the efforts of thousands of engineers and scientists.\""
+  },
+  {
+    "id": "P21-d10",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Many {0} medicines {1} made from compounds that were first {2} {3} plants.",
+    "options": [
+      "modern",
+      "are",
+      "discovered",
+      "of"
+    ],
+    "answerIndex": 3,
+    "explanation": "Something is discovered \"in\" a place or source: \"first discovered in plants.\""
+  },
+  {
+    "id": "P21-d11",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} the invention of the telephone, long-distance messages {1} usually {2} {3} telegraph.",
+    "options": [
+      "Prior of",
+      "were",
+      "sent",
+      "by"
+    ],
+    "answerIndex": 0,
+    "explanation": "The fixed phrase is \"prior to,\" meaning \"before\": \"Prior to the invention of the telephone.\""
+  },
+  {
+    "id": "P21-d12",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Hubble Space Telescope has {0} {1} {2} our understanding {3} the universe.",
+    "options": [
+      "contributed",
+      "greatly",
+      "for",
+      "of"
+    ],
+    "answerIndex": 2,
+    "explanation": "The verb \"contribute\" is followed by \"to\": \"has contributed greatly to our understanding.\""
+  },
+  {
+    "id": "P21-d13",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} 1849, thousands of people {1} to California {2} search {3} gold.",
+    "options": [
+      "On",
+      "traveled",
+      "in",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "Years take the preposition \"in\": \"In 1849.\" \"On\" is used with specific dates and days, such as \"on July 4.\""
+  },
+  {
+    "id": "P21-d14",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The bones {0} a whale's flipper are {1} in a pattern {2} similar {3} that of a human hand.",
+    "options": [
+      "in",
+      "arranged",
+      "remarkably",
+      "with"
+    ],
+    "answerIndex": 3,
+    "explanation": "The adjective \"similar\" is followed by \"to\": \"remarkably similar to that of a human hand.\""
+  },
+  {
+    "id": "P21-d15",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Sharks {0} existed {1} more than 400 million years, long {2} the first dinosaurs appeared {3} Earth.",
+    "options": [
+      "have",
+      "since",
+      "before",
+      "on"
+    ],
+    "answerIndex": 1,
+    "explanation": "A length of time takes \"for,\" not \"since\": \"have existed for more than 400 million years.\" \"Since\" is used with a starting point, such as \"since 1900.\""
+  },
+  {
+    "id": "P21-d16",
+    "patternId": "P21",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The development of the Internet has had a profound {0} {1} the way people {2} and {3} information.",
+    "options": [
+      "effect",
+      "in",
+      "communicate",
+      "share"
+    ],
+    "answerIndex": 1,
+    "explanation": "The noun \"effect\" is followed by \"on\": \"a profound effect on the way people communicate.\""
+  }
+]

@@ -4,10 +4,10 @@ import { PATTERNS } from '../../src/content/patterns';
 import { hasGenerator } from '../../src/generator';
 import type { PatternId } from '../../src/domain/types';
 
-const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P18'];
-const FORMS = [1, 2, 3];
+const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P18', 'P19', 'P20', 'P21', 'P22', 'P23', 'P24', 'P25'];
+const FORMS = [1, 2, 3, 4];
 
-describe('real content (releases 1–3)', () => {
+describe('real content (releases 1–4)', () => {
   it('is valid', () => {
     expect(validateContent({ patterns: PATTERNS, questions: allBankQuestions(), words: realContent.allWords() })).toEqual([]);
   });
@@ -40,9 +40,9 @@ describe('real content (releases 1–3)', () => {
       expect(realContent.mockForm(b).filter((q) => one.has(q.stem)), `${a} vs ${b}`).toEqual([]);
     }
   });
-  it('has at least 450 words with no duplicate headwords, in sublist order', () => {
+  it('has at least 570 words with no duplicate headwords, in sublist order', () => {
     const w = realContent.allWords();
-    expect(w.length).toBeGreaterThanOrEqual(450);
+    expect(w.length).toBeGreaterThanOrEqual(570);
     expect(new Set(w.map((x) => x.headword.toLowerCase())).size).toBe(w.length);
     for (let i = 1; i < w.length; i++) expect(w[i].sublist).toBeGreaterThanOrEqual(w[i - 1].sublist);
   });
@@ -65,4 +65,27 @@ describe('real content (releases 1–3)', () => {
     expect(w.filter((x) => ['analyse', 'labour', 'maximise', 'utilise'].includes(x.headword)).map((x) => x.headword), 'TOEFL uses American spelling').toEqual([]);
     expect(realContent.drillItems('P14').find((q) => q.id === 'P14-d09')?.stem).not.toMatch(/wanted/);
   });
+  it('trigger words are never underlined in paired-conjunction, causative and subjunctive items (changing them would also fix the sentence)', () => {
+    const TRIGGERS = /^(both|either|neither|not only|had|have|has|make|made|let|lets|get|got|require|requires|required|recommend|recommended|insisted|urged|demanded|ordered|suggested)$/i;
+    // A trigger may be underlined only when it is itself the error, or when changing it cannot repair the sentence
+    // because another, non-underlined word still breaks the pattern (P25-d08: "carry"; M4-40: "be").
+    const ok = new Set(['P25-d08', 'M4-40']);
+    const bad = allBankQuestions().filter((q) => ['P23', 'P24', 'P25'].includes(q.patternId) && q.type === 'written-expression' && !ok.has(q.id)
+      && q.options.some((o, i) => i !== q.answerIndex && TRIGGERS.test(o.trim())));
+    expect(bad.map((q) => q.id)).toEqual([]);
+  });
+  it('subjunctive items avoid "insist" and "suggest" (both also take a factual that-clause)', () => {
+    expect(allBankQuestions().filter((q) => q.patternId === 'P25' && /\b(insist|suggest)/.test(q.stem + q.options.join(' '))).map((q) => q.id)).toEqual([]);
+  });
+  it('batch-4 verification fixes', () => {
+    const all = allBankQuestions();
+    expect(all.find((q) => q.id === 'P20-d02')?.options).not.toContain('heavyweight');
+    expect(all.find((q) => q.id === 'M4-19')?.stem).not.toMatch(/Over the past/);
+    const w = Object.fromEntries(realContent.allWords().map((x) => [x.headword, x]));
+    expect(w.nuclear.examples.join(' ')).not.toMatch(/without burning fuel/);
+    expect(w.found.forms).not.toContain('foundation');
+    expect(w.medium.forms).not.toContain('media');
+    expect(realContent.lesson('P25')).not.toMatch(/insisted that all residents left/);
+  });
 });
+

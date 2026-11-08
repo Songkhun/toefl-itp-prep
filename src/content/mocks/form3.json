@@ -628,7 +628,7 @@
     "patternId": "P25",
     "type": "written-expression",
     "source": "mock",
-    "stem": "The committee insisted that each research proposal {0} {1} by two {2} experts before {3} approved.",
+    "stem": "The committee required that each research proposal {0} {1} by two {2} experts before {3} approved.",
     "options": [
       "is",
       "reviewed",
@@ -636,7 +636,7 @@
       "being"
     ],
     "answerIndex": 0,
-    "explanation": "After verbs such as \"insist,\" \"require,\" and \"recommend,\" the subjunctive uses the base form of the verb: \"insisted that each research proposal be reviewed.\"",
+    "explanation": "After verbs such as \"require\" and \"recommend,\" the subjunctive uses the base form of the verb: \"required that each research proposal be reviewed.\"",
     "mockForm": 3
   }
 ]
