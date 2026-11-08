@@ -12,7 +12,7 @@ export const ADV_AFTER_VERB: AdvFact[] = [
   { subj: 'The [population] of the [city]', verb: 'increased', adj: 'rapid', adv: 'rapidly', noun: 'rapidity', rest: '[after] the [war]' },
   { subj: 'The [surgeon]', verb: 'operated', adj: 'careful', adv: 'carefully', noun: 'care', rest: '[on] the injured [patient]' },
   { subj: 'Food [prices]', verb: 'rose', adj: 'sharp', adv: 'sharply', noun: 'sharpness', rest: '[during] the [drought]' },
-  { subj: 'The [students]', verb: 'answered', adj: 'accurate', adv: 'accurately', noun: 'accuracy', rest: '[every] [question]' },
+  { subj: 'The [witness]', verb: 'answered', adj: 'calm', adv: 'calmly', noun: 'calmness', rest: '[during] the [trial]' },
   { subj: 'The new [engine]', verb: 'runs', adj: 'efficient', adv: 'efficiently', noun: 'efficiency', rest: '[in] cold [weather]' },
   { subj: 'The [volcano]', verb: 'erupts', adj: 'frequent', adv: 'frequently', noun: 'frequency', rest: '[but] rarely [causes] damage' },
   { subj: 'The island [economy]', verb: 'depends', adj: 'heavy', adv: 'heavily', noun: 'heaviness', rest: '[on] [tourism]' },
@@ -40,11 +40,11 @@ export const PAIRS: Pair[] = [
   { kind: 'neither', pre: 'The early [settlers] [had]', x: '[electricity]', y: '[running] [water]' },
   { kind: 'neither', pre: 'The new [drug] [is]', x: '[cheap]', y: 'widely [available]' },
   { kind: 'notOnly', pre: '[Bamboo] [is]', x: '[strong]', y: '[flexible]' },
-  { kind: 'notOnly', pre: '[Bees] [provide]', x: '[honey]', y: '[pollination] for many crops' },
+  { kind: 'notOnly', pre: '[Honeybees] [provide]', x: '[honey]', y: '[pollination] for many crops' },
   { kind: 'notOnly', pre: 'The [festival] [attracts]', x: 'local [residents]', y: '[tourists] from [abroad]' },
 ];
 export const PAIR_WORDS: Record<PairKind, { first: string; second: string; wrong: [string, string, string]; rule: string }> = {
-  both: { first: 'both', second: 'and', wrong: ['or', 'nor', 'as well as'], rule: '"Both" is always paired with "and"' },
+  both: { first: 'both', second: 'and', wrong: ['or', 'nor', 'but'], rule: '"Both" is always paired with "and"' },
   either: { first: 'either', second: 'or', wrong: ['and', 'nor', 'but also'], rule: '"Either" is always paired with "or"' },
   neither: { first: 'neither', second: 'nor', wrong: ['or', 'and', 'but'], rule: '"Neither" is always paired with "nor"' },
   notOnly: { first: 'not only', second: 'but also', wrong: ['and also', 'or also', 'nor'], rule: '"Not only" is paired with "but (also)"' },
@@ -55,11 +55,11 @@ export const PAIR_WORDS: Record<PairKind, { first: string; second: string; wrong
 export interface Causative { subj: string; verb: string; obj: string; comp: Verb; rest: string }
 export const CAUS_BASE: Causative[] = [
   { subj: 'The [professor]', verb: 'made', obj: 'the [students]', comp: V('rewrite', 'rewrites', 'rewrote', 'rewritten', 'rewriting'), rest: 'their [essays] [twice]' },
-  { subj: 'The park [rangers]', verb: 'let', obj: 'the [visitors]', comp: V('feed', 'feeds', 'fed', 'fed', 'feeding'), rest: 'the [ducks] [by] the pond' },
-  { subj: 'The [manager]', verb: 'had', obj: 'an [assistant]', comp: V('book', 'books', 'booked', 'booked', 'booking'), rest: 'the [flights]' },
+  { subj: 'The [zookeepers]', verb: 'let', obj: 'the [visitors]', comp: V('feed', 'feeds', 'fed', 'fed', 'feeding'), rest: 'the [goats] [by] hand' },
+  { subj: 'The [teacher]', verb: 'had', obj: 'each [student]', comp: V('recite', 'recites', 'recited', 'recited', 'reciting'), rest: 'a [poem] [aloud]' },
   { subj: 'The [coach]', verb: 'made', obj: 'the [players]', comp: V('run', 'runs', 'ran', 'run', 'running'), rest: 'extra [laps] [after] practice' },
   { subj: 'Some [parents]', verb: 'let', obj: 'their [children]', comp: V('choose', 'chooses', 'chose', 'chosen', 'choosing'), rest: 'their own [books]' },
-  { subj: 'The [doctor]', verb: 'had', obj: 'the [nurse]', comp: V('check', 'checks', 'checked', 'checked', 'checking'), rest: "the patient's [temperature]" },
+  { subj: 'The [doctor]', verb: 'had', obj: 'the [patient]', comp: V('describe', 'describes', 'described', 'described', 'describing'), rest: 'the [pain] [carefully]' },
 ];
 /** get + object + to-infinitive. */
 export const CAUS_GET: Causative[] = [
@@ -82,14 +82,14 @@ export const SUBJUNCTIVE: Subjunctive[] = [
   { trigger: 'The [doctor] [recommended] that', subj: 'the [patient]', verb: V('drink', 'drinks', 'drank', 'drunk', 'drinking'), rest: '[more] [water]' },
   { trigger: 'It is [essential] that', subj: 'every [applicant]', verb: V('submit', 'submits', 'submitted', 'submitted', 'submitting'), rest: '[two] [photographs]' },
   { trigger: 'The [law] [requires] that', subj: 'each [driver]', verb: V('carry', 'carries', 'carried', 'carried', 'carrying'), rest: 'a [valid] [license]' },
-  { trigger: 'It is [important] that', subj: 'the [sample]', verb: V('be', 'is', 'was', 'been', 'being'), rest: '[kept] [cold]' },
+  { trigger: 'It is [imperative] that', subj: 'the [sample]', verb: V('be', 'is', 'was', 'been', 'being'), rest: '[kept] [cold]' },
   { trigger: 'The [manager] [demanded] that', subj: 'the [report]', verb: V('be', 'is', 'was', 'been', 'being'), rest: '[finished] by [Friday]' },
   { trigger: 'The pool [rules] [require] that', subj: 'every [swimmer]', verb: V('wear', 'wears', 'wore', 'worn', 'wearing'), rest: 'a [cap]' },
   { trigger: 'It is [necessary] that', subj: 'each [visitor]', verb: V('register', 'registers', 'registered', 'registered', 'registering'), rest: '[at] the front [desk]' },
   { trigger: 'The [committee] [proposed] that', subj: 'the [city]', verb: V('build', 'builds', 'built', 'built', 'building'), rest: 'a [new] [library]' },
   { trigger: 'The [teacher] [asked] that', subj: 'each [student]', verb: V('bring', 'brings', 'brought', 'brought', 'bringing'), rest: 'a [dictionary] to class' },
   { trigger: 'It is [vital] that', subj: 'a [pilot]', verb: V('follow', 'follows', 'followed', 'followed', 'following'), rest: 'the safety [checklist]' },
-  { trigger: 'The [contract] [stipulates] that', subj: 'the [tenant]', verb: V('pay', 'pays', 'paid', 'paid', 'paying'), rest: 'the rent [monthly]' },
-  { trigger: 'The [coach] [urged] that', subj: 'every [athlete]', verb: V('rest', 'rests', 'rested', 'rested', 'resting'), rest: 'before the [race]' },
+  { trigger: 'The [judge] [ordered] that', subj: 'the [tenant]', verb: V('pay', 'pays', 'paid', 'paid', 'paying'), rest: 'the [rent] [immediately]' },
+  { trigger: 'The [coach] [advised] that', subj: 'every [athlete]', verb: V('rest', 'rests', 'rested', 'rested', 'resting'), rest: 'before the [race]' },
   { trigger: 'It is [advisable] that', subj: 'a [traveler]', verb: V('carry', 'carries', 'carried', 'carried', 'carrying'), rest: 'some local [currency]' },
 ];

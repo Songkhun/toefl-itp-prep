@@ -245,3 +245,26 @@ describe('batch-4 generator guards', () => {
     }
   });
 });
+
+describe('batch-4 review fixes', () => {
+  const many = (p: PatternId) => Array.from({ length: 150 }, (_, s) => generate(p, 6, s + 1)).flat();
+  const all = (q: Question) => q.stem + ' ' + q.options.join(' ');
+  it('P20: no adverb between a verb and its object; explanation says "modifies the verb"', () => {
+    for (const q of many('P20')) {
+      expect(all(q)).not.toMatch(/answered \S+ \S* ?every|every question/);
+      expect(q.explanation).not.toMatch(/how the action/);
+    }
+  });
+  it('P23: the first word of the pair is never underlined (changing it would also fix the sentence)', () => {
+    for (const q of many('P23')) if (q.type === 'written-expression') for (const o of q.options) expect(['both', 'either', 'neither', 'not only']).not.toContain(o);
+  });
+  it('P23: no contestable "as well as" distractor; honeybees, not all bees, make honey', () => {
+    for (const q of many('P23')) { expect(q.options).not.toContain('as well as'); expect(all(q)).not.toMatch(/\bBees\b/); }
+  });
+  it('P24: no "had + person" entries that read as possession; rangers do not let visitors feed ducks', () => {
+    for (const q of many('P24')) expect(all(q)).not.toMatch(/an assistant|the nurse|rangers/);
+  });
+  it('P25: no triggers that also take a factual clause or are uncommon', () => {
+    for (const q of many('P25')) expect(q.stem).not.toMatch(/stipulates|important|urged/);
+  });
+});

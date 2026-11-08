@@ -20,7 +20,7 @@ export const P23: Template[] = [
       const f = choice(PAIRS, rng);
       const w = PAIR_WORDS[f.kind];
       const bad = choice(w.wrong, rng);
-      return writtenExpression(P, `${f.pre} [${w.first}] ${f.x} [!${bad}] ${f.y}.`,
+      return writtenExpression(P, `${f.pre} ${w.first} ${f.x} [!${bad}] ${f.y}.`,
         `${w.rule}, so "${bad}" is wrong: "${w.first} ... ${w.second}".`, rng);
     },
   },

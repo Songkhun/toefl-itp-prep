@@ -10,7 +10,7 @@ export const P20: Template[] = [
     build(rng) {
       const f = choice(ADV_AFTER_VERB, rng);
       return structure(P, `${strip(f.subj)} ${f.verb} ____ ${strip(f.rest)}.`, f.adv, [f.adj, f.noun, `more ${f.adj}`],
-        `The word describes how the action "${f.verb}" happens, so it must be an adverb: "${f.verb} ${f.adv}". Adjectives describe nouns, not verbs.`, rng);
+        `The word modifies the verb "${f.verb}", so it must be an adverb: "${f.verb} ${f.adv}". Adjectives describe nouns, not verbs.`, rng);
     },
   },
   {
