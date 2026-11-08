@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P10-d01",
+    "patternId": "P10",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The ancient Sumerians are known for their writing system, their large cities, and ____.",
+    "options": [
+      "they dug irrigation canals",
+      "digging irrigation canals",
+      "their irrigation canals",
+      "irrigating with canals"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first two items are noun phrases beginning with \"their,\" so the third must also be a noun phrase: \"their irrigation canals.\" The other options are a clause or -ing phrases that break the parallel structure."
+  },
+  {
+    "id": "P10-d02",
+    "patternId": "P10",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Large volcanic eruptions can destroy forests, bury towns, and ____ global temperatures for a year or more.",
+    "options": [
+      "lowering",
+      "lower",
+      "lowered",
+      "to lower"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"can,\" the verbs in the series are base forms (\"destroy,\" \"bury\"), so the third must be \"lower.\" \"Lowering,\" \"lowered,\" and \"to lower\" are not parallel."
+  },
+  {
+    "id": "P10-d03",
+    "patternId": "P10",
+    "type": "structure",
+    "source": "drill",
+    "stem": "In cold climates, heating a well-insulated house costs less than ____ a poorly insulated one.",
+    "options": [
+      "to heat",
+      "heat",
+      "you heat",
+      "heating"
+    ],
+    "answerIndex": 3,
+    "explanation": "A comparison must join similar forms, so the gerund \"heating\" matches the gerund subject \"heating a well-insulated house.\" \"To heat,\" \"heat,\" and \"you heat\" are not parallel with it."
+  },
+  {
+    "id": "P10-d04",
+    "patternId": "P10",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Leonardo da Vinci was a painter, an engineer, and ____.",
+    "options": [
+      "he studied anatomy",
+      "a student of anatomy",
+      "studying anatomy",
+      "anatomically"
+    ],
+    "answerIndex": 1,
+    "explanation": "The series lists nouns for people (\"a painter,\" \"an engineer\"), so the third item must be the noun phrase \"a student of anatomy.\" A clause, an -ing phrase, or an adverb is not parallel."
+  },
+  {
+    "id": "P10-d05",
+    "patternId": "P10",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The kidneys filter waste from the blood, regulate the body's water balance, and ____ blood pressure.",
+    "options": [
+      "help control",
+      "helping control",
+      "helped to control",
+      "the control of"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first two verbs are in the present tense (\"filter,\" \"regulate\"), so the third must be \"help control.\" \"Helping,\" \"helped,\" and \"the control of\" break the parallel series of verbs."
+  },
+  {
+    "id": "P10-d06",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Honeybees {0} crops, {1} honey, and {2} the wax {3} to build their combs.",
+    "options": [
+      "pollinate",
+      "produce",
+      "making",
+      "used"
+    ],
+    "answerIndex": 2,
+    "explanation": "The verbs in the series are present tense (\"pollinate,\" \"produce\"), so the third must be \"make,\" not \"making.\""
+  },
+  {
+    "id": "P10-d07",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "A useful scientific theory should be {0}, {1} with existing evidence, and {2} to {3} new observations.",
+    "options": [
+      "testable",
+      "consistency",
+      "able",
+      "predict"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"should be,\" the items are adjectives (\"testable,\" \"able\"), so the second must be the adjective \"consistent,\" not the noun \"consistency.\""
+  },
+  {
+    "id": "P10-d08",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The climate of coastal cities {0} generally milder than {1} inland cities {2} {3} same latitude.",
+    "options": [
+      "is",
+      "those",
+      "at",
+      "the"
+    ],
+    "answerIndex": 1,
+    "explanation": "The comparison is between two climates, so it should be \"than that of inland cities.\" \"Those\" is plural and does not refer to the singular \"climate,\" so the comparison is illogical."
+  },
+  {
+    "id": "P10-d09",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Early photographers had to {0} heavy equipment, {1} long exposure times, and {2} {3} chemicals.",
+    "options": [
+      "carrying",
+      "endure",
+      "mix",
+      "their own"
+    ],
+    "answerIndex": 0,
+    "explanation": "After \"had to,\" every verb in the series must be a base form (\"endure,\" \"mix\"), so \"carrying\" should be \"carry.\""
+  },
+  {
+    "id": "P10-d10",
+    "patternId": "P10",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Jazz {0} in New Orleans in the early twentieth {1}, {2} the blues, ragtime, and {3} brass band music.",
+    "options": [
+      "emerged",
+      "century",
+      "combining",
+      "it borrowed from"
+    ],
+    "answerIndex": 3,
+    "explanation": "The objects of \"combining\" are noun phrases (\"the blues,\" \"ragtime\"), so the last item should also be a noun phrase, such as \"elements of brass band music.\" \"It borrowed from\" adds a clause that breaks the series."
+  }
+]

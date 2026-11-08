@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P07-d01",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ the platypus is a mammal, it lays eggs instead of giving birth to live young.",
+    "options": [
+      "Despite",
+      "Although",
+      "Because of",
+      "In spite"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Although\" is a conjunction, so it can introduce the full clause \"the platypus is a mammal.\" \"Despite\" and \"because of\" must be followed by a noun phrase, and \"in spite\" needs \"of.\""
+  },
+  {
+    "id": "P07-d02",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Many cacti can survive long periods of drought ____ their ability to store water in their thick stems.",
+    "options": [
+      "because",
+      "because of",
+      "since",
+      "so that"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Their ability to store water\" is a noun phrase, so it needs the preposition \"because of.\" \"Because,\" \"since,\" and \"so that\" are conjunctions that must be followed by a subject and a verb."
+  },
+  {
+    "id": "P07-d03",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The 1883 eruption of Krakatoa was ____ that it was heard thousands of kilometers away.",
+    "options": [
+      "such loud",
+      "too loud",
+      "very loud",
+      "so loud"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pattern \"so + adjective + that\" is needed before an adjective with no noun: \"so loud that.\" \"Such\" is used before a noun phrase, and \"too\" and \"very\" cannot be followed by a \"that\" clause of result."
+  },
+  {
+    "id": "P07-d04",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ its name, the electric eel is not a true eel but a kind of knifefish.",
+    "options": [
+      "Despite",
+      "Although",
+      "Even though",
+      "In spite"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Its name\" is a noun phrase, so the preposition \"despite\" is correct. \"Although\" and \"even though\" need a full clause, and \"in spite\" is incomplete without \"of.\""
+  },
+  {
+    "id": "P07-d05",
+    "patternId": "P07",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The Dead Sea has ____ that swimmers float easily on its surface.",
+    "options": [
+      "so high a salt content as",
+      "so a high salt content",
+      "such a high salt content",
+      "such high a salt content"
+    ],
+    "answerIndex": 2,
+    "explanation": "Before a noun phrase, the result pattern is \"such + a + adjective + noun + that\": \"such a high salt content that.\" \"So\" cannot come directly before \"a,\" and \"such high a\" has the wrong word order."
+  },
+  {
+    "id": "P07-d06",
+    "patternId": "P07",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} Antarctica is covered almost entirely by ice, it {1} classified as a desert {2} it receives very {3} precipitation.",
+    "options": [
+      "Despite",
+      "is",
+      "because",
+      "little"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Antarctica is covered almost entirely by ice\" is a full clause, so it needs the conjunction \"Although,\" not the preposition \"Despite.\" \"Because\" correctly introduces the clause that gives the reason."
+  },
+  {
+    "id": "P07-d07",
+    "patternId": "P07",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Sea otters {0} {1} their dense fur to stay warm {2} they lack the thick layer of blubber {3} most other marine mammals have.",
+    "options": [
+      "rely",
+      "on",
+      "because of",
+      "that"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"They lack the thick layer of blubber\" is a clause with a subject and a verb, so the conjunction \"because\" is required. \"Because of\" can only be followed by a noun phrase."
+  },
+  {
+    "id": "P07-d08",
+    "patternId": "P07",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Many workers {0} from farms to {1} factory towns {2} the Industrial Revolution was {3} Britain.",
+    "options": [
+      "moved",
+      "growing",
+      "during",
+      "transforming"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"The Industrial Revolution was transforming Britain\" is a clause, so it needs a conjunction such as \"while\" or \"as.\" \"During\" is a preposition and must be followed by a noun phrase only."
+  },
+  {
+    "id": "P07-d09",
+    "patternId": "P07",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Parts of the Atacama Desert {0} {1} dry {2} some weather stations there {3} almost no rain for decades.",
+    "options": [
+      "are",
+      "such",
+      "that",
+      "have recorded"
+    ],
+    "answerIndex": 1,
+    "explanation": "Before an adjective alone (\"dry\"), the result pattern is \"so ... that,\" so \"such\" must be \"so.\" \"Such\" is used only before a noun phrase, as in \"such a dry place that.\""
+  },
+  {
+    "id": "P07-d10",
+    "patternId": "P07",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Lake Baikal {0} {1} deep lake {2} it holds about one-fifth {3} the world's unfrozen fresh surface water.",
+    "options": [
+      "is",
+      "so",
+      "that",
+      "of"
+    ],
+    "answerIndex": 1,
+    "explanation": "Before \"adjective + noun\" (\"deep lake\"), the result pattern is \"such a ... that,\" so \"so\" must be \"such a.\" \"So deep lake\" is ungrammatical."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P09-d01",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____, the Nile flows northward for more than 6,600 kilometers before emptying into the Mediterranean Sea.",
+    "options": [
+      "The longest river in Africa",
+      "It is the longest river in Africa",
+      "Being the longest river in Africa is",
+      "The Nile is the longest river in Africa"
+    ],
+    "answerIndex": 0,
+    "explanation": "An appositive is a noun phrase that renames the subject, so \"The longest river in Africa\" correctly describes \"the Nile.\" The other options contain a verb, creating a run-on sentence or a second subject."
+  },
+  {
+    "id": "P09-d02",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Ada Lovelace, ____, wrote what many historians regard as one of the first computer programs.",
+    "options": [
+      "she was a British mathematician",
+      "was a British mathematician",
+      "a British mathematician",
+      "who a British mathematician"
+    ],
+    "answerIndex": 2,
+    "explanation": "The words between the commas must be an appositive noun phrase: \"a British mathematician.\" Adding \"was\" or \"she was\" creates a second verb, and \"who\" needs a verb after it."
+  },
+  {
+    "id": "P09-d03",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Tsunamis are often triggered by earthquakes, ____.",
+    "options": [
+      "they are sudden movements of the Earth's crust",
+      "are sudden movements of the Earth's crust",
+      "which sudden movements of the Earth's crust",
+      "sudden movements of the Earth's crust"
+    ],
+    "answerIndex": 3,
+    "explanation": "An appositive noun phrase can rename \"earthquakes\" at the end of a sentence: \"sudden movements of the Earth's crust.\" The other options add a verb or a relative pronoun with no verb."
+  },
+  {
+    "id": "P09-d04",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ Frida Kahlo is known for her vivid self-portraits.",
+    "options": [
+      "Was the Mexican painter",
+      "The Mexican painter",
+      "The Mexican painter who",
+      "That the Mexican painter"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"The Mexican painter Frida Kahlo\" is a noun phrase with a restrictive appositive, and \"is known\" is the main verb. \"Who\" and \"That\" would leave the sentence without a main verb, and \"Was\" cannot begin the subject."
+  },
+  {
+    "id": "P09-d05",
+    "patternId": "P09",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Gregor Mendel, ____ who studied inheritance in pea plants, is often called the father of genetics.",
+    "options": [
+      "was a monk",
+      "he was a monk",
+      "a monk",
+      "a monk he"
+    ],
+    "answerIndex": 2,
+    "explanation": "The appositive \"a monk who studied inheritance in pea plants\" renames Mendel, and \"is called\" is the main verb. Adding \"was\" or \"he\" creates an extra verb or an extra subject."
+  },
+  {
+    "id": "P09-d06",
+    "patternId": "P09",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Tenochtitlan, {0} capital of the Aztec Empire, {1} {2} an island {3} Lake Texcoco.",
+    "options": [
+      "it was the",
+      "was built",
+      "on",
+      "in"
+    ],
+    "answerIndex": 0,
+    "explanation": "The words between the commas should be an appositive noun phrase: \"the capital of the Aztec Empire.\" \"It was the\" adds a subject and verb, creating a run-on sentence."
+  },
+  {
+    "id": "P09-d07",
+    "patternId": "P09",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The cello, {0} {1} {2} with a bow, {3} a deep, rich tone.",
+    "options": [
+      "a large",
+      "string instrument",
+      "played",
+      "it produces"
+    ],
+    "answerIndex": 3,
+    "explanation": "Since \"the cello\" is already the subject, \"it\" creates a double subject. The appositive is correct, so the main verb should simply be \"produces.\""
+  },
+  {
+    "id": "P09-d08",
+    "patternId": "P09",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Jane Goodall, {0} British primatologist, {1} {2} wild chimpanzees at Gombe {3} 1960.",
+    "options": [
+      "a",
+      "beginning",
+      "studying",
+      "in"
+    ],
+    "answerIndex": 1,
+    "explanation": "The appositive \"a British primatologist\" is not a verb, so the sentence still needs a main verb: \"began studying.\" \"Beginning\" is not a finite verb."
+  },
+  {
+    "id": "P09-d09",
+    "patternId": "P09",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Penguins, {0} group of flightless birds, {1} {2} in the {3} Hemisphere.",
+    "options": [
+      "a",
+      "lives",
+      "almost entirely",
+      "Southern"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verb agrees with the subject \"Penguins,\" not with the singular noun \"group\" in the appositive, so it should be \"live.\""
+  },
+  {
+    "id": "P09-d10",
+    "patternId": "P09",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Johann Sebastian Bach, {0} German composer of {1} Baroque period, {2} more than a thousand {3}.",
+    "options": [
+      "which a",
+      "the",
+      "wrote",
+      "works"
+    ],
+    "answerIndex": 0,
+    "explanation": "An appositive is simply a noun phrase, so it should be \"a German composer.\" \"Which\" is a relative pronoun for things and would also need its own verb."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P12-d01",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Rarely ____ bright enough to be seen in full daylight.",
+    "options": [
+      "a comet appears",
+      "does a comet appear",
+      "a comet does appear",
+      "appearing a comet"
+    ],
+    "answerIndex": 1,
+    "explanation": "When a negative adverb such as \"rarely\" begins a sentence, the auxiliary comes before the subject: \"does a comet appear.\" The other options keep normal word order or have no main verb."
+  },
+  {
+    "id": "P12-d02",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Not only ____ the first woman to fly solo across the Atlantic Ocean, but she also wrote books about aviation.",
+    "options": [
+      "Amelia Earhart was",
+      "Amelia Earhart",
+      "did Amelia Earhart",
+      "was Amelia Earhart"
+    ],
+    "answerIndex": 3,
+    "explanation": "After \"Not only\" at the start of a sentence, the verb \"be\" comes before the subject: \"was Amelia Earhart.\" \"Amelia Earhart was\" has normal word order, and \"did\" cannot be used with a noun phrase after \"be.\""
+  },
+  {
+    "id": "P12-d03",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Only in 1953 ____ the double-helix structure of DNA.",
+    "options": [
+      "did scientists identify",
+      "scientists identified",
+      "scientists did identify",
+      "identifying scientists"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Only\" + a time expression at the beginning of a sentence requires inverted order: \"did scientists identify.\" The other options use normal word order or have no main verb."
+  },
+  {
+    "id": "P12-d04",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ the Earth's atmosphere, the average temperature at the planet's surface would be far below freezing.",
+    "options": [
+      "If not",
+      "It were not for",
+      "Were it not for",
+      "Were not it for"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Were it not for\" is an inverted conditional meaning \"If it were not for.\" \"It were not for\" lacks inversion, \"Were not it for\" puts \"not\" in the wrong place, and \"If not\" cannot be followed by a noun phrase here."
+  },
+  {
+    "id": "P12-d05",
+    "patternId": "P12",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Between the orbits of Mars and Jupiter ____, a region containing millions of rocky objects.",
+    "options": [
+      "the asteroid belt lying",
+      "lies the asteroid belt",
+      "does the asteroid belt lie",
+      "lying the asteroid belt"
+    ],
+    "answerIndex": 1,
+    "explanation": "After an introductory place expression, the verb may come before the subject: \"lies the asteroid belt.\" \"Does ... lie\" is wrong because place expressions do not use \"do\" inversion, and the -ing options have no main verb."
+  },
+  {
+    "id": "P12-d06",
+    "patternId": "P12",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Not until the 1960s {0} {1} strong evidence {2} the theory of {3} drift.",
+    "options": [
+      "scientists did",
+      "find",
+      "for",
+      "continental"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Not until\" at the start of a sentence requires the auxiliary before the subject: \"did scientists find.\" \"Scientists did\" keeps normal word order."
+  },
+  {
+    "id": "P12-d07",
+    "patternId": "P12",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "So {0} {1} the Antarctic ice sheet that if it melted completely, sea levels {2} rise by more than {3} meters.",
+    "options": [
+      "thick",
+      "it is",
+      "would",
+      "fifty"
+    ],
+    "answerIndex": 1,
+    "explanation": "When \"So + adjective\" begins a sentence, the verb comes before the subject: \"So thick is the Antarctic ice sheet.\" \"It is\" adds an unnecessary pronoun and keeps normal word order."
+  },
+  {
+    "id": "P12-d08",
+    "patternId": "P12",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Penguins {0} fly, and neither {1}, although both groups {2} wings and {3} feathers.",
+    "options": [
+      "cannot",
+      "ostriches can",
+      "have",
+      "are covered with"
+    ],
+    "answerIndex": 1,
+    "explanation": "After \"neither\" at the start of a clause, the auxiliary comes before the subject: \"neither can ostriches.\" \"Ostriches can\" uses normal word order."
+  },
+  {
+    "id": "P12-d09",
+    "patternId": "P12",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} {1} to Earth than it is now, ocean tides {2} {3} stronger.",
+    "options": [
+      "The Moon were",
+      "closer",
+      "would be",
+      "much"
+    ],
+    "answerIndex": 0,
+    "explanation": "A conditional without \"if\" requires inversion: \"Were the Moon closer to Earth.\" \"The Moon were\" has neither \"if\" nor inversion."
+  },
+  {
+    "id": "P12-d10",
+    "patternId": "P12",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Only during a total solar eclipse {0} the Sun's {1} atmosphere, known as the corona, {2} visible to {3} naked eye.",
+    "options": [
+      "does",
+      "outer",
+      "becomes",
+      "the"
+    ],
+    "answerIndex": 2,
+    "explanation": "After the auxiliary \"does,\" the main verb must be the base form: \"does ... become.\" \"Becomes\" incorrectly adds a second tense marker."
+  }
+]

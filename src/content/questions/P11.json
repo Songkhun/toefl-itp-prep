@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P11-d01",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Of all the bones in the human body, the femur is ____.",
+    "options": [
+      "longer",
+      "the longest",
+      "the most long",
+      "most longest"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Of all the bones\" compares more than two things, so the superlative \"the longest\" is needed. \"Longer\" is comparative, and \"most long\" and \"most longest\" are incorrect forms of a one-syllable adjective."
+  },
+  {
+    "id": "P11-d02",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The higher a climber goes on a mountain, ____ the air becomes.",
+    "options": [
+      "thinner",
+      "more thinner",
+      "the thinner",
+      "the more thin"
+    ],
+    "answerIndex": 2,
+    "explanation": "The double comparative pattern is \"the + comparative ..., the + comparative,\" so \"the thinner\" is needed. \"Thinner\" lacks \"the,\" and \"more thinner\" and \"more thin\" are incorrect forms."
+  },
+  {
+    "id": "P11-d03",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Diamond is much ____ than graphite, although both minerals are made of carbon.",
+    "options": [
+      "more hard",
+      "hardest",
+      "as hard",
+      "harder"
+    ],
+    "answerIndex": 3,
+    "explanation": "A one-syllable adjective forms its comparative with \"-er,\" and \"than\" requires a comparative: \"much harder than.\" \"More hard\" is incorrect, \"hardest\" is superlative, and \"as hard\" must be followed by \"as.\""
+  },
+  {
+    "id": "P11-d04",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Sound travels about four times ____ in water as in air.",
+    "options": [
+      "faster",
+      "as fast",
+      "so fast",
+      "more fast"
+    ],
+    "answerIndex": 1,
+    "explanation": "The second part of the comparison is \"as in air,\" so the first part must be \"as fast\": \"four times as fast ... as.\" \"Faster\" would need \"than,\" and \"so fast\" and \"more fast\" are not correct here."
+  },
+  {
+    "id": "P11-d05",
+    "patternId": "P11",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Tokyo is one of ____ metropolitan areas in the world.",
+    "options": [
+      "the most populous",
+      "most populous",
+      "the more populous",
+      "the populousest"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"One of the\" + superlative + plural noun is the correct pattern, so \"the most populous\" is needed. \"Most populous\" lacks \"the,\" \"the more populous\" is comparative, and \"populousest\" is not a word."
+  },
+  {
+    "id": "P11-d06",
+    "patternId": "P11",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The {0} a diver descends {1} the ocean, the {2} the water pressure {3}.",
+    "options": [
+      "deeper",
+      "into",
+      "more greater",
+      "becomes"
+    ],
+    "answerIndex": 2,
+    "explanation": "In the pattern \"the + comparative, the + comparative,\" the second comparative should be \"greater.\" \"More greater\" is a double comparative."
+  },
+  {
+    "id": "P11-d07",
+    "patternId": "P11",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Saturn is {0} {1} than Earth, but its average density is {2} {3} that of water.",
+    "options": [
+      "much",
+      "more larger",
+      "lower",
+      "than"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Large\" forms its comparative with \"-er,\" so it should be \"much larger.\" Using \"more\" and \"-er\" together is a double comparative."
+  },
+  {
+    "id": "P11-d08",
+    "patternId": "P11",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Mount Everest is {0} {1} above sea level, but Mauna Kea is {2} when measured from {3} base on the ocean floor.",
+    "options": [
+      "the most high",
+      "mountain",
+      "taller",
+      "its"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"High\" is a one-syllable adjective, so its superlative is \"the highest,\" not \"the most high.\""
+  },
+  {
+    "id": "P11-d09",
+    "patternId": "P11",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Copper {0} electricity {1} than aluminum does, but it is also {2} and {3}.",
+    "options": [
+      "conducts",
+      "better",
+      "heavier",
+      "more costlier"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Costlier\" is already comparative, so adding \"more\" makes a double comparative; it should be \"costlier\" or \"more costly.\""
+  },
+  {
+    "id": "P11-d10",
+    "patternId": "P11",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} the two moons that {1} Mars, Phobos is {2} and orbits {3} to the planet.",
+    "options": [
+      "Of",
+      "orbit",
+      "the largest",
+      "closer"
+    ],
+    "answerIndex": 2,
+    "explanation": "When only two things are compared, the comparative is used: \"the larger.\" The superlative \"the largest\" is for three or more."
+  }
+]
