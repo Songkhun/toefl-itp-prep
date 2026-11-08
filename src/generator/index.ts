@@ -7,8 +7,14 @@ import { P03 } from './templates/P03';
 import { P04 } from './templates/P04';
 import { P05 } from './templates/P05';
 import { P06 } from './templates/P06';
+import { P07 } from './templates/P07';
+import { P08 } from './templates/P08';
+import { P09 } from './templates/P09';
+import { P10 } from './templates/P10';
+import { P11 } from './templates/P11';
+import { P12 } from './templates/P12';
 
-const TEMPLATES: Partial<Record<PatternId, Template[]>> = { P01, P02, P03, P04, P05, P06 };
+const TEMPLATES: Partial<Record<PatternId, Template[]>> = { P01, P02, P03, P04, P05, P06, P07, P08, P09, P10, P11, P12 };
 
 export function hasGenerator(p: PatternId): boolean {
   return !!TEMPLATES[p]?.length;

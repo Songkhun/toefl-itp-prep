@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P08-d01",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "drill",
+    "stem": "____ in 1931, the Empire State Building remained the tallest building in the world for nearly four decades.",
+    "options": [
+      "Completing",
+      "It was completed",
+      "Having completed",
+      "Completed"
+    ],
+    "answerIndex": 3,
+    "explanation": "The building was completed by builders, so the passive participle \"Completed\" correctly begins the reduced clause. \"Completing\" and \"Having completed\" are active and would mean the building completed something, and \"It was completed\" creates a run-on sentence."
+  },
+  {
+    "id": "P08-d02",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Bats ____ by echolocation can detect insects in complete darkness.",
+    "options": [
+      "navigate",
+      "navigated",
+      "navigating",
+      "are navigating"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Navigating by echolocation\" is a reduced adjective clause (bats that navigate), and the main verb is \"can detect.\" \"Navigate\" and \"are navigating\" add a second main verb, and \"navigated\" wrongly gives a passive meaning."
+  },
+  {
+    "id": "P08-d03",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "drill",
+    "stem": "The theory of plate tectonics, ____ by most geologists in the 1960s, explains how mountains and ocean basins form.",
+    "options": [
+      "was accepted",
+      "accepted",
+      "which accepted",
+      "accepting"
+    ],
+    "answerIndex": 1,
+    "explanation": "The past participle \"accepted\" is a reduced passive clause (which was accepted), and \"explains\" is the main verb. \"Was accepted\" adds a second main verb, while \"which accepted\" and \"accepting\" are active, but the theory did not accept anything."
+  },
+  {
+    "id": "P08-d04",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Using a glass prism, ____.",
+    "options": [
+      "Isaac Newton showed that white light is a mixture of colors",
+      "white light was shown by Isaac Newton to be a mixture of colors",
+      "the colors in white light were separated by Newton",
+      "it was shown that white light is a mixture of colors"
+    ],
+    "answerIndex": 0,
+    "explanation": "The subject of the main clause must be the person who used the prism, so \"Isaac Newton\" must follow the comma. In the other options, the participle phrase \"dangles\" because white light, the colors, or \"it\" could not use a prism."
+  },
+  {
+    "id": "P08-d05",
+    "patternId": "P08",
+    "type": "structure",
+    "source": "drill",
+    "stem": "Many visitors to Yellowstone National Park find the colors of the Grand Prismatic Spring ____.",
+    "options": [
+      "amazed",
+      "amazing",
+      "amazement",
+      "to amaze"
+    ],
+    "answerIndex": 1,
+    "explanation": "The colors cause the feeling, so the -ing adjective \"amazing\" is correct. \"Amazed\" describes a person who feels amazement, and \"amazement\" and \"to amaze\" are not adjectives."
+  },
+  {
+    "id": "P08-d06",
+    "patternId": "P08",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} between 1859 and 1869, the Suez Canal {1} ships to travel {2} Europe and Asia {3} sailing around Africa.",
+    "options": [
+      "Constructing",
+      "allowed",
+      "between",
+      "without"
+    ],
+    "answerIndex": 0,
+    "explanation": "The canal was constructed by workers, so the passive participle \"Constructed\" is needed. \"Constructing\" is active and would mean the canal constructed something."
+  },
+  {
+    "id": "P08-d07",
+    "patternId": "P08",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "The Burgess Shale in Canada {0} fossils of {1} animals {2} in the Cambrian {3}.",
+    "options": [
+      "contains",
+      "soft-bodied",
+      "lived",
+      "period"
+    ],
+    "answerIndex": 2,
+    "explanation": "A reduced adjective clause needs an -ing participle: \"animals living in the Cambrian period\" (animals that lived). \"Lived\" cannot be used alone after a noun because \"live\" is intransitive and has no passive meaning."
+  },
+  {
+    "id": "P08-d08",
+    "patternId": "P08",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Many physicists {0} {1} by the {2} results of the 1887 Michelson–Morley experiment, which {3} to detect the ether.",
+    "options": [
+      "were",
+      "surprising",
+      "unexpected",
+      "failed"
+    ],
+    "answerIndex": 1,
+    "explanation": "The physicists felt the surprise, so the -ed adjective is needed: \"were surprised by.\" \"Surprising\" describes the thing that causes the feeling, such as the results."
+  },
+  {
+    "id": "P08-d09",
+    "patternId": "P08",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "Charles Lindbergh became {0} international hero {1} {2} the Atlantic alone {3} 1927.",
+    "options": [
+      "an",
+      "after",
+      "flown",
+      "in"
+    ],
+    "answerIndex": 2,
+    "explanation": "After a preposition such as \"after,\" a reduced adverb clause uses the -ing form: \"after flying.\" \"Flown\" is a past participle and cannot follow \"after\" in this way."
+  },
+  {
+    "id": "P08-d10",
+    "patternId": "P08",
+    "type": "written-expression",
+    "source": "drill",
+    "stem": "{0} Ganges River, {1} from the Himalayas to the Bay of Bengal, {2} water for {3} of people.",
+    "options": [
+      "The",
+      "flowed",
+      "provides",
+      "hundreds of millions"
+    ],
+    "answerIndex": 1,
+    "explanation": "The phrase between the commas is a reduced adjective clause (which flows), so it needs the -ing form \"flowing.\" \"Flowed\" is incorrect because \"flow\" is intransitive and cannot have a passive meaning."
+  }
+]

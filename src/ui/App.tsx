@@ -38,6 +38,7 @@ export function App({ store, content = realContent, clock = () => new Date() }: 
   const Screen = ROUTES[hash];
   return (
     <EnvContext.Provider value={env}>
+      {!store.persistent && <div className="banner">Progress won't be saved on this device (browser storage is blocked, e.g. private mode). Use Settings → Export backup to keep your work.</div>}
       <main key={`${hash}|${day}`}><Screen /></main>
       <nav className="tabs">
         {TABS.map(([h, label]) => <a key={h} href={h} className={hash === h ? 'active' : ''}>{label}</a>)}
