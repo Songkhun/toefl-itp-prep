@@ -79,15 +79,15 @@
     "patternId": "P08",
     "type": "written-expression",
     "source": "drill",
-    "stem": "{0} in 1869, the Suez Canal {1} ships to travel {2} Europe and Asia {3} sailing around Africa.",
+    "stem": "{0} between 1859 and 1869, the Suez Canal {1} ships to travel {2} Europe and Asia {3} sailing around Africa.",
     "options": [
-      "Opening",
+      "Constructing",
       "allowed",
       "between",
       "without"
     ],
     "answerIndex": 0,
-    "explanation": "The canal was opened by people, so the passive participle \"Opened\" is needed. \"Opening\" is active and would mean the canal opened something."
+    "explanation": "The canal was constructed by workers, so the passive participle \"Constructed\" is needed. \"Constructing\" is active and would mean the canal constructed something."
   },
   {
     "id": "P08-d07",
