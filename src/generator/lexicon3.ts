@@ -15,7 +15,7 @@ export const COND: Cond[] = [
   { ifSubj: 'the [students]', plural: true, ifVerb: V('read', 'reads', 'read', 'read', 'reading'), ifObj: 'the [instructions] carefully', mainSubj: 'they', mainVerb: V('make', 'makes', 'made', 'made', 'making'), mainRest: 'fewer [mistakes]' },
   { ifSubj: 'the [gallery]', plural: false, ifVerb: V('open', 'opens', 'opened', 'opened', 'opening'), ifObj: 'on [weekends]', mainSubj: 'more [families]', mainVerb: V('visit', 'visits', 'visited', 'visited', 'visiting'), mainRest: 'its [exhibits]' },
   { ifSubj: 'the [region]', plural: false, ifVerb: V('receive', 'receives', 'received', 'received', 'receiving'), ifObj: 'more [rain]', mainSubj: 'the [lake]', mainVerb: V('rise', 'rises', 'rose', 'risen', 'rising'), mainRest: 'to its normal [level]' },
-  { ifSubj: 'the [hospital]', plural: false, ifVerb: V('hire', 'hires', 'hired', 'hired', 'hiring'), ifObj: 'more [nurses]', mainSubj: 'patients', mainVerb: V('wait', 'waits', 'waited', 'waited', 'waiting'), mainRest: 'less [time] for care' },
+  { ifSubj: 'the [hospital]', plural: false, ifVerb: V('hire', 'hires', 'hired', 'hired', 'hiring'), ifObj: 'more [nurses]', mainSubj: 'patients', mainVerb: V('spend', 'spends', 'spent', 'spent', 'spending'), mainRest: 'less [time] waiting for [care]' },
 ];
 
 /** Wishes about the present: plural subjects only, never the verb "be". */
@@ -24,31 +24,31 @@ export const WISH: Wish[] = [
   { who: 'Many [travelers]', verb: V('have', 'has', 'had', 'had', 'having'), rest: 'more [time] to explore each [city]' },
   { who: 'Many [commuters]', verb: V('live', 'lives', 'lived', 'lived', 'living'), rest: 'closer to their [offices]' },
   { who: 'Some new [employees]', verb: V('know', 'knows', 'knew', 'known', 'knowing'), rest: 'more about the [history] of the firm' },
-  { who: 'Many language [learners]', verb: V('speak', 'speaks', 'spoke', 'spoken', 'speaking'), rest: 'more [fluently]' },
-  { who: 'Most [farmers]', verb: V('own', 'owns', 'owned', 'owned', 'owning'), rest: 'more modern [machinery]' },
+  { who: 'Many language [learners]', verb: V('speak', 'speaks', 'spoke', 'spoken', 'speaking'), rest: 'more [fluently] [at] work' },
+  { who: 'Most [farmers]', verb: V('own', 'owns', 'owned', 'owned', 'owning'), rest: 'more modern [machinery] [for] their [fields]' },
 ];
 
 /* ---------- P14 gerunds and infinitives ---------- */
 /** verb: the finite verb as it appears in the sentence; comp: the verb that follows it. */
-export interface VerbComp { subj: string; verb: string; comp: Verb; rest: string }
+export interface VerbComp { subj: string; verb: string; /** dictionary form of the verb, for explanations */ lemma?: string; comp: Verb; rest: string }
 /** Verbs followed only by a gerund. */
 export const GERUND_AFTER: VerbComp[] = [
-  { subj: 'Many [birds]', verb: 'avoid', comp: V('nest', 'nests', 'nested', 'nested', 'nesting'), rest: '[near] busy [roads]' },
-  { subj: 'The [workers]', verb: 'finished', comp: V('paint', 'paints', 'painted', 'painted', 'painting'), rest: 'the [bridge] [before] winter' },
-  { subj: '[City] [planners]', verb: 'considered', comp: V('build', 'builds', 'built', 'built', 'building'), rest: 'a [second] [airport]' },
-  { subj: 'Most [patients]', verb: 'enjoy', comp: V('walk', 'walks', 'walked', 'walked', 'walking'), rest: '[in] the hospital [garden]' },
-  { subj: 'The [witness]', verb: 'denied', comp: V('see', 'sees', 'saw', 'seen', 'seeing'), rest: 'the [stolen] [car]' },
-  { subj: 'The [engineers]', verb: 'postponed', comp: V('launch', 'launches', 'launched', 'launched', 'launching'), rest: 'the [satellite] [until] spring' },
+  { subj: 'Many [birds]', verb: 'avoid', lemma: 'avoid', comp: V('nest', 'nests', 'nested', 'nested', 'nesting'), rest: '[near] busy [roads]' },
+  { subj: 'The [workers]', verb: 'finished', lemma: 'finish', comp: V('paint', 'paints', 'painted', 'painted', 'painting'), rest: 'the [bridge] [before] winter' },
+  { subj: '[City] [planners]', verb: 'considered', lemma: 'consider', comp: V('build', 'builds', 'built', 'built', 'building'), rest: 'a [second] [airport]' },
+  { subj: 'Most [patients]', verb: 'enjoy', lemma: 'enjoy', comp: V('walk', 'walks', 'walked', 'walked', 'walking'), rest: '[in] the hospital [garden]' },
+  { subj: 'The [witness]', verb: 'denied', lemma: 'deny', comp: V('see', 'sees', 'saw', 'seen', 'seeing'), rest: 'the [stolen] [car]' },
+  { subj: 'The [engineers]', verb: 'postponed', lemma: 'postpone', comp: V('launch', 'launches', 'launched', 'launched', 'launching'), rest: 'the [satellite] [until] spring' },
 ];
 /** Verbs followed only by an infinitive. */
 export const INFINITIVE_AFTER: VerbComp[] = [
-  { subj: 'The [members]', verb: 'decided', comp: V('postpone', 'postpones', 'postponed', 'postponed', 'postponing'), rest: 'the [vote] [until] Friday' },
-  { subj: 'The local [bakery]', verb: 'hopes', comp: V('open', 'opens', 'opened', 'opened', 'opening'), rest: 'three new [stores] [next] year' },
-  { subj: '[Both] [countries]', verb: 'agreed', comp: V('reduce', 'reduces', 'reduced', 'reduced', 'reducing'), rest: 'their carbon [emissions] [by] half' },
-  { subj: 'The [landlord]', verb: 'refused', comp: V('lower', 'lowers', 'lowered', 'lowered', 'lowering'), rest: 'the [rent] [this] year' },
-  { subj: 'The [climbers]', verb: 'managed', comp: V('reach', 'reaches', 'reached', 'reached', 'reaching'), rest: 'the [summit] [before] dark' },
-  { subj: 'The [railway]', verb: 'plans', comp: V('expand', 'expands', 'expanded', 'expanded', 'expanding'), rest: 'its [network] [across] the country' },
-  { subj: '[Many] young [couples]', verb: 'cannot afford', comp: V('buy', 'buys', 'bought', 'bought', 'buying'), rest: 'a [house] [in] the city' },
+  { subj: 'The [members]', verb: 'decided', lemma: 'decide', comp: V('postpone', 'postpones', 'postponed', 'postponed', 'postponing'), rest: 'the [vote] [until] Friday' },
+  { subj: 'The local [bakery]', verb: 'hopes', lemma: 'hope', comp: V('open', 'opens', 'opened', 'opened', 'opening'), rest: 'three new [stores] [next] year' },
+  { subj: '[Both] [countries]', verb: 'agreed', lemma: 'agree', comp: V('reduce', 'reduces', 'reduced', 'reduced', 'reducing'), rest: 'their carbon [emissions] [by] half' },
+  { subj: 'The [landlord]', verb: 'refused', lemma: 'refuse', comp: V('lower', 'lowers', 'lowered', 'lowered', 'lowering'), rest: 'the [rent] [this] year' },
+  { subj: 'The [climbers]', verb: 'managed', lemma: 'manage', comp: V('reach', 'reaches', 'reached', 'reached', 'reaching'), rest: 'the [summit] [before] dark' },
+  { subj: 'The [railway]', verb: 'plans', lemma: 'plan', comp: V('expand', 'expands', 'expanded', 'expanded', 'expanding'), rest: 'its [network] [across] the country' },
+  { subj: '[Many] young [couples]', verb: 'cannot afford', lemma: 'afford', comp: V('buy', 'buys', 'bought', 'bought', 'buying'), rest: 'a [house] [in] the city' },
 ];
 /** Prepositions (inside fixed phrases) are followed by a gerund. */
 export const AFTER_PREP: VerbComp[] = [
@@ -85,13 +85,13 @@ export interface Possessive { subj: string; verb: string; noun: string; rest: st
 export const POSS_PLURAL: Possessive[] = [
   { subj: 'Many [birds]', verb: 'build', noun: 'nests', rest: 'in tall [trees]' },
   { subj: '[Honeybees]', verb: 'use', noun: 'dances', rest: 'to share the [location] of food' },
-  { subj: 'Most [mammals]', verb: 'feed', noun: 'young', rest: 'with [milk]' },
+  { subj: 'Female [mammals]', verb: 'feed', noun: 'young', rest: 'with [milk]' },
   { subj: 'The [students]', verb: 'presented', noun: 'findings', rest: 'at the [conference]' },
   { subj: 'Early [farmers]', verb: 'stored', noun: 'grain', rest: 'in clay [pots]' },
 ];
 export const POSS_SINGULAR: Possessive[] = [
   { subj: 'The [river]', verb: 'gradually changed', noun: 'course', rest: 'over many [centuries]' },
-  { subj: 'The oak [tree]', verb: 'loses', noun: 'leaves', rest: 'every [autumn]' },
+  { subj: 'A deciduous [tree]', verb: 'loses', noun: 'leaves', rest: 'every [autumn]' },
   { subj: 'The planet [Mercury]', verb: 'completes', noun: 'orbit', rest: 'in about 88 [days]' },
   { subj: 'An [octopus]', verb: 'can change', noun: 'color', rest: 'very [quickly]' },
   { subj: 'The [glacier]', verb: 'has lost much of', noun: 'ice', rest: 'over the past [century]' },
@@ -106,29 +106,30 @@ export const OBJECT_REF: ObjectRef[] = [
 ];
 
 /* ---------- P17 singular/plural and countable nouns ---------- */
-export interface OneOf { pre: string; sg: string; pl: string; post: string }
+export interface OneOf { subj: string; verb: string; /** a superlative ending in -est */ adj: string; sg: string; pl: string; post: string }
 export const ONE_OF: OneOf[] = [
-  { pre: 'The Nile [is] one of the [longest]', sg: 'river', pl: 'rivers', post: '[in] the world' },
-  { pre: 'K2 [is] one of the [highest]', sg: 'mountain', pl: 'mountains', post: '[on] Earth' },
-  { pre: 'Tokyo [is] one of the [largest]', sg: 'city', pl: 'cities', post: '[in] the world' },
-  { pre: 'Penicillin [was] one of the most [important]', sg: 'discovery', pl: 'discoveries', post: '[of] the twentieth century' },
-  { pre: 'The Sahara [is] one of the [driest]', sg: 'region', pl: 'regions', post: '[on] Earth' },
-  { pre: 'Shakespeare [is] one of the most [famous]', sg: 'writer', pl: 'writers', post: '[in] the English language' },
+  { subj: '[The Nile]', verb: 'is', adj: 'longest', sg: 'river', pl: 'rivers', post: '[in] the world' },
+  { subj: '[K2]', verb: 'is', adj: 'highest', sg: 'mountain', pl: 'mountains', post: '[on] Earth' },
+  { subj: '[Tokyo]', verb: 'is', adj: 'largest', sg: 'city', pl: 'cities', post: '[in] the world' },
+  { subj: '[Jupiter]', verb: 'is', adj: 'brightest', sg: 'object', pl: 'objects', post: '[in] the night sky' },
+  { subj: '[The Sahara]', verb: 'is', adj: 'driest', sg: 'region', pl: 'regions', post: '[on] Earth' },
+  { subj: '[The cheetah]', verb: 'is', adj: 'fastest', sg: 'animal', pl: 'animals', post: '[on] land' },
 ];
-export interface Quant { q: string; sg: string; pl: string; rest: string }
+/** lead (optional) comes before the quantifier, so the quantifier is not always the first word. */
+export interface Quant { lead?: string; q: string; sg: string; pl: string; rest: string }
 export const QUANT: Quant[] = [
-  { q: 'Several', sg: 'building', pl: 'buildings', rest: '[were] damaged [by] the [storm]' },
+  { lead: '[During] the [storm],', q: 'several', sg: 'building', pl: 'buildings', rest: '[were] badly [damaged]' },
   { q: 'A number of', sg: 'student', pl: 'students', rest: '[have] applied [for] the [scholarship]' },
-  { q: 'Few', sg: 'plant', pl: 'plants', rest: '[can] grow in such [dry] [soil]' },
+  { lead: 'In such [dry] [soil],', q: 'few', sg: 'plant', pl: 'plants', rest: '[can] [survive] for long' },
   { q: 'Both', sg: 'sample', pl: 'samples', rest: '[were] tested [twice] in the [laboratory]' },
-  { q: 'All', sg: 'passenger', pl: 'passengers', rest: '[must] show a [ticket] before [boarding]' },
+  { lead: 'At the [gate],', q: 'all', sg: 'passenger', pl: 'passengers', rest: '[must] show a [ticket]' },
 ];
-/** Uncountable nouns: never plural, never with "a/an". */
-export interface Uncount { pre: string; noun: string; post: string }
+/** Uncountable nouns: never plural, never with "a/an" or "many". det = the correct determiner before the noun. */
+export interface Uncount { pre: string; det: string; noun: string; post: string }
 export const UNCOUNT: Uncount[] = [
-  { pre: 'The [researchers] gathered a great [deal] of', noun: 'information', post: '[about] the disease' },
-  { pre: 'The [laboratory] [bought] some new', noun: 'equipment', post: '[for] its experiments' },
-  { pre: 'The [professor] [gave] the students some useful', noun: 'advice', post: '[about] their essays' },
-  { pre: 'The [hotel] [replaced] most of the old', noun: 'furniture', post: '[in] its rooms' },
-  { pre: 'Each [passenger] may bring only a small amount of', noun: 'luggage', post: '[on] the [bus]' },
+  { pre: 'The [researchers] [gathered]', det: 'a great deal of', noun: 'information', post: '[about] the [disease]' },
+  { pre: 'The [laboratory] [bought]', det: 'some new', noun: 'equipment', post: '[for] its [experiments]' },
+  { pre: 'The [professor] [gave] the students', det: 'some useful', noun: 'advice', post: '[about] their [essays]' },
+  { pre: 'The [hotel] [replaced]', det: 'most of the old', noun: 'furniture', post: '[in] its [rooms]' },
+  { pre: 'Each [passenger] [may] bring', det: 'a small amount of', noun: 'luggage', post: '[on] the [bus]' },
 ];

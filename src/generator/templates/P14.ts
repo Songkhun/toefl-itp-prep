@@ -12,7 +12,7 @@ export const P14: Template[] = [
       const f = choice(GERUND_AFTER, rng);
       const c = f.comp;
       return structure(P, `${strip(f.subj)} ${f.verb} ____ ${strip(f.rest)}.`, c.ing, [`to ${c.base}`, c.base, c.pp],
-        `The verb "${head(f.verb)}" is followed by a gerund (-ing form), not an infinitive: "${f.verb} ${c.ing}".`, rng);
+        `The verb "${f.lemma}" is followed by a gerund (-ing form), not an infinitive: "${f.verb} ${c.ing}".`, rng);
     },
   },
   {
@@ -21,7 +21,7 @@ export const P14: Template[] = [
       const f = choice(INFINITIVE_AFTER, rng);
       const c = f.comp;
       return structure(P, `${strip(f.subj)} ${f.verb} ____ ${strip(f.rest)}.`, `to ${c.base}`, [c.ing, c.base, c.pp],
-        `The verb "${head(f.verb)}" is followed by an infinitive (to + base verb): "${f.verb} to ${c.base}".`, rng);
+        `The verb "${f.lemma}" is followed by an infinitive (to + base verb): "${f.verb} to ${c.base}".`, rng);
     },
   },
   {
@@ -38,7 +38,7 @@ export const P14: Template[] = [
     build(rng) {
       const f = choice(GERUND_AFTER, rng);
       return writtenExpression(P, `${f.subj} [${f.verb}] [!to ${f.comp.base}] ${f.rest}.`,
-        `"${head(f.verb)}" takes a gerund, not an infinitive: "${f.verb} ${f.comp.ing}".`, rng);
+        `"${f.lemma}" takes a gerund, not an infinitive: "${f.verb} ${f.comp.ing}".`, rng);
     },
   },
   {
@@ -46,7 +46,7 @@ export const P14: Template[] = [
     build(rng) {
       const f = choice(INFINITIVE_AFTER, rng);
       return writtenExpression(P, `${f.subj} [${f.verb}] [!${f.comp.ing}] ${f.rest}.`,
-        `"${head(f.verb)}" takes an infinitive, not a gerund: "${f.verb} to ${f.comp.base}".`, rng);
+        `"${f.lemma}" takes an infinitive, not a gerund: "${f.verb} to ${f.comp.base}".`, rng);
     },
   },
   {

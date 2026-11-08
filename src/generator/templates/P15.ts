@@ -29,7 +29,7 @@ export const P15: Template[] = [
       const f = choice(MODAL, rng);
       const bad = choice([f.verb.s, f.verb.ing, f.verb.past], rng);
       return writtenExpression(P, `${f.subj} [${f.modal}] [!${bad}] ${f.rest}.`,
-        `${cap(f.modal)} is followed by the base form of the verb: "${f.modal} ${f.verb.base}", not "${f.modal} ${bad}".`, rng);
+        `"${cap(f.modal)}" is followed by the base form of the verb: "${f.modal} ${f.verb.base}", not "${f.modal} ${bad}".`, rng);
     },
   },
   {

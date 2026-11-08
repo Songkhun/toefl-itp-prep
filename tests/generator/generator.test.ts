@@ -182,3 +182,36 @@ describe('batch-3 generator guards', () => {
     for (const p of ['P13', 'P14', 'P15', 'P16', 'P17'] as PatternId[]) expect(generate(p, 10, 3)).toHaveLength(10);
   });
 });
+
+describe('batch-3 review fixes', () => {
+  const many = (p: PatternId) => Array.from({ length: 150 }, (_, s) => generate(p, 6, s + 1)).flat();
+  const we = (p: PatternId) => many(p).filter((q) => q.type === 'written-expression');
+  it('no false "oak trees lose their leaves" fact; mammals fact is not understated', () => {
+    for (const q of many('P16')) expect(q.stem).not.toMatch(/oak|Most mammals/);
+  });
+  it('P15 explanations quote the modal', () => {
+    for (const q of many('P15')) expect(q.explanation).not.toMatch(/^(Must|Should|Can|May|Could|Might) is/);
+  });
+  it('P14 explanations quote the base verb, not an inflected form', () => {
+    for (const q of many('P14')) expect(q.explanation).not.toMatch(/^The verb "\w+(ed|s)"/);
+  });
+  it('P17 distractors do not clash with a determiner already in the stem', () => {
+    for (const q of many('P17')) if (q.type === 'structure') {
+      expect(q.stem).not.toMatch(/(great deal of|some new|some useful|the old|amount of|one of the \w+|most \w+) ____/);
+      expect(q.options.join('|')).not.toMatch(/(^|\|)the /);
+    }
+  });
+  it('P17 "All" explanation does not claim "all" only takes plural nouns', () => {
+    for (const q of many('P17')) expect(q.explanation).not.toMatch(/"All" (is used with|needs) a plural/);
+  });
+  it('the error position varies for the P17 quantifier, one-of and uncountable templates and P13 wishes', () => {
+    const groups: [PatternId, RegExp][] = [['P17', /\b(Several|A number of|Few|Both|All)\b/i], ['P17', /one of the/], ['P17', /information|equipment|advice|furniture|luggage/], ['P13', /wish/]];
+    for (const [p, re] of groups) {
+      const keys = new Set(we(p).filter((q) => re.test(q.stem + q.options.join(' '))).map((q) => q.answerIndex));
+      expect(keys.size, String(re)).toBeGreaterThanOrEqual(2);
+    }
+  });
+  it('P13 hospital sentence uses natural wording', () => {
+    for (const q of many('P13')) expect(q.stem + q.options.join(' ')).not.toMatch(/wait(ed)? less/);
+  });
+});
