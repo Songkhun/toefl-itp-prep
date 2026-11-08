@@ -5,9 +5,9 @@ import { hasGenerator } from '../../src/generator';
 import type { PatternId } from '../../src/domain/types';
 
 const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P18', 'P19', 'P20', 'P21', 'P22', 'P23', 'P24', 'P25'];
-const FORMS = [1, 2, 3, 4];
+const FORMS = [1, 2, 3, 4, 5, 6];
 
-describe('real content (releases 1–4)', () => {
+describe('real content (releases 1–5)', () => {
   it('is valid', () => {
     expect(validateContent({ patterns: PATTERNS, questions: allBankQuestions(), words: realContent.allWords() })).toEqual([]);
   });
@@ -86,6 +86,12 @@ describe('real content (releases 1–4)', () => {
     expect(w.found.forms).not.toContain('foundation');
     expect(w.medium.forms).not.toContain('media');
     expect(realContent.lesson('P25')).not.toMatch(/insisted that all residents left/);
+  });
+  it('forms 5–6 verification fixes', () => {
+    const q = Object.fromEntries(allBankQuestions().map((x) => [x.id, x]));
+    expect(q['M5-36'].options).not.toContain('between'); // "interaction of X with Y" is also correct
+    expect(q['M6-32'].stem).not.toMatch(/most valuable/); // "a most valuable" = "a very valuable"
+    expect(q['M5-28'].options).not.toContain('vast'); // "a vast herd" would also fix it
   });
 });
 
