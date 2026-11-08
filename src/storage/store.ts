@@ -12,7 +12,7 @@ export interface Attempt {
   source: Source;
   sessionKind: SessionKind;
 }
-export interface CardState { wordId: string; ease: number; intervalDays: number; reps: number; dueAt: number; lapses: number }
+export interface CardState { wordId: string; ease: number; intervalDays: number; reps: number; dueAt: number; lapses: number; /** local date the word was first introduced */ introducedOn?: string }
 /** planDay 1..84; dates are local 'YYYY-MM-DD' */
 export interface PlanState { startDate: string; planDay: number; lastCompletedDate: string | null }
 export interface Settings { newWordsPerDay: number; testDate: string | null }
