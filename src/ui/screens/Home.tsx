@@ -3,13 +3,12 @@ import { useEnv } from '../context';
 import { localDate, pace, startPlan, todayPlan, type TodayPlan } from '../../plan/plan';
 import { PATTERNS } from '../../content/patterns';
 import type { SessionDraft, Settings } from '../../storage/store';
-import { buildVocabQueue } from '../../srs/vocabQueue';
 
 const fmt = (d: string) => new Date(`${d}T12:00:00`).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
 
 export function Home() {
-  const { store, content, clock, navigate } = useEnv();
-  const [state, setState] = useState<{ plan: TodayPlan; pace: ReturnType<typeof pace>; settings: Settings; draft: SessionDraft | null; afternoonDone: boolean; due: number; lastMockDaysAgo: number | null } | null>(null);
+  const { store, clock, navigate } = useEnv();
+  const [state, setState] = useState<{ plan: TodayPlan; pace: ReturnType<typeof pace>; settings: Settings; draft: SessionDraft | null; afternoonDone: boolean; due: number; lastMockDaysAgo: number | null; backupDue: boolean } | null>(null);
 
   useEffect(() => {
     void (async () => {
@@ -19,11 +18,11 @@ export function Home() {
       if (!plan) { plan = startPlan(today); await store.savePlan(plan); }
       const [settings, draft, attempts, cards, mocks] = await Promise.all([store.getSettings(), store.getDraft(), store.getAttempts(), store.getCards(), store.getMockResults()]);
       const afternoonDone = attempts.some((a) => (a.sessionKind === 'afternoon' || a.sessionKind === 'mock') && localDate(new Date(a.at)) === today);
-      const q = buildVocabQueue({ words: content.allWords(), cards, now: now.getTime(), newWordsPerDay: 0, newIntroducedToday: 0 });
       const lastMock = mocks.length ? Math.max(...mocks.map((m) => m.at)) : null;
       setState({
         plan: todayPlan(plan, today), pace: pace(plan, today, settings.testDate), settings, draft, afternoonDone,
-        due: q.reviews.length, lastMockDaysAgo: lastMock === null ? null : Math.floor((now.getTime() - lastMock) / 86_400_000),
+        due: cards.filter((c) => c.dueAt <= now.getTime()).length,
+        backupDue: attempts.length > 0 && (!settings.lastExportAt || now.getTime() - settings.lastExportAt > 7 * 86_400_000), lastMockDaysAgo: lastMock === null ? null : Math.floor((now.getTime() - lastMock) / 86_400_000),
       });
     })();
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
@@ -36,6 +35,7 @@ export function Home() {
   return (
     <div>
       {!store.persistent && <div className="banner">Progress won't be saved on this device (browser storage is blocked, e.g. private mode). Use Settings → Export backup to keep your work.</div>}
+      {state.backupDue && <div className="banner">You haven't backed up your progress in the last 7 days. <a href="#/settings">Export a backup</a> so a cleared browser can't erase it.</div>}
       <h1>Day {plan.planDay} · Week {plan.week}</h1>
       <p className="muted">{phaseText}</p>
       {state.pace && (

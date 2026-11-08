@@ -27,6 +27,7 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
     return i < 0 ? questions.length - 1 : i;
   });
   const [feedbackFor, setFeedbackFor] = useState<number | null>(null);
+  const [saveError, setSaveError] = useState(false);
   const shownAt = useRef(Date.now());
   const finished = useRef(false);
   const { remainingMs, expired } = useDeadline(deadlineAt);
@@ -35,7 +36,6 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
     kind, questions, answered, startedAt, deadlineAt, meta,
   }), [store, kind, questions, startedAt, deadlineAt, meta]);
 
-  useEffect(() => { if (!draft) void persist({}); }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   const finish = useCallback(async (final: Record<string, number>) => {
     if (finished.current) return;
@@ -44,6 +44,13 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
     const correct = questions.filter((q) => final[q.id] === q.answerIndex).length;
     onFinish({ answers: final, correct, total: questions.length, ms: Date.now() - startedAt });
   }, [store, questions, onFinish, startedAt]);
+
+  useEffect(() => {
+    if (!questions.length) return;
+    if (!draft) { void persist({}).catch(() => setSaveError(true)); return; }
+    // A draft whose every question is answered (app closed on the last feedback screen) finishes straight away.
+    if (questions.every((q) => draft.answered[q.id] !== undefined)) void finish(draft.answered);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => { if (expired) void finish(answers); }, [expired]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -61,14 +68,20 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
     const now = Date.now();
     const next = { ...answers, [q.id]: choice };
     setAnswers(next);
-    await store.recordAttempt({ questionId: q.id, patternId: q.patternId, correct: choice === q.answerIndex, ms: now - shownAt.current, at: now, source: q.source, sessionKind: kind });
-    await persist(next);
+    try {
+      await store.recordAttempt({ questionId: q.id, patternId: q.patternId, correct: choice === q.answerIndex, ms: now - shownAt.current, at: now, source: q.source, sessionKind: kind });
+      if (finished.current) return; // the session ended (e.g. time ran out) while saving: do not re-create the draft
+      await persist(next);
+    } catch {
+      setSaveError(true);
+    }
+    if (finished.current) return;
     if (instantFeedback) setFeedbackFor(index);
     else advance(next);
   };
 
   const q = questions[index];
-  if (!q) return null;
+  if (!q) return <p className="card">There are no questions available for this session yet. Try a New practice set instead.</p>;
   const answeredCount = Object.keys(answers).length;
   const elapsedS = (Date.now() - startedAt) / 1000;
   const pace = answeredCount ? Math.round(elapsedS / answeredCount) : null;
@@ -85,6 +98,7 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
           <span className={pace > SECONDS_PER_QUESTION ? 'pace slow' : 'pace'}>{pace}s/q (target {SECONDS_PER_QUESTION}s)</span>
         )}
       </div>
+      {saveError && <div className="banner">Your answers couldn't be saved on this device (storage full or blocked). You can keep practising, but export a backup from Settings soon.</div>}
       <QuestionView q={q} onChoose={choose} chosen={showing ? answers[q.id] : undefined} disabled={showing} />
       {showing && (
         <div className={`card feedback ${answers[q.id] === q.answerIndex ? 'ok' : 'bad'}`}>

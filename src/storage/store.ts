@@ -15,7 +15,7 @@ export interface Attempt {
 export interface CardState { wordId: string; ease: number; intervalDays: number; reps: number; dueAt: number; lapses: number; /** local date the word was first introduced */ introducedOn?: string }
 /** planDay 1..84; dates are local 'YYYY-MM-DD' */
 export interface PlanState { startDate: string; planDay: number; lastCompletedDate: string | null }
-export interface Settings { newWordsPerDay: number; testDate: string | null }
+export interface Settings { newWordsPerDay: number; testDate: string | null; /** epoch ms of the last backup export */ lastExportAt?: number }
 export interface MockResult { form: number; raw: number; scaled: number; repeat: boolean; at: number }
 export interface SessionDraft {
   kind: SessionKind;
@@ -192,6 +192,8 @@ export async function openStore(): Promise<ProgressStore> {
         d.createObjectStore('mocks', { autoIncrement: true });
       },
     });
+    // Ask the browser not to evict our data under storage pressure (best effort; ignored where unsupported).
+    void navigator.storage?.persist?.().catch(() => undefined);
     return idbStore(db);
   } catch {
     return createMemoryStore();

@@ -14,6 +14,38 @@ import type { PlanState, SessionDraft } from '../../storage/store';
 
 const seed = () => Math.floor(Math.random() * 2 ** 31);
 
+/**
+ * Shown before starting any session while an unfinished one exists, so it is never silently overwritten.
+ * Discarding a mock still records it (unanswered = wrong) so the form counts as used.
+ */
+export function DraftGate({ children }: { children: React.ReactNode }) {
+  const { store, clock, navigate } = useEnv();
+  const [draft, setDraft] = useState<SessionDraft | null | undefined>(undefined);
+  useEffect(() => { void store.getDraft().then(setDraft); }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  if (draft === undefined) return <p className="muted">Loading…</p>;
+  if (!draft) return <>{children}</>;
+  const answered = Object.keys(draft.answered).length;
+  const discard = async () => {
+    if (!window.confirm(draft.kind === 'mock' ? 'Discard this mock? It will be scored now (unanswered questions count as wrong).' : 'Discard the unfinished session?')) return;
+    if (draft.kind === 'mock') {
+      const raw = draft.questions.filter((q) => draft.answered[q.id] === q.answerIndex).length;
+      await store.addMockResult({ form: Number(draft.meta?.form ?? 0), raw, scaled: rawToScaledStructure(raw), repeat: !!draft.meta?.repeat, at: clock().getTime() });
+    }
+    await store.clearDraft();
+    setDraft(null);
+  };
+  return (
+    <div>
+      <h1>Unfinished session</h1>
+      <p className="card">You have an unfinished {draft.kind} session ({answered}/{draft.questions.length} answered). Resume it, or discard it to start something new.</p>
+      <div className="row">
+        <button className="primary" onClick={() => navigate('#/resume')}>Resume</button>
+        <button onClick={() => void discard()}>Discard</button>
+      </div>
+    </div>
+  );
+}
+
 function Done({ title, result, questions, children }: { title: string; result: FinishResult; questions: Question[]; children?: React.ReactNode }) {
   const { navigate } = useEnv();
   return (
@@ -44,7 +76,10 @@ export function Morning() {
       const state = await loadPlan(() => store.getPlan(), today);
       const t = todayPlan(state, today);
       setPlan({ state, today: t });
-      setQuestions(t.patternId ? buildMorningDrill(t.patternId, seed(), content) : buildNewSet('mixed', studiedPatterns(state), seed(), content));
+      let qs = t.patternId ? buildMorningDrill(t.patternId, seed(), content) : [];
+      // No content for today's pattern yet (or a review day): fall back to mixed review so the plan never gets stuck.
+      if (!qs.length) qs = buildNewSet('mixed', studiedPatterns(state), seed(), content);
+      setQuestions(qs);
     })();
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 

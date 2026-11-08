@@ -52,7 +52,12 @@ export function Settings() {
       <div className="card">
         <strong>Backup</strong>
         <p className="muted">Your progress is stored only on this device. Export a backup now and then.</p>
-        <button onClick={() => void store.exportAll().then((b) => download(`itp-prep-backup-${localDate(clock())}.json`, JSON.stringify(b), 'application/json'))}>Export backup</button>
+        <button onClick={() => void (async () => {
+          const b = await store.exportAll();
+          download(`itp-prep-backup-${localDate(clock())}.json`, JSON.stringify(b), 'application/json');
+          await save({ ...settings, lastExportAt: clock().getTime() });
+        })()}>Export backup</button>
+        {settings.lastExportAt && <p className="muted">Last backup: {new Date(settings.lastExportAt).toLocaleDateString('en-GB')}</p>}
         <label htmlFor="imp">Import backup</label>
         <input id="imp" type="file" accept="application/json,.json" onChange={(e) => void onImport(e.target.files?.[0])} />
         {message && <p className={message.ok ? 'card ok' : 'card bad'} role="status">{message.text}</p>}
