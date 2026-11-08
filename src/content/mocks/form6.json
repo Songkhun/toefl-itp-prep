@@ -500,7 +500,7 @@
     "patternId": "P18",
     "type": "written-expression",
     "source": "mock",
-    "stem": "Before {0} Civil War, cotton was {1} most valuable export of the United States, and {2} economy depended {3} on enslaved labor.",
+    "stem": "Before {0} Civil War, cotton was {1} largest export of the United States, and {2} economy depended {3} on enslaved labor.",
     "options": [
       "the",
       "a",
@@ -508,7 +508,7 @@
       "heavily"
     ],
     "answerIndex": 1,
-    "explanation": "A superlative such as \"most valuable\" takes \"the\": \"cotton was the most valuable export of the United States.\"",
+    "explanation": "A superlative such as \"largest\" takes \"the\": \"cotton was the largest export of the United States.\"",
     "mockForm": 6
   },
   {

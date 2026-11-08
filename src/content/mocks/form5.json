@@ -436,14 +436,14 @@
     "patternId": "P17",
     "type": "written-expression",
     "source": "mock",
-    "stem": "The Great Plains once supported {0} {1} of bison, {2} were hunted almost to extinction {3} the late nineteenth century.",
+    "stem": "The Great Plains once supported vast {0} of bison, {1} were hunted almost to extinction {2} the {3} nineteenth century.",
     "options": [
-      "vast",
       "herd",
       "which",
-      "by"
+      "by",
+      "late"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "The Plains supported many groups of bison, so the countable noun must be plural: \"vast herds of bison.\"",
     "mockForm": 5
   },
@@ -516,7 +516,7 @@
     "patternId": "P20",
     "type": "written-expression",
     "source": "mock",
-    "stem": "During the hyperinflation of 1923, prices in Germany rose so {0} that many workers {1} paid {2} {3} day.",
+    "stem": "During the hyperinflation of 1923, prices in Germany rose so {0} that some workers {1} paid {2} {3} day.",
     "options": [
       "rapid",
       "were",
@@ -564,15 +564,15 @@
     "patternId": "P21",
     "type": "written-expression",
     "source": "mock",
-    "stem": "Economists usually explain prices {0} terms {1} the interaction {2} supply {3} demand.",
+    "stem": "Economists usually explain prices {0} terms {1} the interaction between supply {2} demand {3} a market.",
     "options": [
       "in",
       "of",
-      "between",
-      "with"
+      "with",
+      "within"
     ],
-    "answerIndex": 3,
-    "explanation": "The fixed pattern is \"between ... and\": \"the interaction between supply and demand.\"",
+    "answerIndex": 2,
+    "explanation": "\"Between\" pairs with \"and,\" not \"with\": \"the interaction between supply and demand within a market.\"",
     "mockForm": 5
   },
   {

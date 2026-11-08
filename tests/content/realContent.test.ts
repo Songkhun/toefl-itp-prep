@@ -87,5 +87,11 @@ describe('real content (releases 1–5)', () => {
     expect(w.medium.forms).not.toContain('media');
     expect(realContent.lesson('P25')).not.toMatch(/insisted that all residents left/);
   });
+  it('forms 5–6 verification fixes', () => {
+    const q = Object.fromEntries(allBankQuestions().map((x) => [x.id, x]));
+    expect(q['M5-36'].options).not.toContain('between'); // "interaction of X with Y" is also correct
+    expect(q['M6-32'].stem).not.toMatch(/most valuable/); // "a most valuable" = "a very valuable"
+    expect(q['M5-28'].options).not.toContain('vast'); // "a vast herd" would also fix it
+  });
 });
 
