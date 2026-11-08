@@ -10,7 +10,7 @@ export const P07: Template[] = [
     build(rng) {
       const f = choice(CONCESSION, rng);
       return structure(P, `____ ${strip(f.clause)}, ${strip(f.main)}.`, 'Although', ['Despite', 'In spite of', 'Because of'],
-        `The blank is followed by a full clause (subject + verb: "${strip(f.clause)}"), so a conjunction is needed: "Although". "Despite" and "in spite of" are prepositions and must be followed by a noun phrase.`, rng);
+        `The blank is followed by a full clause (subject + verb: "${strip(f.clause)}"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).`, rng);
     },
   },
   {
@@ -26,7 +26,15 @@ export const P07: Template[] = [
     build(rng) {
       const f = choice(CAUSE, rng);
       return structure(P, `____ ${strip(f.noun)}, ${strip(f.main)}.`, 'Because of', ['Because', 'Since', 'Although'],
-        `"${strip(f.noun)}" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" are conjunctions that need a full clause, and "although" shows contrast, not cause.`, rng);
+        `"${strip(f.noun)}" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.`, rng);
+    },
+  },
+  {
+    patternId: P, type: 'structure',
+    build(rng) {
+      const f = choice(CAUSE, rng);
+      return structure(P, `____ ${strip(f.clause)}, ${strip(f.main)}.`, 'Because', ['Because of', 'Due to', 'Despite'],
+        `The blank is followed by a full clause ("${strip(f.clause)}"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.`, rng);
     },
   },
   {
@@ -34,7 +42,7 @@ export const P07: Template[] = [
     build(rng) {
       const f = choice(SO_THAT, rng);
       return structure(P, `${strip(f.subj)} ${f.be} ____ that ${strip(f.result)}.`, `so ${f.adj}`, [`such ${f.adj}`, `too ${f.adj}`, `very ${f.adj}`],
-        `The pattern is "so + adjective + that + result". "Such" is used before a noun ("such a ${f.adj} …"), and "too" and "very" cannot be followed by "that".`, rng);
+        `The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".`, rng);
     },
   },
   {
@@ -43,7 +51,7 @@ export const P07: Template[] = [
       const f = choice(CONCESSION, rng);
       const sentence = rng() < 0.5
         ? `[!Despite] ${f.clause}, ${f.main}.`
-        : `${cap(f.main)} [!despite] ${f.clause}.`;
+        : `${cap(f.mainFirst ?? f.main)} [!despite] ${f.clause}.`;
       return writtenExpression(P, sentence, `"Despite" is a preposition and cannot introduce the clause "${strip(f.clause)}". Use the conjunction "although".`, rng);
     },
   },

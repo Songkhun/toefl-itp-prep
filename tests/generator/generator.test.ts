@@ -121,9 +121,32 @@ describe('capitalization', () => {
       for (let seed = 1; seed <= 100; seed++) {
         for (const q of generate(p, 6, seed)) {
           const text = q.type === 'structure' ? q.stem.replace('____', q.options[q.answerIndex]) : q.stem.replace(/\{([0-3])\}/g, (_, i) => q.options[+i]);
-          expect(text, text).not.toMatch(/, (?!London|Asia|Monet|Germany|Spain|Venus|Mercury|Marie|Jupiter|Charles|Mount|Isaac|Saturn|Leonardo|Penicillin)[A-Z]/);
+          expect(text, text).not.toMatch(/, (?!London|Asia|Monet|Germany|Spain|Venus|Mercury|Marie|Jupiter|Charles|Mount|Isaac|Saturn|Leonardo)[A-Z]/);
         }
       }
     }
+  });
+});
+
+describe('batch-2 review fixes', () => {
+  const many = (p: PatternId) => Array.from({ length: 150 }, (_, s) => generate(p, 6, s + 1)).flat();
+  it('every explanation starts with a capital letter or a quote', () => {
+    for (const p of RELEASE1) for (const q of many(p)) expect(q.explanation, q.explanation).toMatch(/^["A-Z]/);
+  });
+  it('appositive explanations never suggest "which" for a person', () => {
+    for (const q of many('P09')) {
+      if (/^\{?\d?\}?\s?(Marie|Charles|Isaac|Leonardo)/.test(q.stem) || /(Curie|Darwin|Newton|Vinci)/.test(q.stem + q.options.join(' '))) {
+        expect(q.explanation).not.toMatch(/write "which/);
+      }
+    }
+  });
+  it('no defensible distractors flagged in review', () => {
+    for (const q of [...many('P11'), ...many('P10')]) {
+      if (q.type === 'structure') expect(q.options).not.toContain('more rare');
+      if (q.type === 'structure') expect(q.options).not.toContain('being honest');
+    }
+  });
+  it('"Found" (a real participle of "find") is never the error word', () => {
+    for (const q of many('P08')) expect(q.options).not.toContain('Found');
   });
 });

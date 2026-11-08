@@ -29,7 +29,7 @@ export const P09: Template[] = [
     build(rng) {
       const f = choice(APPOS, rng);
       return writtenExpression(P, `${f.head}, [!which] ${f.app}, ${f.main}.`,
-        `"${strip(f.app)}" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which ${f.be}".`, rng);
+        `"${strip(f.app)}" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "${f.rel} ${f.be}".${f.rel === 'who' ? ' ("Which" also cannot refer to a person.)' : ''}`, rng);
     },
   },
   {

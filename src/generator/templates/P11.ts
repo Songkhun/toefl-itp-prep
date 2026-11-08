@@ -13,7 +13,7 @@ export const P11: Template[] = [
       return structure(P, `${strip(f.a)} ${verb(f.a)} ____ than ${strip(f.b)}.`, f.comp, f.wrong,
         f.comp.startsWith('more')
           ? `Long adjectives form the comparative with "more": "${f.comp}". "Most" is for superlatives, and "than" shows this is a comparison of two things.`
-          : `Short adjectives form the comparative with -er: "${f.comp}". Do not add "more" to an -er form, and use the superlative only with "the".`, rng);
+          : `Short adjectives form the comparative with -er: "${f.comp}". Do not add "more" to an -er form, and a superlative ("${f.wrong[1]}") cannot be used with "than".`, rng);
     },
   },
   {

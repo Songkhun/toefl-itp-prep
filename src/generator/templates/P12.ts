@@ -10,7 +10,7 @@ export const P12: Template[] = [
     build(rng) {
       const f = choice(INV, rng);
       return structure(P, `${strip(f.lead)} ____ ${strip(f.rest)}.`, f.ok, f.bad,
-        `When a sentence begins with a negative, limiting, or "so + adjective" expression such as "${f.cue}", the subject and auxiliary verb are inverted, as in a question: "${f.ok}".`, rng);
+        `When a sentence begins with a negative, limiting, or "so + adjective" expression such as "${f.cue}", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "${f.ok}".`, rng);
     },
   },
   {

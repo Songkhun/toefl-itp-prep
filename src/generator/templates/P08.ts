@@ -1,4 +1,4 @@
-import { low, strip, structure, writtenExpression, type Template } from '../build';
+import { cap, low, strip, structure, writtenExpression, type Template } from '../build';
 import { OPENING_ING, OPENING_PP, REDUCED } from '../lexicon2';
 import { choice } from '../../util/rng';
 
@@ -11,7 +11,7 @@ export const P08: Template[] = [
       const f = choice(OPENING_PP, rng);
       return structure(P, `____ ${strip(f.rest)}, ${strip(f.subj)} ${strip(f.main)}.`, f.pp,
         [f.ing, `It was ${low(f.pp)}`, `Having ${low(f.pp)}`],
-        `${strip(f.subj).replace(/^the/, 'The')} received the action, so the opening phrase uses the past participle "${f.pp}". "It was ${low(f.pp)}…" would create a second main clause without a conjunction.`, rng);
+        `${cap(strip(f.subj))} received the action, so the opening phrase uses the past participle "${f.pp}". "${f.ing}" and "Having ${low(f.pp)}" are active forms, and "It was ${low(f.pp)}…" would create a second main clause without a conjunction.`, rng);
     },
   },
   {
@@ -20,7 +20,7 @@ export const P08: Template[] = [
       const f = choice(OPENING_ING, rng);
       return structure(P, `____ ${strip(f.rest)}, ${strip(f.subj)} ${strip(f.main)}.`, f.ing,
         [f.past, `They ${low(f.past)}`, `Having been ${low(f.past)}`],
-        `${strip(f.subj).replace(/^the/, 'The')} performed the action, so the opening phrase uses the -ing form "${f.ing}". "They ${low(f.past)}…" creates a second main clause, and the passive forms mean the subject received the action.`, rng);
+        `${cap(strip(f.subj))} performed the action, so the opening phrase uses the -ing form "${f.ing}". "They ${low(f.past)}…" creates a second main clause, and the passive forms mean the subject received the action.`, rng);
     },
   },
   {
@@ -45,7 +45,7 @@ export const P08: Template[] = [
     build(rng) {
       const f = choice(OPENING_ING, rng);
       return writtenExpression(P, `[!${f.past}] ${f.rest}, ${f.subj} ${f.main}.`,
-        `${strip(f.subj).replace(/^the/, 'The')} performed the action, so the opening phrase must use "${f.ing}", not the past participle "${f.past}".`, rng);
+        `${cap(strip(f.subj))} performed the action, so the opening phrase must use "${f.ing}", not the past participle "${f.past}".`, rng);
     },
   },
   {
