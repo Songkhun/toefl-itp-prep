@@ -1,5 +1,5 @@
 import { openDB, type IDBPDatabase } from 'idb';
-import type { PatternId, Source } from '../domain/types';
+import type { PatternId, Question, Source } from '../domain/types';
 
 export type SessionKind = 'morning' | 'afternoon' | 'mock' | 'newset';
 
@@ -19,7 +19,8 @@ export interface Settings { newWordsPerDay: number; testDate: string | null }
 export interface MockResult { form: number; raw: number; scaled: number; repeat: boolean; at: number }
 export interface SessionDraft {
   kind: SessionKind;
-  questionIds: string[];
+  /** full questions, since generated items cannot be rebuilt from ids */
+  questions: Question[];
   answered: Record<string, number>;
   startedAt: number;
   deadlineAt: number | null;

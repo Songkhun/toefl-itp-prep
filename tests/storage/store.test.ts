@@ -15,7 +15,7 @@ async function fill(s: ProgressStore) {
   await s.saveCard({ wordId: 'w1', ease: 2.5, intervalDays: 1, reps: 1, dueAt: 5000, lapses: 0 });
   await s.savePlan({ startDate: '2026-11-09', planDay: 3, lastCompletedDate: '2026-11-11' });
   await s.addMockResult({ form: 1, raw: 25, scaled: 49, repeat: false, at: 2000 });
-  await s.saveDraft({ kind: 'mock', questionIds: ['a', 'b'], answered: { a: 1 }, startedAt: 1, deadlineAt: 2 });
+  await s.saveDraft({ kind: 'mock', questions: [], answered: { a: 1 }, startedAt: 1, deadlineAt: 2 });
 }
 
 describe('ProgressStore (IndexedDB)', () => {
