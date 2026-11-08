@@ -15,7 +15,7 @@ export const P04: Template[] = [
   {
     patternId: P, type: 'structure',
     build(rng) {
-      const { f, be, ok, time } = pf(rng);
+      const { f, ok, time } = pf(rng);
       return structure(P, `${strip(f.subj)} ____ ${strip(f.rest)} ${strip(time)}.`, ok,
         [f.verb.past, `${f.plural ? 'have' : 'has'} ${f.verb.pp}`, `${f.verb.ing}`],
         why(f.subj, ok), rng);
