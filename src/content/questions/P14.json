@@ -124,7 +124,7 @@
     "patternId": "P14",
     "type": "written-expression",
     "source": "drill",
-    "stem": "Female sea turtles often return to the beaches where they hatched {0} {1} {2} eggs, a behavior that biologists have long wanted {3}.",
+    "stem": "Female sea turtles often return to the beaches where they hatched {0} {1} {2} eggs, a behavior that biologists have long hoped {3}.",
     "options": [
       "in order",
       "to lay",
@@ -132,7 +132,7 @@
       "explaining"
     ],
     "answerIndex": 3,
-    "explanation": "The verb \"want\" is followed by an infinitive, not a gerund: \"have long wanted to explain.\""
+    "explanation": "The verb \"hope\" is followed by an infinitive, not a gerund: \"have long hoped to explain.\""
   },
   {
     "id": "P14-d10",

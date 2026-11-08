@@ -1,7 +1,7 @@
 [
   {
     "id": "w-analyse",
-    "headword": "analyse",
+    "headword": "analyze",
     "pos": "verb",
     "definition": "to examine something carefully in order to understand it",
     "examples": [
@@ -9,10 +9,10 @@
       "A careful analysis of the data revealed a seasonal pattern."
     ],
     "forms": [
-      "analyze",
       "analyzed",
       "analysis",
-      "analytical"
+      "analytical",
+      "analyse"
     ],
     "sublist": 1
   },
@@ -556,7 +556,7 @@
   },
   {
     "id": "w-labour",
-    "headword": "labour",
+    "headword": "labor",
     "pos": "noun",
     "definition": "work, especially physical work; also workers as a group",
     "examples": [
@@ -564,9 +564,9 @@
       "Copying books by hand was a slow and laborious process."
     ],
     "forms": [
-      "labor",
       "laborer",
-      "laborious"
+      "laborious",
+      "labour"
     ],
     "sublist": 1
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "id": "w-maximise",
-    "headword": "maximise",
+    "headword": "maximize",
     "pos": "verb",
     "definition": "to make something as large or great as possible",
     "examples": [
@@ -2445,9 +2445,9 @@
       "The maximum depth of the Pacific Ocean is nearly eleven kilometers."
     ],
     "forms": [
-      "maximize",
       "maximum",
-      "maximal"
+      "maximal",
+      "maximise"
     ],
     "sublist": 3
   },
@@ -4693,7 +4693,7 @@
     "definition": "to fasten or join one thing to another",
     "examples": [
       "Barnacles attach themselves to rocks and the hulls of ships.",
-      "Some mothers form a close attachment to their infants within days."
+      "Infants form a strong attachment to their caregivers."
     ],
     "forms": [
       "attached",
@@ -4965,7 +4965,7 @@
     "pos": "noun",
     "definition": "an amount of money paid for a service or to join something",
     "examples": [
-      "Most national parks charge an entrance fee.",
+      "Many national parks charge an entrance fee.",
       "University tuition fees have risen in many countries."
     ],
     "forms": [
@@ -5293,7 +5293,7 @@
     "definition": "in or to a foreign country across the sea",
     "examples": [
       "Many students choose to study overseas.",
-      "The company sells most of its products in overseas markets."
+      "The company manufactures most of its products overseas."
     ],
     "forms": [],
     "sublist": 6
@@ -5479,7 +5479,7 @@
   },
   {
     "id": "w-utilise",
-    "headword": "utilise",
+    "headword": "utilize",
     "pos": "verb",
     "definition": "to use something for a practical purpose",
     "examples": [
@@ -5487,9 +5487,9 @@
       "The efficient utilization of resources reduces waste."
     ],
     "forms": [
-      "utilize",
       "utilized",
-      "utilization"
+      "utilization",
+      "utilise"
     ],
     "sublist": 6
   },
@@ -5930,7 +5930,7 @@
     "pos": "noun",
     "definition": "a system in which people or things are arranged in ranks",
     "examples": [
-      "Wolf packs have a clear social hierarchy.",
+      "Chickens establish a pecking order, a clear social hierarchy within the flock.",
       "The army is organized in a strict hierarchical structure."
     ],
     "forms": [
@@ -6316,7 +6316,7 @@
     "definition": "to pass something from one person, place, or thing to another",
     "examples": [
       "Mosquitoes can transmit malaria to humans.",
-      "Radio waves transmit signals over long distances."
+      "Satellites transmit signals over long distances."
     ],
     "forms": [
       "transmitted",

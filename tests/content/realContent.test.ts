@@ -59,4 +59,10 @@ describe('real content (releases 1–3)', () => {
     const drill = new Set(RELEASE1.flatMap((p) => realContent.drillItems(p)).map((q) => q.stem));
     for (const n of FORMS) expect(realContent.mockForm(n).filter((q) => drill.has(q.stem))).toEqual([]);
   });
+  it('batch-3 verification fixes', () => {
+    expect(realContent.lesson('P13')).not.toMatch(/Never put "will" or "would" in the if-clause/);
+    const w = realContent.allWords();
+    expect(w.filter((x) => ['analyse', 'labour', 'maximise', 'utilise'].includes(x.headword)).map((x) => x.headword), 'TOEFL uses American spelling').toEqual([]);
+    expect(realContent.drillItems('P14').find((q) => q.id === 'P14-d09')?.stem).not.toMatch(/wanted/);
+  });
 });

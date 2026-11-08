@@ -109,9 +109,9 @@
     "patternId": "P17",
     "type": "written-expression",
     "source": "drill",
-    "stem": "Historians still {0} {1} disagreement about how the ancient city of Troy was destroyed, partly because {2} written {3} from that period survive.",
+    "stem": "There {0} still {1} disagreement among historians about how the ancient city of Troy was destroyed, partly because {2} written {3} from that period survive.",
     "options": [
-      "have",
+      "is",
       "much",
       "little",
       "records"

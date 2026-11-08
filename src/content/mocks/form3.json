@@ -628,7 +628,7 @@
     "patternId": "P25",
     "type": "written-expression",
     "source": "mock",
-    "stem": "The committee insisted that each research proposal {0} {1} by two {2} reviewers before {3} approved.",
+    "stem": "The committee insisted that each research proposal {0} {1} by two {2} experts before {3} approved.",
     "options": [
       "is",
       "reviewed",
