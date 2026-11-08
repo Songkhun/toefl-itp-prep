@@ -63,6 +63,38 @@ describe('template rotation', () => {
   it('uses every template in a set (P03 includes a "since" structure item)', () => {
     const set = generate('P03', 8, 1);
     expect(set.some((q) => q.type === 'structure' && q.stem.includes('since'))).toBe(true);
-    expect(set.some((q) => q.type === 'written-expression' && q.options.includes('since'))).toBe(true);
+    expect(set.some((q) => q.type === 'written-expression' && q.stem.includes('since'))).toBe(true);
+  });
+});
+
+describe('quality fixes from item review', () => {
+  const many = (p: PatternId) => Array.from({ length: 150 }, (_, s) => generate(p, 6, s + 1)).flat();
+
+  it('tense items never underline the time expression that triggers the tense', () => {
+    for (const p of ['P03', 'P04'] as PatternId[]) {
+      for (const q of many(p).filter((x) => x.type === 'written-expression')) {
+        for (const o of q.options) expect(o).not.toMatch(/\b(since|ago|last|\d{4})\b/i);
+      }
+    }
+  });
+  it('explanations agree with plural subjects', () => {
+    for (const p of ['P04', 'P05'] as PatternId[]) {
+      for (const q of many(p)) {
+        expect(q.explanation).not.toMatch(/s" (receives|refers)\b/);
+        expect(q.explanation).not.toMatch(/\b(products|crops) belongs\b/);
+      }
+    }
+  });
+  it('intransitive-capable verbs are not used for passives', () => {
+    for (const q of many('P04')) expect(q.stem + q.options.join(' ')).not.toMatch(/\bsold\b|\bselling\b/);
+  });
+  it('written-expression answer position varies within each pattern', () => {
+    for (const p of RELEASE1) {
+      const keys = new Set(many(p).filter((q) => q.type === 'written-expression').map((q) => q.answerIndex));
+      expect(keys.size, p).toBeGreaterThanOrEqual(2);
+    }
+  });
+  it('no malformed "is the river begin" distractor', () => {
+    for (const q of many('P06')) expect(q.options.join('|')).not.toMatch(/is the river begin/);
   });
 });
