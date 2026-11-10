@@ -734,46 +734,56 @@
    D) Since
    ANSWER: B  — "the large crowds in the museum" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
 
-[P08 structure] ____ in the nineteenth century, the library now holds over a million books.
-   A) Establishing
-   B) Established
-   C) It was established
-   D) Having established
-   ANSWER: B  — The library received the action, so the opening phrase uses the past participle "Established". "Establishing" and "Having established" are active forms, and "It was established…" would create a second main clause without a conjunction.
+[P08 structure] ____ from recycled plastic, the bags are strong and cheap.
+   A) Making
+   B) Made
+   C) It was made
+   D) Having made
+   ANSWER: B  — The bags received the action, so the opening phrase uses the past participle "Made". "Making" and "Having made" are active forms, and "It was made…" would create a second main clause without a conjunction.
 
-[P08 structure] ____ satellite data, the researchers mapped the coastline.
-   A) Used
-   B) Having been used
-   C) They used
-   D) Using
-   ANSWER: D  — The researchers performed the action, so the opening phrase uses the -ing form "Using". "They used…" creates a second main clause, and the passive forms mean the subject received the action.
+[P08 structure] ____ late into the night, the engineers repaired the system.
+   A) Worked
+   B) Having been worked
+   C) They worked
+   D) Working
+   ANSWER: D  — The engineers performed the action, so the opening phrase uses the -ing form "Working". "They worked…" creates a second main clause, and the passive forms mean the subject received the action.
 
-[P08 structure] The data ____ by the satellite were sent to laboratories around the world.
-   A) they collected
-   B) collecting
-   C) collected
-   D) were collected
-   ANSWER: C  — "collected by the satellite" is a reduced adjective clause (= "which were collected"). "Were collected" would give the sentence two main verbs, and "collecting" has the wrong (active) meaning.
+[P08 structure] The bridge ____ by a young engineer won an international prize.
+   A) it designed
+   B) designing
+   C) designed
+   D) was designed
+   ANSWER: C  — "designed by a young engineer" is a reduced adjective clause (= "which was designed"). "Was designed" would give the sentence two main verbs, and "designing" has the wrong (active) meaning.
 
-[P08 written-expression] The _A:paintings_ _B:displaying_ in the main _C:hall_ are more than two hundred years _D:old_.
-   ANSWER: B  — The paintings received the action, so the reduced clause needs the past participle "displayed", not "displaying".
+[P08 written-expression] _A:Locate_ near the _B:coast_, the _C:town_ attracts many _D:tourists_ in summer.
+   ANSWER: A  — The opening phrase needs the past participle "Located", because the town received the action.
 
-[P08 structure] ____ the two samples, the scientist noticed a small difference.
-   A) Compared
-   B) They compared
-   C) Comparing
-   D) Having been compared
-   ANSWER: C  — The scientist performed the action, so the opening phrase uses the -ing form "Comparing". "They compared…" creates a second main clause, and the passive forms mean the subject received the action.
+[P08 written-expression] The _A:results_ _B:reporting_ in the _C:study_ surprised many _D:experts_.
+   ANSWER: B  — The results received the action, so the reduced clause needs the past participle "reported", not "reporting".
 
-[P08 structure] The samples ____ from the lake contained high levels of mercury.
-   A) taken
-   B) they taken
-   C) were taken
-   D) taking
-   ANSWER: A  — "taken from the lake" is a reduced adjective clause (= "which were taken"). "Were taken" would give the sentence two main verbs, and "taking" has the wrong (active) meaning.
+[P08 structure] ____ into forty languages, the novel has sold millions of copies.
+   A) Having translated
+   B) It was translated
+   C) Translating
+   D) Translated
+   ANSWER: D  — The novel received the action, so the opening phrase uses the past participle "Translated". "Translating" and "Having translated" are active forms, and "It was translated…" would create a second main clause without a conjunction.
 
-[P08 written-expression] _A:Write_ in simple _B:language_, the _C:report_ was easy to _D:understand_.
-   ANSWER: A  — The opening phrase needs the past participle "Written", because the report received the action.
+[P08 structure] ____ to save money, many families grew their own vegetables.
+   A) Wanted
+   B) They wanted
+   C) Wanting
+   D) Having been wanted
+   ANSWER: C  — Many families performed the action, so the opening phrase uses the -ing form "Wanting". "They wanted…" creates a second main clause, and the passive forms mean the subject received the action.
+
+[P08 structure] The products ____ in this factory are exported to many countries.
+   A) made
+   B) they made
+   C) were made
+   D) making
+   ANSWER: A  — "made in this factory" is a reduced adjective clause (= "which were made"). "Were made" would give the sentence two main verbs, and "making" has the wrong (active) meaning.
+
+[P08 written-expression] _A:Design_ by a famous _B:architect_, the _C:stadium_ can hold sixty thousand _D:people_.
+   ANSWER: A  — The opening phrase needs the past participle "Designed", because the stadium received the action.
 
 [P08 structure] ____ of local stone, the old church has survived for centuries.
    A) Having built
@@ -782,57 +792,55 @@
    D) It was built
    ANSWER: C  — The old church received the action, so the opening phrase uses the past participle "Built". "Building" and "Having built" are active forms, and "It was built…" would create a second main clause without a conjunction.
 
-[P08 structure] ____ to find gold, thousands of settlers moved to California.
-   A) Having been hoped
-   B) Hoped
-   C) Hoping
-   D) They hoped
-   ANSWER: C  — Thousands of settlers performed the action, so the opening phrase uses the -ing form "Hoping". "They hoped…" creates a second main clause, and the passive forms mean the subject received the action.
+[P08 structure] ____ the night sky, early astronomers tracked the movement of the planets.
+   A) Having been observed
+   B) Observed
+   C) Observing
+   D) They observed
+   ANSWER: C  — Early astronomers performed the action, so the opening phrase uses the -ing form "Observing". "They observed…" creates a second main clause, and the passive forms mean the subject received the action.
 
-[P08 structure] The bridge ____ by a young engineer won an international prize.
-   A) it designed
-   B) designed
-   C) was designed
-   D) designing
-   ANSWER: B  — "designed by a young engineer" is a reduced adjective clause (= "which was designed"). "Was designed" would give the sentence two main verbs, and "designing" has the wrong (active) meaning.
+[P08 structure] The paintings ____ in the main hall are more than two hundred years old.
+   A) they displayed
+   B) displayed
+   C) were displayed
+   D) displaying
+   ANSWER: B  — "displayed in the main hall" is a reduced adjective clause (= "which were displayed"). "Were displayed" would give the sentence two main verbs, and "displaying" has the wrong (active) meaning.
 
-[P08 written-expression] _A:Surround_ by _B:mountains_, the _C:village_ is difficult to _D:reach_ in winter.
-   ANSWER: A  — The opening phrase needs the past participle "Surrounded", because the village received the action.
+[P08 written-expression] _A:Write_ in simple _B:language_, the _C:report_ was easy to _D:understand_.
+   ANSWER: A  — The opening phrase needs the past participle "Written", because the report received the action.
 
-[P08 written-expression] The _A:houses_ _B:damaging_ by the _C:storm_ were _D:rebuilt_ within a year.
-   ANSWER: B  — The houses received the action, so the reduced clause needs the past participle "damaged", not "damaging".
+[P08 written-expression] _A:Left_ the _B:harbor_ at dawn, the _C:fishermen_ returned with a large _D:catch_.
+   ANSWER: A  — The fishermen performed the action, so the opening phrase must use "Leaving", not the past participle "Left".
 
-[P08 structure] ____ late into the night, the engineers repaired the system.
-   A) Working
-   B) They worked
-   C) Having been worked
-   D) Worked
-   ANSWER: A  — The engineers performed the action, so the opening phrase uses the -ing form "Working". "They worked…" creates a second main clause, and the passive forms mean the subject received the action.
+[P08 structure] ____ in the nineteenth century, the library now holds over a million books.
+   A) Established
+   B) It was established
+   C) Establishing
+   D) Having established
+   ANSWER: A  — The library received the action, so the opening phrase uses the past participle "Established". "Establishing" and "Having established" are active forms, and "It was established…" would create a second main clause without a conjunction.
 
-[P08 written-expression] _A:Establish_ in the nineteenth _B:century_, the _C:library_ now holds over a million _D:books_.
-   ANSWER: A  — The opening phrase needs the past participle "Established", because the library received the action.
+[P08 structure] The houses ____ by the storm were rebuilt within a year.
+   A) were damaged
+   B) they damaged
+   C) damaged
+   D) damaging
+   ANSWER: C  — "damaged by the storm" is a reduced adjective clause (= "which were damaged"). "Were damaged" would give the sentence two main verbs, and "damaging" has the wrong (active) meaning.
 
-[P08 written-expression] _A:Worked_ late into the _B:night_, the _C:engineers_ repaired the _D:system_.
-   ANSWER: A  — The engineers performed the action, so the opening phrase must use "Working", not the past participle "Worked".
+[P08 written-expression] _A:Damage_ by the _B:earthquake_, the old _C:bridge_ was closed for _D:repairs_.
+   ANSWER: A  — The opening phrase needs the past participle "Damaged", because the old bridge received the action.
 
-[P08 written-expression] The _A:samples_ _B:taking_ from the _C:lake_ contained high levels of _D:mercury_.
-   ANSWER: B  — The samples received the action, so the reduced clause needs the past participle "taken", not "taking".
+[P08 written-expression] _A:Hoped_ to find _B:gold_, thousands of _C:settlers_ moved to _D:California_.
+   ANSWER: A  — Thousands of settlers performed the action, so the opening phrase must use "Hoping", not the past participle "Hoped".
 
-[P08 written-expression] _A:Compared_ the two _B:samples_, the _C:scientist_ noticed a small _D:difference_.
-   ANSWER: A  — The scientist performed the action, so the opening phrase must use "Comparing", not the past participle "Compared".
+[P08 written-expression] The _A:money_ _B:raising_ at the _C:concert_ was donated to a local _D:hospital_.
+   ANSWER: B  — The money received the action, so the reduced clause needs the past participle "raised", not "raising".
 
-[P08 written-expression] The _A:data_ _B:collecting_ by the _C:satellite_ were sent to _D:laboratories_ around the world.
-   ANSWER: B  — The data received the action, so the reduced clause needs the past participle "collected", not "collecting".
-
-[P08 structure] ____ in simple language, the report was easy to understand.
-   A) Having written
-   B) Written
-   C) It was written
-   D) Writing
-   ANSWER: B  — The report received the action, so the opening phrase uses the past participle "Written". "Writing" and "Having written" are active forms, and "It was written…" would create a second main clause without a conjunction.
-
-[P08 written-expression] _A:Used_ satellite _B:data_, the _C:researchers_ mapped the _D:coastline_.
-   ANSWER: A  — The researchers performed the action, so the opening phrase must use "Using", not the past participle "Used".
+[P08 structure] ____ for its hot springs, the region attracts visitors all year.
+   A) Knowing
+   B) Having known
+   C) It was known
+   D) Known
+   ANSWER: D  — The region received the action, so the opening phrase uses the past participle "Known". "Knowing" and "Having known" are active forms, and "It was known…" would create a second main clause without a conjunction.
 
 [P09 structure] Leonardo da Vinci, ____, painted the Mona Lisa.
    A) was an Italian painter and inventor
@@ -942,201 +950,237 @@
    D) A physicist and chemist
    ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Marie Curie". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
 
-[P10 structure] The new policy will reduce costs, save energy, and ____.
-   A) protecting jobs
-   B) protect jobs
-   C) protects jobs
-   D) to protecting jobs
-   ANSWER: B  — Items in a list must have the same form. "reduce costs" and "save energy" are base-form verb phrases after "will", so the third item must be "protect jobs".
+[P10 structure] The engineers worked quickly, efficiently, and ____.
+   A) safe
+   B) safely
+   C) safety
+   D) with safe
+   ANSWER: B  — Items in a list must have the same form. "quickly" and "efficiently" are adverbs, so the third item must be "safely".
 
-[P10 written-expression] The course teaches _A:children_ to _B:reading_, _C:write_, and _D:count_.
-   ANSWER: B  — All items in the list must be parallel (base verbs after "to"). "reading" breaks the pattern; it should be "read".
+[P10 structure] Her favorite activities are hiking and ____.
+   A) to paint
+   B) she paints
+   C) paints
+   D) painting
+   ANSWER: D  — Words joined by "and" must have the same form. "hiking" is one of the gerunds, so the second item must match: "painting".
+
+[P10 structure] Many tourists enjoy visiting museums, tasting local food, and ____.
+   A) shop in markets
+   B) shopping in markets
+   C) they shop in markets
+   D) to shop in markets
+   ANSWER: B  — Items in a list must have the same form. "visiting museums" and "tasting local food" are gerunds, so the third item must be "shopping in markets".
+
+[P10 structure] The museum's collection includes paintings and ____.
+   A) photographs
+   B) photographing
+   C) photographed
+   D) to photograph
+   ANSWER: A  — Words joined by "and" must have the same form. "paintings" is one of the nouns, so the second item must match: "photographs".
+
+[P10 written-expression] The _A:city_ is famous for its _B:architecture_, _C:history_, and _D:cultural_.
+   ANSWER: D  — All items in the list must be parallel (nouns). "cultural" breaks the pattern; it should be "culture".
+
+[P10 structure] The volunteers cleaned the beach and ____.
+   A) to repair the fence
+   B) the fence was repaired
+   C) repairing the fence
+   D) repaired the fence
+   ANSWER: D  — Words joined by "and" must have the same form. "cleaned the beach" is one of the past-tense verb phrases, so the second item must match: "repaired the fence".
+
+[P10 structure] The report was accurate, detailed, and ____.
+   A) clear
+   B) clarity
+   C) with clarity
+   D) in clarity
+   ANSWER: A  — Items in a list must have the same form. "accurate" and "detailed" are adjectives, so the third item must be "clear".
+
+[P10 written-expression] The course teaches _A:children_ to _B:read_, _C:write_, and _D:counting_.
+   ANSWER: D  — All items in the list must be parallel (base verbs after "to"). "counting" breaks the pattern; it should be "count".
+
+[P10 structure] The scientists collected samples, analyzed the data, and ____.
+   A) the results were published
+   B) published the results
+   C) to publish the results
+   D) publishing the results
+   ANSWER: B  — Items in a list must have the same form. "collected samples" and "analyzed the data" are past-tense verb phrases, so the third item must be "published the results".
+
+[P10 structure] The manager asked the staff to arrive early and ____.
+   A) greeted every customer
+   B) greet every customer
+   C) greeting every customer
+   D) to greeting every customer
+   ANSWER: B  — Words joined by "and" must have the same form. "arrive early" is one of the base verbs after "to", so the second item must match: "greet every customer".
+
+[P10 written-expression] The _A:students_ were asked to _B:read the article_, _C:summarize it_, and _D:discussing it_.
+   ANSWER: D  — All items in the list must be parallel (base verbs after "to"). "discussing it" breaks the pattern; it should be "discuss it".
+
+[P10 structure] The children were taught to share, listen, and ____.
+   A) cooperate
+   B) to cooperating
+   C) cooperation
+   D) cooperating
+   ANSWER: A  — Items in a list must have the same form. "share" and "listen" are base verbs after "to", so the third item must be "cooperate".
+
+[P10 structure] His hobbies include reading and ____.
+   A) garden
+   B) to garden
+   C) he gardens
+   D) gardening
+   ANSWER: D  — Words joined by "and" must have the same form. "reading" is one of the gerunds, so the second item must match: "gardening".
+
+[P10 structure] The athletes trained regularly, carefully, and ____.
+   A) patience
+   B) with patient
+   C) patiently
+   D) patient
+   ANSWER: C  — Items in a list must have the same form. "regularly" and "carefully" are adverbs, so the third item must be "patiently".
 
 [P10 written-expression] The _A:job_ requires _B:patient_, _C:creativity_, and _D:honesty_.
    ANSWER: B  — All items in the list must be parallel (nouns). "patient" breaks the pattern; it should be "patience".
 
-[P10 structure] The new laptop is light, fast, and ____.
-   A) reliable
-   B) reliably
-   C) reliability
-   D) it is reliable
-   ANSWER: A  — Items in a list must have the same form. "light" and "fast" are adjectives, so the third item must be "reliable".
+[P10 written-expression] The tour _A:guide_ spoke _B:clearly_, _C:slowly_, and _D:polite_.
+   ANSWER: D  — All items in the list must be parallel (adverbs). "polite" breaks the pattern; it should be "politely".
 
-[P10 written-expression] The _A:volunteers_ _B:cleaned the beach_, _C:planted trees_, and _D:repairing the fence_.
-   ANSWER: D  — All items in the list must be parallel (past-tense verb phrases). "repairing the fence" breaks the pattern; it should be "repaired the fence".
+[P10 structure] Students in the course learn to plan experiments, record data, and ____.
+   A) write reports
+   B) to writing reports
+   C) writing reports
+   D) wrote reports
+   ANSWER: A  — Items in a list must have the same form. "plan experiments" and "record data" are base verbs after "to", so the third item must be "write reports".
 
-[P10 written-expression] Her favorite _A:activities_ are _B:to hike_, _C:swimming_, and _D:painting_.
-   ANSWER: B  — All items in the list must be parallel (gerunds). "to hike" breaks the pattern; it should be "hiking".
+[P10 structure] The new law will protect forests, limit pollution, and ____.
+   A) to creating parks
+   B) creates parks
+   C) create parks
+   D) creating parks
+   ANSWER: C  — Items in a list must have the same form. "protect forests" and "limit pollution" are base-form verb phrases after "will", so the third item must be "create parks".
 
-[P10 structure] The athletes trained regularly, carefully, and ____.
-   A) patience
-   B) patiently
-   C) patient
-   D) with patient
-   ANSWER: B  — Items in a list must have the same form. "regularly" and "carefully" are adverbs, so the third item must be "patiently".
+[P10 structure] The nurse treated patients gently and ____.
+   A) professionally
+   B) profession
+   C) with professional
+   D) professional
+   ANSWER: A  — Words joined by "and" must have the same form. "gently" is one of the adverbs, so the second item must match: "professionally".
 
-[P10 structure] A good researcher must be curious, patient, and ____.
-   A) care
-   B) carefully
-   C) with care
-   D) careful
-   ANSWER: D  — Items in a list must have the same form. "curious" and "patient" are adjectives, so the third item must be "careful".
+[P10 structure] The apartment is spacious, bright, and ____.
+   A) quiet
+   B) in quiet
+   C) quietly
+   D) quietness
+   ANSWER: A  — Items in a list must have the same form. "spacious" and "bright" are adjectives, so the third item must be "quiet".
 
-[P10 written-expression] The museum's _A:collection_ includes _B:paintings_, _C:sculpting_, and _D:photographs_.
-   ANSWER: C  — All items in the list must be parallel (nouns). "sculpting" breaks the pattern; it should be "sculptures".
+[P11 structure] A tortoise is ____ than a rabbit.
+   A) more slow
+   B) slower
+   C) slowest
+   D) more slower
+   ANSWER: B  — Short adjectives form the comparative with -er: "slower". Do not add "more" to an -er form, and a superlative ("slowest") cannot be used with "than".
 
-[P10 written-expression] The _A:students_ were asked to _B:read the article_, _C:summarizing it_, and _D:discuss it_.
-   ANSWER: C  — All items in the list must be parallel (base verbs after "to"). "summarizing it" breaks the pattern; it should be "summarize it".
-
-[P10 written-expression] The new _A:policy_ will _B:reduce costs_, _C:saving energy_, and _D:protect jobs_.
-   ANSWER: C  — All items in the list must be parallel (base-form verb phrases after "will"). "saving energy" breaks the pattern; it should be "save energy".
-
-[P10 structure] The course teaches children to read, write, and ____.
-   A) counted
-   B) counting
-   C) count
-   D) to counting
-   ANSWER: C  — Items in a list must have the same form. "read" and "write" are base verbs after "to", so the third item must be "count".
-
-[P10 structure] The job requires patience, creativity, and ____.
-   A) is honest
-   B) honesty
-   C) honest
-   D) honestly
-   ANSWER: B  — Items in a list must have the same form. "patience" and "creativity" are nouns, so the third item must be "honesty".
-
-[P10 written-expression] The new _A:laptop_ is _B:light_, _C:fast_, and _D:reliably_.
-   ANSWER: D  — All items in the list must be parallel (adjectives). "reliably" breaks the pattern; it should be "reliable".
-
-[P10 structure] Her favorite activities are hiking, swimming, and ____.
-   A) to paint
-   B) paints
-   C) painting
-   D) she paints
-   ANSWER: C  — Items in a list must have the same form. "hiking" and "swimming" are gerunds, so the third item must be "painting".
-
-[P10 written-expression] A good _A:researcher_ must be _B:curiosity_, _C:patient_, and _D:careful_.
-   ANSWER: B  — All items in the list must be parallel (adjectives). "curiosity" breaks the pattern; it should be "curious".
-
-[P10 written-expression] The _A:athletes_ trained _B:regularly_, _C:careful_, and _D:patiently_.
-   ANSWER: C  — All items in the list must be parallel (adverbs). "careful" breaks the pattern; it should be "carefully".
-
-[P10 structure] The students were asked to read the article, summarize it, and ____.
-   A) to discussing it
-   B) discussing it
-   C) discuss it
-   D) discussed it
-   ANSWER: C  — Items in a list must have the same form. "read the article" and "summarize it" are base verbs after "to", so the third item must be "discuss it".
-
-[P10 structure] The museum's collection includes paintings, sculptures, and ____.
-   A) photographed
-   B) photographing
-   C) to photograph
-   D) photographs
-   ANSWER: D  — Items in a list must have the same form. "paintings" and "sculptures" are nouns, so the third item must be "photographs".
-
-[P10 structure] The volunteers cleaned the beach, planted trees, and ____.
-   A) to repair the fence
-   B) the fence was repaired
-   C) repaired the fence
-   D) repairing the fence
-   ANSWER: C  — Items in a list must have the same form. "cleaned the beach" and "planted trees" are past-tense verb phrases, so the third item must be "repaired the fence".
-
-[P11 structure] A cheetah is ____ than a lion.
-   A) more fast
-   B) faster
-   C) fastest
-   D) more faster
-   ANSWER: B  — Short adjectives form the comparative with -er: "faster". Do not add "more" to an -er form, and a superlative ("fastest") cannot be used with "than".
-
-[P11 structure] Jupiter is ____ planet in the solar system.
-   A) largest
-   B) the most large
-   C) the larger
-   D) the largest
-   ANSWER: D  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
-
-[P11 written-expression] _A:Lead_ _B:is_ _C:more heavier_ _D:than_ aluminum.
-   ANSWER: C  — With "than", use the comparative form "heavier", not "more heavier".
-
-[P11 written-expression] The blue _A:whale_ _B:is_ _C:the most large_ animal alive _D:today_.
-   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the largest", not "the most large".
-
-[P11 structure] Diamonds are ____ than glass.
-   A) more harder
-   B) more hard
+[P11 structure] Compared with glass, diamonds are ____.
+   A) more hard
+   B) more harder
    C) hardest
    D) harder
-   ANSWER: D  — Short adjectives form the comparative with -er: "harder". Do not add "more" to an -er form, and a superlative ("hardest") cannot be used with "than".
+   ANSWER: D  — "Compared with" sets up a comparison of two things, so the comparative is needed. Short adjectives form the comparative with -er: "harder". Do not add "more" to an -er form, and a superlative ("hardest") cannot be used with "than".
 
-[P11 written-expression] _A:Platinum_ is _B:more rarer_ _C:than_ _D:silver_.
-   ANSWER: B  — With "than", use the comparative form "rarer", not "more rarer".
+[P11 structure] The blue whale is ____ animal alive today.
+   A) the most large
+   B) largest
+   C) the largest
+   D) the larger
+   ANSWER: C  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
 
-[P11 written-expression] _A:Russia_ _B:is_ _C:the larger_ country in the world by _D:area_.
-   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the largest", not "the larger".
+[P11 written-expression] Elephants _A:are_ _B:more heavier_ _C:than_ _D:horses_.
+   ANSWER: B  — With "than", use the comparative form "heavier", not "more heavier".
+
+[P11 written-expression] Lake _A:Baikal_ _B:is_ _C:the most deep_ lake in the _D:world_.
+   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the deepest", not "the most deep".
+
+[P11 structure] Silver is ____ than copper.
+   A) valuable more
+   B) the more valuable
+   C) most valuable
+   D) more valuable
+   ANSWER: D  — Long adjectives form the comparative with "more": "more valuable". "Most" is for superlatives, and "than" shows this is a comparison of two things.
+
+[P11 structure] Compared with horses, elephants are ____.
+   A) heavier
+   B) more heavy
+   C) more heavier
+   D) heaviest
+   ANSWER: A  — "Compared with" sets up a comparison of two things, so the comparative is needed. Short adjectives form the comparative with -er: "heavier". Do not add "more" to an -er form, and a superlative ("heaviest") cannot be used with "than".
+
+[P11 structure] Mount Everest is ____ mountain on Earth.
+   A) the higher
+   B) the most high
+   C) highest
+   D) the highest
+   ANSWER: D  — When one thing is compared with all others in a group, use the superlative with "the": "the highest". The comparative ("the higher") compares only two things.
+
+[P11 written-expression] _A:Diamond_ _B:is_ _C:the most hard_ natural material known to _D:science_.
+   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the hardest", not "the most hard".
 
 [P11 structure] The Pacific Ocean is ____ than the Atlantic.
+   A) largest
+   B) more large
+   C) more larger
+   D) larger
+   ANSWER: D  — Short adjectives form the comparative with -er: "larger". Do not add "more" to an -er form, and a superlative ("largest") cannot be used with "than".
+
+[P11 structure] Compared with the Atlantic, the Pacific Ocean is ____.
    A) more larger
    B) more large
    C) larger
    D) largest
-   ANSWER: C  — Short adjectives form the comparative with -er: "larger". Do not add "more" to an -er form, and a superlative ("largest") cannot be used with "than".
+   ANSWER: C  — "Compared with" sets up a comparison of two things, so the comparative is needed. Short adjectives form the comparative with -er: "larger". Do not add "more" to an -er form, and a superlative ("largest") cannot be used with "than".
 
-[P11 written-expression] _A:Mercury_ _B:is_ _C:the smaller_ planet in the solar _D:system_.
-   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the smallest", not "the smaller".
+[P11 structure] Antarctica is ____ continent on Earth.
+   A) the most cold
+   B) coldest
+   C) the coldest
+   D) the colder
+   ANSWER: C  — When one thing is compared with all others in a group, use the superlative with "the": "the coldest". The comparative ("the colder") compares only two things.
 
-[P11 written-expression] Copper _A:is_ _B:most conductive_ _C:than_ _D:iron_.
-   ANSWER: B  — With "than", use the comparative form "more conductive", not "most conductive".
+[P11 written-expression] _A:Gold_ _B:is_ _C:more dense_ than _D:lead_.
+   ANSWER: C  — With "than", use the comparative form "denser", not "more dense".
 
-[P11 structure] Platinum is ____ than silver.
-   A) rarer
-   B) the rarer
-   C) more rarer
-   D) rarest
-   ANSWER: A  — Short adjectives form the comparative with -er: "rarer". Do not add "more" to an -er form, and a superlative ("rarest") cannot be used with "than".
+[P11 structure] Antarctica is ____ than the Arctic.
+   A) colder
+   B) more colder
+   C) more cold
+   D) coldest
+   ANSWER: A  — Short adjectives form the comparative with -er: "colder". Do not add "more" to an -er form, and a superlative ("coldest") cannot be used with "than".
 
-[P11 structure] Mercury is ____ planet in the solar system.
-   A) smallest
-   B) the smallest
-   C) the most small
-   D) the smaller
-   ANSWER: B  — When one thing is compared with all others in a group, use the superlative with "the": "the smallest". The comparative ("the smaller") compares only two things.
+[P11 structure] Compared with wood, steel is ____.
+   A) strongest
+   B) more strong
+   C) stronger
+   D) more stronger
+   ANSWER: C  — "Compared with" sets up a comparison of two things, so the comparative is needed. Short adjectives form the comparative with -er: "stronger". Do not add "more" to an -er form, and a superlative ("strongest") cannot be used with "than".
 
-[P11 structure] Russia is ____ country in the world by area.
-   A) the larger
-   B) the most large
-   C) largest
-   D) the largest
-   ANSWER: D  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
+[P11 written-expression] Lead _A:is_ _B:heaviest_ _C:than_ _D:aluminum_.
+   ANSWER: B  — With "than", use the comparative form "heavier", not "heaviest".
+
+[P11 written-expression] _A:Venus_ _B:is_ _C:the most hot_ planet in the solar _D:system_.
+   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the hottest", not "the most hot".
 
 [P11 structure] Copper is ____ than iron.
-   A) the more conductive
-   B) conductive more
-   C) most conductive
+   A) conductive more
+   B) most conductive
+   C) the more conductive
    D) more conductive
    ANSWER: D  — Long adjectives form the comparative with "more": "more conductive". "Most" is for superlatives, and "than" shows this is a comparison of two things.
 
-[P11 structure] The blue whale is ____ animal alive today.
-   A) the largest
-   B) the most large
-   C) the larger
-   D) largest
-   ANSWER: A  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
+[P11 structure] Oxygen is ____ element in Earth's crust.
+   A) most abundant
+   B) the abundantest
+   C) the more abundant
+   D) the most abundant
+   ANSWER: D  — When one thing is compared with all others in a group, use the superlative with "the": "the most abundant". The comparative ("the more abundant") compares only two things.
 
-[P11 written-expression] A _A:cheetah_ is _B:more faster_ _C:than_ a _D:lion_.
-   ANSWER: B  — With "than", use the comparative form "faster", not "more faster".
-
-[P11 written-expression] _A:Copper_ _B:is_ _C:most conductive_ than _D:iron_.
-   ANSWER: C  — With "than", use the comparative form "more conductive", not "most conductive".
-
-[P11 written-expression] _A:Diamonds_ _B:are_ _C:more harder_ _D:than_ glass.
-   ANSWER: C  — With "than", use the comparative form "harder", not "more harder".
-
-[P11 written-expression] The Pacific _A:Ocean_ is _B:more larger_ _C:than_ the _D:Atlantic_.
-   ANSWER: B  — With "than", use the comparative form "larger", not "more larger".
-
-[P11 written-expression] Diamonds _A:are_ _B:more harder_ _C:than_ _D:glass_.
-   ANSWER: B  — With "than", use the comparative form "harder", not "more harder".
+[P11 written-expression] _A:Diamonds_ _B:are_ _C:most expensive_ _D:than_ glass.
+   ANSWER: C  — With "than", use the comparative form "more expensive", not "most expensive".
 
 [P12 structure] Only after the storm ____ the isolated mountain village.
    A) the rescue teams reached

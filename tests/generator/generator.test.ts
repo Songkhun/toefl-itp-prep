@@ -121,7 +121,7 @@ describe('capitalization', () => {
       for (let seed = 1; seed <= 100; seed++) {
         for (const q of generate(p, 6, seed)) {
           const text = q.type === 'structure' ? q.stem.replace('____', q.options[q.answerIndex]) : q.stem.replace(/\{([0-3])\}/g, (_, i) => q.options[+i]);
-          expect(text, text).not.toMatch(/, (?!London|Asia|Monet|Germany|Spain|Venus|Mercury|Marie|Jupiter|Charles|Mount|Isaac|Saturn|Leonardo)[A-Z]/);
+          expect(text, text).not.toMatch(/, (?!London|Asia|Antarctica|Monet|Germany|Spain|Venus|Mercury|Marie|Jupiter|Charles|Mount|Isaac|Saturn|Leonardo)[A-Z]/);
         }
       }
     }

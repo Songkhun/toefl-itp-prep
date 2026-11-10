@@ -15,6 +15,15 @@ export const P10: Template[] = [
     },
   },
   {
+    patternId: P, type: 'structure',
+    build(rng) {
+      const f = choice(PARALLEL, rng);
+      const [a, , c] = f.items;
+      return structure(P, `${strip(f.lead)} ${a.ok} and ____.`, c.ok, f.lastWrong,
+        `Words joined by "and" must have the same form. "${a.ok}" is one of the ${f.kind}, so the second item must match: "${c.ok}".`, rng);
+    },
+  },
+  {
     patternId: P, type: 'written-expression',
     build(rng) {
       const f = choice(PARALLEL, rng);
