@@ -17,8 +17,9 @@ export const P12: Template[] = [
     patternId: P, type: 'written-expression',
     build(rng) {
       const f = choice(INV, rng);
-      return writtenExpression(P, `${f.lead} [!${f.bad[0]}] ${f.rest}.`,
-        `After "${f.cue}" at the start of a sentence, use question word order: "${f.ok}", not "${f.bad[0]}".`, rng);
+      const bad = choice([f.bad[0], f.bad[1]], rng);
+      return writtenExpression(P, `${f.lead} [!${bad}] ${f.rest}.`,
+        `After "${f.cue}" at the start of a sentence, use question word order: "${f.ok}", not "${bad}".`, rng);
     },
   },
 ];

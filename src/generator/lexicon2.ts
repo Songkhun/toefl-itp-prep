@@ -11,6 +11,14 @@ export const CONCESSION: ClausePair[] = [
   { clause: 'the novel was very [long]', noun: 'the great [length] of the novel', main: 'it [sold] millions of [copies]', mainFirst: 'the book [sold] millions of [copies]' },
   { clause: 'the medicine had some side [effects]', noun: 'the side [effects] of the medicine', main: 'doctors [continued] to [prescribe] it', mainFirst: 'doctors [continued] to [prescribe] the [drug]' },
   { clause: 'the river was badly [polluted]', noun: 'the heavy [pollution] in the river', main: 'some [fish] still [lived] there', mainFirst: 'some [fish] still [lived] in the [water]' },
+  { clause: 'it had little [experience]', noun: 'its lack of [experience]', main: 'the [team] won the [championship]' },
+  { clause: 'the tickets were very [expensive]', noun: 'the high [price] of the tickets', main: 'the [concert] sold out in [minutes]' },
+  { clause: 'the road was very [narrow]', noun: 'the narrow [road]', main: 'large [trucks] passed through the [village] every day' },
+  { clause: 'the instructions were [unclear]', noun: 'the unclear [instructions]', main: 'most [students] completed the [task]' },
+  { clause: 'the village is very [remote]', noun: 'the remoteness of the [village]', main: 'thousands of [tourists] visit the [area] every year' },
+  { clause: 'it was [small]', noun: 'its small [size]', main: 'the [company] competed with much larger [rivals]' },
+  { clause: 'it received poor [reviews]', noun: 'its poor [reviews]', main: 'the [film] earned millions at the box [office]' },
+  { clause: 'the area receives little [rain]', noun: 'the lack of [rain]', main: 'farmers grow [wheat] in the [region]' },
 ];
 export const CAUSE: ClausePair[] = [
   { clause: 'the roads were [icy]', noun: 'the icy [roads]', main: 'the [schools] closed [early]' },
@@ -18,6 +26,14 @@ export const CAUSE: ClausePair[] = [
   { clause: 'the bridge was [damaged]', noun: 'the [damage] to the bridge', main: 'traffic was [delayed] for [hours]' },
   { clause: 'the museum was very [crowded]', noun: 'the large [crowds] in the museum', main: 'many [visitors] left [early]' },
   { clause: 'the soil is [rich]', noun: 'the rich [soil]', main: 'farmers [grow] many [crops] there' },
+  { clause: 'the fog was [thick]', noun: 'the thick [fog]', main: 'all [flights] were [canceled]' },
+  { clause: 'the [factory] closed', noun: 'the [closure] of the factory', main: 'hundreds of [workers] lost their [jobs]' },
+  { clause: 'the river [flooded]', noun: 'the [flood]', main: 'many [families] left their [homes]' },
+  { clause: 'fuel prices [increased]', noun: 'the [increase] in fuel prices', main: 'airlines [raised] their [fares]' },
+  { clause: 'the speaker was [ill]', noun: "the speaker's [illness]", main: 'the [lecture] was [postponed]' },
+  { clause: 'the vaccine was [effective]', noun: 'the [effectiveness] of the vaccine', main: 'the [disease] became [rare]' },
+  { clause: 'the water was [contaminated]', noun: 'the [contamination] of the water', main: 'the [beach] was [closed]' },
+  { clause: 'there was a long [drought]', noun: 'the long [drought]', main: 'crop [yields] fell [dramatically]' },
 ];
 export interface SoThat { subj: string; be: string; adj: string; result: string }
 export const SO_THAT: SoThat[] = [
@@ -25,6 +41,13 @@ export const SO_THAT: SoThat[] = [
   { subj: 'The [storm]', be: 'was', adj: 'strong', result: 'many trees were [uprooted]' },
   { subj: 'The [instructions]', be: 'were', adj: 'confusing', result: 'nobody could [follow] them' },
   { subj: 'The [exam]', be: 'was', adj: 'difficult', result: 'few candidates [finished] it' },
+  { subj: 'The [coffee]', be: 'was', adj: 'hot', result: 'nobody could [drink] it' },
+  { subj: 'The [mountain]', be: 'is', adj: 'steep', result: 'only experienced climbers [attempt] it' },
+  { subj: 'The [music]', be: 'was', adj: 'loud', result: 'the neighbors [complained]' },
+  { subj: 'The [lake]', be: 'was', adj: 'clear', result: 'the bottom was easy to [see]' },
+  { subj: 'The [movie]', be: 'was', adj: 'popular', result: 'the theater added extra [shows]' },
+  { subj: 'The [questions]', be: 'were', adj: 'easy', result: 'most students [finished] early' },
+  { subj: 'The [road]', be: 'was', adj: 'icy', result: 'several cars [slid] off it' },
 ];
 
 /** Participle phrases. pp = the passive form, ing = the active form. */
@@ -95,6 +118,19 @@ export const APPOS: Appos[] = [
   
   { head: 'The [Sahara]', app: 'the largest hot desert in the [world]', be: 'is', main: '[covers] much of North [Africa]', rel: 'which' },
   { head: 'Mount [Everest]', app: 'the highest mountain above sea [level]', be: 'is', main: '[lies] on the border between Nepal and [China]', rel: 'which' },
+  { head: 'Albert [Einstein]', app: 'a German-born [physicist]', be: 'was', main: '[developed] the theory of [relativity]', rel: 'who' },
+  { head: 'William [Shakespeare]', app: 'an English [playwright]', be: 'was', main: '[wrote] Romeo and [Juliet]', rel: 'who' },
+  { head: 'The [Pacific]', app: 'the largest ocean on [Earth]', be: 'is', main: '[covers] about a third of the planet\'s [surface]', rel: 'which' },
+  { head: '[Mars]', app: 'the fourth planet from the [Sun]', be: 'is', main: '[looks] red because of iron [oxide]', rel: 'which' },
+  { head: 'Thomas [Edison]', app: 'an American [inventor]', be: 'was', main: '[developed] a practical electric light [bulb]', rel: 'who' },
+  { head: 'Wolfgang Amadeus [Mozart]', app: 'an Austrian [composer]', be: 'was', main: '[wrote] his first symphony as a [child]', rel: 'who' },
+  { head: '[Venus]', app: 'the hottest planet in the solar [system]', be: 'is', main: '[has] a thick atmosphere of carbon [dioxide]', rel: 'which' },
+  { head: 'The Great [Wall]', app: 'a series of ancient [fortifications]', be: 'is', main: '[stretches] across northern [China]', rel: 'which' },
+  { head: 'The African [elephant]', app: 'the largest land [animal]', be: 'is', main: 'can [weigh] more than six [tonnes]', rel: 'which' },
+  { head: 'Frida [Kahlo]', app: 'a Mexican [painter]', be: 'was', main: '[painted] many [self-portraits]', rel: 'who' },
+  { head: '[Tokyo]', app: 'the capital of [Japan]', be: 'is', main: '[has] one of the largest urban populations in the [world]', rel: 'which' },
+  { head: 'Nelson [Mandela]', app: 'a South African [leader]', be: 'was', main: '[became] president of South Africa in [1994]', rel: 'who' },
+  { head: 'The [Danube]', app: 'the second-longest river in [Europe]', be: 'is', main: '[flows] through ten [countries]', rel: 'which' },
 ];
 
 /** Parallel lists of three. items[i].bad is a non-parallel form of items[i].ok. */
@@ -192,4 +228,17 @@ export const INV: Inv[] = [
   { lead: '[Little]', cue: 'Little', ok: 'did the early settlers know', bad: ['the early settlers knew', 'the early settlers did know', 'knew the early settlers'], rest: '[about] the [harsh] [winters]' },
   { lead: 'So [rare]', cue: 'So rare', ok: 'is this orchid', bad: ['this orchid is', 'is it this orchid', 'this orchid'], rest: 'that few [botanists] have [seen] it in the [wild]' },
   { lead: '[Rarely]', cue: 'Rarely', ok: 'is the summit visible', bad: ['the summit is visible', 'the summit visible is', 'visible the summit is'], rest: '[through] the [thick] [clouds]' },
+  { lead: '[Rarely]', cue: 'Rarely', ok: 'do comets become', bad: ['comets become', 'comets do become', 'become comets'], rest: '[visible] to the naked [eye]' },
+  { lead: 'Not [once]', cue: 'Not once', ok: 'did the team lose', bad: ['the team lost', 'the team did lose', 'lost the team'], rest: 'a [game] during the [season]' },
+  { lead: 'Only [recently]', cue: 'Only recently', ok: 'have researchers identified', bad: ['researchers have identified', 'researchers identified', 'identified researchers have'], rest: 'the [cause] of the [disease]' },
+  { lead: 'No [sooner]', cue: 'No sooner', ok: 'had the concert started', bad: ['the concert had started', 'the concert started', 'started the concert had'], rest: '[than] the [power] went [out]' },
+  { lead: 'Not until [1969]', cue: 'Not until', ok: 'did astronauts walk', bad: ['astronauts walked', 'astronauts did walk', 'walked astronauts'], rest: '[on] the [Moon]' },
+  { lead: 'Only by working [together]', cue: 'Only by', ok: 'can the countries solve', bad: ['the countries can solve', 'the countries solve', 'solve the countries can'], rest: '[this] [global] [problem]' },
+  { lead: '[Hardly]', cue: 'Hardly', ok: 'had the guests arrived', bad: ['the guests had arrived', 'the guests arrived', 'arrived the guests had'], rest: '[when] it [began] to [rain]' },
+  { lead: 'Never [again]', cue: 'Never again', ok: 'will the company use', bad: ['the company will use', 'the company uses', 'use the company will'], rest: '[such] [cheap] [materials]' },
+  { lead: 'In no [way]', cue: 'In no way', ok: 'does the new rule affect', bad: ['the new rule affects', 'the new rule does affect', 'affects the new rule'], rest: '[current] [employees]' },
+  { lead: 'So [loud]', cue: 'So loud', ok: 'was the music', bad: ['the music was', 'was it the music', 'the music'], rest: 'that the [neighbors] [complained]' },
+  { lead: '[Seldom]', cue: 'Seldom', ok: 'does the desert receive', bad: ['the desert receives', 'the desert does receive', 'receives the desert'], rest: '[more] than a few centimeters of [rain]' },
+  { lead: 'Only [then]', cue: 'Only then', ok: 'did the scientists realize', bad: ['the scientists realized', 'the scientists did realize', 'realized the scientists'], rest: '[their] [mistake]' },
+  { lead: '[Little]', cue: 'Little', ok: 'did the young author expect', bad: ['the young author expected', 'the young author did expect', 'expected the young author'], rest: '[that] her book would become a [bestseller]' },
 ];

@@ -614,125 +614,137 @@
    D) the earliest farmers living
    ANSWER: C  — Inside a noun clause, use statement word order (subject + verb): "where the earliest farmers lived". Question order, inverted order, and -ing or "to" forms are all wrong here.
 
-[P07 structure] ____ the medicine had some side effects, doctors continued to prescribe it.
+[P07 structure] ____ the village is very remote, thousands of tourists visit the area every year.
    A) Despite
    B) Although
    C) In spite of
    D) Because of
-   ANSWER: B  — The blank is followed by a full clause (subject + verb: "the medicine had some side effects"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
+   ANSWER: B  — The blank is followed by a full clause (subject + verb: "the village is very remote"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
 
-[P07 structure] ____ the extremely cold weather, the hikers reached the summit.
+[P07 structure] ____ the high cost of the experiment, the university continued to fund it.
    A) Although
    B) Because
    C) Even though
    D) Despite
-   ANSWER: D  — The blank is followed by a noun phrase ("the extremely cold weather"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
+   ANSWER: D  — The blank is followed by a noun phrase ("the high cost of the experiment"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
 
-[P07 structure] ____ the icy roads, the schools closed early.
+[P07 structure] ____ the poor harvest, food prices rose sharply.
    A) Although
    B) Because
    C) Because of
    D) Since
-   ANSWER: C  — "the icy roads" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
+   ANSWER: C  — "the poor harvest" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
 
-[P07 structure] ____ the bridge was damaged, traffic was delayed for hours.
+[P07 structure] ____ the river flooded, many families left their homes.
    A) Due to
    B) Because
    C) Despite
    D) Because of
-   ANSWER: B  — The blank is followed by a full clause ("the bridge was damaged"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.
-
-[P07 structure] The lecture was ____ that several students fell asleep.
-   A) so long
-   B) such long
-   C) too long
-   D) very long
-   ANSWER: A  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
-
-[P07 written-expression] Some _A:fish_ still lived in the _B:water_ _C:despite_ the river was badly _D:polluted_.
-   ANSWER: C  — "Despite" is a preposition and cannot introduce the clause "the river was badly polluted". Use the conjunction "although".
-
-[P07 structure] ____ the experiment was very expensive, the university continued to fund it.
-   A) In spite of
-   B) Because of
-   C) Despite
-   D) Although
-   ANSWER: D  — The blank is followed by a full clause (subject + verb: "the experiment was very expensive"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
-
-[P07 structure] ____ the museum was very crowded, many visitors left early.
-   A) Because of
-   B) Due to
-   C) Despite
-   D) Because
-   ANSWER: D  — The blank is followed by a full clause ("the museum was very crowded"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.
-
-[P07 structure] The exam was ____ that few candidates finished it.
-   A) such difficult
-   B) very difficult
-   C) too difficult
-   D) so difficult
-   ANSWER: D  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
-
-[P07 written-expression] The book _A:sold_ millions of _B:copies_ _C:despite_ the novel was very _D:long_.
-   ANSWER: C  — "Despite" is a preposition and cannot introduce the clause "the novel was very long". Use the conjunction "although".
-
-[P07 structure] ____ the heavy pollution in the river, some fish still lived there.
-   A) Because
-   B) Despite
-   C) Although
-   D) Even though
-   ANSWER: B  — The blank is followed by a noun phrase ("the heavy pollution in the river"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
-
-[P07 structure] ____ the rich soil, farmers grow many crops there.
-   A) Because
-   B) Because of
-   C) Although
-   D) Since
-   ANSWER: B  — "the rich soil" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
-
-[P07 structure] The instructions were ____ that nobody could follow them.
-   A) such confusing
-   B) very confusing
-   C) too confusing
-   D) so confusing
-   ANSWER: D  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
+   ANSWER: B  — The blank is followed by a full clause ("the river flooded"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.
 
 [P07 structure] The storm was ____ that many trees were uprooted.
-   A) too strong
+   A) so strong
    B) such strong
-   C) so strong
+   C) too strong
    D) very strong
-   ANSWER: C  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
+   ANSWER: A  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
 
-[P07 written-expression] Food _A:prices_ rose _B:sharply_ _C:because_ the poor _D:harvest_.
-   ANSWER: C  — "the poor harvest" is a noun phrase, so "because of" is needed, not the conjunction "because".
+[P07 structure] Farmers grow wheat in the region ____ the lack of rain.
+   A) even though
+   B) although
+   C) despite
+   D) because
+   ANSWER: C  — "the lack of rain" is a noun phrase, not a clause, so the preposition "despite" is needed. "Although" and "even though" need a subject and verb after them, and "because" shows cause, not contrast.
 
-[P07 structure] ____ the high cost of the experiment, the university continued to fund it.
+[P07 structure] Traffic was delayed for hours ____ the damage to the bridge.
+   A) because of
+   B) although
+   C) because
+   D) since
+   ANSWER: A  — "the damage to the bridge" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" need a full clause, and "although" shows contrast, not cause.
+
+[P07 written-expression] Airlines _A:raised_ their _B:fares_ _C:because_ the _D:increase_ in fuel prices.
+   ANSWER: C  — "the increase in fuel prices" is a noun phrase, so "because of" is needed, not the conjunction "because".
+
+[P07 structure] ____ the weather was extremely cold, the hikers reached the summit.
+   A) Although
+   B) Despite
+   C) Because of
+   D) In spite of
+   ANSWER: A  — The blank is followed by a full clause (subject + verb: "the weather was extremely cold"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
+
+[P07 structure] ____ the remoteness of the village, thousands of tourists visit the area every year.
    A) Although
    B) Even though
    C) Because
    D) Despite
-   ANSWER: D  — The blank is followed by a noun phrase ("the high cost of the experiment"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
+   ANSWER: D  — The blank is followed by a noun phrase ("the remoteness of the village"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
+
+[P07 structure] ____ the effectiveness of the vaccine, the disease became rare.
+   A) Because
+   B) Although
+   C) Since
+   D) Because of
+   ANSWER: D  — "the effectiveness of the vaccine" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
+
+[P07 structure] ____ the factory closed, hundreds of workers lost their jobs.
+   A) Despite
+   B) Because
+   C) Because of
+   D) Due to
+   ANSWER: B  — The blank is followed by a full clause ("the factory closed"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.
+
+[P07 structure] The movie was ____ that the theater added extra shows.
+   A) so popular
+   B) too popular
+   C) very popular
+   D) such popular
+   ANSWER: A  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
+
+[P07 structure] The team won the championship ____ its lack of experience.
+   A) even though
+   B) although
+   C) because
+   D) despite
+   ANSWER: D  — "its lack of experience" is a noun phrase, not a clause, so the preposition "despite" is needed. "Although" and "even though" need a subject and verb after them, and "because" shows cause, not contrast.
+
+[P07 written-expression] The _A:team_ won the _B:championship_ _C:despite_ it had little _D:experience_.
+   ANSWER: C  — "Despite" is a preposition and cannot introduce the clause "it had little experience". Use the conjunction "although".
+
+[P07 structure] ____ it received poor reviews, the film earned millions at the box office.
+   A) Because of
+   B) Despite
+   C) Although
+   D) In spite of
+   ANSWER: C  — The blank is followed by a full clause (subject + verb: "it received poor reviews"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
 
 [P07 structure] ____ the great length of the novel, it sold millions of copies.
-   A) Although
-   B) Despite
-   C) Because
-   D) Even though
-   ANSWER: B  — The blank is followed by a noun phrase ("the great length of the novel"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
+   A) Even though
+   B) Because
+   C) Despite
+   D) Although
+   ANSWER: C  — The blank is followed by a noun phrase ("the great length of the novel"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
 
-[P07 written-expression] _A:Despite_ the medicine had some side _B:effects_, doctors _C:continued_ to _D:prescribe_ it.
-   ANSWER: A  — "Despite" is a preposition and cannot introduce the clause "the medicine had some side effects". Use the conjunction "although".
-
-[P07 written-expression] _A:Because_ the _B:damage_ to the bridge, traffic was _C:delayed_ for _D:hours_.
-   ANSWER: A  — "the damage to the bridge" is a noun phrase, so "because of" is needed, not the conjunction "because".
-
-[P07 structure] ____ the large crowds in the museum, many visitors left early.
+[P07 structure] ____ the long drought, crop yields fell dramatically.
    A) Although
    B) Because of
-   C) Because
-   D) Since
-   ANSWER: B  — "the large crowds in the museum" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
+   C) Since
+   D) Because
+   ANSWER: B  — "the long drought" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
+
+[P07 structure] The mountain is ____ that only experienced climbers attempt it.
+   A) so steep
+   B) very steep
+   C) too steep
+   D) such steep
+   ANSWER: A  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
+
+[P07 structure] Farmers grow many crops there ____ the rich soil.
+   A) because of
+   B) since
+   C) because
+   D) although
+   ANSWER: A  — "the rich soil" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" need a full clause, and "although" shows contrast, not cause.
 
 [P08 structure] ____ from recycled plastic, the bags are strong and cheap.
    A) Making
@@ -842,113 +854,105 @@
    D) Known
    ANSWER: D  — The region received the action, so the opening phrase uses the past participle "Known". "Knowing" and "Having known" are active forms, and "It was known…" would create a second main clause without a conjunction.
 
-[P09 structure] Leonardo da Vinci, ____, painted the Mona Lisa.
-   A) was an Italian painter and inventor
-   B) an Italian painter and inventor
-   C) which an Italian painter and inventor
-   D) it was an Italian painter and inventor
-   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "Leonardo da Vinci". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
-
-[P09 structure] ____, Jupiter has dozens of moons.
-   A) Is the largest planet in the solar system
-   B) Because the largest planet in the solar system
-   C) It is the largest planet in the solar system
-   D) The largest planet in the solar system
-   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Jupiter". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
-
-[P09 written-expression] Isaac Newton, _A:was_ an English _B:mathematician_, described the laws of _C:motion_ and _D:gravity_.
-   ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "was"; the sentence's main verb comes after the second comma.
-
-[P09 structure] Marie Curie, ____, won two Nobel Prizes.
-   A) a physicist and chemist
-   B) was a physicist and chemist
-   C) which a physicist and chemist
-   D) it was a physicist and chemist
-   ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "Marie Curie". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
-
-[P09 structure] ____, Mount Everest lies on the border between Nepal and China.
-   A) It is the highest mountain above sea level
-   B) Is the highest mountain above sea level
-   C) The highest mountain above sea level
-   D) Because the highest mountain above sea level
-   ANSWER: C  — An appositive noun phrase can open the sentence and rename the subject "Mount Everest". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
-
-[P09 structure] The Nile, ____, flows north into the Mediterranean Sea.
-   A) is one of the longest rivers in the world
-   B) one of the longest rivers in the world
-   C) it is one of the longest rivers in the world
-   D) which one of the longest rivers in the world
-   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "The Nile". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
-
-[P09 structure] ____, the cheetah can reach about 100 kilometers per hour.
-   A) Because the fastest land animal
-   B) It is the fastest land animal
-   C) Is the fastest land animal
-   D) The fastest land animal
-   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "The cheetah". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
+[P09 structure] Venus, ____, has a thick atmosphere of carbon dioxide.
+   A) is the hottest planet in the solar system
+   B) the hottest planet in the solar system
+   C) which the hottest planet in the solar system
+   D) it is the hottest planet in the solar system
+   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "Venus". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
 
 [P09 structure] ____, Charles Darwin published his theory of evolution in 1859.
    A) Was an English naturalist
    B) Because an English naturalist
-   C) An English naturalist
-   D) It was an English naturalist
-   ANSWER: C  — An appositive noun phrase can open the sentence and rename the subject "Charles Darwin". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
+   C) It was an English naturalist
+   D) An English naturalist
+   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Charles Darwin". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
 
-[P09 written-expression] The Sahara, _A:which_ the largest hot desert in the _B:world_, _C:covers_ much of North _D:Africa_.
-   ANSWER: A  — "the largest hot desert in the world" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
-
-[P09 written-expression] Saturn, _A:is_ the sixth planet from the _B:Sun_, is _C:famous_ for its _D:rings_.
+[P09 written-expression] The Pacific, _A:is_ the largest ocean on _B:Earth_, _C:covers_ about a third of the planet's _D:surface_.
    ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
 
-[P09 structure] The cheetah, ____, can reach about 100 kilometers per hour.
-   A) the fastest land animal
-   B) which the fastest land animal
-   C) is the fastest land animal
-   D) it is the fastest land animal
-   ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "The cheetah". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
+[P09 structure] ____, the Danube flows through ten countries.
+   A) It is the second-longest river in Europe
+   B) Is the second-longest river in Europe
+   C) The second-longest river in Europe
+   D) Because the second-longest river in Europe
+   ANSWER: C  — An appositive noun phrase can open the sentence and rename the subject "The Danube". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
 
-[P09 written-expression] Mount _A:Everest_, _B:which_ the highest mountain above sea level, _C:lies_ on the border between Nepal and _D:China_.
-   ANSWER: B  — "the highest mountain above sea level" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
+[P09 written-expression] The _A:cheetah_, _B:which_ the fastest land _C:animal_, can reach about 100 kilometers per _D:hour_.
+   ANSWER: B  — "the fastest land animal" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
 
-[P09 written-expression] Mount Everest, _A:is_ the highest mountain above sea _B:level_, _C:lies_ on the border between Nepal and _D:China_.
-   ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
+[P09 structure] Leonardo da Vinci, ____, painted the Mona Lisa.
+   A) was an Italian painter and inventor
+   B) an Italian painter and inventor
+   C) it was an Italian painter and inventor
+   D) which an Italian painter and inventor
+   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "Leonardo da Vinci". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
 
-[P09 structure] ____, Isaac Newton described the laws of motion and gravity.
-   A) Because an English mathematician
-   B) Was an English mathematician
-   C) An English mathematician
-   D) It was an English mathematician
-   ANSWER: C  — An appositive noun phrase can open the sentence and rename the subject "Isaac Newton". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
+[P09 structure] ____, Mount Everest lies on the border between Nepal and China.
+   A) Because the highest mountain above sea level
+   B) It is the highest mountain above sea level
+   C) Is the highest mountain above sea level
+   D) The highest mountain above sea level
+   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Mount Everest". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
 
-[P09 written-expression] Mount _A:Everest_, _B:which_ the highest mountain above sea _C:level_, _D:lies_ on the border between Nepal and China.
-   ANSWER: B  — "the highest mountain above sea level" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
-
-[P09 written-expression] _A:Saturn_, _B:is_ the sixth planet from the _C:Sun_, is _D:famous_ for its rings.
+[P09 written-expression] _A:Saturn_, _B:is_ the sixth planet from the Sun, is _C:famous_ for its _D:rings_.
    ANSWER: B  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
 
-[P09 structure] Charles Darwin, ____, published his theory of evolution in 1859.
-   A) an English naturalist
-   B) which an English naturalist
-   C) it was an English naturalist
-   D) was an English naturalist
-   ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "Charles Darwin". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
+[P09 structure] The Nile, ____, flows north into the Mediterranean Sea.
+   A) one of the longest rivers in the world
+   B) it is one of the longest rivers in the world
+   C) is one of the longest rivers in the world
+   D) which one of the longest rivers in the world
+   ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "The Nile". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
 
-[P09 structure] ____, the Nile flows north into the Mediterranean Sea.
-   A) Because one of the longest rivers in the world
-   B) One of the longest rivers in the world
-   C) Is one of the longest rivers in the world
-   D) It is one of the longest rivers in the world
-   ANSWER: B  — An appositive noun phrase can open the sentence and rename the subject "The Nile". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
+[P09 written-expression] Frida Kahlo, _A:which_ a Mexican _B:painter_, _C:painted_ many _D:self-portraits_.
+   ANSWER: A  — "a Mexican painter" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "who was". ("Which" also cannot refer to a person.)
 
-[P09 written-expression] Isaac _A:Newton_, _B:which_ an English _C:mathematician_, described the laws of _D:motion_ and gravity.
-   ANSWER: B  — "an English mathematician" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "who was". ("Which" also cannot refer to a person.)
+[P09 written-expression] Wolfgang Amadeus Mozart, _A:was_ an Austrian _B:composer_, _C:wrote_ his first symphony as a _D:child_.
+   ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "was"; the sentence's main verb comes after the second comma.
 
-[P09 structure] ____, Marie Curie won two Nobel Prizes.
-   A) It was a physicist and chemist
-   B) Was a physicist and chemist
-   C) Because a physicist and chemist
-   D) A physicist and chemist
-   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Marie Curie". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
+[P09 structure] ____, the African elephant can weigh more than six tonnes.
+   A) Because the largest land animal
+   B) Is the largest land animal
+   C) It is the largest land animal
+   D) The largest land animal
+   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "The African elephant". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
+
+[P09 structure] ____, Isaac Newton described the laws of motion and gravity.
+   A) It was an English mathematician
+   B) Was an English mathematician
+   C) Because an English mathematician
+   D) An English mathematician
+   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Isaac Newton". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
+
+[P09 written-expression] Nelson _A:Mandela_, _B:which_ a South African _C:leader_, became president of South Africa in _D:1994_.
+   ANSWER: B  — "a South African leader" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "who was". ("Which" also cannot refer to a person.)
+
+[P09 written-expression] The Great Wall, _A:is_ a series of ancient _B:fortifications_, _C:stretches_ across northern _D:China_.
+   ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
+
+[P09 written-expression] Albert _A:Einstein_, _B:which_ a German-born physicist, _C:developed_ the theory of _D:relativity_.
+   ANSWER: B  — "a German-born physicist" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "who was". ("Which" also cannot refer to a person.)
+
+[P09 structure] ____, Jupiter has dozens of moons.
+   A) Because the largest planet in the solar system
+   B) The largest planet in the solar system
+   C) It is the largest planet in the solar system
+   D) Is the largest planet in the solar system
+   ANSWER: B  — An appositive noun phrase can open the sentence and rename the subject "Jupiter". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
+
+[P09 written-expression] The _A:Sahara_, _B:which_ the largest hot desert in the _C:world_, covers much of North _D:Africa_.
+   ANSWER: B  — "the largest hot desert in the world" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
+
+[P09 structure] William Shakespeare, ____, wrote Romeo and Juliet.
+   A) which an English playwright
+   B) an English playwright
+   C) was an English playwright
+   D) it was an English playwright
+   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "William Shakespeare". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
+
+[P09 written-expression] Thomas _A:Edison_, _B:which_ an American _C:inventor_, developed a practical electric light _D:bulb_.
+   ANSWER: B  — "an American inventor" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "who was". ("Which" also cannot refer to a person.)
 
 [P10 structure] The engineers worked quickly, efficiently, and ____.
    A) safe
@@ -1182,105 +1186,105 @@
 [P11 written-expression] _A:Diamonds_ _B:are_ _C:most expensive_ _D:than_ glass.
    ANSWER: C  — With "than", use the comparative form "more expensive", not "most expensive".
 
-[P12 structure] Only after the storm ____ the isolated mountain village.
-   A) the rescue teams reached
-   B) did the rescue teams reach
-   C) the rescue teams did reach
-   D) reached the rescue teams
-   ANSWER: B  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only after", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did the rescue teams reach".
+[P12 structure] Only by working together ____ this global problem.
+   A) the countries can solve
+   B) can the countries solve
+   C) the countries solve
+   D) solve the countries can
+   ANSWER: B  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only by", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "can the countries solve".
 
-[P12 written-expression] Seldom _A:wild bears attack_ _B:people_ _C:unless_ the bears feel _D:threatened_.
-   ANSWER: A  — After "Seldom" at the start of a sentence, use question word order: "do wild bears attack", not "wild bears attack".
+[P12 written-expression] Never _A:before_ _B:the city had seen_ _C:such_ a large _D:crowd_.
+   ANSWER: B  — After "Never before" at the start of a sentence, use question word order: "had the city seen", not "the city had seen".
+
+[P12 structure] Not once ____ a game during the season.
+   A) did the team lose
+   B) lost the team
+   C) the team did lose
+   D) the team lost
+   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not once", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did the team lose".
 
 [P12 written-expression] Under no circumstances _A:visitors should feed_ the _B:wild_ _C:animals_ in the _D:park_.
    ANSWER: A  — After "Under no circumstances" at the start of a sentence, use question word order: "should visitors feed", not "visitors should feed".
 
-[P12 written-expression] _A:Rarely_ _B:the summit is visible_ through the _C:thick_ _D:clouds_.
-   ANSWER: B  — After "Rarely" at the start of a sentence, use question word order: "is the summit visible", not "the summit is visible".
+[P12 structure] So loud ____ that the neighbors complained.
+   A) was the music
+   B) the music was
+   C) the music
+   D) was it the music
+   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "So loud", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "was the music".
 
-[P12 structure] Never before ____ such a large crowd.
-   A) had the city seen
-   B) saw the city
-   C) the city had seen
-   D) the city saw
-   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Never before", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "had the city seen".
+[P12 written-expression] Hardly ever _A:large comets do pass_ _B:this_ _C:close_ to _D:Earth_.
+   ANSWER: A  — After "Hardly ever" at the start of a sentence, use question word order: "do large comets pass", not "large comets do pass".
 
-[P12 structure] Only in recent decades ____ to fully understand how sleep affects memory.
-   A) scientists have begun
-   B) have scientists begun
-   C) begun scientists have
-   D) scientists began
-   ANSWER: B  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only in recent decades", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "have scientists begun".
+[P12 structure] Seldom ____ more than a few centimeters of rain.
+   A) the desert receives
+   B) the desert does receive
+   C) does the desert receive
+   D) receives the desert
+   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Seldom", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does the desert receive".
 
-[P12 written-expression] Hardly ever _A:large comets pass_ _B:this_ _C:close_ to _D:Earth_.
-   ANSWER: A  — After "Hardly ever" at the start of a sentence, use question word order: "do large comets pass", not "large comets pass".
+[P12 structure] Rarely ____ through the thick clouds.
+   A) the summit visible is
+   B) visible the summit is
+   C) is the summit visible
+   D) the summit is visible
+   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Rarely", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "is the summit visible".
 
-[P12 structure] So rare ____ that few botanists have seen it in the wild.
-   A) this orchid
-   B) is it this orchid
-   C) is this orchid
-   D) this orchid is
-   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "So rare", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "is this orchid".
+[P12 written-expression] Only _A:then_ _B:the scientists did realize_ _C:their_ _D:mistake_.
+   ANSWER: B  — After "Only then" at the start of a sentence, use question word order: "did the scientists realize", not "the scientists did realize".
+
+[P12 written-expression] _A:Hardly_ _B:the guests had arrived_ _C:when_ it began to _D:rain_.
+   ANSWER: B  — After "Hardly" at the start of a sentence, use question word order: "had the guests arrived", not "the guests had arrived".
 
 [P12 structure] Not until the 1960s ____ into outer space.
-   A) did humans travel
+   A) humans traveled
    B) traveled humans
-   C) humans did travel
-   D) humans traveled
-   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not until", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did humans travel".
+   C) did humans travel
+   D) humans did travel
+   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not until", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did humans travel".
 
-[P12 written-expression] Little _A:the early settlers knew_ _B:about_ the _C:harsh_ _D:winters_.
-   ANSWER: A  — After "Little" at the start of a sentence, use question word order: "did the early settlers know", not "the early settlers knew".
+[P12 structure] Not until 1969 ____ on the Moon.
+   A) walked astronauts
+   B) astronauts walked
+   C) astronauts did walk
+   D) did astronauts walk
+   ANSWER: D  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not until", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did astronauts walk".
 
-[P12 written-expression] Rarely _A:it snows_ _B:in_ the _C:Sahara_ _D:Desert_.
-   ANSWER: A  — After "Rarely" at the start of a sentence, use question word order: "does it snow", not "it snows".
+[P12 structure] In no way ____ current employees.
+   A) affects the new rule
+   B) the new rule affects
+   C) the new rule does affect
+   D) does the new rule affect
+   ANSWER: D  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "In no way", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does the new rule affect".
+
+[P12 written-expression] _A:Little_ _B:the young author did expect_ _C:that_ her book would become a _D:bestseller_.
+   ANSWER: B  — After "Little" at the start of a sentence, use question word order: "did the young author expect", not "the young author did expect".
 
 [P12 structure] Not only ____ food, but it also prevents soil erosion.
    A) does the plant provide
-   B) provides the plant
-   C) the plant provides
-   D) the plant does provide
+   B) the plant does provide
+   C) provides the plant
+   D) the plant provides
    ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not only", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does the plant provide".
 
-[P12 structure] Rarely ____ in the Sahara Desert.
-   A) it snows
-   B) it does snow
-   C) does it snow
-   D) snows it
-   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Rarely", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does it snow".
+[P12 written-expression] _A:Little_ _B:the early settlers did know_ _C:about_ the _D:harsh_ winters.
+   ANSWER: B  — After "Little" at the start of a sentence, use question word order: "did the early settlers know", not "the early settlers did know".
 
-[P12 structure] Hardly ever ____ this close to Earth.
-   A) do large comets pass
-   B) large comets do pass
-   C) large comets pass
-   D) pass large comets
-   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Hardly ever", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "do large comets pass".
+[P12 structure] Only after the storm ____ the isolated mountain village.
+   A) the rescue teams did reach
+   B) the rescue teams reached
+   C) did the rescue teams reach
+   D) reached the rescue teams
+   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only after", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did the rescue teams reach".
 
-[P12 written-expression] Only in recent _A:decades_ _B:scientists have begun_ to _C:fully_ _D:understand_ how sleep affects memory.
-   ANSWER: B  — After "Only in recent decades" at the start of a sentence, use question word order: "have scientists begun", not "scientists have begun".
+[P12 written-expression] So rare _A:this orchid is_ that few _B:botanists_ have _C:seen_ it in the _D:wild_.
+   ANSWER: A  — After "So rare" at the start of a sentence, use question word order: "is this orchid", not "this orchid is".
 
-[P12 structure] Rarely ____ through the thick clouds.
-   A) the summit is visible
-   B) visible the summit is
-   C) is the summit visible
-   D) the summit visible is
-   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Rarely", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "is the summit visible".
+[P12 written-expression] Only in recent decades _A:scientists began_ to _B:fully_ _C:understand_ how sleep affects _D:memory_.
+   ANSWER: A  — After "Only in recent decades" at the start of a sentence, use question word order: "have scientists begun", not "scientists began".
 
-[P12 written-expression] Under no _A:circumstances_ _B:visitors should feed_ the wild _C:animals_ in the _D:park_.
-   ANSWER: B  — After "Under no circumstances" at the start of a sentence, use question word order: "should visitors feed", not "visitors should feed".
-
-[P12 written-expression] Not until the _A:1960s_ _B:humans traveled_ _C:into_ _D:outer_ space.
-   ANSWER: B  — After "Not until" at the start of a sentence, use question word order: "did humans travel", not "humans traveled".
-
-[P12 written-expression] Only in recent _A:decades_ _B:scientists have begun_ to _C:fully_ understand how sleep affects _D:memory_.
-   ANSWER: B  — After "Only in recent decades" at the start of a sentence, use question word order: "have scientists begun", not "scientists have begun".
-
-[P12 structure] Under no circumstances ____ the wild animals in the park.
-   A) should visitors feed
-   B) visitors should feed
-   C) visitors feed
-   D) feed visitors should
-   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Under no circumstances", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "should visitors feed".
+[P12 written-expression] Never again _A:the company uses_ _B:such_ _C:cheap_ _D:materials_.
+   ANSWER: A  — After "Never again" at the start of a sentence, use question word order: "will the company use", not "the company uses".
 
 [P13 structure] If the gallery opened on weekends, more families ____ its exhibits.
    A) would visited
