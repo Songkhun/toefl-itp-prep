@@ -29,10 +29,11 @@ describe('buildMorningDrill', () => {
     expect(qs.filter((q) => q.source === 'drill')).toHaveLength(5);
     expect(qs.filter((q) => q.source === 'generated')).toHaveLength(10);
   });
-  it('a no-generator pattern gets drill items only', () => {
+  it('P18 (formerly bank-only) now mixes 5 drill items with 10 generated ones', () => {
     const qs = buildMorningDrill('P18', 1, fixture);
     expect(qs).toHaveLength(15);
-    expect(qs.every((q) => q.source === 'drill')).toBe(true);
+    expect(qs.filter((q) => q.source === 'drill')).toHaveLength(5);
+    expect(qs.filter((q) => q.source === 'generated')).toHaveLength(10);
   });
   it('tops up with generated items when the drill pool is empty', () => {
     expect(buildMorningDrill('P02', 1, fixture)).toHaveLength(15);
@@ -81,8 +82,10 @@ describe('buildNewSet', () => {
     expect(qs).toHaveLength(15);
     expect(qs.every((q) => q.source === 'generated' && q.patternId === 'P03')).toBe(true);
   });
-  it('shuffled drill items for a no-generator pattern', () => {
-    expect(buildNewSet('P18', [], 4, fixture).every((q) => q.source === 'drill')).toBe(true);
+  it('P18 new sets are generated', () => {
+    const qs = buildNewSet('P18', [], 4, fixture);
+    expect(qs).toHaveLength(15);
+    expect(qs.every((q) => q.source === 'generated' && q.patternId === 'P18')).toBe(true);
   });
   it('mixed draws from studied patterns', () => {
     const qs = buildNewSet('mixed', ['P01', 'P04'], 4, fixture);
@@ -120,12 +123,13 @@ describe('avoids recently answered bank items', () => {
     const old = { seen: new Map(p01Bank.map((q) => [q.id, NOW - 4 * 86_400_000])), now: NOW };
     expect(buildMorningDrill('P01', 7, fixture, old).filter((q) => q.source === 'drill')).toHaveLength(5);
   });
-  it('a no-generator pattern puts the least recently answered items first', () => {
+  it('bank items not answered recently are preferred over recent ones', () => {
     const bank = fixture.drillItems('P18');
-    // item i answered at NOW - i hours: items 15 and 14 are the oldest; item 0 the newest
-    const seen = new Map(bank.map((q, i) => [q.id, NOW - i * 3600_000]));
-    const qs = buildMorningDrill('P18', 7, fixture, { seen, now: NOW });
-    expect(qs.map((q) => q.id)).not.toContain(bank[0].id);
+    // items 0-9 answered an hour ago, items 10-15 never
+    const seen = new Map(bank.slice(0, 10).map((q) => [q.id, NOW - 3600_000]));
+    const drill = buildMorningDrill('P18', 7, fixture, { seen, now: NOW }).filter((q) => q.source === 'drill');
+    expect(drill).toHaveLength(5);
+    expect(drill.every((q) => !seen.has(q.id))).toBe(true);
   });
   it('afternoon set skips recently answered bank items', () => {
     const { questions } = buildAfternoonSet(['P01'], new Map(), 7, fixture, seenAll);

@@ -4,7 +4,7 @@ import { validateContent } from '../../src/content/validate';
 import { PATTERNS } from '../../src/content/patterns';
 import type { PatternId, Question } from '../../src/domain/types';
 
-const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P20', 'P23', 'P24', 'P25'];
+const RELEASE1: PatternId[] = ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P18', 'P19', 'P20', 'P21', 'P22', 'P23', 'P24', 'P25'];
 
 describe('generator', () => {
   for (const p of RELEASE1) {
@@ -44,8 +44,11 @@ describe('generator', () => {
     expect(generate('P02', 8, 77)).toEqual(generate('P02', 8, 77));
   });
   it('throws for patterns without a generator', () => {
-    expect(hasGenerator('P18')).toBe(false);
-    expect(() => generate('P18', 3, 1)).toThrow();
+    expect(hasGenerator('P99' as PatternId)).toBe(false);
+    expect(() => generate('P99' as PatternId, 3, 1)).toThrow();
+  });
+  it('every pattern has a generator', () => {
+    for (const p of PATTERNS) expect(hasGenerator(p.id), p.id).toBe(true);
   });
 
   it('writes a sample file for human review', () => {

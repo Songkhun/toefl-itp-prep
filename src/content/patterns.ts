@@ -1,6 +1,6 @@
 import type { Pattern } from '../domain/types';
 
-const NO_GENERATOR = new Set(['P18', 'P19', 'P21', 'P22']);
+const NO_GENERATOR = new Set<string>();
 
 const TITLES: [Pattern['id'], string][] = [
   ['P01', 'Subject and verb: missing subject or verb'],
