@@ -3,7 +3,7 @@ import type { ProgressStore } from '../storage/store';
 import { realContent, type ContentSource } from '../content';
 import { EnvContext, type AppEnv } from './context';
 import { Home } from './screens/Home';
-import { Afternoon, DraftGate, Mock, Morning, NewSet, Resume, Vocab } from './screens/Sessions';
+import { Afternoon, DraftGate, Mock, Morning, NewSet, Resume, Review, Vocab } from './screens/Sessions';
 import { localDate } from '../plan/plan';
 import { Progress } from './screens/Progress';
 import { Settings } from './screens/Settings';
@@ -11,7 +11,7 @@ import './styles.css';
 
 const gated = (S: () => JSX.Element) => () => <DraftGate><S /></DraftGate>;
 const ROUTES: Record<string, () => JSX.Element> = {
-  '#/': Home, '#/morning': gated(Morning), '#/afternoon': gated(Afternoon), '#/mock': gated(Mock), '#/newset': gated(NewSet),
+  '#/': Home, '#/morning': gated(Morning), '#/afternoon': gated(Afternoon), '#/mock': gated(Mock), '#/newset': gated(NewSet), '#/review': gated(Review),
   '#/vocab': Vocab, '#/progress': Progress, '#/settings': Settings, '#/resume': Resume,
 };
 const TABS: [string, string][] = [['#/', 'Home'], ['#/newset', 'Practice'], ['#/progress', 'Progress'], ['#/settings', 'Settings']];

@@ -38,6 +38,22 @@ describe('screens', () => {
     expect(await screen.findByRole('button', { name: /Resume session/ })).toBeInTheDocument();
   });
 
+  it('a wrong answer appears in My mistakes and leaves after two correct answers', async () => {
+    const store = createMemoryStore();
+    await store.recordAttempt({ questionId: 'g1', patternId: 'P01', correct: false, ms: 1, at: 1, source: 'generated', sessionKind: 'newset',
+      question: { ...drill(99), id: 'g1', source: 'generated', stem: 'Saved generated ____.' } });
+    app(store);
+    expect(await screen.findByText(/1 questions to review/)).toBeInTheDocument();
+    window.location.hash = '#/review';
+    fireEvent(window, new HashChangeEvent('hashchange'));
+    fireEvent.click(await screen.findByRole('button', { name: 'Start review' }));
+    expect(await screen.findByText(/Saved generated/)).toBeInTheDocument();
+    fireEvent.click(screen.getByRole('button', { name: /^A/ }));
+    expect(await screen.findByText('Correct!')).toBeInTheDocument();
+    const attempts = await store.getAttempts();
+    expect(attempts.at(-1)).toMatchObject({ questionId: 'g1', correct: true, sessionKind: 'review' });
+  });
+
   it('Home shows the pace message when a test date is set', async () => {
     const store = createMemoryStore();
     await store.saveSettings({ newWordsPerDay: 15, testDate: '2027-02-05' });

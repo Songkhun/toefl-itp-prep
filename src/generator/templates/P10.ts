@@ -1,6 +1,6 @@
 import { strip, structure, writtenExpression, type Template } from '../build';
 import { PARALLEL } from '../lexicon2';
-import { choice, randInt } from '../../util/rng';
+import { choice, randInt, shuffle } from '../../util/rng';
 
 const P = 'P10' as const;
 
@@ -31,6 +31,18 @@ export const P10: Template[] = [
       const parts = f.items.map((it, i) => (i === k ? `[!${it.bad}]` : `[${it.ok}]`));
       return writtenExpression(P, `${f.lead} ${parts[0]}, ${parts[1]}, and ${parts[2]}.`,
         `All items in the list must be parallel (${f.kind}). "${f.items[k].bad}" breaks the pattern; it should be "${f.items[k].ok}".`, rng);
+    },
+  },
+  {
+    // Same lists in a different order ("fast, reliable, and light"), so the error lands in new places.
+    patternId: P, type: 'written-expression',
+    build(rng) {
+      const f = choice(PARALLEL, rng);
+      const items = shuffle(f.items, rng);
+      const k = randInt(rng, 3);
+      const parts = items.map((it, i) => (i === k ? `[!${it.bad}]` : `[${it.ok}]`));
+      return writtenExpression(P, `${f.lead} ${parts[0]}, ${parts[1]}, and ${parts[2]}.`,
+        `All items in the list must be parallel (${f.kind}). "${items[k].bad}" breaks the pattern; it should be "${items[k].ok}".`, rng);
     },
   },
 ];

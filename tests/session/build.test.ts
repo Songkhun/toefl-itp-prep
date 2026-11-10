@@ -1,4 +1,6 @@
-import { buildMorningDrill, buildAfternoonSet, buildMock, buildNewSet } from '../../src/session/build';
+import { realContent } from '../../src/content';
+import { MAX_SIMILARITY, sentenceWords, similarity } from '../../src/generator';
+import { buildMorningDrill, buildAfternoonSet, buildMock, buildNewSet, questionText } from '../../src/session/build';
 import type { ContentSource } from '../../src/content';
 import type { PatternId, Question } from '../../src/domain/types';
 import type { MockResult } from '../../src/storage/store';
@@ -58,11 +60,46 @@ describe('buildAfternoonSet', () => {
 
 describe('buildMock', () => {
   const r = (form: number, at: number): MockResult => ({ form, raw: 20, scaled: 44, repeat: false, at });
-  it('takes form 1 first, then 2, then repeats least recent with repeat flag', () => {
-    expect(buildMock([], fixture)!.form).toBe(1);
-    expect(buildMock([r(1, 10)], fixture)!).toMatchObject({ form: 2, repeat: false });
-    expect(buildMock([r(1, 10), r(2, 20)], fixture)!).toMatchObject({ form: 1, repeat: true });
-    expect(buildMock([r(1, 10), r(2, 20), r(1, 30)], fixture)!).toMatchObject({ form: 2, repeat: true });
+  it('takes form 1 first, then 2, then generates new forms 3, 4, … instead of repeating', () => {
+    expect(buildMock([], fixture)!).toMatchObject({ form: 1, repeat: false, generated: false });
+    expect(buildMock([r(1, 10)], fixture)!).toMatchObject({ form: 2, repeat: false, generated: false });
+    expect(buildMock([r(1, 10), r(2, 20)], fixture)!).toMatchObject({ form: 3, repeat: false, generated: true });
+    expect(buildMock([r(1, 10), r(2, 20), r(3, 30)], fixture)!).toMatchObject({ form: 4, repeat: false, generated: true });
+  });
+  it('a generated mock copies the layout of a fixed form with fresh generated questions', () => {
+    const m = buildMock([r(1, 10), r(2, 20)], fixture)!;
+    expect(m.questions).toHaveLength(40);
+    expect(m.questions.slice(0, 15).every((q) => q.type === 'structure' && q.patternId === 'P01')).toBe(true);
+    expect(m.questions.slice(15).every((q) => q.type === 'written-expression' && q.patternId === 'P02')).toBe(true);
+    expect(m.questions.every((q) => q.source === 'generated')).toBe(true);
+    expect(new Set(m.questions.map((q) => q.stem)).size).toBe(40);
+    expect(new Set(m.questions.map((q) => q.id)).size).toBe(40);
+    const m2 = buildMock([r(1, 10), r(2, 20), r(3, 30)], fixture)!;
+    const stems = new Set(m.questions.map(questionText));
+    // The fixture puts all 25 WE items on one pattern, so only the Structure half is checked here; the real-content test covers overlap.
+    expect(m2.questions.slice(0, 15).filter((q) => stems.has(questionText(q)))).toHaveLength(0);
+  });
+  it('with real content, every generated form 7–18 matches its fixed layout', () => {
+    const forms = realContent.availableMockForms();
+    const hist = forms.map((f, i) => r(f, i));
+    const seen = new Set<string>();
+    for (let n = 7; n <= 18; n++) {
+      const m = buildMock([...hist, ...Array.from({ length: n - 7 }, (_, i) => r(7 + i, 100 + i))])!;
+      expect(m).toMatchObject({ form: n, generated: true });
+      const layout = realContent.mockForm(forms[(n - 1) % forms.length]);
+      const key = (qs: { patternId: string; type: string }[]) => qs.map((q) => `${q.type}:${q.patternId}`).sort().join(',');
+      expect(key(m.questions)).toBe(key(layout));
+      expect(new Set(m.questions.map((q) => questionText(q))).size).toBe(40);
+      const w = m.questions.map(sentenceWords);
+      const near = w.flatMap((a, i) => w.slice(i + 1).filter((b) => similarity(a, b) >= MAX_SIMILARITY)).length;
+      expect(near).toBeLessThanOrEqual(1);
+      expect(m.questions.filter((q) => seen.has(questionText(q))).length).toBeLessThanOrEqual(2);
+      m.questions.forEach((q) => seen.add(questionText(q)));
+    }
+  });
+  it('repeats the least recent fixed form only when a layout pattern has no generator', () => {
+    const noGen = { ...fixture, mockForm: (n: number) => form(n).map((q) => ({ ...q, patternId: 'P99' as PatternId })) };
+    expect(buildMock([r(1, 10), r(2, 20)], noGen)!).toMatchObject({ form: 1, repeat: true, generated: false });
   });
   it('has 40 items, Q1–15 Structure, Q16–40 WE, 25 minutes', () => {
     const m = buildMock([], fixture)!;

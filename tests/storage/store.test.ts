@@ -110,6 +110,7 @@ describe('M6: import checks values, not only types', () => {
     ['unknown pattern', (b) => { (b.attempts[0] as Record<string, unknown>).patternId = 'P99'; }],
     ['unknown source', (b) => { (b.attempts[0] as Record<string, unknown>).source = 'book'; }],
     ['unknown session kind', (b) => { (b.attempts[0] as Record<string, unknown>).sessionKind = 'evening'; }],
+    ['malformed saved question', (b) => { (b.attempts[0] as Record<string, unknown>).question = { id: 'x', stem: 1 }; }],
     ['newWordsPerDay 1000', (b) => { b.settings.newWordsPerDay = 1000; }],
     ['mock form 0', (b) => { (b.mocks as unknown[]).push({ form: 0, raw: 20, scaled: 45, repeat: false, at: 1 }); }],
     ['raw score 41', (b) => { (b.mocks as unknown[]).push({ form: 1, raw: 41, scaled: 45, repeat: false, at: 1 }); }],
@@ -120,6 +121,11 @@ describe('M6: import checks values, not only types', () => {
     const b = base(); mutate(b);
     await expect(s.importAll(b)).rejects.toBeInstanceOf(ImportError);
     expect((await s.getAttempts()).map((a) => a.questionId)).toEqual(['keep']);
+  });
+  it('accepts review attempts with a saved question', async () => {
+    const b = base();
+    Object.assign(b.attempts[0], { correct: false, sessionKind: 'review', question: { id: 'q1', patternId: 'P01', type: 'structure', source: 'generated', stem: 'A ____.', options: ['a', 'b', 'c', 'd'], answerIndex: 0, explanation: 'E' } });
+    await expect(createMemoryStore().importAll(b)).resolves.toBeUndefined();
   });
   it('still accepts a valid backup', async () => {
     await expect(createMemoryStore().importAll(base())).resolves.toBeUndefined();

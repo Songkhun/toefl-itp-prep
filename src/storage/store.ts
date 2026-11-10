@@ -2,7 +2,7 @@ import { openDB, type IDBPDatabase } from 'idb';
 import { PATTERN_IDS, type PatternId, type Question, type Source } from '../domain/types';
 import { PLAN_DAYS } from '../plan/plan';
 
-export type SessionKind = 'morning' | 'afternoon' | 'mock' | 'newset';
+export type SessionKind = 'morning' | 'afternoon' | 'mock' | 'newset' | 'review';
 
 export interface Attempt {
   questionId: string;
@@ -12,6 +12,8 @@ export interface Attempt {
   at: number;
   source: Source;
   sessionKind: SessionKind;
+  /** Copy of the question, kept on wrong answers (not fixed mock forms) so it can be reviewed later; generated items cannot be rebuilt from their id. */
+  question?: Question;
 }
 export interface CardState { wordId: string; ease: number; intervalDays: number; reps: number; dueAt: number; lapses: number; /** local date the word was first introduced */ introducedOn?: string }
 /** planDay 1..84; dates are local 'YYYY-MM-DD' */
@@ -75,7 +77,9 @@ const isStr = (v: unknown) => typeof v === 'string';
 const isInt = (v: unknown, min: number, max: number) => Number.isInteger(v) && (v as number) >= min && (v as number) <= max;
 const oneOf = (v: unknown, list: readonly string[]) => typeof v === 'string' && list.includes(v);
 const SOURCES: readonly Source[] = ['drill', 'mock', 'generated'];
-const KINDS: readonly SessionKind[] = ['morning', 'afternoon', 'mock', 'newset'];
+const KINDS: readonly SessionKind[] = ['morning', 'afternoon', 'mock', 'newset', 'review'];
+const isQuestion = (q: unknown) => isObj(q) && isStr(q.id) && oneOf(q.patternId, PATTERN_IDS) && oneOf(q.type, ['structure', 'written-expression'])
+  && isStr(q.stem) && Array.isArray(q.options) && q.options.length === 4 && q.options.every(isStr) && isInt(q.answerIndex, 0, 3) && isStr(q.explanation);
 const isDate = (v: unknown) => typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v);
 
 function checkArray(name: string, v: unknown, ok: (x: Record<string, unknown>) => boolean): void {
@@ -89,7 +93,7 @@ export function validateBackup(data: unknown): BackupV1 {
   if (!isObj(data)) throw new ImportError('This file is not a TOEFL ITP Prep backup.');
   if (data.version !== 1) throw new ImportError(`Unsupported backup version: ${String(data.version)}.`);
   checkArray('attempts', data.attempts, (a) =>
-    isStr(a.questionId) && oneOf(a.patternId, PATTERN_IDS) && typeof a.correct === 'boolean' && isNum(a.ms) && (a.ms as number) >= 0 && isNum(a.at) && oneOf(a.source, SOURCES) && oneOf(a.sessionKind, KINDS));
+    isStr(a.questionId) && oneOf(a.patternId, PATTERN_IDS) && typeof a.correct === 'boolean' && isNum(a.ms) && (a.ms as number) >= 0 && isNum(a.at) && oneOf(a.source, SOURCES) && oneOf(a.sessionKind, KINDS) && (a.question === undefined || isQuestion(a.question)));
   checkArray('cards', data.cards, (c) =>
     isStr(c.wordId) && isNum(c.ease) && (c.ease as number) > 0 && isNum(c.intervalDays) && (c.intervalDays as number) >= 0 && isInt(c.reps, 0, Infinity) && isNum(c.dueAt) && isInt(c.lapses, 0, Infinity));
   checkArray('mocks', data.mocks, (m) =>

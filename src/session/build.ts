@@ -1,6 +1,6 @@
 import type { PatternId, Question } from '../domain/types';
 import { realContent, type ContentSource } from '../content';
-import { generate, hasGenerator } from '../generator';
+import { generate, hasGenerator, MAX_SIMILARITY, sentenceWords, similarity } from '../generator';
 import { weightedPatternSample, type PatternStats } from '../stats/patternStats';
 import { createRng, shuffle, type Rng } from '../util/rng';
 import type { Attempt, MockResult } from '../storage/store';
@@ -76,14 +76,64 @@ export function buildAfternoonSet(studied: PatternId[], stats: PatternStats, see
   return { questions: structureFirst(out), timeLimitMs: out.length * SECONDS_PER_QUESTION * 1000 };
 }
 
-export function buildMock(history: MockResult[], content: ContentSource = realContent) {
+export interface BuiltMock { form: number; questions: Question[]; repeat: boolean; generated: boolean; timeLimitMs: number }
+
+/**
+ * Fixed forms are used first, in order. Once every fixed form has been taken, each new mock is generated:
+ * it copies the pattern/type layout of a fixed form, replacing every item with a fresh generated question,
+ * so the score is not inflated by remembering answers. Falls back to repeating the least recent fixed form
+ * only if some pattern in the layout has no generator.
+ */
+export function buildMock(history: MockResult[], content: ContentSource = realContent): BuiltMock | null {
   const forms = content.availableMockForms();
   if (!forms.length) return null;
   const lastTaken = new Map<number, number>();
   for (const h of history) lastTaken.set(h.form, Math.max(lastTaken.get(h.form) ?? 0, h.at));
   const fresh = forms.find((f) => !lastTaken.has(f));
-  const form = fresh ?? [...forms].sort((a, b) => lastTaken.get(a)! - lastTaken.get(b)!)[0];
-  return { form, questions: structureFirst(content.mockForm(form)), repeat: fresh === undefined, timeLimitMs: MOCK_TIME_MS };
+  if (fresh !== undefined) return { form: fresh, questions: structureFirst(content.mockForm(fresh)), repeat: false, generated: false, timeLimitMs: MOCK_TIME_MS };
+  const next = Math.max(...forms, ...history.map((h) => h.form)) + 1;
+  // Rebuild the earlier generated forms (deterministic) so this one avoids all of their questions.
+  const avoid = new Set<string>();
+  let generated: Question[] | null = null;
+  for (let n = Math.max(...forms) + 1; n <= next; n++) {
+    generated = generatedMock(content.mockForm(forms[(n - 1) % forms.length]), n, avoid);
+    if (!generated) break;
+    for (const q of generated) avoid.add(questionText(q));
+  }
+  if (generated) return { form: next, questions: structureFirst(generated), repeat: false, generated: true, timeLimitMs: MOCK_TIME_MS };
+  const form = [...forms].sort((a, b) => lastTaken.get(a)! - lastTaken.get(b)!)[0];
+  return { form, questions: structureFirst(content.mockForm(form)), repeat: true, generated: false, timeLimitMs: MOCK_TIME_MS };
+}
+
+/** The sentence as the learner sees it: Written Expression stems hide the underlined words behind {0}…{3}. */
+export const questionText = (q: Question) =>
+  q.type === 'structure' ? q.stem : q.stem.replace(/\{(\d)\}/g, (_, i: string) => q.options[Number(i)]);
+
+/**
+ * One generated question per layout item, same pattern and type, with no repeated stems and none of the
+ * stems in `avoid` (questions from earlier generated forms) unless a pattern's pool runs out.
+ * Null if a pattern has no generator.
+ */
+export function generatedMock(layout: Question[], form: number, avoid: ReadonlySet<string> = new Set()): Question[] | null {
+  if (!layout.length || layout.some((q) => !hasGenerator(q.patternId))) return null;
+  const used = new Set<string>();
+  const words: Set<string>[] = [];
+  const out: Question[] = [];
+  layout.forEach((item, i) => {
+    for (let k = 0; k < 80; k++) {
+      // Strict: not in an earlier generated form and not a near-copy of another item in this form (one could give away the other).
+      const strict = k < 60;
+      const q = generate(item.patternId, 4, form * 100_003 + i * 997 + k).find((g) => g.type === item.type && !used.has(questionText(g)) && !used.has(g.id)
+        && !(strict && (avoid.has(questionText(g)) || words.some((w) => similarity(w, sentenceWords(g)) >= MAX_SIMILARITY))));
+      if (!q) continue;
+      used.add(questionText(q));
+      used.add(q.id);
+      words.push(sentenceWords(q));
+      out.push(q);
+      return;
+    }
+  });
+  return out.length === layout.length ? out : null;
 }
 
 export function buildNewSet(p: PatternId | 'mixed', studied: PatternId[], seed: number, content: ContentSource = realContent, history: History = NO_HISTORY): Question[] {

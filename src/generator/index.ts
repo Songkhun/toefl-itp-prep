@@ -42,7 +42,7 @@ export function sentenceWords(q: Question): Set<string> {
     : q.stem.replace(/\{([0-3])\}/g, (_, i: string) => q.options[+i]);
   return new Set(text.toLowerCase().match(/[a-z]+/g)?.filter((w) => !STOP.has(w)) ?? []);
 }
-const similarity = (a: Set<string>, b: Set<string>) => {
+export const similarity = (a: Set<string>, b: Set<string>) => {
   const inter = [...a].filter((w) => b.has(w)).length;
   return inter / (a.size + b.size - inter);
 };

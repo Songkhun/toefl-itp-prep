@@ -16,6 +16,22 @@ export const ADV_AFTER_VERB: AdvFact[] = [
   { subj: 'The new [engine]', verb: 'runs', adj: 'efficient', adv: 'efficiently', noun: 'efficiency', rest: '[in] cold [weather]' },
   { subj: 'The [volcano]', verb: 'erupts', adj: 'frequent', adv: 'frequently', noun: 'frequency', rest: '[but] rarely [causes] damage' },
   { subj: 'The island [economy]', verb: 'depends', adj: 'heavy', adv: 'heavily', noun: 'heaviness', rest: '[on] [tourism]' },
+  { subj: 'The [children]', verb: 'played', adj: 'quiet', adv: 'quietly', noun: 'quietness', rest: '[in] the [library]' },
+  { subj: 'The [temperature]', verb: 'dropped', adj: 'sudden', adv: 'suddenly', noun: 'suddenness', rest: '[after] [sunset]' },
+  { subj: 'The [athlete]', verb: 'recovered', adj: 'full', adv: 'fully', noun: 'fullness', rest: '[from] her [injury]' },
+  { subj: 'The [committee]', verb: 'worked', adj: 'tireless', adv: 'tirelessly', noun: 'tirelessness', rest: '[on] the new [report]' },
+  { subj: 'The [river]', verb: 'flows', adj: 'gentle', adv: 'gently', noun: 'gentleness', rest: '[through] the [valley]' },
+  { subj: 'Sales of electric [cars]', verb: 'climbed', adj: 'steady', adv: 'steadily', noun: 'steadiness', rest: '[over] the past [decade]' },
+  { subj: 'The [orchestra]', verb: 'performed', adj: 'brilliant', adv: 'brilliantly', noun: 'brilliance', rest: '[at] the opening [concert]' },
+  { subj: 'The [manager]', verb: 'spoke', adj: 'honest', adv: 'honestly', noun: 'honesty', rest: '[about] the [problems]' },
+  { subj: 'The [company]', verb: 'expanded', adj: 'aggressive', adv: 'aggressively', noun: 'aggression', rest: '[into] foreign [markets]' },
+  { subj: 'The [crowd]', verb: 'cheered', adj: 'enthusiastic', adv: 'enthusiastically', noun: 'enthusiasm', rest: '[when] the [team] scored' },
+  { subj: 'The [ice]', verb: 'melted', adj: 'gradual', adv: 'gradually', noun: 'gradualness', rest: '[during] the warm [spring]' },
+  { subj: 'The [students]', verb: 'listened', adj: 'attentive', adv: 'attentively', noun: 'attention', rest: '[to] the guest [speaker]' },
+  { subj: 'The [train]', verb: 'arrived', adj: 'punctual', adv: 'punctually', noun: 'punctuality', rest: '[at] the [station]' },
+  { subj: 'Prices in the [region]', verb: 'vary', adj: 'considerable', adv: 'considerably', noun: 'consideration', rest: '[from] [season] to season' },
+  { subj: 'The [actor]', verb: 'reacted', adj: 'angry', adv: 'angrily', noun: 'anger', rest: '[to] the [rumors]' },
+  { subj: 'The [virus]', verb: 'spread', adj: 'swift', adv: 'swiftly', noun: 'swiftness', rest: '[through] the crowded [city]' },
 ];
 /** A linking verb, followed by an adjective. */
 export const ADJ_AFTER_LINK: AdvFact[] = [
@@ -25,6 +41,17 @@ export const ADJ_AFTER_LINK: AdvFact[] = [
   { subj: 'The [air] in the [desert]', verb: 'feels', adj: 'cool', adv: 'coolly', noun: 'coolness', rest: '[at] [night]' },
   { subj: 'The [patient]', verb: 'became', adj: 'calm', adv: 'calmly', noun: 'calmness', rest: '[after] the [treatment]' },
   { subj: 'The [explanation] in the [textbook]', verb: 'sounds', adj: 'reasonable', adv: 'reasonably', noun: 'reason', rest: '[to] most [readers]' },
+  { subj: 'The [soup]', verb: 'tasted', adj: 'delicious', adv: 'deliciously', noun: 'deliciousness', rest: '[to] the hungry [hikers]' },
+  { subj: 'The [roses] in the [garden]', verb: 'smell', adj: 'sweet', adv: 'sweetly', noun: 'sweetness', rest: '[in] early [summer]' },
+  { subj: 'The [crowd]', verb: 'became', adj: 'impatient', adv: 'impatiently', noun: 'impatience', rest: '[during] the long [delay]' },
+  { subj: 'The [streets]', verb: 'stayed', adj: 'quiet', adv: 'quietly', noun: 'quietness', rest: '[throughout] the [holiday]' },
+  { subj: 'The [plan]', verb: 'appears', adj: 'practical', adv: 'practically', noun: 'practice', rest: '[to] the [committee]' },
+  { subj: 'The [weather]', verb: 'became', adj: 'cold', adv: 'coldly', noun: 'coldness', rest: '[in] late [October]' },
+  { subj: 'The [singer]', verb: 'sounded', adj: 'nervous', adv: 'nervously', noun: 'nervousness', rest: '[at] the start of the [concert]' },
+  { subj: 'The [fabric]', verb: 'feels', adj: 'soft', adv: 'softly', noun: 'softness', rest: '[against] the [skin]' },
+  { subj: 'The [manager]', verb: 'seemed', adj: 'confident', adv: 'confidently', noun: 'confidence', rest: '[about] the [future]' },
+  { subj: 'Most [visitors]', verb: 'remained', adj: 'silent', adv: 'silently', noun: 'silence', rest: '[during] the [ceremony]' },
+  { subj: 'The [bread]', verb: 'smells', adj: 'fresh', adv: 'freshly', noun: 'freshness', rest: '[in] the [morning]' },
 ];
 
 /* ---------- P23 paired conjunctions ---------- */

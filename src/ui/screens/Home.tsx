@@ -2,13 +2,14 @@ import { useEffect, useState } from 'react';
 import { useEnv } from '../context';
 import { localDate, pace, startPlan, todayPlan, type TodayPlan } from '../../plan/plan';
 import { PATTERNS } from '../../content/patterns';
+import { openMistakes } from '../../session/review';
 import type { SessionDraft, Settings } from '../../storage/store';
 
 const fmt = (d: string) => new Date(`${d}T12:00:00`).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
 
 export function Home() {
-  const { store, clock, navigate } = useEnv();
-  const [state, setState] = useState<{ plan: TodayPlan; pace: ReturnType<typeof pace>; settings: Settings; draft: SessionDraft | null; afternoonDone: boolean; due: number; lastMockDaysAgo: number | null; backupDue: boolean } | null>(null);
+  const { store, content, clock, navigate } = useEnv();
+  const [state, setState] = useState<{ plan: TodayPlan; pace: ReturnType<typeof pace>; settings: Settings; draft: SessionDraft | null; afternoonDone: boolean; due: number; lastMockDaysAgo: number | null; backupDue: boolean; mistakes: number } | null>(null);
 
   useEffect(() => {
     void (async () => {
@@ -21,7 +22,7 @@ export function Home() {
       const lastMock = mocks.length ? Math.max(...mocks.map((m) => m.at)) : null;
       setState({
         plan: todayPlan(plan, today), pace: pace(plan, today, settings.testDate), settings, draft, afternoonDone,
-        due: cards.filter((c) => c.dueAt <= now.getTime()).length,
+        due: cards.filter((c) => c.dueAt <= now.getTime()).length, mistakes: openMistakes(attempts, content).length,
         backupDue: attempts.length > 0 && (!settings.lastExportAt || now.getTime() - settings.lastExportAt > 7 * 86_400_000), lastMockDaysAgo: lastMock === null ? null : Math.floor((now.getTime() - lastMock) / 86_400_000),
       });
     })();
@@ -59,6 +60,10 @@ export function Home() {
       </button>
       <button className="card task" onClick={() => navigate('#/mock')}>
         <span><strong>📝 Weekly mock test</strong><br /><span className="muted">40 questions · 25 minutes · estimated score{state.lastMockDaysAgo !== null ? ` · last taken ${state.lastMockDaysAgo} days ago` : ''}</span></span>
+        <span>▶</span>
+      </button>
+      <button className="card task" onClick={() => navigate('#/review')}>
+        <span><strong>🔁 My mistakes</strong><br /><span className="muted">{state.mistakes ? `${state.mistakes} questions to review` : 'Nothing to review yet'}</span></span>
         <span>▶</span>
       </button>
       <button className="card task" onClick={() => navigate('#/vocab')}>
