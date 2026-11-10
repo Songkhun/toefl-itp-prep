@@ -88,6 +88,14 @@ export const POSS_PLURAL: Possessive[] = [
   { subj: 'Female [mammals]', verb: 'feed', noun: 'young', rest: 'with [milk]' },
   { subj: 'The [students]', verb: 'presented', noun: 'findings', rest: 'at the [conference]' },
   { subj: 'Early [farmers]', verb: 'stored', noun: 'grain', rest: 'in clay [pots]' },
+  { subj: 'Most [frogs]', verb: 'lay', noun: 'eggs', rest: 'in shallow [water]' },
+  { subj: 'The [workers]', verb: 'received', noun: 'wages', rest: 'every [Friday]' },
+  { subj: 'Some [lizards]', verb: 'can regrow', noun: 'tails', rest: 'after an [injury]' },
+  { subj: 'The [villagers]', verb: 'protected', noun: 'homes', rest: 'from the [flood]' },
+  { subj: 'Many [companies]', verb: 'test', noun: 'products', rest: 'before a [launch]' },
+  { subj: 'Ancient [sailors]', verb: 'used', noun: 'knowledge', rest: 'of the [stars] to navigate' },
+  { subj: 'The [researchers]', verb: 'published', noun: 'results', rest: 'in a science [journal]' },
+  { subj: 'Most [cities]', verb: 'publish', noun: 'budgets', rest: 'every [year]' },
 ];
 export const POSS_SINGULAR: Possessive[] = [
   { subj: 'The [river]', verb: 'gradually changed', noun: 'course', rest: 'over many [centuries]' },
@@ -95,6 +103,14 @@ export const POSS_SINGULAR: Possessive[] = [
   { subj: 'The planet [Mercury]', verb: 'completes', noun: 'orbit', rest: 'in about 88 [days]' },
   { subj: 'An [octopus]', verb: 'can change', noun: 'color', rest: 'very [quickly]' },
   { subj: 'The [glacier]', verb: 'has lost much of', noun: 'ice', rest: 'over the past [century]' },
+  { subj: 'The [hospital]', verb: 'moved', noun: 'main entrance', rest: 'to a new [street]' },
+  { subj: 'A [snake]', verb: 'sheds', noun: 'skin', rest: 'several times a [year]' },
+  { subj: 'The [city]', verb: 'celebrated', noun: 'anniversary', rest: 'with a large [parade]' },
+  { subj: 'The old [theater]', verb: 'opened', noun: 'doors', rest: 'to the [public] in 1901' },
+  { subj: 'Each [planet]', verb: 'follows', noun: 'own path', rest: 'around the [sun]' },
+  { subj: 'The injured [bird]', verb: 'slowly spread', noun: 'wings', rest: 'and flew [away]' },
+  { subj: 'The [bridge]', verb: 'is known for', noun: 'red color', rest: 'and tall [towers]' },
+  { subj: 'A [camel]', verb: 'stores', noun: 'fat', rest: 'in a large [hump]' },
 ];
 /** pre ... [them] post — the object refers back to a plural noun. */
 export interface ObjectRef { pre: string; post: string }
@@ -103,6 +119,14 @@ export const OBJECT_REF: ObjectRef[] = [
   { pre: 'The [farmers] harvested the [apples] and [sold]', post: 'at the local [market]' },
   { pre: 'The [teacher] marked the [essays] and [returned]', post: 'to the [class]' },
   { pre: 'The [library] received two old [maps] and [displayed]', post: 'in the main [hall]' },
+  { pre: 'The [children] picked some [berries] and [ate]', post: 'on the [way] home' },
+  { pre: 'The [collector] bought three [statues] and [placed]', post: 'near the [entrance]' },
+  { pre: 'The [chef] chopped the [onions] and [fried]', post: 'in [butter]' },
+  { pre: 'The [police] found the stolen [bikes] and [returned]', post: 'to the [owners]' },
+  { pre: 'The [students] wrote two [essays] and [submitted]', post: 'before the [deadline]' },
+  { pre: 'The [gardener] planted new [roses] and [watered]', post: 'every [morning]' },
+  { pre: 'Our [neighbors] found two lost [kittens] and [fed]', post: 'for a [week]' },
+  { pre: 'The [editor] read the [articles] and [corrected]', post: 'before [publication]' },
 ];
 
 /* ---------- P17 singular/plural and countable nouns ---------- */

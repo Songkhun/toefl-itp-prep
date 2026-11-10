@@ -968,29 +968,28 @@
    D) painting
    ANSWER: D  — Words joined by "and" must have the same form. "hiking" is one of the gerunds, so the second item must match: "painting".
 
-[P10 structure] Many tourists enjoy visiting museums, tasting local food, and ____.
-   A) shop in markets
-   B) shopping in markets
-   C) they shop in markets
-   D) to shop in markets
-   ANSWER: B  — Items in a list must have the same form. "visiting museums" and "tasting local food" are gerunds, so the third item must be "shopping in markets".
+[P10 written-expression] Many _A:tourists_ enjoy _B:tasting local food_, _C:to shop in markets_, and _D:visiting museums_.
+   ANSWER: C  — All items in the list must be parallel (gerunds). "to shop in markets" breaks the pattern; it should be "shopping in markets".
 
-[P10 structure] The museum's collection includes paintings and ____.
-   A) photographs
-   B) photographing
-   C) photographed
-   D) to photograph
-   ANSWER: A  — Words joined by "and" must have the same form. "paintings" is one of the nouns, so the second item must match: "photographs".
+[P10 structure] The weather was cold, windy, and ____.
+   A) rainy
+   B) rain
+   C) with rain
+   D) rainily
+   ANSWER: A  — Items in a list must have the same form. "cold" and "windy" are adjectives, so the third item must be "rainy".
 
-[P10 written-expression] The _A:city_ is famous for its _B:architecture_, _C:history_, and _D:cultural_.
-   ANSWER: D  — All items in the list must be parallel (nouns). "cultural" breaks the pattern; it should be "culture".
+[P10 structure] The athletes trained regularly and ____.
+   A) with patient
+   B) patient
+   C) patiently
+   D) patience
+   ANSWER: C  — Words joined by "and" must have the same form. "regularly" is one of the adverbs, so the second item must match: "patiently".
 
-[P10 structure] The volunteers cleaned the beach and ____.
-   A) to repair the fence
-   B) the fence was repaired
-   C) repairing the fence
-   D) repaired the fence
-   ANSWER: D  — Words joined by "and" must have the same form. "cleaned the beach" is one of the past-tense verb phrases, so the second item must match: "repaired the fence".
+[P10 written-expression] A successful _A:leader_ is _B:confident_, _C:decisive_, and _D:fairness_.
+   ANSWER: D  — All items in the list must be parallel (adjectives). "fairness" breaks the pattern; it should be "fair".
+
+[P10 written-expression] The _A:scientists_ _B:published the results_, _C:analyzed the data_, and _D:collecting samples_.
+   ANSWER: D  — All items in the list must be parallel (past-tense verb phrases). "collecting samples" breaks the pattern; it should be "collected samples".
 
 [P10 structure] The report was accurate, detailed, and ____.
    A) clear
@@ -999,32 +998,42 @@
    D) in clarity
    ANSWER: A  — Items in a list must have the same form. "accurate" and "detailed" are adjectives, so the third item must be "clear".
 
+[P10 structure] The museum's collection includes paintings and ____.
+   A) photographed
+   B) photographing
+   C) to photograph
+   D) photographs
+   ANSWER: D  — Words joined by "and" must have the same form. "paintings" is one of the nouns, so the second item must match: "photographs".
+
 [P10 written-expression] The course teaches _A:children_ to _B:read_, _C:write_, and _D:counting_.
    ANSWER: D  — All items in the list must be parallel (base verbs after "to"). "counting" breaks the pattern; it should be "count".
 
-[P10 structure] The scientists collected samples, analyzed the data, and ____.
-   A) the results were published
-   B) published the results
-   C) to publish the results
-   D) publishing the results
-   ANSWER: B  — Items in a list must have the same form. "collected samples" and "analyzed the data" are past-tense verb phrases, so the third item must be "published the results".
+[P10 structure] Regular exercise can improve sleep, reduce stress, and ____.
+   A) strengthens the heart
+   B) strengthening the heart
+   C) to strengthen the heart
+   D) strengthen the heart
+   ANSWER: D  — Items in a list must have the same form. "improve sleep" and "reduce stress" are base-form verb phrases after "can", so the third item must be "strengthen the heart".
 
-[P10 structure] The manager asked the staff to arrive early and ____.
-   A) greeted every customer
-   B) greet every customer
-   C) greeting every customer
-   D) to greeting every customer
-   ANSWER: B  — Words joined by "and" must have the same form. "arrive early" is one of the base verbs after "to", so the second item must match: "greet every customer".
+[P10 structure] A good researcher must be curious and ____.
+   A) careful
+   B) carefully
+   C) care
+   D) with care
+   ANSWER: A  — Words joined by "and" must have the same form. "curious" is one of the adjectives, so the second item must match: "careful".
 
-[P10 written-expression] The _A:students_ were asked to _B:read the article_, _C:summarize it_, and _D:discussing it_.
-   ANSWER: D  — All items in the list must be parallel (base verbs after "to"). "discussing it" breaks the pattern; it should be "discuss it".
+[P10 written-expression] The new _A:law_ will _B:protect forests_, _C:create parks_, and _D:limiting pollution_.
+   ANSWER: D  — All items in the list must be parallel (base-form verb phrases after "will"). "limiting pollution" breaks the pattern; it should be "limit pollution".
 
-[P10 structure] The children were taught to share, listen, and ____.
-   A) cooperate
-   B) to cooperating
-   C) cooperation
-   D) cooperating
-   ANSWER: A  — Items in a list must have the same form. "share" and "listen" are base verbs after "to", so the third item must be "cooperate".
+[P10 structure] The city is famous for its architecture and ____.
+   A) is cultural
+   B) culture
+   C) culturally
+   D) cultural
+   ANSWER: B  — Words joined by "and" must have the same form. "architecture" is one of the nouns, so the second item must match: "culture".
+
+[P10 written-expression] The _A:job_ requires _B:patient_, _C:creativity_, and _D:honesty_.
+   ANSWER: B  — All items in the list must be parallel (nouns). "patient" breaks the pattern; it should be "patience".
 
 [P10 structure] His hobbies include reading and ____.
    A) garden
@@ -1033,46 +1042,21 @@
    D) gardening
    ANSWER: D  — Words joined by "and" must have the same form. "reading" is one of the gerunds, so the second item must match: "gardening".
 
-[P10 structure] The athletes trained regularly, carefully, and ____.
-   A) patience
-   B) with patient
-   C) patiently
-   D) patient
-   ANSWER: C  — Items in a list must have the same form. "regularly" and "carefully" are adverbs, so the third item must be "patiently".
+[P10 written-expression] The _A:manager_ asked the staff to _B:arrive early_, _C:dress formally_, and _D:greeting every customer_.
+   ANSWER: D  — All items in the list must be parallel (base verbs after "to"). "greeting every customer" breaks the pattern; it should be "greet every customer".
 
-[P10 written-expression] The _A:job_ requires _B:patient_, _C:creativity_, and _D:honesty_.
-   ANSWER: B  — All items in the list must be parallel (nouns). "patient" breaks the pattern; it should be "patience".
+[P10 written-expression] The _A:students_ were asked to _B:summarize it_, _C:discuss it_, and _D:reading the article_.
+   ANSWER: D  — All items in the list must be parallel (base verbs after "to"). "reading the article" breaks the pattern; it should be "read the article".
 
-[P10 written-expression] The tour _A:guide_ spoke _B:clearly_, _C:slowly_, and _D:polite_.
-   ANSWER: D  — All items in the list must be parallel (adverbs). "polite" breaks the pattern; it should be "politely".
+[P10 structure] The tour guide spoke clearly and ____.
+   A) politely
+   B) with polite
+   C) polite
+   D) politeness
+   ANSWER: A  — Words joined by "and" must have the same form. "clearly" is one of the adverbs, so the second item must match: "politely".
 
-[P10 structure] Students in the course learn to plan experiments, record data, and ____.
-   A) write reports
-   B) to writing reports
-   C) writing reports
-   D) wrote reports
-   ANSWER: A  — Items in a list must have the same form. "plan experiments" and "record data" are base verbs after "to", so the third item must be "write reports".
-
-[P10 structure] The new law will protect forests, limit pollution, and ____.
-   A) to creating parks
-   B) creates parks
-   C) create parks
-   D) creating parks
-   ANSWER: C  — Items in a list must have the same form. "protect forests" and "limit pollution" are base-form verb phrases after "will", so the third item must be "create parks".
-
-[P10 structure] The nurse treated patients gently and ____.
-   A) professionally
-   B) profession
-   C) with professional
-   D) professional
-   ANSWER: A  — Words joined by "and" must have the same form. "gently" is one of the adverbs, so the second item must match: "professionally".
-
-[P10 structure] The apartment is spacious, bright, and ____.
-   A) quiet
-   B) in quiet
-   C) quietly
-   D) quietness
-   ANSWER: A  — Items in a list must have the same form. "spacious" and "bright" are adjectives, so the third item must be "quiet".
+[P10 written-expression] Her favorite _A:activities_ are _B:hiking_, _C:swimming_, and _D:to paint_.
+   ANSWER: D  — All items in the list must be parallel (gerunds). "to paint" breaks the pattern; it should be "painting".
 
 [P11 structure] A tortoise is ____ than a rabbit.
    A) more slow
@@ -1578,41 +1562,41 @@
 [P15 written-expression] The ancient _A:city_ must _B:had been_ _C:abandoned_ _D:suddenly_.
    ANSWER: B  — A modal about the past takes "have", not "had": "must have been".
 
-[P16 structure] The students presented ____ findings at the conference.
+[P16 structure] Many companies test ____ products before a launch.
    A) its
    B) their
    C) they're
    D) them
-   ANSWER: B  — The pronoun refers to the plural noun "students", so it must be the plural possessive "their". "They're" means "they are".
+   ANSWER: B  — The pronoun refers to the plural noun "companies", so it must be the plural possessive "their". "They're" means "they are".
 
-[P16 structure] The river gradually changed ____ course over many centuries.
+[P16 structure] A deciduous tree loses ____ leaves every autumn.
    A) it's
    B) it
    C) their
    D) its
-   ANSWER: D  — The pronoun refers to the singular noun "river", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+   ANSWER: D  — The pronoun refers to the singular noun "tree", so use the possessive "its". "It's" (with an apostrophe) means "it is".
 
-[P16 structure] The scientists collected the samples and tested ____ in the laboratory.
+[P16 structure] The farmers harvested the apples and sold ____ at the local market.
    A) it
    B) they
    C) them
    D) their
    ANSWER: C  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
 
-[P16 written-expression] Female mammals _A:feed_ _B:its_ _C:young_ with _D:milk_.
-   ANSWER: B  — "mammals" is plural, so the possessive must be "their", not "its".
+[P16 written-expression] Some lizards _A:can regrow_ _B:its_ _C:tails_ after an _D:injury_.
+   ANSWER: B  — "lizards" is plural, so the possessive must be "their", not "its".
 
-[P16 written-expression] The _A:library_ received two old maps and _B:displayed_ _C:they_ in the main _D:hall_.
+[P16 written-expression] Our _A:neighbors_ found two lost kittens and _B:fed_ _C:they_ for a _D:week_.
    ANSWER: C  — An object of a verb needs an object pronoun: "them", not "they".
 
-[P16 structure] A deciduous tree loses ____ leaves every autumn.
+[P16 structure] The glacier has lost much of ____ ice over the past century.
    A) their
    B) it
    C) it's
    D) its
-   ANSWER: D  — The pronoun refers to the singular noun "tree", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+   ANSWER: D  — The pronoun refers to the singular noun "glacier", so use the possessive "its". "It's" (with an apostrophe) means "it is".
 
-[P16 structure] The teacher marked the essays and returned ____ to the class.
+[P16 structure] The students wrote two essays and submitted ____ before the deadline.
    A) their
    B) them
    C) they
@@ -1622,53 +1606,61 @@
 [P16 written-expression] Many _A:birds_ _B:build_ _C:its_ _D:nests_ in tall trees.
    ANSWER: C  — "birds" is plural, so the possessive must be "their", not "its".
 
-[P16 written-expression] An octopus _A:can change_ _B:their_ _C:color_ very _D:quickly_.
-   ANSWER: B  — "octopus" is singular, so the possessive must be "its", not "their".
-
-[P16 written-expression] Early _A:farmers_ _B:stored_ _C:its_ grain in clay _D:pots_.
-   ANSWER: C  — "farmers" is plural, so the possessive must be "their", not "its".
-
-[P16 written-expression] The _A:glacier_ _B:has lost much of_ _C:it's_ _D:ice_ over the past century.
-   ANSWER: C  — The possessive form is "its" with no apostrophe. "It's" means "it is".
-
-[P16 structure] The planet Mercury completes ____ orbit in about 88 days.
-   A) their
-   B) it's
-   C) its
-   D) it
-   ANSWER: C  — The pronoun refers to the singular noun "Mercury", so use the possessive "its". "It's" (with an apostrophe) means "it is".
-
-[P16 written-expression] The _A:farmers_ harvested the _B:apples_ and _C:sold_ _D:they_ at the local market.
-   ANSWER: D  — An object of a verb needs an object pronoun: "them", not "they".
-
-[P16 written-expression] _A:Honeybees_ _B:use_ _C:its_ dances to share the _D:location_ of food.
-   ANSWER: C  — "Honeybees" is plural, so the possessive must be "their", not "its".
-
-[P16 structure] Many birds build ____ nests in tall trees.
-   A) they're
-   B) its
-   C) their
-   D) them
-   ANSWER: C  — The pronoun refers to the plural noun "birds", so it must be the plural possessive "their". "They're" means "they are".
-
-[P16 structure] The glacier has lost much of ____ ice over the past century.
-   A) their
-   B) its
-   C) it's
-   D) it
-   ANSWER: B  — The pronoun refers to the singular noun "glacier", so use the possessive "its". "It's" (with an apostrophe) means "it is".
-
-[P16 written-expression] An _A:octopus_ can change _B:their_ _C:color_ very _D:quickly_.
-   ANSWER: B  — "octopus" is singular, so the possessive must be "its", not "their".
+[P16 written-expression] Each planet _A:follows_ _B:their_ _C:own path_ around the _D:sun_.
+   ANSWER: B  — "planet" is singular, so the possessive must be "its", not "their".
 
 [P16 written-expression] The _A:scientists_ collected the _B:samples_ and _C:tested_ _D:they_ in the laboratory.
    ANSWER: D  — An object of a verb needs an object pronoun: "them", not "they".
 
-[P16 written-expression] The planet _A:Mercury_ completes _B:it's_ _C:orbit_ in about 88 _D:days_.
-   ANSWER: B  — The possessive form is "its" with no apostrophe. "It's" means "it is".
+[P16 structure] The workers received ____ wages every Friday.
+   A) them
+   B) its
+   C) their
+   D) they're
+   ANSWER: C  — The pronoun refers to the plural noun "workers", so it must be the plural possessive "their". "They're" means "they are".
 
-[P16 written-expression] The farmers harvested the _A:apples_ and _B:sold_ _C:they_ at the local _D:market_.
-   ANSWER: C  — An object of a verb needs an object pronoun: "them", not "they".
+[P16 written-expression] Most _A:cities_ _B:publish_ _C:its_ budgets every _D:year_.
+   ANSWER: C  — "cities" is plural, so the possessive must be "their", not "its".
+
+[P16 written-expression] A _A:camel_ _B:stores_ _C:it's_ _D:fat_ in a large hump.
+   ANSWER: C  — The possessive form is "its" with no apostrophe. "It's" means "it is".
+
+[P16 written-expression] The _A:police_ found the stolen _B:bikes_ and _C:returned_ _D:they_ to the owners.
+   ANSWER: D  — An object of a verb needs an object pronoun: "them", not "they".
+
+[P16 structure] The editor read the articles and corrected ____ before publication.
+   A) it
+   B) their
+   C) them
+   D) they
+   ANSWER: C  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+
+[P16 written-expression] The _A:villagers_ _B:protected_ _C:its_ homes from the _D:flood_.
+   ANSWER: C  — "villagers" is plural, so the possessive must be "their", not "its".
+
+[P16 structure] Ancient sailors used ____ knowledge of the stars to navigate.
+   A) them
+   B) its
+   C) they're
+   D) their
+   ANSWER: D  — The pronoun refers to the plural noun "sailors", so it must be the plural possessive "their". "They're" means "they are".
+
+[P16 structure] A snake sheds ____ skin several times a year.
+   A) their
+   B) it's
+   C) its
+   D) it
+   ANSWER: C  — The pronoun refers to the singular noun "snake", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+
+[P16 structure] The teacher marked the essays and returned ____ to the class.
+   A) it
+   B) their
+   C) them
+   D) they
+   ANSWER: C  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+
+[P16 written-expression] The _A:river_ _B:gradually changed_ _C:their_ course over many _D:centuries_.
+   ANSWER: C  — "river" is singular, so the possessive must be "its", not "their".
 
 [P17 structure] The Sahara is one of the ____ on Earth.
    A) driest region
@@ -1974,101 +1966,109 @@
 [P19 written-expression] After much _A:persuasively_, the _B:manager_ _C:agreed_ to the _D:plan_.
    ANSWER: A  — "persuasively" is an adverb, but this position needs a noun after "much" as a noun: "persuasion".
 
-[P20 structure] The new engine runs ____ in cold weather.
-   A) efficient
-   B) efficiently
-   C) efficiency
-   D) more efficient
-   ANSWER: B  — The word modifies the verb "runs", so it must be an adverb: "runs efficiently". Adjectives describe nouns, not verbs.
-
-[P20 structure] The water in the mountain lake looks ____ even in winter.
-   A) clearly
-   B) more clearly
-   C) clarity
-   D) clear
-   ANSWER: D  — "Looks" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "looks clear".
-
-[P20 written-expression] The population of the _A:city_ _B:increased_ _C:rapid_ _D:after_ the war.
-   ANSWER: C  — An adverb is needed to describe the verb "increased": "rapidly", not the adjective "rapid".
-
-[P20 written-expression] The _A:results_ of the survey _B:seemed_ _C:surprisingly_ _D:to_ most economists.
-   ANSWER: C  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
-
-[P20 structure] The island economy depends ____ on tourism.
-   A) heavily
-   B) heavy
-   C) more heavy
-   D) heaviness
-   ANSWER: A  — The word modifies the verb "depends", so it must be an adverb: "depends heavily". Adjectives describe nouns, not verbs.
-
-[P20 structure] The witness answered ____ during the trial.
-   A) calmness
-   B) more calm
-   C) calmly
-   D) calm
-   ANSWER: C  — The word modifies the verb "answered", so it must be an adverb: "answered calmly". Adjectives describe nouns, not verbs.
-
-[P20 structure] The explanation in the textbook sounds ____ to most readers.
-   A) reasonably
-   B) reasonable
-   C) reason
-   D) more reasonably
-   ANSWER: B  — "Sounds" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "sounds reasonable".
-
-[P20 structure] The volcano erupts ____ but rarely causes damage.
-   A) frequently
-   B) frequency
-   C) more frequent
-   D) frequent
-   ANSWER: A  — The word modifies the verb "erupts", so it must be an adverb: "erupts frequently". Adjectives describe nouns, not verbs.
+[P20 structure] The crowd cheered ____ when the team scored.
+   A) enthusiastic
+   B) enthusiastically
+   C) enthusiasm
+   D) more enthusiastic
+   ANSWER: B  — The word modifies the verb "cheered", so it must be an adverb: "cheered enthusiastically". Adjectives describe nouns, not verbs.
 
 [P20 structure] The old bridge remains ____ for light traffic.
-   A) safety
-   B) safely
-   C) more safely
+   A) safely
+   B) more safely
+   C) safety
    D) safe
    ANSWER: D  — "Remains" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "remains safe".
-
-[P20 written-expression] The _A:surgeon_ _B:operated_ _C:careful_ _D:on_ the injured patient.
-   ANSWER: C  — An adverb is needed to describe the verb "operated": "carefully", not the adjective "careful".
 
 [P20 written-expression] Food _A:prices_ _B:rose_ _C:sharp_ _D:during_ the drought.
    ANSWER: C  — An adverb is needed to describe the verb "rose": "sharply", not the adjective "sharp".
 
+[P20 written-expression] The streets _A:stayed_ _B:quietly_ _C:throughout_ the _D:holiday_.
+   ANSWER: B  — After the linking verb "stayed", use an adjective that describes the subject: "quiet", not the adverb "quietly".
+
+[P20 structure] The bread smells ____ in the morning.
+   A) freshness
+   B) freshly
+   C) fresh
+   D) more freshly
+   ANSWER: C  — "Smells" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "smells fresh".
+
+[P20 written-expression] The new _A:engine_ _B:runs_ _C:efficient_ _D:in_ cold weather.
+   ANSWER: C  — An adverb is needed to describe the verb "runs": "efficiently", not the adjective "efficient".
+
+[P20 structure] The children played ____ in the library.
+   A) quiet
+   B) quietly
+   C) more quiet
+   D) quietness
+   ANSWER: B  — The word modifies the verb "played", so it must be an adverb: "played quietly". Adjectives describe nouns, not verbs.
+
+[P20 structure] The roses in the garden smell ____ in early summer.
+   A) more sweetly
+   B) sweetness
+   C) sweetly
+   D) sweet
+   ANSWER: D  — "Smell" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "smell sweet".
+
+[P20 written-expression] The _A:virus_ _B:spread_ _C:swift_ through the crowded _D:city_.
+   ANSWER: C  — An adverb is needed to describe the verb "spread": "swiftly", not the adjective "swift".
+
+[P20 written-expression] The _A:explanation_ in the _B:textbook_ _C:sounds_ _D:reasonably_ to most readers.
+   ANSWER: D  — After the linking verb "sounds", use an adjective that describes the subject: "reasonable", not the adverb "reasonably".
+
+[P20 structure] Sales of electric cars climbed ____ over the past decade.
+   A) more steady
+   B) steadily
+   C) steady
+   D) steadiness
+   ANSWER: B  — The word modifies the verb "climbed", so it must be an adverb: "climbed steadily". Adjectives describe nouns, not verbs.
+
+[P20 structure] The singer sounded ____ at the start of the concert.
+   A) nervous
+   B) nervousness
+   C) more nervously
+   D) nervously
+   ANSWER: A  — "Sounded" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "sounded nervous".
+
+[P20 written-expression] The committee _A:worked_ _B:tireless_ _C:on_ the new _D:report_.
+   ANSWER: B  — An adverb is needed to describe the verb "worked": "tirelessly", not the adjective "tireless".
+
 [P20 structure] The air in the desert feels ____ at night.
-   A) coolly
-   B) more coolly
-   C) coolness
-   D) cool
-   ANSWER: D  — "Feels" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "feels cool".
+   A) cool
+   B) coolness
+   C) coolly
+   D) more coolly
+   ANSWER: A  — "Feels" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "feels cool".
 
-[P20 written-expression] The patient _A:became_ _B:calmly_ _C:after_ the _D:treatment_.
-   ANSWER: B  — After the linking verb "became", use an adjective that describes the subject: "calm", not the adverb "calmly".
+[P20 written-expression] Prices in the _A:region_ _B:vary_ _C:considerable_ _D:from_ season to season.
+   ANSWER: C  — An adverb is needed to describe the verb "vary": "considerably", not the adjective "considerable".
 
-[P20 written-expression] The _A:population_ of the _B:city_ _C:increased_ _D:rapid_ after the war.
-   ANSWER: D  — An adverb is needed to describe the verb "increased": "rapidly", not the adjective "rapid".
+[P20 structure] The patient became ____ after the treatment.
+   A) calm
+   B) calmly
+   C) more calmly
+   D) calmness
+   ANSWER: A  — "Became" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "became calm".
 
-[P20 written-expression] The results of the _A:survey_ _B:seemed_ _C:surprisingly_ _D:to_ most economists.
-   ANSWER: C  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
+[P20 written-expression] The _A:athlete_ _B:recovered_ _C:full_ from her _D:injury_.
+   ANSWER: C  — An adverb is needed to describe the verb "recovered": "fully", not the adjective "full".
 
-[P20 written-expression] The island _A:economy_ _B:depends_ _C:heavy_ on _D:tourism_.
-   ANSWER: C  — An adverb is needed to describe the verb "depends": "heavily", not the adjective "heavy".
+[P20 written-expression] The _A:manager_ seemed _B:confidently_ _C:about_ the _D:future_.
+   ANSWER: B  — After the linking verb "seemed", use an adjective that describes the subject: "confident", not the adverb "confidently".
 
-[P20 written-expression] The _A:results_ of the _B:survey_ _C:seemed_ _D:surprisingly_ to most economists.
-   ANSWER: D  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
+[P20 structure] The train arrived ____ at the station.
+   A) punctual
+   B) punctually
+   C) more punctual
+   D) punctuality
+   ANSWER: B  — The word modifies the verb "arrived", so it must be an adverb: "arrived punctually". Adjectives describe nouns, not verbs.
 
-[P20 written-expression] The _A:volcano_ _B:erupts_ _C:frequent_ but rarely _D:causes_ damage.
-   ANSWER: C  — An adverb is needed to describe the verb "erupts": "frequently", not the adjective "frequent".
-
-[P20 structure] The results of the survey seemed ____ to most economists.
-   A) surprise
-   B) surprisingly
-   C) surprising
-   D) more surprisingly
-   ANSWER: C  — "Seemed" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "seemed surprising".
-
-[P20 written-expression] The water in the mountain _A:lake_ looks _B:clearly_ _C:even_ in _D:winter_.
-   ANSWER: B  — After the linking verb "looks", use an adjective that describes the subject: "clear", not the adverb "clearly".
+[P20 structure] Most visitors remained ____ during the ceremony.
+   A) silent
+   B) more silently
+   C) silently
+   D) silence
+   ANSWER: A  — "Remained" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "remained silent".
 
 [P21 structure] Several companies are involved ____ building the new stadium.
    A) on

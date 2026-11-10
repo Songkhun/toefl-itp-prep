@@ -7,6 +7,7 @@ import { VocabSession } from '../VocabSession';
 import { completeMorning, localDate, startPlan, studiedPatterns, todayPlan, type TodayPlan } from '../../plan/plan';
 import { buildAfternoonSet, buildMock, buildMorningDrill, buildNewSet, historyFrom } from '../../session/build';
 import { patternAccuracy } from '../../stats/patternStats';
+import { buildReview, CLEAR_AFTER } from '../../session/review';
 import { rawToScaledStructure } from '../../scoring/estimate';
 import { PATTERNS } from '../../content/patterns';
 import type { PatternId, Question } from '../../domain/types';
@@ -164,6 +165,7 @@ export function Mock() {
         <h1>📝 Mock test — form {mock.form}</h1>
         <div className="card">
           <p>40 questions in 25 minutes: 15 Structure, then 25 Written Expression. The timer keeps running if you leave the app.</p>
+          {mock.generated && <p className="muted">You have taken all the fixed forms, so this is a newly generated test with the same mix of grammar patterns. None of its questions are repeats.</p>}
           {mock.repeat && <p className="muted">You have taken every form already, so this is a repeat. Its score may be higher than your true level.</p>}
         </div>
         <button className="primary" onClick={() => setStarted(true)}>Start the mock</button>
@@ -247,6 +249,25 @@ export function NewSet() {
         if (qs.length) setQuestions(qs);
       }}>Make me a new set</button>
       {noContent && <p className="card bad">No questions are available for this choice yet. Try "Mixed" or another pattern.</p>}
+    </div>
+  );
+}
+
+export function Review() {
+  const { store, content } = useEnv();
+  const [questions, setQuestions] = useState<Question[] | null>(null);
+  const [started, setStarted] = useState(false);
+  const [result, setResult] = useState<FinishResult | null>(null);
+  useEffect(() => { void store.getAttempts().then((a) => setQuestions(buildReview(a, seed(), content))); }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  if (!questions) return <p className="muted">Loading…</p>;
+  if (result) return <Done title="Mistakes review complete" result={result} questions={questions} />;
+  if (!questions.length) return <div><h1>🔁 My mistakes</h1><p className="card ok">No mistakes to review. Questions you get wrong will appear here.</p></div>;
+  if (started) return <QuestionPlayer store={store} kind="review" questions={questions} instantFeedback onFinish={setResult} />;
+  return (
+    <div>
+      <h1>🔁 My mistakes</h1>
+      <p className="card">{questions.length} questions you got wrong before. A question leaves this list after you answer it correctly {CLEAR_AFTER} times (in different sessions) since your last miss.</p>
+      <button className="primary" onClick={() => setStarted(true)}>Start review</button>
     </div>
   );
 }

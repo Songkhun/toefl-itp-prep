@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { Question } from '../domain/types';
-import type { ProgressStore, SessionDraft, SessionKind } from '../storage/store';
+import type { Attempt, ProgressStore, SessionDraft, SessionKind } from '../storage/store';
 import { QuestionView } from './QuestionView';
 import { formatMs, useDeadline } from './useDeadline';
 import { SECONDS_PER_QUESTION } from '../session/build';
@@ -84,7 +84,9 @@ export function QuestionPlayer({ store, kind, questions, timeLimitMs, draft, ins
     const next = { ...answers, [q.id]: choice };
     setAnswers(next);
     try {
-      const attempt = { questionId: q.id, patternId: q.patternId, correct: choice === q.answerIndex, ms: Math.max(0, now - shownAt.current), at: now, source: q.source, sessionKind: kind };
+      const correct = choice === q.answerIndex;
+      const attempt: Attempt = { questionId: q.id, patternId: q.patternId, correct, ms: Math.max(0, now - shownAt.current), at: now, source: q.source, sessionKind: kind };
+      if (!correct && q.source !== 'mock') attempt.question = q;
       saving.current = store.recordAnswer(attempt, draftOf(next));
       await saving.current;
     } catch {
