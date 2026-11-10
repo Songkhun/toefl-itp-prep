@@ -1774,6 +1774,206 @@
    D) kind of student
    ANSWER: B  — With a countable noun, "a number of" requires the plural form: "a number of students".
 
+[P18 structure] His cousin is ____ who travels a lot for work.
+   A) an hospital pharmacist
+   B) hospital pharmacist
+   C) hospital pharmacists
+   D) a hospital pharmacist
+   ANSWER: D  — "hospital" begins with a consonant sound, so the article is "a". A singular countable noun also needs an article, and the subject is singular, so the plural "hospital pharmacists" is wrong.
+
+[P18 written-expression] His _A:cousin_ _B:is_ _C:an_ uniformed police officer who lives in the _D:city_.
+   ANSWER: C  — "uniformed" begins with a "y" sound, so the article must be "a", not "an".
+
+[P18 structure] The speaker is ____ of the committee.
+   A) strongest member
+   B) the strongest member
+   C) the most strong member
+   D) a strongest member
+   ANSWER: B  — A superlative ("strongest") picks out one member of a group, so it takes "the": "the strongest member". "strongest" is already the superlative form, so "most" must not be added.
+
+[P18 written-expression] The _A:speaker_ _B:is_ _C:a_ best student in the _D:class_.
+   ANSWER: C  — A superlative ("best") picks out one member of a group, so it takes "the", not "a".
+
+[P18 structure] Many tourists visit ____ every year.
+   A) Egypt
+   B) Egyptian
+   C) the Egypt
+   D) an Egypt
+   ANSWER: A  — Names of countries take no article: "Egypt".
+
+[P18 written-expression] The _A:documentary_ was _B:filmed_ in _C:the Mount Kilimanjaro_ last _D:spring_.
+   ANSWER: C  — Names of single mountains take no article: "Mount Kilimanjaro", not "the Mount Kilimanjaro".
+
+[P18 structure] Her brother is ____ who travels a lot for work.
+   A) union leader
+   B) a union leader
+   C) union leaders
+   D) an union leader
+   ANSWER: B  — "union" begins with a "y" sound, so the article is "a". A singular countable noun also needs an article, and the subject is singular, so the plural "union leaders" is wrong.
+
+[P18 structure] Her brother is ____ on the team.
+   A) the most good player
+   B) a best player
+   C) the best player
+   D) best player
+   ANSWER: C  — A superlative ("best") picks out one member of a group, so it takes "the": "the best player". "best" is already the superlative form, so "most" must not be added.
+
+[P18 written-expression] Our _A:guest_ _B:is_ _C:a_ strongest member of the _D:committee_.
+   ANSWER: C  — A superlative ("strongest") picks out one member of a group, so it takes "the", not "a".
+
+[P18 structure] The documentary was filmed in ____ last spring.
+   A) a Lake Victoria
+   B) the Lake Victoria
+   C) the Victoria Lake
+   D) Lake Victoria
+   ANSWER: D  — Names of single lakes take no article: "Lake Victoria".
+
+[P18 written-expression] She wrote a _A:book_ about _B:Gobi Desert_ after a long _C:trip_ _D:there_.
+   ANSWER: B  — Names of deserts take "the": "the Gobi Desert", not "Gobi Desert".
+
+[P18 structure] The new tenant is ____ from a small town in the north.
+   A) honorary member of the club
+   B) a honorary member of the club
+   C) an honorary member of the club
+   D) honorary members of the club
+   ANSWER: C  — "honorary" begins with a vowel sound (the "h" is silent), so the article is "an". A singular countable noun also needs an article, and the subject is singular, so the plural "honorary members of the club" is wrong.
+
+[P18 written-expression] Our _A:guest_ _B:is_ _C:a_ honorary member of the club who _D:travels_ a lot for work.
+   ANSWER: C  — "honorary" begins with a vowel sound (the "h" is silent), so the article must be "an", not "a".
+
+[P18 written-expression] The _A:speaker_ is _B:a_ tallest _C:player_ on the _D:team_.
+   ANSWER: B  — A superlative ("tallest") picks out one member of a group, so it takes "the", not "a".
+
+[P18 written-expression] The new _A:tenant_ _B:is_ _C:an_ hospital pharmacist who lives in the _D:city_.
+   ANSWER: C  — "hospital" begins with a consonant sound, so the article must be "a", not "an".
+
+[P18 structure] Her brother is ____ of the committee.
+   A) youngest member
+   B) a youngest member
+   C) the youngest member
+   D) the most young member
+   ANSWER: C  — A superlative ("youngest") picks out one member of a group, so it takes "the": "the youngest member". "youngest" is already the superlative form, so "most" must not be added.
+
+[P18 written-expression] The new _A:tenant_ _B:is_ _C:a_ youngest member of the _D:committee_.
+   ANSWER: C  — A superlative ("youngest") picks out one member of a group, so it takes "the", not "a".
+
+[P18 structure] Scientists have studied ____ for many decades.
+   A) Egyptian
+   B) the Egypt
+   C) Egypt
+   D) an Egypt
+   ANSWER: C  — Names of countries take no article: "Egypt".
+
+[P18 written-expression] My _A:neighbor_ _B:is_ _C:a_ ambitious young lawyer who lives in the _D:city_.
+   ANSWER: C  — "ambitious" begins with a vowel sound, so the article must be "an", not "a".
+
+[P18 structure] His cousin is ____ in the club.
+   A) the most good runner
+   B) best runner
+   C) the best runner
+   D) a best runner
+   ANSWER: C  — A superlative ("best") picks out one member of a group, so it takes "the": "the best runner". "best" is already the superlative form, so "most" must not be added.
+
+[P19 structure] Workers had to ____ the old canal for larger ships.
+   A) depth
+   B) deep
+   C) deepen
+   D) deeply
+   ANSWER: C  — This blank needs a verb after "to" as a base-form verb, so the correct form is "deepen".
+
+[P19 written-expression] The _A:twins_ _B:reacted_ _C:differ_ to the _D:news_.
+   ANSWER: C  — "differ" is a verb, but this position needs an adverb to describe the verb "reacted": "differently".
+
+[P19 structure] The mother bear is very ____ of her cubs in spring.
+   A) protection
+   B) protectively
+   C) protective
+   D) protect
+   ANSWER: C  — This blank needs an adjective after "is very" to describe the subject, so the correct form is "protective".
+
+[P19 written-expression] The _A:city_ has many _B:attractively_ _C:parks_ and _D:gardens_.
+   ANSWER: B  — "attractively" is an adverb, but this position needs an adjective to describe the noun "parks": "attractive".
+
+[P19 structure] Customers value the ____ of the service above price.
+   A) reliable
+   B) reliably
+   C) rely
+   D) reliability
+   ANSWER: D  — This blank needs a noun after "the" as the object of "value", so the correct form is "reliability".
+
+[P19 written-expression] Temperatures in the _A:desert_ _B:variously_ greatly between _C:day_ and _D:night_.
+   ANSWER: B  — "variously" is an adverb, but this position needs a verb as the main verb for the subject "Temperatures": "vary".
+
+[P19 structure] The ____ of the national park protected many forests.
+   A) creation
+   B) creatively
+   C) creative
+   D) create
+   ANSWER: A  — This blank needs a noun after "The" as the subject of the sentence, so the correct form is "creation".
+
+[P19 written-expression] Regular _A:exercise_ can _B:strength_ the _C:heart_ and the _D:lungs_.
+   ANSWER: B  — "strength" is a noun, but this position needs a verb after "can" as a base-form verb: "strengthen".
+
+[P19 structure] Many farmers ____ on rain to water their crops.
+   A) reliability
+   B) reliable
+   C) reliably
+   D) rely
+   ANSWER: D  — This blank needs a verb as the main verb for the subject "Many farmers", so the correct form is "rely".
+
+[P19 written-expression] The _A:storm_ caused widespread _B:destructively_ along the _C:coast_ last _D:year_.
+   ANSWER: B  — "destructively" is an adverb, but this position needs a noun after "widespread" as the object of "caused": "destruction".
+
+[P19 structure] Twenty teams will ____ in the national tournament in May.
+   A) competitively
+   B) compete
+   C) competitive
+   D) competition
+   ANSWER: B  — This blank needs a verb after "will" as a base-form verb, so the correct form is "compete".
+
+[P19 written-expression] The old _A:castle_ is the main _B:attractive_ in the _C:town_ for _D:tourists_.
+   ANSWER: B  — "attractive" is an adjective, but this position needs a noun after "the main" as a noun: "attraction".
+
+[P19 structure] The ____ of the lake is about three hundred meters in some places.
+   A) depth
+   B) deepen
+   C) deep
+   D) deeply
+   ANSWER: A  — This blank needs a noun after "The" as the subject of the sentence, so the correct form is "depth".
+
+[P19 structure] The new software will ____ the billing process for customers.
+   A) simplify
+   B) simplicity
+   C) simple
+   D) simply
+   ANSWER: A  — This blank needs a verb after "will" as a base-form verb, so the correct form is "simplify".
+
+[P19 written-expression] The _A:company_ launched a _B:success_ new _C:product_ last _D:year_.
+   ANSWER: B  — "success" is a noun, but this position needs an adjective to describe the noun "product": "successful".
+
+[P19 written-expression] The _A:engineers_ hope to _B:creative_ a cheaper _C:battery_ for electric _D:cars_.
+   ANSWER: B  — "creative" is an adjective, but this position needs a verb after "to" as a base-form verb: "create".
+
+[P19 structure] A ____ wind damaged several roofs in the village.
+   A) strengthen
+   B) strength
+   C) strong
+   D) strongly
+   ANSWER: C  — This blank needs an adjective to describe the noun "wind", so the correct form is "strong".
+
+[P19 written-expression] The _A:residents_ _B:strengthen_ opposed the new _C:airport_ _D:project_.
+   ANSWER: B  — "strengthen" is a verb, but this position needs an adverb to describe the verb "opposed": "strongly".
+
+[P19 structure] The museum offers ____ programs for children on weekends.
+   A) education
+   B) educational
+   C) educate
+   D) educationally
+   ANSWER: B  — This blank needs an adjective to describe the noun "programs", so the correct form is "educational".
+
+[P19 written-expression] The _A:weather_ in the _B:region_ is fairly _C:predictably_ in _D:summer_.
+   ANSWER: C  — "predictably" is an adverb, but this position needs an adjective after "is fairly" to describe the subject: "predictable".
+
 [P20 structure] The new engine runs ____ in cold weather.
    A) efficient
    B) efficiently
@@ -1869,6 +2069,202 @@
 
 [P20 written-expression] The water in the mountain _A:lake_ looks _B:clearly_ _C:even_ in _D:winter_.
    ANSWER: B  — After the linking verb "looks", use an adjective that describes the subject: "clear", not the adverb "clearly".
+
+[P21 structure] New employees need time to adapt ____ the company culture.
+   A) with
+   B) for
+   C) to
+   D) at
+   ANSWER: C  — The fixed phrase is "adapt to", so the preposition must be "to".
+
+[P21 written-expression] The _A:museum_ is _B:interested_ _C:for_ buying the old _D:painting_.
+   ANSWER: C  — The fixed phrase is "interested in", so the preposition must be "in", not "for".
+
+[P21 structure] Poor planning often results ____ costly delays.
+   A) to
+   B) with
+   C) in
+   D) on
+   ANSWER: C  — The fixed phrase is "result in", so the preposition must be "in".
+
+[P21 written-expression] The _A:scientists_ _B:finally_ succeeded _C:for_ isolating the _D:virus_.
+   ANSWER: C  — The fixed phrase is "succeed in", so the preposition must be "in", not "for".
+
+[P21 structure] The captain was in charge ____ the whole crew during the voyage.
+   A) on
+   B) with
+   C) for
+   D) of
+   ANSWER: D  — The fixed phrase is "in charge of", so the preposition must be "of".
+
+[P21 written-expression] Patients _A:benefit_ _B:with_ regular _C:exercise_ and good _D:sleep_.
+   ANSWER: B  — The fixed phrase is "benefit from", so the preposition must be "from", not "with".
+
+[P21 written-expression] The new _A:fence_ prevents _B:deer_ _C:to_ entering the _D:garden_.
+   ANSWER: C  — The fixed phrase is "prevent ... from", so the preposition must be "from", not "to".
+
+[P21 written-expression] The _A:residents_ did not _B:approve_ _C:with_ the new building _D:plans_.
+   ANSWER: C  — The fixed phrase is "approve of", so the preposition must be "of", not "with".
+
+[P21 structure] All students must participate ____ the class discussion.
+   A) to
+   B) in
+   C) at
+   D) on
+   ANSWER: B  — The fixed phrase is "participate in", so the preposition must be "in".
+
+[P21 written-expression] Few _A:companies_ succeed _B:on_ entering this _C:market_ _D:quickly_.
+   ANSWER: B  — The fixed phrase is "succeed in", so the preposition must be "in", not "on".
+
+[P21 structure] Camels are well adapted ____ life in the desert.
+   A) to
+   B) with
+   C) for
+   D) at
+   ANSWER: A  — The fixed phrase is "adapt to", so the preposition must be "to".
+
+[P21 written-expression] Heavy _A:snow_ prevented the _B:climbers_ _C:of_ reaching the _D:summit_.
+   ANSWER: C  — The fixed phrase is "prevent ... from", so the preposition must be "from", not "of".
+
+[P21 structure] Students can apply ____ a scholarship in March.
+   A) for
+   B) on
+   C) at
+   D) with
+   ANSWER: A  — The fixed phrase is "apply for", so the preposition must be "for".
+
+[P21 written-expression] The _A:success_ of the _B:harvest_ depends _C:of_ the _D:weather_.
+   ANSWER: C  — The fixed phrase is "depend on", so the preposition must be "on", not "of".
+
+[P21 written-expression] The _A:coyote_ is similar _B:from_ the _C:wolf_ but _D:smaller_.
+   ANSWER: B  — The fixed phrase is "similar to", so the preposition must be "to", not "from".
+
+[P21 structure] Whales belong ____ the same group of animals as dolphins.
+   A) with
+   B) for
+   C) to
+   D) at
+   ANSWER: C  — The fixed phrase is "belong to", so the preposition must be "to".
+
+[P21 structure] The public reacted angrily ____ the tax increase.
+   A) at
+   B) to
+   C) for
+   D) on
+   ANSWER: B  — The fixed phrase is "react to", so the preposition must be "to".
+
+[P21 written-expression] The _A:delay_ was due _B:from_ bad _C:weather_ at the _D:airport_.
+   ANSWER: B  — The fixed phrase is "due to", so the preposition must be "to", not "from".
+
+[P21 structure] The manager is responsible ____ hiring new staff each year.
+   A) to
+   B) of
+   C) for
+   D) with
+   ANSWER: C  — The fixed phrase is "responsible for", so the preposition must be "for".
+
+[P21 written-expression] The ancient _A:coins_ _B:belong_ _C:with_ the national _D:museum_.
+   ANSWER: C  — The fixed phrase is "belong to", so the preposition must be "to", not "with".
+
+[P22 structure] The students ____ a great deal of work to restore the old lighthouse.
+   A) made
+   B) took
+   C) did
+   D) gave
+   ANSWER: C  — "a great deal of work" goes with "do": "did a great deal of work". "Make" is used for creating or deciding something (make a decision, make a mistake).
+
+[P22 written-expression] The _A:researchers_ _B:made_ a _C:favor_ for the _D:neighbors_.
+   ANSWER: B  — "a favor" goes with "do": "did a favor". "Make" is used for creating or deciding something (make a decision, make a mistake).
+
+[P22 structure] The mayor ____ that the new bridge would open in June.
+   A) said
+   B) talked
+   C) spoke
+   D) told
+   ANSWER: A  — "Say" is followed directly by a "that" clause. "Tell" needs a person first ("told reporters that...").
+
+[P22 written-expression] The two _A:cities_ look so much _B:like_ that _C:visitors_ often confuse _D:them_.
+   ANSWER: B  — "Alike" (similar) is used after a verb with no object following. "Like" needs an object ("look like each other"). Use "alike".
+
+[P22 structure] The researchers ____ serious harm to the local economy.
+   A) did
+   B) took
+   C) made
+   D) had
+   ANSWER: A  — "serious harm" goes with "do": "did serious harm". "Make" is used for creating or deciding something (make a decision, make a mistake).
+
+[P22 written-expression] The city _A:council_ _B:did_ good _C:progress_ during the first _D:month_.
+   ANSWER: B  — "good progress" goes with "make": "made good progress". "Do" is used for work, tasks and activities (do research, do business).
+
+[P22 written-expression] The new _A:policy_ will _B:effect_ thousands of _C:workers_ in the _D:region_.
+   ANSWER: B  — "Affect" is the verb (to influence). "Effect" is usually a noun (a result). Use "affect".
+
+[P22 structure] The young engineer ____ a lot of damage to the old garden.
+   A) took
+   B) did
+   C) made
+   D) had
+   ANSWER: B  — "a lot of damage" goes with "do": "did a lot of damage". "Make" is used for creating or deciding something (make a decision, make a mistake).
+
+[P22 written-expression] The _A:researchers_ _B:made_ extensive _C:research_ on the _D:topic_.
+   ANSWER: B  — "extensive research" goes with "do": "did extensive research". "Make" is used for creating or deciding something (make a decision, make a mistake).
+
+[P22 structure] Monarch butterflies ____ to the north in spring.
+   A) return back
+   B) returning back
+   C) back return
+   D) return
+   ANSWER: D  — "Return" already means "go back", so adding "back" is redundant.
+
+[P22 written-expression] The Blue Nile and the White _A:Nile_ _B:join together_ near the _C:city_ of _D:Khartoum_.
+   ANSWER: B  — "Join" already means "come together", so adding "together" is redundant. Use "join".
+
+[P22 structure] The researchers ____ a detailed plan for the new park.
+   A) got
+   B) made
+   C) did
+   D) took
+   ANSWER: B  — "a detailed plan" goes with "make": "made a detailed plan". "Do" is used for work, tasks and activities (do research, do business).
+
+[P22 written-expression] The _A:students_ _B:did_ a lot of _C:noise_ late at _D:night_.
+   ANSWER: B  — "a lot of noise" goes with "make": "made a lot of noise". "Do" is used for work, tasks and activities (do research, do business).
+
+[P22 structure] The students had to ____ books from the city library for the project.
+   A) lent
+   B) lend
+   C) lending
+   D) borrow
+   ANSWER: D  — The students take books and return them later, so the verb is "borrow ... from". The library "lends" books.
+
+[P22 written-expression] Most _A:birds_ _B:lie_ their eggs in _C:nests_ built from _D:twigs_.
+   ANSWER: B  — "Lay" (put down) takes an object ("their eggs"). "Lie" (rest) takes no object. Use "lay".
+
+[P22 structure] The students ____ a special effort to finish early.
+   A) made
+   B) took
+   C) did
+   D) got
+   ANSWER: A  — "a special effort" goes with "make": "made a special effort". "Do" is used for work, tasks and activities (do research, do business).
+
+[P22 written-expression] The _A:researchers_ _B:made_ _C:business_ with several foreign _D:companies_.
+   ANSWER: B  — "business" goes with "do": "did business". "Make" is used for creating or deciding something (make a decision, make a mistake).
+
+[P22 structure] The two companies decided to ____ into one large firm last year.
+   A) together merge
+   B) merge together
+   C) merge
+   D) merging together
+   ANSWER: C  — "Merge" already means "combine together", so adding "together" is redundant.
+
+[P22 written-expression] The old _A:cat_ likes to _B:lay_ in the _C:sun_ after _D:lunch_.
+   ANSWER: B  — "Lie" (rest) takes no object. "Lay" means "put something down" and needs an object. Use "lie".
+
+[P22 structure] The city council ____ several changes to the plan.
+   A) made
+   B) took
+   C) did
+   D) had
+   ANSWER: A  — "several changes" goes with "make": "made several changes". "Do" is used for work, tasks and activities (do research, do business).
 
 [P23 structure] The new drug is neither cheap ____ widely available.
    A) or
