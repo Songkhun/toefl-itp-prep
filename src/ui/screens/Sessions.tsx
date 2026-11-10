@@ -5,7 +5,7 @@ import { ReviewList } from '../ReviewList';
 import { Markdown } from '../Markdown';
 import { VocabSession } from '../VocabSession';
 import { completeMorning, localDate, startPlan, studiedPatterns, todayPlan, type TodayPlan } from '../../plan/plan';
-import { buildAfternoonSet, buildMock, buildMorningDrill, buildNewSet } from '../../session/build';
+import { buildAfternoonSet, buildMock, buildMorningDrill, buildNewSet, historyFrom } from '../../session/build';
 import { patternAccuracy } from '../../stats/patternStats';
 import { rawToScaledStructure } from '../../scoring/estimate';
 import { PATTERNS } from '../../content/patterns';
@@ -73,12 +73,13 @@ export function Morning() {
   useEffect(() => {
     void (async () => {
       const today = localDate(clock());
-      const state = await loadPlan(() => store.getPlan(), today);
+      const [state, attempts] = await Promise.all([loadPlan(() => store.getPlan(), today), store.getAttempts()]);
+      const history = historyFrom(attempts, clock().getTime());
       const t = todayPlan(state, today);
       setPlan({ state, today: t });
-      let qs = t.patternId ? buildMorningDrill(t.patternId, seed(), content) : [];
+      let qs = t.patternId ? buildMorningDrill(t.patternId, seed(), content, history) : [];
       // No content for today's pattern yet (or a review day): fall back to mixed review so the plan never gets stuck.
-      if (!qs.length) qs = buildNewSet('mixed', studiedPatterns(state), seed(), content);
+      if (!qs.length) qs = buildNewSet('mixed', studiedPatterns(state), seed(), content, history);
       setQuestions(qs);
     })();
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
@@ -125,7 +126,7 @@ export function Afternoon() {
     void (async () => {
       const today = localDate(clock());
       const [state, attempts, mocks] = await Promise.all([loadPlan(() => store.getPlan(), today), store.getAttempts(), store.getMockResults()]);
-      setSet(buildAfternoonSet(studiedPatterns(state), patternAccuracy(attempts), seed(), content));
+      setSet(buildAfternoonSet(studiedPatterns(state), patternAccuracy(attempts), seed(), content, historyFrom(attempts, clock().getTime())));
       const recent = mocks.some((m) => clock().getTime() - m.at < 7 * 86_400_000);
       setSuggestMock(todayPlan(state, today).week >= 2 && !recent && content.availableMockForms().length > 0);
     })();
@@ -240,8 +241,8 @@ export function NewSet() {
         {PATTERNS.filter((p) => studied.includes(p.id)).map((p) => <option key={p.id} value={p.id}>{p.title}</option>)}
       </select>
       <p />
-      <button className="primary" onClick={() => {
-        const qs = buildNewSet(choice, studied, seed(), content);
+      <button className="primary" onClick={async () => {
+        const qs = buildNewSet(choice, studied, seed(), content, historyFrom(await store.getAttempts(), clock().getTime()));
         setNoContent(!qs.length);
         if (qs.length) setQuestions(qs);
       }}>Make me a new set</button>
