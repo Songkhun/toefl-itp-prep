@@ -46,6 +46,22 @@ export const P07: Template[] = [
     },
   },
   {
+    patternId: P, type: 'structure',
+    build(rng) {
+      const f = choice(CONCESSION, rng);
+      return structure(P, `${cap(strip(f.mainFirst ?? f.main))} ____ ${strip(f.noun)}.`, 'despite', ['although', 'even though', 'because'],
+        `"${strip(f.noun)}" is a noun phrase, not a clause, so the preposition "despite" is needed. "Although" and "even though" need a subject and verb after them, and "because" shows cause, not contrast.`, rng);
+    },
+  },
+  {
+    patternId: P, type: 'structure',
+    build(rng) {
+      const f = choice(CAUSE, rng);
+      return structure(P, `${cap(strip(f.main))} ____ ${strip(f.noun)}.`, 'because of', ['because', 'since', 'although'],
+        `"${strip(f.noun)}" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" need a full clause, and "although" shows contrast, not cause.`, rng);
+    },
+  },
+  {
     patternId: P, type: 'written-expression',
     build(rng) {
       const f = choice(CONCESSION, rng);
