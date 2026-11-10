@@ -1874,105 +1874,105 @@
    D) a best runner
    ANSWER: C  — A superlative ("best") picks out one member of a group, so it takes "the": "the best runner". "best" is already the superlative form, so "most" must not be added.
 
-[P19 structure] Workers had to ____ the old canal for larger ships.
-   A) depth
-   B) deep
-   C) deepen
-   D) deeply
-   ANSWER: C  — This blank needs a verb after "to" as a base-form verb, so the correct form is "deepen".
+[P19 structure] English is ____ spoken in business and science around the world.
+   A) width
+   B) widen
+   C) widely
+   D) wide
+   ANSWER: C  — This blank needs an adverb to describe the verb "spoken", so the correct form is "widely".
 
-[P19 written-expression] The _A:twins_ _B:reacted_ _C:differ_ to the _D:news_.
-   ANSWER: C  — "differ" is a verb, but this position needs an adverb to describe the verb "reacted": "differently".
+[P19 written-expression] The mother _A:bear_ is very _B:protect_ of her _C:cubs_ in _D:spring_.
+   ANSWER: B  — "protect" is a verb, but this position needs an adjective after "is very" to describe the subject: "protective".
 
-[P19 structure] The mother bear is very ____ of her cubs in spring.
+[P19 structure] The store offers a wide ____ of products at low prices.
+   A) vary
+   B) variously
+   C) variety
+   D) various
+   ANSWER: C  — This blank needs a noun after "a wide" as a noun, so the correct form is "variety".
+
+[P19 written-expression] The _A:weather_ in the _B:region_ is fairly _C:predictably_ in _D:summer_.
+   ANSWER: C  — "predictably" is an adverb, but this position needs an adjective after "is fairly" to describe the subject: "predictable".
+
+[P19 structure] The instructions were ____ written in three languages.
+   A) clarify
+   B) clear
+   C) clarity
+   D) clearly
+   ANSWER: D  — This blank needs an adverb to describe the verb "written", so the correct form is "clearly".
+
+[P19 written-expression] Her _A:approach_ to the _B:problem_ was highly _C:analytically_ and _D:precise_.
+   ANSWER: C  — "analytically" is an adverb, but this position needs an adjective after "was highly" to describe the subject: "analytical".
+
+[P19 structure] A helmet provides ____ for the head in an accident.
    A) protection
    B) protectively
    C) protective
    D) protect
-   ANSWER: C  — This blank needs an adjective after "is very" to describe the subject, so the correct form is "protective".
+   ANSWER: A  — This blank needs a noun as the object of "provides", so the correct form is "protection".
 
-[P19 written-expression] The _A:city_ has many _B:attractively_ _C:parks_ and _D:gardens_.
-   ANSWER: B  — "attractively" is an adverb, but this position needs an adjective to describe the noun "parks": "attractive".
+[P19 written-expression] The _A:fire_ could _B:destruction_ the entire _C:forest_ within _D:days_.
+   ANSWER: B  — "destruction" is a noun, but this position needs a verb after "could" as a base-form verb: "destroy".
 
-[P19 structure] Customers value the ____ of the service above price.
-   A) reliable
-   B) reliably
-   C) rely
-   D) reliability
-   ANSWER: D  — This blank needs a noun after "the" as the object of "value", so the correct form is "reliability".
+[P19 structure] The water in the lake is ____ and cold.
+   A) clarity
+   B) clarify
+   C) clearly
+   D) clear
+   ANSWER: D  — This blank needs an adjective after "is" to describe the subject, so the correct form is "clear".
 
-[P19 written-expression] Temperatures in the _A:desert_ _B:variously_ greatly between _C:day_ and _D:night_.
-   ANSWER: B  — "variously" is an adverb, but this position needs a verb as the main verb for the subject "Temperatures": "vary".
+[P19 written-expression] The _A:school_ places great _B:emphatically_ on _C:reading_ and _D:writing_.
+   ANSWER: B  — "emphatically" is an adverb, but this position needs a noun after "great" as the object of "places": "emphasis".
 
-[P19 structure] The ____ of the national park protected many forests.
-   A) creation
-   B) creatively
-   C) creative
-   D) create
-   ANSWER: A  — This blank needs a noun after "The" as the subject of the sentence, so the correct form is "creation".
+[P19 structure] The forecaster made an accurate ____ about the storm.
+   A) predictably
+   B) prediction
+   C) predictable
+   D) predict
+   ANSWER: B  — This blank needs a noun after "an accurate" as the object of "made", so the correct form is "prediction".
 
-[P19 written-expression] Regular _A:exercise_ can _B:strength_ the _C:heart_ and the _D:lungs_.
-   ANSWER: B  — "strength" is a noun, but this position needs a verb after "can" as a base-form verb: "strengthen".
+[P19 written-expression] Many _A:families_ value a good _B:educational_ for their _C:children_ above _D:everything_.
+   ANSWER: B  — "educational" is an adjective, but this position needs a noun after "a good" as the object of "value": "education".
 
-[P19 structure] Many farmers ____ on rain to water their crops.
-   A) reliability
-   B) reliable
-   C) reliably
-   D) rely
-   ANSWER: D  — This blank needs a verb as the main verb for the subject "Many farmers", so the correct form is "rely".
+[P19 structure] The two countries finally signed a trade ____ in June.
+   A) agreement
+   B) agree
+   C) agreeable
+   D) agreeably
+   ANSWER: A  — This blank needs a noun after "a trade" as the object of "signed", so the correct form is "agreement".
 
-[P19 written-expression] The _A:storm_ caused widespread _B:destructively_ along the _C:coast_ last _D:year_.
-   ANSWER: B  — "destructively" is an adverb, but this position needs a noun after "widespread" as the object of "caused": "destruction".
-
-[P19 structure] Twenty teams will ____ in the national tournament in May.
-   A) competitively
-   B) compete
-   C) competitive
-   D) competition
-   ANSWER: B  — This blank needs a verb after "will" as a base-form verb, so the correct form is "compete".
-
-[P19 written-expression] The old _A:castle_ is the main _B:attractive_ in the _C:town_ for _D:tourists_.
-   ANSWER: B  — "attractive" is an adjective, but this position needs a noun after "the main" as a noun: "attraction".
-
-[P19 structure] The ____ of the lake is about three hundred meters in some places.
-   A) depth
-   B) deepen
-   C) deep
-   D) deeply
-   ANSWER: A  — This blank needs a noun after "The" as the subject of the sentence, so the correct form is "depth".
-
-[P19 structure] The new software will ____ the billing process for customers.
-   A) simplify
-   B) simplicity
-   C) simple
-   D) simply
-   ANSWER: A  — This blank needs a verb after "will" as a base-form verb, so the correct form is "simplify".
+[P19 structure] The museum displays the ____ copy of the document.
+   A) original
+   B) origin
+   C) originate
+   D) originally
+   ANSWER: A  — This blank needs an adjective to describe the noun "copy", so the correct form is "original".
 
 [P19 written-expression] The _A:company_ launched a _B:success_ new _C:product_ last _D:year_.
    ANSWER: B  — "success" is a noun, but this position needs an adjective to describe the noun "product": "successful".
 
-[P19 written-expression] The _A:engineers_ hope to _B:creative_ a cheaper _C:battery_ for electric _D:cars_.
-   ANSWER: B  — "creative" is an adjective, but this position needs a verb after "to" as a base-form verb: "create".
+[P19 written-expression] The _A:voters_ will _B:decisive_ the _C:future_ of the _D:city_.
+   ANSWER: B  — "decisive" is an adjective, but this position needs a verb after "will" as a base-form verb: "decide".
 
-[P19 structure] A ____ wind damaged several roofs in the village.
-   A) strengthen
-   B) strength
-   C) strong
-   D) strongly
-   ANSWER: C  — This blank needs an adjective to describe the noun "wind", so the correct form is "strong".
+[P19 structure] The new software will ____ the billing process for customers.
+   A) simple
+   B) simplicity
+   C) simplify
+   D) simply
+   ANSWER: C  — This blank needs a verb after "will" as a base-form verb, so the correct form is "simplify".
 
-[P19 written-expression] The _A:residents_ _B:strengthen_ opposed the new _C:airport_ _D:project_.
-   ANSWER: B  — "strengthen" is a verb, but this position needs an adverb to describe the verb "opposed": "strongly".
+[P19 written-expression] Some _A:insects_ are highly _B:destroy_ to _C:crops_ in _D:summer_.
+   ANSWER: B  — "destroy" is a verb, but this position needs an adjective after "are highly" to describe the subject: "destructive".
 
-[P19 structure] The museum offers ____ programs for children on weekends.
-   A) education
-   B) educational
-   C) educate
-   D) educationally
-   ANSWER: B  — This blank needs an adjective to describe the noun "programs", so the correct form is "educational".
+[P19 structure] The community expressed deep ____ for the victims of the flood.
+   A) sympathize
+   B) sympathy
+   C) sympathetic
+   D) sympathetically
+   ANSWER: B  — This blank needs a noun after "deep" as the object of "expressed", so the correct form is "sympathy".
 
-[P19 written-expression] The _A:weather_ in the _B:region_ is fairly _C:predictably_ in _D:summer_.
-   ANSWER: C  — "predictably" is an adverb, but this position needs an adjective after "is fairly" to describe the subject: "predictable".
+[P19 written-expression] After much _A:persuasively_, the _B:manager_ _C:agreed_ to the _D:plan_.
+   ANSWER: A  — "persuasively" is an adverb, but this position needs a noun after "much" as a noun: "persuasion".
 
 [P20 structure] The new engine runs ____ in cold weather.
    A) efficient
@@ -2070,101 +2070,105 @@
 [P20 written-expression] The water in the mountain _A:lake_ looks _B:clearly_ _C:even_ in _D:winter_.
    ANSWER: B  — After the linking verb "looks", use an adjective that describes the subject: "clear", not the adverb "clearly".
 
-[P21 structure] New employees need time to adapt ____ the company culture.
-   A) with
-   B) for
-   C) to
-   D) at
-   ANSWER: C  — The fixed phrase is "adapt to", so the preposition must be "to".
+[P21 structure] Several companies are involved ____ building the new stadium.
+   A) on
+   B) at
+   C) in
+   D) to
+   ANSWER: C  — The fixed phrase is "involved in", so the preposition must be "in".
 
-[P21 written-expression] The _A:museum_ is _B:interested_ _C:for_ buying the old _D:painting_.
-   ANSWER: C  — The fixed phrase is "interested in", so the preposition must be "in", not "for".
+[P21 written-expression] City _A:life_ is _B:very_ different _C:with_ life in the _D:countryside_.
+   ANSWER: C  — The fixed phrase is "different from", so the preposition must be "from", not "with".
 
-[P21 structure] Poor planning often results ____ costly delays.
+[P21 structure] She finally succeeded ____ passing her driving test.
    A) to
-   B) with
+   B) for
    C) in
    D) on
-   ANSWER: C  — The fixed phrase is "result in", so the preposition must be "in".
+   ANSWER: C  — The fixed phrase is "succeed in", so the preposition must be "in".
 
-[P21 written-expression] The _A:scientists_ _B:finally_ succeeded _C:for_ isolating the _D:virus_.
-   ANSWER: C  — The fixed phrase is "succeed in", so the preposition must be "in", not "for".
+[P21 written-expression] More than two hundred _A:people_ applied _B:with_ the _C:job_ _D:last_ month.
+   ANSWER: B  — The fixed phrase is "apply for", so the preposition must be "for", not "with".
 
-[P21 structure] The captain was in charge ____ the whole crew during the voyage.
-   A) on
-   B) with
-   C) for
-   D) of
-   ANSWER: D  — The fixed phrase is "in charge of", so the preposition must be "of".
-
-[P21 written-expression] Patients _A:benefit_ _B:with_ regular _C:exercise_ and good _D:sleep_.
-   ANSWER: B  — The fixed phrase is "benefit from", so the preposition must be "from", not "with".
-
-[P21 written-expression] The new _A:fence_ prevents _B:deer_ _C:to_ entering the _D:garden_.
-   ANSWER: C  — The fixed phrase is "prevent ... from", so the preposition must be "from", not "to".
-
-[P21 written-expression] The _A:residents_ did not _B:approve_ _C:with_ the new building _D:plans_.
-   ANSWER: C  — The fixed phrase is "approve of", so the preposition must be "of", not "with".
-
-[P21 structure] All students must participate ____ the class discussion.
+[P21 structure] There is no clear reason ____ his sudden departure.
    A) to
-   B) in
-   C) at
-   D) on
-   ANSWER: B  — The fixed phrase is "participate in", so the preposition must be "in".
+   B) about
+   C) of
+   D) for
+   ANSWER: D  — The fixed phrase is "reason for", so the preposition must be "for".
 
-[P21 written-expression] Few _A:companies_ succeed _B:on_ entering this _C:market_ _D:quickly_.
-   ANSWER: B  — The fixed phrase is "succeed in", so the preposition must be "in", not "on".
+[P21 written-expression] According _A:for_ the _B:museum_, the _C:painting_ is very _D:old_.
+   ANSWER: A  — The fixed phrase is "according to", so the preposition must be "to", not "for".
 
-[P21 structure] Camels are well adapted ____ life in the desert.
-   A) to
-   B) with
-   C) for
-   D) at
-   ANSWER: A  — The fixed phrase is "adapt to", so the preposition must be "to".
-
-[P21 written-expression] Heavy _A:snow_ prevented the _B:climbers_ _C:of_ reaching the _D:summit_.
-   ANSWER: C  — The fixed phrase is "prevent ... from", so the preposition must be "from", not "of".
-
-[P21 structure] Students can apply ____ a scholarship in March.
+[P21 structure] The residents did not approve ____ the new building plans.
    A) for
-   B) on
-   C) at
-   D) with
-   ANSWER: A  — The fixed phrase is "apply for", so the preposition must be "for".
+   B) of
+   C) with
+   D) to
+   ANSWER: B  — The fixed phrase is "approve of", so the preposition must be "of".
 
-[P21 written-expression] The _A:success_ of the _B:harvest_ depends _C:of_ the _D:weather_.
-   ANSWER: C  — The fixed phrase is "depend on", so the preposition must be "on", not "of".
+[P21 written-expression] The _A:atmosphere_ is _B:composed_ mainly _C:by_ nitrogen and _D:oxygen_.
+   ANSWER: C  — The fixed phrase is "composed of", so the preposition must be "of", not "by".
 
-[P21 written-expression] The _A:coyote_ is similar _B:from_ the _C:wolf_ but _D:smaller_.
-   ANSWER: B  — The fixed phrase is "similar to", so the preposition must be "to", not "from".
-
-[P21 structure] Whales belong ____ the same group of animals as dolphins.
-   A) with
-   B) for
-   C) to
-   D) at
-   ANSWER: C  — The fixed phrase is "belong to", so the preposition must be "to".
-
-[P21 structure] The public reacted angrily ____ the tax increase.
+[P21 structure] Hundreds of volunteers were involved ____ the cleanup.
    A) at
+   B) on
+   C) to
+   D) in
+   ANSWER: D  — The fixed phrase is "involved in", so the preposition must be "in".
+
+[P21 written-expression] The _A:council_ is responsible _B:of_ repairing local _C:roads_ and _D:parks_.
+   ANSWER: B  — The fixed phrase is "responsible for", so the preposition must be "for", not "of".
+
+[P21 written-expression] The _A:company_ will _B:now_ concentrate _C:in_ its online _D:sales_.
+   ANSWER: C  — The fixed phrase is "concentrate on", so the preposition must be "on", not "in".
+
+[P21 written-expression] _A:Music_ can have a _B:strong_ effect _C:for_ our _D:mood_.
+   ANSWER: C  — The fixed phrase is "effect on", so the preposition must be "on", not "for".
+
+[P21 structure] Long hours at a desk are associated ____ back pain.
+   A) by
+   B) with
+   C) to
+   D) for
+   ANSWER: B  — The fixed phrase is "associated with", so the preposition must be "with".
+
+[P21 written-expression] Many _A:villages_ still rely _B:of_ _C:wells_ for drinking _D:water_.
+   ANSWER: B  — The fixed phrase is "rely on", so the preposition must be "on", not "of".
+
+[P21 structure] The main reason ____ the delay was the weather.
+   A) of
    B) to
    C) for
-   D) on
-   ANSWER: B  — The fixed phrase is "react to", so the preposition must be "to".
+   D) about
+   ANSWER: C  — The fixed phrase is "reason for", so the preposition must be "for".
 
-[P21 written-expression] The _A:delay_ was due _B:from_ bad _C:weather_ at the _D:airport_.
-   ANSWER: B  — The fixed phrase is "due to", so the preposition must be "to", not "from".
+[P21 written-expression] Whales _A:belong_ _B:at_ the same _C:group_ of animals as _D:dolphins_.
+   ANSWER: B  — The fixed phrase is "belong to", so the preposition must be "to", not "at".
 
-[P21 structure] The manager is responsible ____ hiring new staff each year.
-   A) to
-   B) of
-   C) for
+[P21 structure] Engineers must be familiar ____ the safety rules.
+   A) of
+   B) in
+   C) at
    D) with
-   ANSWER: C  — The fixed phrase is "responsible for", so the preposition must be "for".
+   ANSWER: D  — The fixed phrase is "familiar with", so the preposition must be "with".
 
-[P21 written-expression] The ancient _A:coins_ _B:belong_ _C:with_ the national _D:museum_.
-   ANSWER: C  — The fixed phrase is "belong to", so the preposition must be "to", not "with".
+[P21 structure] The price of tickets depends ____ the season.
+   A) on
+   B) at
+   C) of
+   D) from
+   ANSWER: A  — The fixed phrase is "depend on", so the preposition must be "on".
+
+[P21 written-expression] Young _A:children_ are _B:capable_ _C:to_ learning two _D:languages_.
+   ANSWER: C  — The fixed phrase is "capable of", so the preposition must be "of", not "to".
+
+[P21 structure] Local schools will participate ____ the science fair.
+   A) on
+   B) to
+   C) at
+   D) in
+   ANSWER: D  — The fixed phrase is "participate in", so the preposition must be "in".
 
 [P22 structure] The students ____ a great deal of work to restore the old lighthouse.
    A) made
