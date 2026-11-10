@@ -98,3 +98,43 @@ it('across 500 seeds, no drill, afternoon or new-set output contains a mock item
     expect(noMock(buildNewSet('mixed', ['P01', 'P18'], seed, fixture))).toBe(true);
   }
 });
+
+describe('avoids recently answered bank items', () => {
+  const NOW = 10 * 86_400_000;
+  const p01Bank = fixture.drillItems('P01');
+  const seenAll = { seen: new Map(p01Bank.map((q) => [q.id, NOW - 3600_000])), now: NOW };
+
+  it('morning drill uses no bank item answered in the last 3 days when a generator exists', () => {
+    const qs = buildMorningDrill('P01', 7, fixture, seenAll);
+    expect(qs).toHaveLength(15);
+    expect(qs.filter((q) => q.source === 'drill')).toHaveLength(0);
+  });
+  it('morning drill takes unseen bank items first', () => {
+    const seen = new Map(p01Bank.slice(0, 5).map((q) => [q.id, NOW - 3600_000]));
+    const qs = buildMorningDrill('P01', 7, fixture, { seen, now: NOW });
+    const drillIds = qs.filter((q) => q.source === 'drill').map((q) => q.id);
+    expect(drillIds).toHaveLength(5);
+    expect(drillIds.every((id) => !seen.has(id))).toBe(true);
+  });
+  it('bank items answered more than 3 days ago come back', () => {
+    const old = { seen: new Map(p01Bank.map((q) => [q.id, NOW - 4 * 86_400_000])), now: NOW };
+    expect(buildMorningDrill('P01', 7, fixture, old).filter((q) => q.source === 'drill')).toHaveLength(5);
+  });
+  it('a no-generator pattern puts the least recently answered items first', () => {
+    const bank = fixture.drillItems('P18');
+    // item i answered at NOW - i hours: items 15 and 14 are the oldest; item 0 the newest
+    const seen = new Map(bank.map((q, i) => [q.id, NOW - i * 3600_000]));
+    const qs = buildMorningDrill('P18', 7, fixture, { seen, now: NOW });
+    expect(qs.map((q) => q.id)).not.toContain(bank[0].id);
+  });
+  it('afternoon set skips recently answered bank items', () => {
+    const { questions } = buildAfternoonSet(['P01'], new Map(), 7, fixture, seenAll);
+    expect(questions).toHaveLength(20);
+    expect(questions.filter((q) => q.source === 'drill')).toHaveLength(0);
+  });
+  it('mixed new set skips recently answered bank items', () => {
+    const qs = buildNewSet('mixed', ['P01'], 7, fixture, seenAll);
+    expect(qs).toHaveLength(15);
+    expect(qs.filter((q) => q.source === 'drill')).toHaveLength(0);
+  });
+});

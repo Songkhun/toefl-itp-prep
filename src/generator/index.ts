@@ -56,9 +56,11 @@ export function generate(patternId: PatternId, count: number, seed: number): Que
   const out: Question[] = [];
   const words: Set<string>[] = [];
   const stems = new Set<string>();
+  // Random starting template, so small sets (e.g. one item at a time) don't always use the first template.
+  const start = Math.floor(rng() * templates.length);
   for (let i = 0; out.length < count && i < count * 200; i++) {
     const strict = i < count * 150;
-    const built = templates[i % templates.length].build(rng);
+    const built = templates[(start + i) % templates.length].build(rng);
     if (stems.has(built.stem)) continue;
     const w = sentenceWords(built as Question);
     if (strict && words.some((x) => similarity(x, w) >= MAX_SIMILARITY)) continue;

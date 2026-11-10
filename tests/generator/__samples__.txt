@@ -1,405 +1,421 @@
-[P01 structure] The library ____ free courses in computer skills.
-   A) offering
-   B) offers
-   C) to offer
-   D) which offers
-   ANSWER: B  — The sentence has a subject ("The library") but no main verb. "offers" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+[P01 structure] The newspaper ____ on economic news.
+   A) reporting
+   B) to report
+   C) reports
+   D) which reports
+   ANSWER: C  — The sentence has a subject ("The newspaper") but no main verb. "reports" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
 
-[P01 structure] ____ attract large numbers of visitors.
-   A) Museums they
-   B) Museums
-   C) Because museums
-   D) That museums
-   ANSWER: B  — The verb "attract" needs a subject that is just a noun phrase. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "Museums they" repeats the subject.
+[P01 structure] ____ attracts large numbers of visitors.
+   A) The museum it
+   B) That the museum
+   C) The museum
+   D) Because the museum
+   ANSWER: C  — The verb "attracts" needs a subject that is just a noun phrase. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "The museum it" repeats the subject.
 
-[P01 structure] In many countries, ____ rice in the river valley.
-   A) farmers growing
-   B) growing farmers
-   C) farmers grow
-   D) when farmers grow
-   ANSWER: C  — After the introductory phrase, the sentence still needs a subject and a main verb: "farmers grow". An -ing form is not a main verb, "when…" makes the clause dependent, and "growing farmers" puts the words in the wrong order.
+[P01 structure] These days, ____ nurses in emergency care.
+   A) when the hospital trains
+   B) the hospital trains
+   C) training the hospital
+   D) the hospital training
+   ANSWER: B  — After the introductory phrase, the sentence still needs a subject and a main verb: "the hospital trains". An -ing form is not a main verb, "when…" makes the clause dependent, and "training the hospital" puts the words in the wrong order.
 
-[P01 written-expression] _A:Universities_ _B:funding_ medical _C:research_ _D:projects_.
-   ANSWER: B  — "funding" cannot be the main verb of a sentence. The sentence needs the verb "fund".
+[P01 written-expression] The _A:library_ _B:offering_ free _C:courses_ _D:in_ computer skills.
+   ANSWER: B  — "offering" cannot be the main verb of a sentence. The sentence needs the verb "offers".
 
-[P01 written-expression] These _A:days_, the river _B:it carries_ _C:sediment_ _D:toward_ the sea.
-   ANSWER: B  — The subject is already "the river", so the pronoun "it" is an unnecessary second subject. The correct form is just "carries".
+[P01 written-expression] _A:Rivers_ _B:they carry_ _C:sediment_ _D:toward_ the sea.
+   ANSWER: B  — The subject is already "rivers", so the pronoun "they" is an unnecessary second subject. The correct form is just "carry".
 
-[P01 structure] The bakery ____ fresh bread every morning.
-   A) to sell
-   B) which sells
-   C) sells
-   D) selling
-   ANSWER: C  — The sentence has a subject ("The bakery") but no main verb. "sells" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+[P01 structure] The school ____ students about local history.
+   A) teaching
+   B) to teach
+   C) teaches
+   D) which teaches
+   ANSWER: C  — The sentence has a subject ("The school") but no main verb. "teaches" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
 
-[P01 structure] ____ trains nurses in emergency care.
-   A) The hospital it
-   B) The hospital
-   C) Because the hospital
-   D) That the hospital
-   ANSWER: B  — The verb "trains" needs a subject that is just a noun phrase. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "The hospital it" repeats the subject.
-
-[P01 written-expression] _A:Libraries_ _B:offering_ free _C:courses_ _D:in_ computer skills.
-   ANSWER: B  — "offering" cannot be the main verb of a sentence. The sentence needs the verb "offer".
-
-[P01 written-expression] The _A:museum_ _B:it attracts_ large _C:numbers_ of _D:visitors_.
-   ANSWER: B  — The subject is already "the museum", so the pronoun "it" is an unnecessary second subject. The correct form is just "attracts".
-
-[P01 structure] Newspapers ____ on economic news.
-   A) which report
-   B) report
-   C) to report
-   D) reporting
-   ANSWER: B  — The sentence has a subject ("Newspapers") but no main verb. "report" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
-
-[P01 structure] Today, ____ on economic news.
-   A) the newspaper reports
-   B) when the newspaper reports
-   C) the newspaper reporting
-   D) reporting the newspaper
-   ANSWER: A  — After the introductory phrase, the sentence still needs a subject and a main verb: "the newspaper reports". An -ing form is not a main verb, "when…" makes the clause dependent, and "reporting the newspaper" puts the words in the wrong order.
-
-[P01 structure] ____ export electronic equipment to Asia.
-   A) Companies
-   B) Companies they
-   C) That companies
-   D) Because companies
-   ANSWER: A  — The verb "export" needs a subject that is just a noun phrase. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "Companies they" repeats the subject.
-
-[P01 written-expression] These _A:days_, the _B:university_ _C:funding_ medical research _D:projects_.
-   ANSWER: C  — "funding" cannot be the main verb of a sentence. The sentence needs the verb "funds".
+[P01 structure] ____ grow rice in the river valley.
+   A) Because farmers
+   B) Farmers
+   C) That farmers
+   D) Farmers they
+   ANSWER: B  — The verb "grow" needs a subject that is just a noun phrase. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "Farmers they" repeats the subject.
 
 [P01 structure] In general, ____ medical research projects.
-   A) funding universities
-   B) universities fund
-   C) universities funding
-   D) when universities fund
-   ANSWER: B  — After the introductory phrase, the sentence still needs a subject and a main verb: "universities fund". An -ing form is not a main verb, "when…" makes the clause dependent, and "funding universities" puts the words in the wrong order.
+   A) universities fund
+   B) universities funding
+   C) when universities fund
+   D) funding universities
+   ANSWER: A  — After the introductory phrase, the sentence still needs a subject and a main verb: "universities fund". An -ing form is not a main verb, "when…" makes the clause dependent, and "funding universities" puts the words in the wrong order.
 
-[P01 written-expression] _A:Bakeries_ _B:selling_ fresh _C:bread_ _D:every_ morning.
-   ANSWER: B  — "selling" cannot be the main verb of a sentence. The sentence needs the verb "sell".
+[P01 written-expression] In many _A:countries_, libraries _B:offering_ free _C:courses_ _D:in_ computer skills.
+   ANSWER: B  — "offering" cannot be the main verb of a sentence. The sentence needs the verb "offer".
 
-[P01 written-expression] _A:Hospitals_ _B:they train_ nurses _C:in_ _D:emergency_ care.
-   ANSWER: B  — The subject is already "hospitals", so the pronoun "they" is an unnecessary second subject. The correct form is just "train".
+[P01 written-expression] The _A:farmer_ _B:it grows_ rice _C:in_ the river _D:valley_.
+   ANSWER: B  — The subject is already "the farmer", so the pronoun "it" is an unnecessary second subject. The correct form is just "grows".
 
-[P01 written-expression] In many _A:countries_, _B:companies_ _C:exporting_ electronic equipment _D:to_ Asia.
-   ANSWER: C  — "exporting" cannot be the main verb of a sentence. The sentence needs the verb "export".
+[P01 structure] Hospitals ____ nurses in emergency care.
+   A) to train
+   B) train
+   C) training
+   D) which train
+   ANSWER: B  — The sentence has a subject ("Hospitals") but no main verb. "train" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
 
-[P01 structure] ____ teaches students about local history.
-   A) Because the school
-   B) The school
-   C) That the school
-   D) The school it
-   ANSWER: B  — The verb "teaches" needs a subject that is just a noun phrase. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "The school it" repeats the subject.
+[P01 structure] ____ exports electronic equipment to Asia.
+   A) That the company
+   B) Because the company
+   C) The company it
+   D) The company
+   ANSWER: D  — The verb "exports" needs a subject that is just a noun phrase. "Because…" and "That…" turn the sentence into a dependent clause with no main clause, and "The company it" repeats the subject.
 
-[P01 structure] The company ____ electronic equipment to Asia.
-   A) exporting
-   B) exports
-   C) to export
-   D) which exports
-   ANSWER: B  — The sentence has a subject ("The company") but no main verb. "exports" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+[P01 structure] In many countries, ____ students about local history.
+   A) schools teaching
+   B) schools teach
+   C) teaching schools
+   D) when schools teach
+   ANSWER: B  — After the introductory phrase, the sentence still needs a subject and a main verb: "schools teach". An -ing form is not a main verb, "when…" makes the clause dependent, and "teaching schools" puts the words in the wrong order.
 
-[P01 structure] Rivers ____ sediment toward the sea.
-   A) to carry
-   B) carrying
-   C) carry
-   D) which carry
-   ANSWER: C  — The sentence has a subject ("Rivers") but no main verb. "carry" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+[P01 structure] In many countries, ____ on economic news.
+   A) reporting newspapers
+   B) newspapers report
+   C) when newspapers report
+   D) newspapers reporting
+   ANSWER: B  — After the introductory phrase, the sentence still needs a subject and a main verb: "newspapers report". An -ing form is not a main verb, "when…" makes the clause dependent, and "reporting newspapers" puts the words in the wrong order.
 
-[P02 structure] The quality of the local schools ____ greatly in recent years.
-   A) has improved
-   B) have improved
-   C) to improve
-   D) improving
-   ANSWER: A  — The subject is "the quality" (singular). "schools" is inside the phrase "of the local schools" and does not change the subject, so the verb must be "has improved".
+[P01 written-expression] The _A:bakery_ _B:selling_ fresh _C:bread_ _D:every_ morning.
+   ANSWER: B  — "selling" cannot be the main verb of a sentence. The sentence needs the verb "sells".
+
+[P01 structure] Companies ____ electronic equipment to Asia.
+   A) to export
+   B) exporting
+   C) which export
+   D) export
+   ANSWER: D  — The sentence has a subject ("Companies") but no main verb. "export" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+
+[P01 written-expression] These _A:days_, the _B:museum_ _C:attracting_ large numbers of _D:visitors_.
+   ANSWER: C  — "attracting" cannot be the main verb of a sentence. The sentence needs the verb "attracts".
+
+[P01 structure] Museums ____ large numbers of visitors.
+   A) attract
+   B) which attract
+   C) to attract
+   D) attracting
+   ANSWER: A  — The sentence has a subject ("Museums") but no main verb. "attract" is a complete main verb. An -ing form, a "to" infinitive, or a "which" clause cannot be the main verb of a sentence.
+
+[P01 written-expression] Today, the _A:river_ _B:it carries_ _C:sediment_ _D:toward_ the sea.
+   ANSWER: B  — The subject is already "the river", so the pronoun "it" is an unnecessary second subject. The correct form is just "carries".
+
+[P01 structure] These days, ____ fresh bread every morning.
+   A) selling the bakery
+   B) when the bakery sells
+   C) the bakery sells
+   D) the bakery selling
+   ANSWER: C  — After the introductory phrase, the sentence still needs a subject and a main verb: "the bakery sells". An -ing form is not a main verb, "when…" makes the clause dependent, and "selling the bakery" puts the words in the wrong order.
+
+[P02 structure] The causes of the disease ____ largely unknown.
+   A) remains
+   B) remain
+   C) remaining
+   D) to remain
+   ANSWER: B  — The subject is "the causes" (plural). "disease" is inside the phrase "of the disease" and does not change the subject, so the verb must be "remain".
 
 [P02 structure] Each of the students ____ a locker in the main hall.
-   A) having
-   B) have
-   C) they have
+   A) have
+   B) they have
+   C) having
    D) has
    ANSWER: D  — "Each" is the real subject and it is singular, so the verb is "has". "Of the students" does not change that.
 
-[P02 written-expression] According to the _A:report_, the results of the recent survey _B:shows_ a clear _C:change_ _D:in_ public opinion.
-   ANSWER: B  — The subject is "the results" (plural). "survey" is inside the phrase "of the recent survey" and does not change the subject, so the verb must be "show".
+[P02 written-expression] The _A:members_ of the planning committee _B:meets_ _C:every_ Thursday _D:morning_.
+   ANSWER: B  — The subject is "the members" (plural). "committee" is inside the phrase "of the planning committee" and does not change the subject, so the verb must be "meet".
 
 [P02 written-expression] Each of the _A:paintings_ _B:were_ carefully _C:restored_ _D:before_ the exhibition.
    ANSWER: B  — "Each" is singular, so the verb must be "was", not "were".
 
-[P02 structure] The effect of these new policies ____ difficult to measure.
-   A) is
-   B) are
-   C) to be
-   D) being
-   ANSWER: A  — The subject is "the effect" (singular). "policies" is inside the phrase "of these new policies" and does not change the subject, so the verb must be "is".
-
-[P02 written-expression] A _A:list_ of the required _B:books_ _C:are_ available at the _D:library_.
-   ANSWER: C  — The subject is "a list" (singular). "books" is inside the phrase "of the required books" and does not change the subject, so the verb must be "is".
-
-[P02 written-expression] _A:Each_ of the cities _B:are_ connected _C:to_ the capital _D:by_ a high-speed railway.
-   ANSWER: B  — "Each" is singular, so the verb must be "is", not "are".
-
-[P02 structure] The price of fresh vegetables ____ sharply in the winter.
-   A) rising
-   B) to rise
-   C) rises
-   D) rise
-   ANSWER: C  — The subject is "the price" (singular). "vegetables" is inside the phrase "of fresh vegetables" and does not change the subject, so the verb must be "rises".
+[P02 structure] The leaders of the organization ____ to meet again next year.
+   A) have agreed
+   B) agreeing
+   C) has agreed
+   D) to agree
+   ANSWER: A  — The subject is "the leaders" (plural). "organization" is inside the phrase "of the organization" and does not change the subject, so the verb must be "have agreed".
 
 [P02 structure] Each of the volunteers ____ a certificate at the end of the program.
-   A) receive
-   B) receives
-   C) receiving
-   D) they receive
-   ANSWER: B  — "Each" is the real subject and it is singular, so the verb is "receives". "Of the volunteers" does not change that.
+   A) receiving
+   B) they receive
+   C) receive
+   D) receives
+   ANSWER: D  — "Each" is the real subject and it is singular, so the verb is "receives". "Of the volunteers" does not change that.
 
-[P02 written-expression] The _A:leaders_ of the _B:organization_ _C:has agreed_ to _D:meet_ again next year.
-   ANSWER: C  — The subject is "the leaders" (plural). "organization" is inside the phrase "of the organization" and does not change the subject, so the verb must be "have agreed".
+[P02 written-expression] The _A:walls_ of the ancient _B:temple_ _C:is_ covered with detailed _D:paintings_.
+   ANSWER: C  — The subject is "the walls" (plural). "temple" is inside the phrase "of the ancient temple" and does not change the subject, so the verb must be "are".
 
-[P02 written-expression] The _A:members_ of the planning _B:committee_ _C:meets_ _D:every_ Thursday morning.
-   ANSWER: C  — The subject is "the members" (plural). "committee" is inside the phrase "of the planning committee" and does not change the subject, so the verb must be "meet".
+[P02 structure] Each of the cities ____ connected to the capital by a high-speed railway.
+   A) is
+   B) are
+   C) being
+   D) they are
+   ANSWER: A  — "Each" is the real subject and it is singular, so the verb is "is". "Of the cities" does not change that.
 
-[P02 written-expression] According to official _A:records_, the _B:price_ of fresh _C:vegetables_ _D:rise_ sharply in the winter.
-   ANSWER: D  — The subject is "the price" (singular). "vegetables" is inside the phrase "of fresh vegetables" and does not change the subject, so the verb must be "rises".
+[P02 written-expression] According to official _A:records_, the _B:quality_ of the local _C:schools_ _D:have improved_ greatly in recent years.
+   ANSWER: D  — The subject is "the quality" (singular). "schools" is inside the phrase "of the local schools" and does not change the subject, so the verb must be "has improved".
 
-[P02 written-expression] The _A:causes_ of the disease _B:remains_ _C:largely_ _D:unknown_.
-   ANSWER: B  — The subject is "the causes" (plural). "disease" is inside the phrase "of the disease" and does not change the subject, so the verb must be "remain".
+[P02 written-expression] According to the _A:report_, the _B:results_ of the recent _C:survey_ _D:shows_ a clear change in public opinion.
+   ANSWER: D  — The subject is "the results" (plural). "survey" is inside the phrase "of the recent survey" and does not change the subject, so the verb must be "show".
+
+[P02 structure] The quality of the local schools ____ greatly in recent years.
+   A) have improved
+   B) improving
+   C) has improved
+   D) to improve
+   ANSWER: C  — The subject is "the quality" (singular). "schools" is inside the phrase "of the local schools" and does not change the subject, so the verb must be "has improved".
+
+[P02 written-expression] According to the report, the _A:price_ of fresh vegetables _B:rise_ _C:sharply_ in the _D:winter_.
+   ANSWER: B  — The subject is "the price" (singular). "vegetables" is inside the phrase "of fresh vegetables" and does not change the subject, so the verb must be "rises".
+
+[P02 structure] The effect of these new policies ____ difficult to measure.
+   A) are
+   B) is
+   C) to be
+   D) being
+   ANSWER: B  — The subject is "the effect" (singular). "policies" is inside the phrase "of these new policies" and does not change the subject, so the verb must be "is".
+
+[P02 structure] A list of the required books ____ available at the library.
+   A) to be
+   B) are
+   C) is
+   D) being
+   ANSWER: C  — The subject is "a list" (singular). "books" is inside the phrase "of the required books" and does not change the subject, so the verb must be "is".
+
+[P02 structure] The price of fresh vegetables ____ sharply in the winter.
+   A) to rise
+   B) rises
+   C) rise
+   D) rising
+   ANSWER: B  — The subject is "the price" (singular). "vegetables" is inside the phrase "of fresh vegetables" and does not change the subject, so the verb must be "rises".
+
+[P02 structure] The number of international students ____ steadily since 2010.
+   A) to increase
+   B) has increased
+   C) have increased
+   D) increasing
+   ANSWER: B  — The subject is "the number" (singular). "students" is inside the phrase "of international students" and does not change the subject, so the verb must be "has increased".
 
 [P02 written-expression] According to official _A:records_, the _B:number_ of international _C:students_ _D:have increased_ steadily since 2010.
    ANSWER: D  — The subject is "the number" (singular). "students" is inside the phrase "of international students" and does not change the subject, so the verb must be "has increased".
 
-[P02 structure] The number of international students ____ steadily since 2010.
-   A) to increase
-   B) increasing
-   C) has increased
-   D) have increased
-   ANSWER: C  — The subject is "the number" (singular). "students" is inside the phrase "of international students" and does not change the subject, so the verb must be "has increased".
+[P02 written-expression] According to official _A:records_, the _B:causes_ of the _C:disease_ _D:remains_ largely unknown.
+   ANSWER: D  — The subject is "the causes" (plural). "disease" is inside the phrase "of the disease" and does not change the subject, so the verb must be "remain".
 
-[P02 structure] The walls of the ancient temple ____ covered with detailed paintings.
-   A) to be
-   B) is
-   C) being
-   D) are
-   ANSWER: D  — The subject is "the walls" (plural). "temple" is inside the phrase "of the ancient temple" and does not change the subject, so the verb must be "are".
+[P02 written-expression] According to official records, the leaders of the _A:organization_ _B:has agreed_ to _C:meet_ again _D:next_ year.
+   ANSWER: B  — The subject is "the leaders" (plural). "organization" is inside the phrase "of the organization" and does not change the subject, so the verb must be "have agreed".
 
-[P02 written-expression] According to official records, the quality of the local _A:schools_ _B:have improved_ _C:greatly_ in recent _D:years_.
+[P02 written-expression] According to official records, the _A:quality_ of the local schools _B:have improved_ _C:greatly_ in recent _D:years_.
    ANSWER: B  — The subject is "the quality" (singular). "schools" is inside the phrase "of the local schools" and does not change the subject, so the verb must be "has improved".
 
-[P02 structure] Each of the cities ____ connected to the capital by a high-speed railway.
-   A) being
-   B) they are
-   C) are
-   D) is
-   ANSWER: D  — "Each" is the real subject and it is singular, so the verb is "is". "Of the cities" does not change that.
+[P03 structure] The hospital ____ twenty new nurses from abroad in 2019.
+   A) has hired
+   B) hires
+   C) is hiring
+   D) hired
+   ANSWER: D  — "in 2019" is a finished time in the past, so the simple past "hired" is needed. The present perfect cannot be used with a finished past time.
 
-[P02 written-expression] The _A:results_ of the recent _B:survey_ _C:shows_ a clear _D:change_ in public opinion.
-   ANSWER: C  — The subject is "the results" (plural). "survey" is inside the phrase "of the recent survey" and does not change the subject, so the verb must be "show".
+[P03 structure] These companies ____ electronic equipment to Asia since the early 1990s.
+   A) are exporting
+   B) exported
+   C) have exported
+   D) export
+   ANSWER: C  — "since the early 1990s" describes something that started in the past and continues now, so the present perfect "have exported" is needed.
 
-[P02 structure] The causes of the disease ____ largely unknown.
-   A) remains
-   B) to remain
-   C) remain
-   D) remaining
-   ANSWER: C  — The subject is "the causes" (plural). "disease" is inside the phrase "of the disease" and does not change the subject, so the verb must be "remain".
+[P03 written-expression] Many _A:governments_ _B:have introduced_ a _C:tax_ _D:on_ plastic bags two years ago.
+   ANSWER: B  — "two years ago" is a finished past time, so the verb must be simple past: "introduced", not "have introduced".
 
-[P03 structure] The city council ____ a new plan for the city's main park in 2019.
-   A) has approved
-   B) approves
+[P03 structure] The company ____ new factories in Asia last year.
+   A) has opened
+   B) opened
+   C) opens
+   D) is opening
+   ANSWER: B  — "last year" is a finished time in the past, so the simple past "opened" is needed. The present perfect cannot be used with a finished past time.
+
+[P03 structure] The museum ____ visitors from many countries since it opened in 2005.
+   A) attracted
+   B) has attracted
+   C) is attracting
+   D) attracts
+   ANSWER: B  — "since it opened in 2005" describes something that started in the past and continues now, so the present perfect "has attracted" is needed.
+
+[P03 written-expression] Several _A:universities_ _B:have launched_ online _C:degree_ _D:programs_ last year.
+   ANSWER: B  — "last year" is a finished past time, so the verb must be simple past: "launched", not "have launched".
+
+[P03 written-expression] These _A:museums_ _B:attracted_ visitors _C:from_ many _D:countries_ since the early 1990s.
+   ANSWER: B  — With "since the early 1990s", the situation continues up to now, so the present perfect "have attracted" is required, not "attracted".
+
+[P03 structure] The city council ____ a new plan for the city's main park last year.
+   A) is approving
+   B) has approved
    C) approved
-   D) is approving
-   ANSWER: C  — "in 2019" is a finished time in the past, so the simple past "approved" is needed. The present perfect cannot be used with a finished past time.
-
-[P03 structure] The museum ____ visitors from many countries since it was founded in 1998.
-   A) attracts
-   B) is attracting
-   C) attracted
-   D) has attracted
-   ANSWER: D  — "since it was founded in 1998" describes something that started in the past and continues now, so the present perfect "has attracted" is needed.
-
-[P03 written-expression] The _A:museum_ _B:has acquired_ a famous _C:painting_ _D:by_ Monet two years ago.
-   ANSWER: B  — "two years ago" is a finished past time, so the verb must be simple past: "acquired", not "has acquired".
-
-[P03 written-expression] The _A:company_ _B:exported_ electronic _C:equipment_ _D:to_ Asia since it was founded in 1998.
-   ANSWER: B  — With "since it was founded in 1998", the situation continues up to now, so the present perfect "has exported" is required, not "exported".
-
-[P03 structure] Many governments ____ a tax on plastic bags last year.
-   A) introduced
-   B) have introduced
-   C) are introducing
-   D) introduce
-   ANSWER: A  — "last year" is a finished time in the past, so the simple past "introduced" is needed. The present perfect cannot be used with a finished past time.
+   D) approves
+   ANSWER: C  — "last year" is a finished time in the past, so the simple past "approved" is needed. The present perfect cannot be used with a finished past time.
 
 [P03 structure] These libraries ____ free courses in computer skills for more than twenty years.
-   A) have offered
-   B) are offering
-   C) offer
+   A) are offering
+   B) offer
+   C) have offered
    D) offered
-   ANSWER: A  — "for more than twenty years" describes something that started in the past and continues now, so the present perfect "have offered" is needed.
+   ANSWER: C  — "for more than twenty years" describes something that started in the past and continues now, so the present perfect "have offered" is needed.
 
-[P03 written-expression] Several _A:universities_ _B:have launched_ online _C:degree_ _D:programs_ in 2015.
-   ANSWER: B  — "in 2015" is a finished past time, so the verb must be simple past: "launched", not "have launched".
+[P03 written-expression] According to the _A:report_, the _B:company_ _C:exported_ electronic _D:equipment_ to Asia since the early 1990s.
+   ANSWER: C  — With "since the early 1990s", the situation continues up to now, so the present perfect "has exported" is required, not "exported".
 
-[P03 written-expression] According to the _A:report_, these schools _B:taught_ students _C:about_ local _D:history_ since the early 1990s.
-   ANSWER: B  — With "since the early 1990s", the situation continues up to now, so the present perfect "have taught" is required, not "taught".
+[P03 structure] Many governments ____ a tax on plastic bags last year.
+   A) have introduced
+   B) introduce
+   C) are introducing
+   D) introduced
+   ANSWER: D  — "last year" is a finished time in the past, so the simple past "introduced" is needed. The present perfect cannot be used with a finished past time.
 
-[P03 structure] The hospital ____ nurses in emergency care since it was founded in 1998.
-   A) trains
-   B) trained
-   C) is training
-   D) has trained
-   ANSWER: D  — "since it was founded in 1998" describes something that started in the past and continues now, so the present perfect "has trained" is needed.
-
-[P03 written-expression] Both _A:companies_ _B:have opened_ new _C:factories_ _D:in_ Asia last year.
-   ANSWER: B  — "last year" is a finished past time, so the verb must be simple past: "opened", not "have opened".
-
-[P03 written-expression] The _A:school_ _B:taught_ students _C:about_ local _D:history_ since it opened in 2005.
-   ANSWER: B  — With "since it opened in 2005", the situation continues up to now, so the present perfect "has taught" is required, not "taught".
-
-[P03 structure] The university ____ online degree programs last year.
-   A) launches
-   B) has launched
-   C) launched
-   D) is launching
-   ANSWER: C  — "last year" is a finished time in the past, so the simple past "launched" is needed. The present perfect cannot be used with a finished past time.
-
-[P03 structure] These schools ____ students about local history for more than twenty years.
+[P03 structure] The school ____ students about local history since it opened in 2005.
    A) taught
-   B) are teaching
+   B) teaches
+   C) has taught
+   D) is teaching
+   ANSWER: C  — "since it opened in 2005" describes something that started in the past and continues now, so the present perfect "has taught" is needed.
+
+[P03 written-expression] These _A:schools_ _B:taught_ students _C:about_ local _D:history_ for more than twenty years.
+   ANSWER: B  — With "for more than twenty years", the situation continues up to now, so the present perfect "have taught" is required, not "taught".
+
+[P03 structure] The museum ____ a famous painting by Monet in 2019.
+   A) is acquiring
+   B) has acquired
+   C) acquires
+   D) acquired
+   ANSWER: D  — "in 2019" is a finished time in the past, so the simple past "acquired" is needed. The present perfect cannot be used with a finished past time.
+
+[P03 structure] The hospital ____ nurses in emergency care since it opened in 2005.
+   A) trained
+   B) trains
+   C) has trained
+   D) is training
+   ANSWER: C  — "since it opened in 2005" describes something that started in the past and continues now, so the present perfect "has trained" is needed.
+
+[P03 written-expression] According to the report, several city _A:councils_ _B:have approved_ a new _C:plan_ _D:for_ the city's main park in 2019.
+   ANSWER: B  — "in 2019" is a finished past time, so the verb must be simple past: "approved", not "have approved".
+
+[P03 written-expression] These _A:libraries_ _B:offered_ free _C:courses_ _D:in_ computer skills since the early 1990s.
+   ANSWER: B  — With "since the early 1990s", the situation continues up to now, so the present perfect "have offered" is required, not "offered".
+
+[P03 structure] These schools ____ students about local history since the early 1990s.
+   A) taught
+   B) have taught
    C) teach
-   D) have taught
-   ANSWER: D  — "for more than twenty years" describes something that started in the past and continues now, so the present perfect "have taught" is needed.
+   D) are teaching
+   ANSWER: B  — "since the early 1990s" describes something that started in the past and continues now, so the present perfect "have taught" is needed.
 
-[P03 written-expression] Both _A:companies_ _B:have opened_ new _C:factories_ _D:in_ Asia two years ago.
-   ANSWER: B  — "two years ago" is a finished past time, so the verb must be simple past: "opened", not "have opened".
+[P03 structure] Both hospitals ____ twenty new nurses from abroad two years ago.
+   A) have hired
+   B) hire
+   C) are hiring
+   D) hired
+   ANSWER: D  — "two years ago" is a finished time in the past, so the simple past "hired" is needed. The present perfect cannot be used with a finished past time.
 
-[P03 written-expression] These _A:hospitals_ _B:trained_ nurses _C:in_ _D:emergency_ care since the early 1990s.
-   ANSWER: B  — With "since the early 1990s", the situation continues up to now, so the present perfect "have trained" is required, not "trained".
+[P03 written-expression] The _A:university_ _B:has launched_ online _C:degree_ _D:programs_ in 2019.
+   ANSWER: B  — "in 2019" is a finished past time, so the verb must be simple past: "launched", not "has launched".
 
-[P03 written-expression] According to official _A:records_, several city _B:councils_ _C:have approved_ a new _D:plan_ for the city's main park two years ago.
-   ANSWER: C  — "two years ago" is a finished past time, so the verb must be simple past: "approved", not "have approved".
+[P04 structure] The old factory ____ to make room for new housing in 2019.
+   A) demolished
+   B) has demolished
+   C) was demolished
+   D) demolishing
+   ANSWER: C  — "The old factory" does not perform the action; it receives it. So the passive voice is needed: "was demolished" (be + past participle).
 
-[P03 structure] The government ____ a tax on plastic bags two years ago.
-   A) is introducing
-   B) introduces
-   C) introduced
-   D) has introduced
-   ANSWER: C  — "two years ago" is a finished time in the past, so the simple past "introduced" is needed. The present perfect cannot be used with a finished past time.
-
-[P03 structure] These hospitals ____ nurses in emergency care for more than twenty years.
-   A) have trained
-   B) train
-   C) are training
-   D) trained
-   ANSWER: A  — "for more than twenty years" describes something that started in the past and continues now, so the present perfect "have trained" is needed.
-
-[P03 written-expression] Several city _A:councils_ _B:have approved_ a new _C:plan_ _D:for_ the city's main park last year.
-   ANSWER: B  — "last year" is a finished past time, so the verb must be simple past: "approved", not "have approved".
-
-[P03 written-expression] The _A:library_ _B:offered_ free _C:courses_ _D:in_ computer skills since it opened in 2005.
-   ANSWER: B  — With "since it opened in 2005", the situation continues up to now, so the present perfect "has offered" is required, not "offered".
-
-[P04 structure] The vaccine ____ in several hospitals last year.
-   A) tested
-   B) was tested
-   C) has tested
-   D) testing
-   ANSWER: B  — "The vaccine" does not perform the action; it receives it. So the passive voice is needed: "was tested" (be + past participle).
-
-[P04 structure] The ancient manuscripts ____ in a cave near the coast in 2015.
+[P04 structure] The ancient manuscripts ____ in a cave near the coast in 2019.
    A) were discovering
-   B) were discovered
-   C) were discover
-   D) being discovered
-   ANSWER: B  — "The ancient manuscripts" do not perform the action; they receive it. So the passive voice is needed: "were discovered" (be + past participle).
+   B) being discovered
+   C) were discovered
+   D) were discover
+   ANSWER: C  — "The ancient manuscripts" do not perform the action; they receive it. So the passive voice is needed: "were discovered" (be + past participle).
 
-[P04 written-expression] The new _A:law_ _B:was approve_ _C:by_ the national _D:parliament_ two years ago.
-   ANSWER: B  — After "was", a passive verb needs the past participle: "was approved", not "was approve".
-
-[P04 written-expression] According to the _A:report_, the music _B:festival_ _C:was holding_ _D:in_ the main square two years ago.
-   ANSWER: C  — "The music festival" does not perform the action; it receives it. So the passive voice is needed: "was held" (be + past participle). "was holding" is active.
-
-[P04 structure] The castle ____ with money from private donors in 2015.
-   A) restoring
-   B) restored
-   C) was restored
-   D) has restored
-   ANSWER: C  — "The castle" does not perform the action; it receives it. So the passive voice is needed: "was restored" (be + past participle).
-
-[P04 structure] Several new species ____ in the rainforest in 2019.
-   A) were identify
-   B) were identifying
-   C) were identified
-   D) being identified
-   ANSWER: C  — "Several new species" do not perform the action; they receive it. So the passive voice is needed: "were identified" (be + past participle).
+[P04 written-expression] The test _A:results_ _B:were publish_ _C:in_ a scientific _D:journal_ in 2019.
+   ANSWER: B  — After "were", a passive verb needs the past participle: "were published", not "were publish".
 
 [P04 written-expression] The _A:paintings_ _B:were stealing_ _C:from_ a _D:gallery_ in London in 2015.
    ANSWER: B  — "The paintings" do not perform the action; they receive it. So the passive voice is needed: "were stolen" (be + past participle). "were stealing" is active.
 
-[P04 structure] The old factory ____ to make room for new housing in 2015.
-   A) has demolished
-   B) demolished
-   C) demolishing
-   D) was demolished
-   ANSWER: D  — "The old factory" does not perform the action; it receives it. So the passive voice is needed: "was demolished" (be + past participle).
+[P04 structure] The documents ____ into several languages in 2019.
+   A) have translated
+   B) translating
+   C) translated
+   D) were translated
+   ANSWER: D  — "The documents" do not perform the action; they receive it. So the passive voice is needed: "were translated" (be + past participle).
 
-[P04 written-expression] According to official _A:records_, the _B:castle_ _C:was restoring_ _D:with_ money from private donors two years ago.
-   ANSWER: C  — "The castle" does not perform the action; it receives it. So the passive voice is needed: "was restored" (be + past participle). "was restoring" is active.
+[P04 structure] The new law ____ by the national parliament last year.
+   A) was approve
+   B) was approved
+   C) was approving
+   D) being approved
+   ANSWER: B  — "The new law" does not perform the action; it receives it. So the passive voice is needed: "was approved" (be + past participle).
 
-[P04 structure] The letters ____ to the city museum in 2015.
-   A) were donated
-   B) were donating
-   C) were donate
-   D) being donated
-   ANSWER: A  — "The letters" do not perform the action; they receive it. So the passive voice is needed: "were donated" (be + past participle).
+[P04 written-expression] According to the _A:report_, the _B:bridge_ _C:was build_ across the _D:river_ last year.
+   ANSWER: C  — After "was", a passive verb needs the past participle: "was built", not "was build".
 
-[P04 written-expression] According to the report, the _A:castle_ _B:was restore_ _C:with_ money _D:from_ private donors last year.
+[P04 written-expression] The _A:vaccine_ _B:was testing_ _C:in_ several _D:hospitals_ last year.
+   ANSWER: B  — "The vaccine" does not perform the action; it receives it. So the passive voice is needed: "was tested" (be + past participle). "was testing" is active.
+
+[P04 written-expression] According to official _A:records_, the test _B:results_ _C:were publish_ in a scientific _D:journal_ last year.
+   ANSWER: C  — After "were", a passive verb needs the past participle: "were published", not "were publish".
+
+[P04 written-expression] According to the _A:report_, the test _B:results_ _C:were publishing_ in a scientific _D:journal_ last year.
+   ANSWER: C  — "The test results" do not perform the action; they receive it. So the passive voice is needed: "were published" (be + past participle). "were publishing" is active.
+
+[P04 structure] Several new species ____ in the rainforest in 2019.
+   A) were identifying
+   B) were identified
+   C) were identify
+   D) being identified
+   ANSWER: B  — "Several new species" do not perform the action; they receive it. So the passive voice is needed: "were identified" (be + past participle).
+
+[P04 written-expression] According to official _A:records_, the old _B:factory_ _C:was demolish_ to make room _D:for_ new housing in 2015.
+   ANSWER: C  — After "was", a passive verb needs the past participle: "was demolished", not "was demolish".
+
+[P04 written-expression] According to official _A:records_, the _B:documents_ _C:were translating_ _D:into_ several languages two years ago.
+   ANSWER: C  — "The documents" do not perform the action; they receive it. So the passive voice is needed: "were translated" (be + past participle). "were translating" is active.
+
+[P04 structure] The music festival ____ in the main square last year.
+   A) has held
+   B) held
+   C) was held
+   D) holding
+   ANSWER: C  — "The music festival" does not perform the action; it receives it. So the passive voice is needed: "was held" (be + past participle).
+
+[P04 written-expression] The _A:castle_ _B:was restore_ _C:with_ money _D:from_ private donors in 2015.
    ANSWER: B  — After "was", a passive verb needs the past participle: "was restored", not "was restore".
 
-[P04 written-expression] The music _A:festival_ _B:was hold_ _C:in_ the main _D:square_ in 2019.
-   ANSWER: B  — After "was", a passive verb needs the past participle: "was held", not "was hold".
+[P04 structure] The vaccine ____ in several hospitals two years ago.
+   A) has tested
+   B) tested
+   C) was tested
+   D) testing
+   ANSWER: C  — "The vaccine" does not perform the action; it receives it. So the passive voice is needed: "was tested" (be + past participle).
 
-[P04 written-expression] The _A:documents_ _B:were translating_ _C:into_ several _D:languages_ last year.
-   ANSWER: B  — "The documents" do not perform the action; they receive it. So the passive voice is needed: "were translated" (be + past participle). "were translating" is active.
+[P04 written-expression] The _A:castle_ _B:was restoring_ _C:with_ money _D:from_ private donors two years ago.
+   ANSWER: B  — "The castle" does not perform the action; it receives it. So the passive voice is needed: "was restored" (be + past participle). "was restoring" is active.
 
-[P04 written-expression] According to the _A:report_, the new law _B:was approving_ _C:by_ the national _D:parliament_ last year.
-   ANSWER: B  — "The new law" does not perform the action; it receives it. So the passive voice is needed: "was approved" (be + past participle). "was approving" is active.
+[P04 structure] The music festival ____ in the main square two years ago.
+   A) holding
+   B) held
+   C) was held
+   D) has held
+   ANSWER: C  — "The music festival" does not perform the action; it receives it. So the passive voice is needed: "was held" (be + past participle).
 
-[P04 structure] The documents ____ into several languages two years ago.
-   A) have translated
-   B) were translated
-   C) translating
-   D) translated
-   ANSWER: B  — "The documents" do not perform the action; they receive it. So the passive voice is needed: "were translated" (be + past participle).
+[P04 written-expression] The ancient _A:manuscripts_ _B:were discovering_ _C:in_ a _D:cave_ near the coast two years ago.
+   ANSWER: B  — "The ancient manuscripts" do not perform the action; they receive it. So the passive voice is needed: "were discovered" (be + past participle). "were discovering" is active.
 
-[P04 written-expression] The _A:bridge_ _B:was build_ _C:across_ the _D:river_ two years ago.
-   ANSWER: B  — After "was", a passive verb needs the past participle: "was built", not "was build".
+[P04 written-expression] According to official records, the _A:letters_ _B:were donate_ _C:to_ the city _D:museum_ in 2015.
+   ANSWER: B  — After "were", a passive verb needs the past participle: "were donated", not "were donate".
 
-[P04 written-expression] According to the report, the test _A:results_ _B:were publishing_ _C:in_ a scientific _D:journal_ in 2015.
-   ANSWER: B  — "The test results" do not perform the action; they receive it. So the passive voice is needed: "were published" (be + past participle). "were publishing" is active.
-
-[P04 structure] The bridge ____ across the river in 2015.
-   A) was built
-   B) building
-   C) has built
-   D) built
-   ANSWER: A  — "The bridge" does not perform the action; it receives it. So the passive voice is needed: "was built" (be + past participle).
-
-[P04 structure] The letters ____ to the city museum two years ago.
-   A) being donated
-   B) were donate
-   C) were donating
-   D) were donated
-   ANSWER: D  — "The letters" do not perform the action; they receive it. So the passive voice is needed: "were donated" (be + past participle).
-
-[P04 written-expression] According to official _A:records_, the ancient manuscripts _B:were discover_ _C:in_ a _D:cave_ near the coast in 2015.
-   ANSWER: B  — After "were", a passive verb needs the past participle: "were discovered", not "were discover".
-
-[P05 structure] The scientist ____ discovered the new element received an international award.
-   A) which
-   B) who
-   C) she
+[P05 structure] The machines ____ produce the parts were made in Germany.
+   A) who
+   B) which
+   C) they
    D) what
-   ANSWER: B  — The blank begins an adjective clause. "The scientist" refers to a person, so use "who". A pronoun like "she" would create a second subject, and "what" cannot follow a noun.
+   ANSWER: B  — The blank begins an adjective clause. "The machines" refer to things, so use "which". A pronoun like "they" would create a second subject, and "what" cannot follow a noun.
 
 [P05 structure] The author ____ novel won the prize gave a public lecture.
    A) who
@@ -438,6 +454,9 @@
    D) which
    ANSWER: A  — "Whose" shows possession: the essay belongs to the student. "Who's" means "who is", and "who" and "which" cannot show possession.
 
+[P05 written-expression] The scientist _A:which_ discovered the new _B:element_ received an _C:international_ _D:award_.
+   ANSWER: A  — "The scientist" refers to a person, so the relative pronoun must be "who", not "which".
+
 [P05 structure] The company ____ products are sold worldwide employs over ten thousand people.
    A) who's
    B) whose
@@ -447,9 +466,6 @@
 
 [P05 written-expression] The _A:students_ _B:which_ completed the course received a _C:certificate_ _D:from_ the dean.
    ANSWER: B  — "The students" refer to people, so the relative pronoun must be "who", not "which".
-
-[P05 written-expression] The machines _A:which_ _B:they produce_ the _C:parts_ were _D:made_ in Germany.
-   ANSWER: B  — Inside the clause, "which" is already the subject, so the pronoun "they" must be removed: "which produce".
 
 [P05 structure] The policy ____ reduced air pollution was introduced in 2012.
    A) what
@@ -463,13 +479,6 @@
 
 [P05 written-expression] The engineers who _A:they built_ the _B:dam_ worked _C:on_ it for five _D:years_.
    ANSWER: A  — Inside the clause, "who" is already the subject, so the pronoun "they" must be removed: "who built".
-
-[P05 structure] The machines ____ produce the parts were made in Germany.
-   A) who
-   B) which
-   C) they
-   D) what
-   ANSWER: B  — The blank begins an adjective clause. "The machines" refer to things, so use "which". A pronoun like "they" would create a second subject, and "what" cannot follow a noun.
 
 [P05 written-expression] The _A:bridge_ _B:who_ connects the two _C:islands_ was _D:built_ in 1932.
    ANSWER: B  — "The bridge" refers to a thing, so the relative pronoun must be "which", not "who".
@@ -490,49 +499,93 @@
 [P05 written-expression] The _A:author_ who _B:he wrote_ this _C:novel_ lives _D:in_ a small village.
    ANSWER: B  — Inside the clause, "who" is already the subject, so the pronoun "he" must be removed: "who wrote".
 
-[P06 structure] It is still not entirely clear why ____ so suddenly.
-   A) did the dinosaurs disappear
-   B) the dinosaurs disappeared
-   C) disappeared the dinosaurs
-   D) the dinosaurs to disappear
-   ANSWER: B  — Inside a noun clause, use statement word order (subject + verb): "why the dinosaurs disappeared". Question order, inverted order, and -ing or "to" forms are all wrong here.
+[P05 structure] The engineers ____ built the dam worked on it for five years.
+   A) which
+   B) what
+   C) they
+   D) who
+   ANSWER: D  — The blank begins an adjective clause. "The engineers" refer to people, so use "who". A pronoun like "they" would create a second subject, and "what" cannot follow a noun.
+
+[P06 structure] Experts still disagree about where ____ in that region.
+   A) did the earliest farmers live
+   B) lived the earliest farmers
+   C) the earliest farmers lived
+   D) the earliest farmers living
+   ANSWER: C  — Inside a noun clause, use statement word order (subject + verb): "where the earliest farmers lived". Question order, inverted order, and -ing or "to" forms are all wrong here.
 
 [P06 structure] ____ the climate is changing is now accepted by most scientists.
-   A) It
-   B) What
-   C) Because
-   D) That
-   ANSWER: D  — The subject of the sentence is the whole clause "that the climate is changing". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
-
-[P06 structure] ____ the researchers found surprised the whole team.
    A) Because
    B) That
-   C) What
-   D) It
-   ANSWER: C  — "the researchers found" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
+   C) It
+   D) What
+   ANSWER: B  — The subject of the sentence is the whole clause "that the climate is changing". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
 
-[P06 written-expression] _A:Scientists_ still debate _B:why_ _C:do some birds migrate_ at _D:night_.
-   ANSWER: C  — A noun clause uses statement word order: "why some birds migrate", not question order "do some birds migrate".
+[P06 structure] ____ the speaker said was reported in the newspapers.
+   A) What
+   B) Because
+   C) It
+   D) That
+   ANSWER: A  — "the speaker said" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
+
+[P06 written-expression] Researchers are still trying to _A:explain_ _B:how_ _C:were the pyramids built_ so _D:precisely_.
+   ANSWER: C  — A noun clause uses statement word order: "how the pyramids were built", not question order "were the pyramids built".
 
 [P06 written-expression] _A:What_ the _B:company_ lost money last year _C:surprised_ many _D:investors_.
    ANSWER: A  — "The company lost money last year" is a complete clause, so it must begin with "That", not "What".
 
-[P06 structure] Scientists still debate how ____ across entire oceans.
-   A) some birds navigating
-   B) do some birds navigate
-   C) some birds navigate
-   D) navigate some birds
-   ANSWER: C  — Inside a noun clause, use statement word order (subject + verb): "how some birds navigate". Question order, inverted order, and -ing or "to" forms are all wrong here.
+[P06 structure] It is still not entirely clear how ____ so precisely.
+   A) the pyramids to be built
+   B) the pyramids built were
+   C) were the pyramids built
+   D) the pyramids were built
+   ANSWER: D  — Inside a noun clause, use statement word order (subject + verb): "how the pyramids were built". Question order, inverted order, and -ing or "to" forms are all wrong here.
+
+[P06 written-expression] _A:Researchers_ are still trying to explain _B:when_ _C:did the first cities appear_ in _D:Mesopotamia_.
+   ANSWER: C  — A noun clause uses statement word order: "when the first cities appeared", not question order "did the first cities appear".
+
+[P06 structure] Experts still disagree about how ____ so precisely.
+   A) were the pyramids built
+   B) the pyramids to be built
+   C) the pyramids built were
+   D) the pyramids were built
+   ANSWER: D  — Inside a noun clause, use statement word order (subject + verb): "how the pyramids were built". Question order, inverted order, and -ing or "to" forms are all wrong here.
 
 [P06 structure] ____ regular exercise improves memory has been shown in many studies.
-   A) It
+   A) What
    B) That
-   C) Because
-   D) What
+   C) It
+   D) Because
    ANSWER: B  — The subject of the sentence is the whole clause "that regular exercise improves memory". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
 
-[P06 written-expression] Researchers are still trying to _A:explain_ _B:how_ _C:do some birds navigate_ across entire _D:oceans_.
-   ANSWER: C  — A noun clause uses statement word order: "how some birds navigate", not question order "do some birds navigate".
+[P06 written-expression] _A:Scientists_ still _B:debate_ when _C:did the first cities appear_ in _D:Mesopotamia_.
+   ANSWER: C  — A noun clause uses statement word order: "when the first cities appeared", not question order "did the first cities appear".
+
+[P06 structure] It is still not entirely clear how ____ across entire oceans.
+   A) navigate some birds
+   B) do some birds navigate
+   C) some birds navigate
+   D) some birds navigating
+   ANSWER: C  — Inside a noun clause, use statement word order (subject + verb): "how some birds navigate". Question order, inverted order, and -ing or "to" forms are all wrong here.
+
+[P06 structure] ____ the researchers found surprised the whole team.
+   A) That
+   B) Because
+   C) What
+   D) It
+   ANSWER: C  — "the researchers found" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
+
+[P06 written-expression] Experts _A:still_ _B:disagree_ about _C:why_ _D:did the dinosaurs disappear_ so suddenly.
+   ANSWER: D  — A noun clause uses statement word order: "why the dinosaurs disappeared", not question order "did the dinosaurs disappear".
+
+[P06 written-expression] _A:What_ the _B:earth_ orbits the sun was _C:once_ a controversial _D:idea_.
+   ANSWER: A  — "The earth orbits the sun" is a complete clause, so it must begin with "That", not "What".
+
+[P06 structure] ____ the students wrote impressed their teachers.
+   A) What
+   B) It
+   C) That
+   D) Because
+   ANSWER: A  — "the students wrote" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
 
 [P06 structure] Researchers are still trying to explain why ____ so suddenly.
    A) disappeared the dinosaurs
@@ -541,150 +594,125 @@
    D) the dinosaurs to disappear
    ANSWER: C  — Inside a noun clause, use statement word order (subject + verb): "why the dinosaurs disappeared". Question order, inverted order, and -ing or "to" forms are all wrong here.
 
-[P06 structure] ____ the students wrote impressed their teachers.
-   A) That
-   B) Because
-   C) What
-   D) It
-   ANSWER: C  — "the students wrote" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
-
-[P06 structure] Experts still disagree about when ____ in Mesopotamia.
-   A) did the first cities appear
-   B) the first cities appeared
-   C) the first cities appearing
-   D) appeared the first cities
-   ANSWER: B  — Inside a noun clause, use statement word order (subject + verb): "when the first cities appeared". Question order, inverted order, and -ing or "to" forms are all wrong here.
-
-[P06 structure] ____ the speaker said was reported in the newspapers.
-   A) That
-   B) Because
-   C) It
-   D) What
-   ANSWER: D  — "the speaker said" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
-
-[P06 written-expression] _A:Scientists_ still _B:debate_ _C:how_ _D:were the pyramids built_ so precisely.
-   ANSWER: D  — A noun clause uses statement word order: "how the pyramids were built", not question order "were the pyramids built".
-
-[P06 structure] Experts still disagree about why ____ at night.
-   A) some birds migrate
-   B) some birds migrating
-   C) do some birds migrate
-   D) migrate some birds
-   ANSWER: A  — Inside a noun clause, use statement word order (subject + verb): "why some birds migrate". Question order, inverted order, and -ing or "to" forms are all wrong here.
+[P06 written-expression] _A:Scientists_ still _B:debate_ _C:why_ _D:do some birds migrate_ at night.
+   ANSWER: D  — A noun clause uses statement word order: "why some birds migrate", not question order "do some birds migrate".
 
 [P06 structure] ____ the museum owns is worth millions of dollars.
-   A) What
-   B) Because
+   A) That
+   B) What
    C) It
-   D) That
-   ANSWER: A  — "the museum owns" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
-
-[P06 structure] It is still not entirely clear when ____ in Mesopotamia.
-   A) the first cities appearing
-   B) did the first cities appear
-   C) appeared the first cities
-   D) the first cities appeared
-   ANSWER: D  — Inside a noun clause, use statement word order (subject + verb): "when the first cities appeared". Question order, inverted order, and -ing or "to" forms are all wrong here.
-
-[P06 structure] Experts still disagree about where ____ in that region.
-   A) did the earliest farmers live
-   B) the earliest farmers lived
-   C) the earliest farmers living
-   D) lived the earliest farmers
-   ANSWER: B  — Inside a noun clause, use statement word order (subject + verb): "where the earliest farmers lived". Question order, inverted order, and -ing or "to" forms are all wrong here.
-
-[P06 structure] ____ the earth orbits the sun was once a controversial idea.
-   A) It
-   B) Because
-   C) What
-   D) That
-   ANSWER: D  — The subject of the sentence is the whole clause "that the earth orbits the sun". A complete clause used as a subject begins with "That". "What" is used only when the clause is missing a subject or object.
-
-[P06 structure] It is still not entirely clear why ____ at night.
-   A) some birds migrate
-   B) migrate some birds
-   C) some birds migrating
-   D) do some birds migrate
-   ANSWER: A  — Inside a noun clause, use statement word order (subject + verb): "why some birds migrate". Question order, inverted order, and -ing or "to" forms are all wrong here.
+   D) Because
+   ANSWER: B  — "the museum owns" is missing its object, so the clause must begin with "What" (= the thing that). "That" needs a complete clause.
 
 [P06 written-expression] _A:Scientists_ still _B:debate_ _C:why_ _D:did the dinosaurs disappear_ so suddenly.
    ANSWER: D  — A noun clause uses statement word order: "why the dinosaurs disappeared", not question order "did the dinosaurs disappear".
 
-[P07 structure] ____ the weather was extremely cold, the hikers reached the summit.
-   A) Although
-   B) Despite
-   C) Because of
-   D) In spite of
-   ANSWER: A  — The blank is followed by a full clause (subject + verb: "the weather was extremely cold"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
+[P06 structure] It is still not entirely clear where ____ in that region.
+   A) did the earliest farmers live
+   B) lived the earliest farmers
+   C) the earliest farmers lived
+   D) the earliest farmers living
+   ANSWER: C  — Inside a noun clause, use statement word order (subject + verb): "where the earliest farmers lived". Question order, inverted order, and -ing or "to" forms are all wrong here.
 
-[P07 structure] ____ the poor harvest, food prices rose sharply.
-   A) Since
+[P07 structure] ____ the medicine had some side effects, doctors continued to prescribe it.
+   A) Despite
    B) Although
-   C) Because
+   C) In spite of
    D) Because of
-   ANSWER: D  — "the poor harvest" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
+   ANSWER: B  — The blank is followed by a full clause (subject + verb: "the medicine had some side effects"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
 
-[P07 structure] ____ the soil is rich, farmers grow many crops there.
+[P07 structure] ____ the extremely cold weather, the hikers reached the summit.
+   A) Although
+   B) Because
+   C) Even though
+   D) Despite
+   ANSWER: D  — The blank is followed by a noun phrase ("the extremely cold weather"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
+
+[P07 structure] ____ the icy roads, the schools closed early.
+   A) Although
+   B) Because
+   C) Because of
+   D) Since
+   ANSWER: C  — "the icy roads" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
+
+[P07 structure] ____ the bridge was damaged, traffic was delayed for hours.
+   A) Due to
+   B) Because
+   C) Despite
+   D) Because of
+   ANSWER: B  — The blank is followed by a full clause ("the bridge was damaged"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.
+
+[P07 structure] The lecture was ____ that several students fell asleep.
+   A) so long
+   B) such long
+   C) too long
+   D) very long
+   ANSWER: A  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
+
+[P07 written-expression] Some _A:fish_ still lived in the _B:water_ _C:despite_ the river was badly _D:polluted_.
+   ANSWER: C  — "Despite" is a preposition and cannot introduce the clause "the river was badly polluted". Use the conjunction "although".
+
+[P07 structure] ____ the experiment was very expensive, the university continued to fund it.
+   A) In spite of
+   B) Because of
+   C) Despite
+   D) Although
+   ANSWER: D  — The blank is followed by a full clause (subject + verb: "the experiment was very expensive"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
+
+[P07 structure] ____ the museum was very crowded, many visitors left early.
    A) Because of
-   B) Despite
-   C) Because
-   D) Due to
-   ANSWER: C  — The blank is followed by a full clause ("the soil is rich"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.
+   B) Due to
+   C) Despite
+   D) Because
+   ANSWER: D  — The blank is followed by a full clause ("the museum was very crowded"), so the conjunction "because" is needed. "Because of", "due to" and "despite" are prepositions that need a noun phrase, and "despite" shows contrast.
 
-[P07 structure] The storm was ____ that many trees were uprooted.
-   A) very strong
-   B) such strong
-   C) too strong
-   D) so strong
+[P07 structure] The exam was ____ that few candidates finished it.
+   A) such difficult
+   B) very difficult
+   C) too difficult
+   D) so difficult
    ANSWER: D  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
 
 [P07 written-expression] The book _A:sold_ millions of _B:copies_ _C:despite_ the novel was very _D:long_.
    ANSWER: C  — "Despite" is a preposition and cannot introduce the clause "the novel was very long". Use the conjunction "although".
 
-[P07 written-expression] _A:Because_ the large _B:crowds_ in the museum, many _C:visitors_ left _D:early_.
-   ANSWER: A  — "the large crowds in the museum" is a noun phrase, so "because of" is needed, not the conjunction "because".
+[P07 structure] ____ the heavy pollution in the river, some fish still lived there.
+   A) Because
+   B) Despite
+   C) Although
+   D) Even though
+   ANSWER: B  — The blank is followed by a noun phrase ("the heavy pollution in the river"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
 
-[P07 structure] ____ the river was badly polluted, some fish still lived there.
-   A) In spite of
+[P07 structure] ____ the rich soil, farmers grow many crops there.
+   A) Because
    B) Because of
    C) Although
-   D) Despite
-   ANSWER: C  — The blank is followed by a full clause (subject + verb: "the river was badly polluted"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
+   D) Since
+   ANSWER: B  — "the rich soil" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
+
+[P07 structure] The instructions were ____ that nobody could follow them.
+   A) such confusing
+   B) very confusing
+   C) too confusing
+   D) so confusing
+   ANSWER: D  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
+
+[P07 structure] The storm was ____ that many trees were uprooted.
+   A) too strong
+   B) such strong
+   C) so strong
+   D) very strong
+   ANSWER: C  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
+
+[P07 written-expression] Food _A:prices_ rose _B:sharply_ _C:because_ the poor _D:harvest_.
+   ANSWER: C  — "the poor harvest" is a noun phrase, so "because of" is needed, not the conjunction "because".
 
 [P07 structure] ____ the high cost of the experiment, the university continued to fund it.
    A) Although
-   B) Despite
+   B) Even though
    C) Because
-   D) Even though
-   ANSWER: B  — The blank is followed by a noun phrase ("the high cost of the experiment"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
-
-[P07 structure] ____ the damage to the bridge, traffic was delayed for hours.
-   A) Although
-   B) Since
-   C) Because
-   D) Because of
-   ANSWER: D  — "the damage to the bridge" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
-
-[P07 structure] ____ the side effects of the medicine, doctors continued to prescribe it.
-   A) Because
-   B) Although
-   C) Even though
    D) Despite
-   ANSWER: D  — The blank is followed by a noun phrase ("the side effects of the medicine"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
-
-[P07 structure] The exam was ____ that few candidates finished it.
-   A) too difficult
-   B) so difficult
-   C) such difficult
-   D) very difficult
-   ANSWER: B  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
-
-[P07 structure] ____ the experiment was very expensive, the university continued to fund it.
-   A) Although
-   B) Despite
-   C) Because of
-   D) In spite of
-   ANSWER: A  — The blank is followed by a full clause (subject + verb: "the experiment was very expensive"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
+   ANSWER: D  — The blank is followed by a noun phrase ("the high cost of the experiment"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
 
 [P07 structure] ____ the great length of the novel, it sold millions of copies.
    A) Although
@@ -693,79 +721,32 @@
    D) Even though
    ANSWER: B  — The blank is followed by a noun phrase ("the great length of the novel"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
 
-[P07 written-expression] _A:Because_ the icy _B:roads_, the _C:schools_ closed _D:early_.
-   ANSWER: A  — "the icy roads" is a noun phrase, so "because of" is needed, not the conjunction "because".
-
-[P07 structure] The lecture was ____ that several students fell asleep.
-   A) so long
-   B) too long
-   C) very long
-   D) such long
-   ANSWER: A  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
-
-[P07 structure] ____ the heavy pollution in the river, some fish still lived there.
-   A) Although
-   B) Even though
-   C) Despite
-   D) Because
-   ANSWER: C  — The blank is followed by a noun phrase ("the heavy pollution in the river"), not a clause, so a preposition is needed: "Despite". "Although", "even though" and "because" must be followed by a subject and verb.
-
-[P07 structure] The instructions were ____ that nobody could follow them.
-   A) very confusing
-   B) too confusing
-   C) such confusing
-   D) so confusing
-   ANSWER: D  — The pattern is "so + adjective + that + result". "Such" needs a noun after the adjective ("such a long lecture", "such confusing instructions"), and "too" and "very" cannot be followed by "that".
-
 [P07 written-expression] _A:Despite_ the medicine had some side _B:effects_, doctors _C:continued_ to _D:prescribe_ it.
    ANSWER: A  — "Despite" is a preposition and cannot introduce the clause "the medicine had some side effects". Use the conjunction "although".
 
 [P07 written-expression] _A:Because_ the _B:damage_ to the bridge, traffic was _C:delayed_ for _D:hours_.
    ANSWER: A  — "the damage to the bridge" is a noun phrase, so "because of" is needed, not the conjunction "because".
 
-[P07 structure] ____ the medicine had some side effects, doctors continued to prescribe it.
+[P07 structure] ____ the large crowds in the museum, many visitors left early.
    A) Although
-   B) Despite
-   C) In spite of
-   D) Because of
-   ANSWER: A  — The blank is followed by a full clause (subject + verb: "the medicine had some side effects"), so a conjunction is needed: "Although". "Despite", "in spite of" and "because of" are prepositions and must be followed by a noun phrase (and "because of" shows cause, not contrast).
+   B) Because of
+   C) Because
+   D) Since
+   ANSWER: B  — "the large crowds in the museum" is a noun phrase, so the preposition "because of" is needed. "Because" and "since" (meaning "because") are conjunctions that need a full clause, and "although" shows contrast, not cause.
 
-[P08 structure] ____ of local stone, the old church has survived for centuries.
-   A) Built
-   B) Building
-   C) Having built
-   D) It was built
-   ANSWER: A  — The old church received the action, so the opening phrase uses the past participle "Built". "Building" and "Having built" are active forms, and "It was built…" would create a second main clause without a conjunction.
+[P08 structure] ____ in the nineteenth century, the library now holds over a million books.
+   A) Establishing
+   B) Established
+   C) It was established
+   D) Having established
+   ANSWER: B  — The library received the action, so the opening phrase uses the past participle "Established". "Establishing" and "Having established" are active forms, and "It was established…" would create a second main clause without a conjunction.
 
 [P08 structure] ____ satellite data, the researchers mapped the coastline.
-   A) They used
-   B) Used
-   C) Having been used
+   A) Used
+   B) Having been used
+   C) They used
    D) Using
    ANSWER: D  — The researchers performed the action, so the opening phrase uses the -ing form "Using". "They used…" creates a second main clause, and the passive forms mean the subject received the action.
-
-[P08 structure] The bridge ____ by a young engineer won an international prize.
-   A) was designed
-   B) it designed
-   C) designing
-   D) designed
-   ANSWER: D  — "designed by a young engineer" is a reduced adjective clause (= "which was designed"). "Was designed" would give the sentence two main verbs, and "designing" has the wrong (active) meaning.
-
-[P08 written-expression] _A:Surround_ by _B:mountains_, the _C:village_ is difficult to _D:reach_ in winter.
-   ANSWER: A  — The opening phrase needs the past participle "Surrounded", because the village received the action.
-
-[P08 written-expression] _A:Worked_ late into the _B:night_, the _C:engineers_ repaired the _D:system_.
-   ANSWER: A  — The engineers performed the action, so the opening phrase must use "Working", not the past participle "Worked".
-
-[P08 written-expression] The _A:samples_ _B:taking_ from the _C:lake_ contained high levels of _D:mercury_.
-   ANSWER: B  — The samples received the action, so the reduced clause needs the past participle "taken", not "taking".
-
-[P08 structure] ____ to find gold, thousands of settlers moved to California.
-   A) Hoped
-   B) Hoping
-   C) They hoped
-   D) Having been hoped
-   ANSWER: B  — Thousands of settlers performed the action, so the opening phrase uses the -ing form "Hoping". "They hoped…" creates a second main clause, and the passive forms mean the subject received the action.
 
 [P08 structure] The data ____ by the satellite were sent to laboratories around the world.
    A) they collected
@@ -774,202 +755,232 @@
    D) were collected
    ANSWER: C  — "collected by the satellite" is a reduced adjective clause (= "which were collected"). "Were collected" would give the sentence two main verbs, and "collecting" has the wrong (active) meaning.
 
-[P08 structure] The houses ____ by the storm were rebuilt within a year.
-   A) damaged
-   B) were damaged
-   C) they damaged
-   D) damaging
-   ANSWER: A  — "damaged by the storm" is a reduced adjective clause (= "which were damaged"). "Were damaged" would give the sentence two main verbs, and "damaging" has the wrong (active) meaning.
+[P08 written-expression] The _A:paintings_ _B:displaying_ in the main _C:hall_ are more than two hundred years _D:old_.
+   ANSWER: B  — The paintings received the action, so the reduced clause needs the past participle "displayed", not "displaying".
+
+[P08 structure] ____ the two samples, the scientist noticed a small difference.
+   A) Compared
+   B) They compared
+   C) Comparing
+   D) Having been compared
+   ANSWER: C  — The scientist performed the action, so the opening phrase uses the -ing form "Comparing". "They compared…" creates a second main clause, and the passive forms mean the subject received the action.
+
+[P08 structure] The samples ____ from the lake contained high levels of mercury.
+   A) taken
+   B) they taken
+   C) were taken
+   D) taking
+   ANSWER: A  — "taken from the lake" is a reduced adjective clause (= "which were taken"). "Were taken" would give the sentence two main verbs, and "taking" has the wrong (active) meaning.
 
 [P08 written-expression] _A:Write_ in simple _B:language_, the _C:report_ was easy to _D:understand_.
    ANSWER: A  — The opening phrase needs the past participle "Written", because the report received the action.
 
-[P08 structure] ____ the two samples, the scientist noticed a small difference.
-   A) They compared
-   B) Comparing
-   C) Compared
-   D) Having been compared
-   ANSWER: B  — The scientist performed the action, so the opening phrase uses the -ing form "Comparing". "They compared…" creates a second main clause, and the passive forms mean the subject received the action.
+[P08 structure] ____ of local stone, the old church has survived for centuries.
+   A) Having built
+   B) Building
+   C) Built
+   D) It was built
+   ANSWER: C  — The old church received the action, so the opening phrase uses the past participle "Built". "Building" and "Having built" are active forms, and "It was built…" would create a second main clause without a conjunction.
+
+[P08 structure] ____ to find gold, thousands of settlers moved to California.
+   A) Having been hoped
+   B) Hoped
+   C) Hoping
+   D) They hoped
+   ANSWER: C  — Thousands of settlers performed the action, so the opening phrase uses the -ing form "Hoping". "They hoped…" creates a second main clause, and the passive forms mean the subject received the action.
+
+[P08 structure] The bridge ____ by a young engineer won an international prize.
+   A) it designed
+   B) designed
+   C) was designed
+   D) designing
+   ANSWER: B  — "designed by a young engineer" is a reduced adjective clause (= "which was designed"). "Was designed" would give the sentence two main verbs, and "designing" has the wrong (active) meaning.
+
+[P08 written-expression] _A:Surround_ by _B:mountains_, the _C:village_ is difficult to _D:reach_ in winter.
+   ANSWER: A  — The opening phrase needs the past participle "Surrounded", because the village received the action.
+
+[P08 written-expression] The _A:houses_ _B:damaging_ by the _C:storm_ were _D:rebuilt_ within a year.
+   ANSWER: B  — The houses received the action, so the reduced clause needs the past participle "damaged", not "damaging".
+
+[P08 structure] ____ late into the night, the engineers repaired the system.
+   A) Working
+   B) They worked
+   C) Having been worked
+   D) Worked
+   ANSWER: A  — The engineers performed the action, so the opening phrase uses the -ing form "Working". "They worked…" creates a second main clause, and the passive forms mean the subject received the action.
 
 [P08 written-expression] _A:Establish_ in the nineteenth _B:century_, the _C:library_ now holds over a million _D:books_.
    ANSWER: A  — The opening phrase needs the past participle "Established", because the library received the action.
 
-[P08 written-expression] The _A:paintings_ _B:displaying_ in the main _C:hall_ are more than two hundred years _D:old_.
-   ANSWER: B  — The paintings received the action, so the reduced clause needs the past participle "displayed", not "displaying".
+[P08 written-expression] _A:Worked_ late into the _B:night_, the _C:engineers_ repaired the _D:system_.
+   ANSWER: A  — The engineers performed the action, so the opening phrase must use "Working", not the past participle "Worked".
 
-[P08 structure] ____ in simple language, the report was easy to understand.
-   A) It was written
-   B) Writing
-   C) Having written
-   D) Written
-   ANSWER: D  — The report received the action, so the opening phrase uses the past participle "Written". "Writing" and "Having written" are active forms, and "It was written…" would create a second main clause without a conjunction.
+[P08 written-expression] The _A:samples_ _B:taking_ from the _C:lake_ contained high levels of _D:mercury_.
+   ANSWER: B  — The samples received the action, so the reduced clause needs the past participle "taken", not "taking".
 
-[P08 structure] The samples ____ from the lake contained high levels of mercury.
-   A) taking
-   B) they taken
-   C) were taken
-   D) taken
-   ANSWER: D  — "taken from the lake" is a reduced adjective clause (= "which were taken"). "Were taken" would give the sentence two main verbs, and "taking" has the wrong (active) meaning.
-
-[P08 written-expression] _A:Hoped_ to find _B:gold_, thousands of _C:settlers_ moved to _D:California_.
-   ANSWER: A  — Thousands of settlers performed the action, so the opening phrase must use "Hoping", not the past participle "Hoped".
+[P08 written-expression] _A:Compared_ the two _B:samples_, the _C:scientist_ noticed a small _D:difference_.
+   ANSWER: A  — The scientist performed the action, so the opening phrase must use "Comparing", not the past participle "Compared".
 
 [P08 written-expression] The _A:data_ _B:collecting_ by the _C:satellite_ were sent to _D:laboratories_ around the world.
    ANSWER: B  — The data received the action, so the reduced clause needs the past participle "collected", not "collecting".
 
-[P08 structure] ____ by mountains, the village is difficult to reach in winter.
-   A) Surrounded
-   B) Having surrounded
-   C) Surrounding
-   D) It was surrounded
-   ANSWER: A  — The village received the action, so the opening phrase uses the past participle "Surrounded". "Surrounding" and "Having surrounded" are active forms, and "It was surrounded…" would create a second main clause without a conjunction.
+[P08 structure] ____ in simple language, the report was easy to understand.
+   A) Having written
+   B) Written
+   C) It was written
+   D) Writing
+   ANSWER: B  — The report received the action, so the opening phrase uses the past participle "Written". "Writing" and "Having written" are active forms, and "It was written…" would create a second main clause without a conjunction.
 
-[P08 written-expression] The _A:bridge_ _B:designing_ by a young _C:engineer_ won an international _D:prize_.
-   ANSWER: B  — The bridge received the action, so the reduced clause needs the past participle "designed", not "designing".
+[P08 written-expression] _A:Used_ satellite _B:data_, the _C:researchers_ mapped the _D:coastline_.
+   ANSWER: A  — The researchers performed the action, so the opening phrase must use "Using", not the past participle "Used".
 
-[P08 structure] ____ late into the night, the engineers repaired the system.
-   A) Worked
-   B) Having been worked
-   C) Working
-   D) They worked
-   ANSWER: C  — The engineers performed the action, so the opening phrase uses the -ing form "Working". "They worked…" creates a second main clause, and the passive forms mean the subject received the action.
+[P09 structure] Leonardo da Vinci, ____, painted the Mona Lisa.
+   A) was an Italian painter and inventor
+   B) an Italian painter and inventor
+   C) which an Italian painter and inventor
+   D) it was an Italian painter and inventor
+   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "Leonardo da Vinci". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
+
+[P09 structure] ____, Jupiter has dozens of moons.
+   A) Is the largest planet in the solar system
+   B) Because the largest planet in the solar system
+   C) It is the largest planet in the solar system
+   D) The largest planet in the solar system
+   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Jupiter". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
+
+[P09 written-expression] Isaac Newton, _A:was_ an English _B:mathematician_, described the laws of _C:motion_ and _D:gravity_.
+   ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "was"; the sentence's main verb comes after the second comma.
 
 [P09 structure] Marie Curie, ____, won two Nobel Prizes.
    A) a physicist and chemist
    B) was a physicist and chemist
-   C) it was a physicist and chemist
-   D) which a physicist and chemist
+   C) which a physicist and chemist
+   D) it was a physicist and chemist
    ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "Marie Curie". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
 
-[P09 written-expression] The Nile, _A:which_ one of the longest rivers in the _B:world_, flows _C:north_ into the Mediterranean _D:Sea_.
-   ANSWER: A  — "one of the longest rivers in the world" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
+[P09 structure] ____, Mount Everest lies on the border between Nepal and China.
+   A) It is the highest mountain above sea level
+   B) Is the highest mountain above sea level
+   C) The highest mountain above sea level
+   D) Because the highest mountain above sea level
+   ANSWER: C  — An appositive noun phrase can open the sentence and rename the subject "Mount Everest". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
 
-[P09 written-expression] Mount _A:Everest_, _B:is_ the highest mountain above sea level, _C:lies_ on the border between Nepal and _D:China_.
-   ANSWER: B  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
+[P09 structure] The Nile, ____, flows north into the Mediterranean Sea.
+   A) is one of the longest rivers in the world
+   B) one of the longest rivers in the world
+   C) it is one of the longest rivers in the world
+   D) which one of the longest rivers in the world
+   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "The Nile". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
+
+[P09 structure] ____, the cheetah can reach about 100 kilometers per hour.
+   A) Because the fastest land animal
+   B) It is the fastest land animal
+   C) Is the fastest land animal
+   D) The fastest land animal
+   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "The cheetah". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
+
+[P09 structure] ____, Charles Darwin published his theory of evolution in 1859.
+   A) Was an English naturalist
+   B) Because an English naturalist
+   C) An English naturalist
+   D) It was an English naturalist
+   ANSWER: C  — An appositive noun phrase can open the sentence and rename the subject "Charles Darwin". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
+
+[P09 written-expression] The Sahara, _A:which_ the largest hot desert in the _B:world_, _C:covers_ much of North _D:Africa_.
+   ANSWER: A  — "the largest hot desert in the world" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
+
+[P09 written-expression] Saturn, _A:is_ the sixth planet from the _B:Sun_, is _C:famous_ for its _D:rings_.
+   ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
 
 [P09 structure] The cheetah, ____, can reach about 100 kilometers per hour.
-   A) it is the fastest land animal
-   B) is the fastest land animal
-   C) which the fastest land animal
-   D) the fastest land animal
-   ANSWER: D  — The phrase between the commas is an appositive: a noun phrase that renames "The cheetah". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
+   A) the fastest land animal
+   B) which the fastest land animal
+   C) is the fastest land animal
+   D) it is the fastest land animal
+   ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "The cheetah". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
 
-[P09 structure] ____, Isaac Newton described the laws of motion and gravity.
-   A) Was an English mathematician
-   B) An English mathematician
-   C) It was an English mathematician
-   D) Because an English mathematician
-   ANSWER: B  — An appositive noun phrase can open the sentence and rename the subject "Isaac Newton". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
-
-[P09 written-expression] Saturn, _A:which_ the sixth planet from the _B:Sun_, is _C:famous_ for its _D:rings_.
-   ANSWER: A  — "the sixth planet from the Sun" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
-
-[P09 written-expression] The _A:Sahara_, _B:is_ the largest hot desert in the world, _C:covers_ much of North _D:Africa_.
-   ANSWER: B  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
-
-[P09 structure] Leonardo da Vinci, ____, painted the Mona Lisa.
-   A) it was an Italian painter and inventor
-   B) which an Italian painter and inventor
-   C) was an Italian painter and inventor
-   D) an Italian painter and inventor
-   ANSWER: D  — The phrase between the commas is an appositive: a noun phrase that renames "Leonardo da Vinci". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
-
-[P09 written-expression] Charles _A:Darwin_, _B:was_ an English naturalist, _C:published_ his theory of evolution in _D:1859_.
-   ANSWER: B  — The phrase between the commas is an appositive, so it has no verb. Remove "was"; the sentence's main verb comes after the second comma.
-
-[P09 structure] Jupiter, ____, has dozens of moons.
-   A) is the largest planet in the solar system
-   B) the largest planet in the solar system
-   C) it is the largest planet in the solar system
-   D) which the largest planet in the solar system
-   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "Jupiter". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
-
-[P09 structure] Mount Everest, ____, lies on the border between Nepal and China.
-   A) the highest mountain above sea level
-   B) it is the highest mountain above sea level
-   C) which the highest mountain above sea level
-   D) is the highest mountain above sea level
-   ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "Mount Everest". It has no verb, so "is", "which" and "it is" must not be added; the sentence's verb comes after the second comma.
-
-[P09 structure] ____, Mount Everest lies on the border between Nepal and China.
-   A) The highest mountain above sea level
-   B) Because the highest mountain above sea level
-   C) It is the highest mountain above sea level
-   D) Is the highest mountain above sea level
-   ANSWER: A  — An appositive noun phrase can open the sentence and rename the subject "Mount Everest". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
-
-[P09 written-expression] Mount _A:Everest_, _B:which_ the highest mountain above sea _C:level_, lies on the border between Nepal and _D:China_.
+[P09 written-expression] Mount _A:Everest_, _B:which_ the highest mountain above sea level, _C:lies_ on the border between Nepal and _D:China_.
    ANSWER: B  — "the highest mountain above sea level" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
 
-[P09 written-expression] _A:Jupiter_, _B:is_ the largest planet in the solar system, _C:has_ dozens of _D:moons_.
+[P09 written-expression] Mount Everest, _A:is_ the highest mountain above sea _B:level_, _C:lies_ on the border between Nepal and _D:China_.
+   ANSWER: A  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
+
+[P09 structure] ____, Isaac Newton described the laws of motion and gravity.
+   A) Because an English mathematician
+   B) Was an English mathematician
+   C) An English mathematician
+   D) It was an English mathematician
+   ANSWER: C  — An appositive noun phrase can open the sentence and rename the subject "Isaac Newton". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
+
+[P09 written-expression] Mount _A:Everest_, _B:which_ the highest mountain above sea _C:level_, _D:lies_ on the border between Nepal and China.
+   ANSWER: B  — "the highest mountain above sea level" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
+
+[P09 written-expression] _A:Saturn_, _B:is_ the sixth planet from the _C:Sun_, is _D:famous_ for its rings.
    ANSWER: B  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
 
 [P09 structure] Charles Darwin, ____, published his theory of evolution in 1859.
-   A) which an English naturalist
-   B) an English naturalist
+   A) an English naturalist
+   B) which an English naturalist
    C) it was an English naturalist
    D) was an English naturalist
-   ANSWER: B  — The phrase between the commas is an appositive: a noun phrase that renames "Charles Darwin". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
+   ANSWER: A  — The phrase between the commas is an appositive: a noun phrase that renames "Charles Darwin". It has no verb, so "was", "which" and "it was" must not be added; the sentence's verb comes after the second comma.
+
+[P09 structure] ____, the Nile flows north into the Mediterranean Sea.
+   A) Because one of the longest rivers in the world
+   B) One of the longest rivers in the world
+   C) Is one of the longest rivers in the world
+   D) It is one of the longest rivers in the world
+   ANSWER: B  — An appositive noun phrase can open the sentence and rename the subject "The Nile". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
+
+[P09 written-expression] Isaac _A:Newton_, _B:which_ an English _C:mathematician_, described the laws of _D:motion_ and gravity.
+   ANSWER: B  — "an English mathematician" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "who was". ("Which" also cannot refer to a person.)
 
 [P09 structure] ____, Marie Curie won two Nobel Prizes.
-   A) Because a physicist and chemist
-   B) A physicist and chemist
-   C) Was a physicist and chemist
-   D) It was a physicist and chemist
-   ANSWER: B  — An appositive noun phrase can open the sentence and rename the subject "Marie Curie". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
+   A) It was a physicist and chemist
+   B) Was a physicist and chemist
+   C) Because a physicist and chemist
+   D) A physicist and chemist
+   ANSWER: D  — An appositive noun phrase can open the sentence and rename the subject "Marie Curie". Adding a verb ("was", "it was") or "because" breaks the sentence structure.
 
-[P09 written-expression] Leonardo da _A:Vinci_, _B:which_ an Italian _C:painter_ and inventor, _D:painted_ the Mona Lisa.
-   ANSWER: B  — "an Italian painter and inventor" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "who was". ("Which" also cannot refer to a person.)
+[P10 structure] The new policy will reduce costs, save energy, and ____.
+   A) protecting jobs
+   B) protect jobs
+   C) protects jobs
+   D) to protecting jobs
+   ANSWER: B  — Items in a list must have the same form. "reduce costs" and "save energy" are base-form verb phrases after "will", so the third item must be "protect jobs".
 
-[P09 written-expression] The _A:cheetah_, _B:is_ the fastest land _C:animal_, can _D:reach_ about 100 kilometers per hour.
-   ANSWER: B  — The phrase between the commas is an appositive, so it has no verb. Remove "is"; the sentence's main verb comes after the second comma.
+[P10 written-expression] The course teaches _A:children_ to _B:reading_, _C:write_, and _D:count_.
+   ANSWER: B  — All items in the list must be parallel (base verbs after "to"). "reading" breaks the pattern; it should be "read".
 
-[P09 structure] ____, Saturn is famous for its rings.
-   A) The sixth planet from the Sun
-   B) It is the sixth planet from the Sun
-   C) Because the sixth planet from the Sun
-   D) Is the sixth planet from the Sun
-   ANSWER: A  — An appositive noun phrase can open the sentence and rename the subject "Saturn". Adding a verb ("is", "it is") or "because" breaks the sentence structure.
-
-[P09 written-expression] The _A:Nile_, _B:which_ one of the longest rivers in the _C:world_, flows _D:north_ into the Mediterranean Sea.
-   ANSWER: B  — "one of the longest rivers in the world" is an appositive (a noun phrase), so it must not begin with "which". Either remove "which" or write "which is".
+[P10 written-expression] The _A:job_ requires _B:patient_, _C:creativity_, and _D:honesty_.
+   ANSWER: B  — All items in the list must be parallel (nouns). "patient" breaks the pattern; it should be "patience".
 
 [P10 structure] The new laptop is light, fast, and ____.
    A) reliable
    B) reliably
-   C) it is reliable
-   D) reliability
+   C) reliability
+   D) it is reliable
    ANSWER: A  — Items in a list must have the same form. "light" and "fast" are adjectives, so the third item must be "reliable".
 
-[P10 structure] Her favorite activities are hiking, swimming, and ____.
-   A) paints
-   B) she paints
-   C) to paint
-   D) painting
-   ANSWER: D  — Items in a list must have the same form. "hiking" and "swimming" are gerunds, so the third item must be "painting".
+[P10 written-expression] The _A:volunteers_ _B:cleaned the beach_, _C:planted trees_, and _D:repairing the fence_.
+   ANSWER: D  — All items in the list must be parallel (past-tense verb phrases). "repairing the fence" breaks the pattern; it should be "repaired the fence".
 
-[P10 written-expression] The _A:volunteers_ _B:cleaned the beach_, _C:planting trees_, and _D:repaired the fence_.
-   ANSWER: C  — All items in the list must be parallel (past-tense verb phrases). "planting trees" breaks the pattern; it should be "planted trees".
+[P10 written-expression] Her favorite _A:activities_ are _B:to hike_, _C:swimming_, and _D:painting_.
+   ANSWER: B  — All items in the list must be parallel (gerunds). "to hike" breaks the pattern; it should be "hiking".
+
+[P10 structure] The athletes trained regularly, carefully, and ____.
+   A) patience
+   B) patiently
+   C) patient
+   D) with patient
+   ANSWER: B  — Items in a list must have the same form. "regularly" and "carefully" are adverbs, so the third item must be "patiently".
 
 [P10 structure] A good researcher must be curious, patient, and ____.
-   A) with care
+   A) care
    B) carefully
-   C) care
+   C) with care
    D) careful
    ANSWER: D  — Items in a list must have the same form. "curious" and "patient" are adjectives, so the third item must be "careful".
-
-[P10 written-expression] The _A:job_ requires _B:patience_, _C:creativity_, and _D:honest_.
-   ANSWER: D  — All items in the list must be parallel (nouns). "honest" breaks the pattern; it should be "honesty".
-
-[P10 structure] The course teaches children to read, write, and ____.
-   A) count
-   B) to counting
-   C) counting
-   D) counted
-   ANSWER: A  — Items in a list must have the same form. "read" and "write" are base verbs after "to", so the third item must be "count".
-
-[P10 written-expression] The new _A:policy_ will _B:reducing costs_, _C:save energy_, and _D:protect jobs_.
-   ANSWER: B  — All items in the list must be parallel (base-form verb phrases after "will"). "reducing costs" breaks the pattern; it should be "reduce costs".
 
 [P10 written-expression] The museum's _A:collection_ includes _B:paintings_, _C:sculpting_, and _D:photographs_.
    ANSWER: C  — All items in the list must be parallel (nouns). "sculpting" breaks the pattern; it should be "sculptures".
@@ -977,8 +988,15 @@
 [P10 written-expression] The _A:students_ were asked to _B:read the article_, _C:summarizing it_, and _D:discuss it_.
    ANSWER: C  — All items in the list must be parallel (base verbs after "to"). "summarizing it" breaks the pattern; it should be "summarize it".
 
-[P10 written-expression] The _A:athletes_ trained _B:regularly_, _C:carefully_, and _D:patient_.
-   ANSWER: D  — All items in the list must be parallel (adverbs). "patient" breaks the pattern; it should be "patiently".
+[P10 written-expression] The new _A:policy_ will _B:reduce costs_, _C:saving energy_, and _D:protect jobs_.
+   ANSWER: C  — All items in the list must be parallel (base-form verb phrases after "will"). "saving energy" breaks the pattern; it should be "save energy".
+
+[P10 structure] The course teaches children to read, write, and ____.
+   A) counted
+   B) counting
+   C) count
+   D) to counting
+   ANSWER: C  — Items in a list must have the same form. "read" and "write" are base verbs after "to", so the third item must be "count".
 
 [P10 structure] The job requires patience, creativity, and ____.
    A) is honest
@@ -990,28 +1008,18 @@
 [P10 written-expression] The new _A:laptop_ is _B:light_, _C:fast_, and _D:reliably_.
    ANSWER: D  — All items in the list must be parallel (adjectives). "reliably" breaks the pattern; it should be "reliable".
 
-[P10 structure] The athletes trained regularly, carefully, and ____.
-   A) with patient
-   B) patience
-   C) patiently
-   D) patient
-   ANSWER: C  — Items in a list must have the same form. "regularly" and "carefully" are adverbs, so the third item must be "patiently".
-
-[P10 written-expression] The course teaches _A:children_ to _B:read_, _C:writing_, and _D:count_.
-   ANSWER: C  — All items in the list must be parallel (base verbs after "to"). "writing" breaks the pattern; it should be "write".
-
-[P10 written-expression] Her favorite _A:activities_ are _B:to hike_, _C:swimming_, and _D:painting_.
-   ANSWER: B  — All items in the list must be parallel (gerunds). "to hike" breaks the pattern; it should be "hiking".
+[P10 structure] Her favorite activities are hiking, swimming, and ____.
+   A) to paint
+   B) paints
+   C) painting
+   D) she paints
+   ANSWER: C  — Items in a list must have the same form. "hiking" and "swimming" are gerunds, so the third item must be "painting".
 
 [P10 written-expression] A good _A:researcher_ must be _B:curiosity_, _C:patient_, and _D:careful_.
    ANSWER: B  — All items in the list must be parallel (adjectives). "curiosity" breaks the pattern; it should be "curious".
 
-[P10 structure] The new policy will reduce costs, save energy, and ____.
-   A) protecting jobs
-   B) protect jobs
-   C) protects jobs
-   D) to protecting jobs
-   ANSWER: B  — Items in a list must have the same form. "reduce costs" and "save energy" are base-form verb phrases after "will", so the third item must be "protect jobs".
+[P10 written-expression] The _A:athletes_ trained _B:regularly_, _C:careful_, and _D:patiently_.
+   ANSWER: C  — All items in the list must be parallel (adverbs). "careful" breaks the pattern; it should be "carefully".
 
 [P10 structure] The students were asked to read the article, summarize it, and ____.
    A) to discussing it
@@ -1034,246 +1042,251 @@
    D) repairing the fence
    ANSWER: C  — Items in a list must have the same form. "cleaned the beach" and "planted trees" are past-tense verb phrases, so the third item must be "repaired the fence".
 
-[P11 structure] Lead is ____ than aluminum.
-   A) heavier
-   B) more heavy
-   C) more heavier
-   D) heaviest
-   ANSWER: A  — Short adjectives form the comparative with -er: "heavier". Do not add "more" to an -er form, and a superlative ("heaviest") cannot be used with "than".
+[P11 structure] A cheetah is ____ than a lion.
+   A) more fast
+   B) faster
+   C) fastest
+   D) more faster
+   ANSWER: B  — Short adjectives form the comparative with -er: "faster". Do not add "more" to an -er form, and a superlative ("fastest") cannot be used with "than".
 
 [P11 structure] Jupiter is ____ planet in the solar system.
-   A) the larger
-   B) largest
-   C) the most large
+   A) largest
+   B) the most large
+   C) the larger
    D) the largest
    ANSWER: D  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
 
-[P11 written-expression] _A:Diamonds_ are _B:more harder_ _C:than_ _D:glass_.
-   ANSWER: B  — With "than", use the comparative form "harder", not "more harder".
-
-[P11 written-expression] _A:Russia_ _B:is_ _C:the larger_ country in the world by _D:area_.
-   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the largest", not "the larger".
-
-[P11 written-expression] The Pacific _A:Ocean_ _B:is_ _C:more larger_ _D:than_ the Atlantic.
-   ANSWER: C  — With "than", use the comparative form "larger", not "more larger".
+[P11 written-expression] _A:Lead_ _B:is_ _C:more heavier_ _D:than_ aluminum.
+   ANSWER: C  — With "than", use the comparative form "heavier", not "more heavier".
 
 [P11 written-expression] The blue _A:whale_ _B:is_ _C:the most large_ animal alive _D:today_.
    ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the largest", not "the most large".
 
-[P11 written-expression] _A:Platinum_ _B:is_ _C:more rarer_ _D:than_ silver.
-   ANSWER: C  — With "than", use the comparative form "rarer", not "more rarer".
-
-[P11 structure] Mercury is ____ planet in the solar system.
-   A) the most small
-   B) smallest
-   C) the smaller
-   D) the smallest
-   ANSWER: D  — When one thing is compared with all others in a group, use the superlative with "the": "the smallest". The comparative ("the smaller") compares only two things.
-
-[P11 written-expression] A _A:cheetah_ is _B:more faster_ _C:than_ a _D:lion_.
-   ANSWER: B  — With "than", use the comparative form "faster", not "more faster".
-
-[P11 structure] Copper is ____ than iron.
-   A) conductive more
-   B) the more conductive
-   C) most conductive
-   D) more conductive
-   ANSWER: D  — Long adjectives form the comparative with "more": "more conductive". "Most" is for superlatives, and "than" shows this is a comparison of two things.
-
 [P11 structure] Diamonds are ____ than glass.
-   A) harder
-   B) more harder
-   C) more hard
-   D) hardest
-   ANSWER: A  — Short adjectives form the comparative with -er: "harder". Do not add "more" to an -er form, and a superlative ("hardest") cannot be used with "than".
+   A) more harder
+   B) more hard
+   C) hardest
+   D) harder
+   ANSWER: D  — Short adjectives form the comparative with -er: "harder". Do not add "more" to an -er form, and a superlative ("hardest") cannot be used with "than".
 
-[P11 structure] The blue whale is ____ animal alive today.
-   A) the largest
-   B) the larger
-   C) the most large
+[P11 written-expression] _A:Platinum_ is _B:more rarer_ _C:than_ _D:silver_.
+   ANSWER: B  — With "than", use the comparative form "rarer", not "more rarer".
+
+[P11 written-expression] _A:Russia_ _B:is_ _C:the larger_ country in the world by _D:area_.
+   ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the largest", not "the larger".
+
+[P11 structure] The Pacific Ocean is ____ than the Atlantic.
+   A) more larger
+   B) more large
+   C) larger
    D) largest
-   ANSWER: A  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
-
-[P11 written-expression] The Pacific Ocean _A:is_ _B:more larger_ _C:than_ the _D:Atlantic_.
-   ANSWER: B  — With "than", use the comparative form "larger", not "more larger".
-
-[P11 written-expression] _A:Diamonds_ _B:are_ _C:more harder_ _D:than_ glass.
-   ANSWER: C  — With "than", use the comparative form "harder", not "more harder".
-
-[P11 structure] Platinum is ____ than silver.
-   A) the rarer
-   B) rarest
-   C) rarer
-   D) more rarer
-   ANSWER: C  — Short adjectives form the comparative with -er: "rarer". Do not add "more" to an -er form, and a superlative ("rarest") cannot be used with "than".
-
-[P11 structure] Russia is ____ country in the world by area.
-   A) the most large
-   B) largest
-   C) the largest
-   D) the larger
-   ANSWER: C  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
-
-[P11 written-expression] _A:Copper_ _B:is_ _C:most conductive_ _D:than_ iron.
-   ANSWER: C  — With "than", use the comparative form "more conductive", not "most conductive".
+   ANSWER: C  — Short adjectives form the comparative with -er: "larger". Do not add "more" to an -er form, and a superlative ("largest") cannot be used with "than".
 
 [P11 written-expression] _A:Mercury_ _B:is_ _C:the smaller_ planet in the solar _D:system_.
    ANSWER: C  — Comparing one thing with a whole group needs the superlative: "the smallest", not "the smaller".
 
-[P11 structure] A cheetah is ____ than a lion.
-   A) more fast
-   B) faster
-   C) more faster
-   D) fastest
-   ANSWER: B  — Short adjectives form the comparative with -er: "faster". Do not add "more" to an -er form, and a superlative ("fastest") cannot be used with "than".
+[P11 written-expression] Copper _A:is_ _B:most conductive_ _C:than_ _D:iron_.
+   ANSWER: B  — With "than", use the comparative form "more conductive", not "most conductive".
 
-[P11 written-expression] _A:Lead_ _B:is_ _C:more heavier_ than _D:aluminum_.
-   ANSWER: C  — With "than", use the comparative form "heavier", not "more heavier".
+[P11 structure] Platinum is ____ than silver.
+   A) rarer
+   B) the rarer
+   C) more rarer
+   D) rarest
+   ANSWER: A  — Short adjectives form the comparative with -er: "rarer". Do not add "more" to an -er form, and a superlative ("rarest") cannot be used with "than".
 
-[P12 structure] Rarely ____ in the Sahara Desert.
-   A) does it snow
-   B) it snows
-   C) snows it
-   D) it does snow
-   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Rarely", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does it snow".
+[P11 structure] Mercury is ____ planet in the solar system.
+   A) smallest
+   B) the smallest
+   C) the most small
+   D) the smaller
+   ANSWER: B  — When one thing is compared with all others in a group, use the superlative with "the": "the smallest". The comparative ("the smaller") compares only two things.
+
+[P11 structure] Russia is ____ country in the world by area.
+   A) the larger
+   B) the most large
+   C) largest
+   D) the largest
+   ANSWER: D  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
+
+[P11 structure] Copper is ____ than iron.
+   A) the more conductive
+   B) conductive more
+   C) most conductive
+   D) more conductive
+   ANSWER: D  — Long adjectives form the comparative with "more": "more conductive". "Most" is for superlatives, and "than" shows this is a comparison of two things.
+
+[P11 structure] The blue whale is ____ animal alive today.
+   A) the largest
+   B) the most large
+   C) the larger
+   D) largest
+   ANSWER: A  — When one thing is compared with all others in a group, use the superlative with "the": "the largest". The comparative ("the larger") compares only two things.
+
+[P11 written-expression] A _A:cheetah_ is _B:more faster_ _C:than_ a _D:lion_.
+   ANSWER: B  — With "than", use the comparative form "faster", not "more faster".
+
+[P11 written-expression] _A:Copper_ _B:is_ _C:most conductive_ than _D:iron_.
+   ANSWER: C  — With "than", use the comparative form "more conductive", not "most conductive".
+
+[P11 written-expression] _A:Diamonds_ _B:are_ _C:more harder_ _D:than_ glass.
+   ANSWER: C  — With "than", use the comparative form "harder", not "more harder".
+
+[P11 written-expression] The Pacific _A:Ocean_ is _B:more larger_ _C:than_ the _D:Atlantic_.
+   ANSWER: B  — With "than", use the comparative form "larger", not "more larger".
+
+[P11 written-expression] Diamonds _A:are_ _B:more harder_ _C:than_ _D:glass_.
+   ANSWER: B  — With "than", use the comparative form "harder", not "more harder".
+
+[P12 structure] Only after the storm ____ the isolated mountain village.
+   A) the rescue teams reached
+   B) did the rescue teams reach
+   C) the rescue teams did reach
+   D) reached the rescue teams
+   ANSWER: B  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only after", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did the rescue teams reach".
+
+[P12 written-expression] Seldom _A:wild bears attack_ _B:people_ _C:unless_ the bears feel _D:threatened_.
+   ANSWER: A  — After "Seldom" at the start of a sentence, use question word order: "do wild bears attack", not "wild bears attack".
+
+[P12 written-expression] Under no circumstances _A:visitors should feed_ the _B:wild_ _C:animals_ in the _D:park_.
+   ANSWER: A  — After "Under no circumstances" at the start of a sentence, use question word order: "should visitors feed", not "visitors should feed".
+
+[P12 written-expression] _A:Rarely_ _B:the summit is visible_ through the _C:thick_ _D:clouds_.
+   ANSWER: B  — After "Rarely" at the start of a sentence, use question word order: "is the summit visible", not "the summit is visible".
+
+[P12 structure] Never before ____ such a large crowd.
+   A) had the city seen
+   B) saw the city
+   C) the city had seen
+   D) the city saw
+   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Never before", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "had the city seen".
+
+[P12 structure] Only in recent decades ____ to fully understand how sleep affects memory.
+   A) scientists have begun
+   B) have scientists begun
+   C) begun scientists have
+   D) scientists began
+   ANSWER: B  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only in recent decades", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "have scientists begun".
+
+[P12 written-expression] Hardly ever _A:large comets pass_ _B:this_ _C:close_ to _D:Earth_.
+   ANSWER: A  — After "Hardly ever" at the start of a sentence, use question word order: "do large comets pass", not "large comets pass".
+
+[P12 structure] So rare ____ that few botanists have seen it in the wild.
+   A) this orchid
+   B) is it this orchid
+   C) is this orchid
+   D) this orchid is
+   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "So rare", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "is this orchid".
+
+[P12 structure] Not until the 1960s ____ into outer space.
+   A) did humans travel
+   B) traveled humans
+   C) humans did travel
+   D) humans traveled
+   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not until", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did humans travel".
+
+[P12 written-expression] Little _A:the early settlers knew_ _B:about_ the _C:harsh_ _D:winters_.
+   ANSWER: A  — After "Little" at the start of a sentence, use question word order: "did the early settlers know", not "the early settlers knew".
 
 [P12 written-expression] Rarely _A:it snows_ _B:in_ the _C:Sahara_ _D:Desert_.
    ANSWER: A  — After "Rarely" at the start of a sentence, use question word order: "does it snow", not "it snows".
 
 [P12 structure] Not only ____ food, but it also prevents soil erosion.
-   A) the plant does provide
+   A) does the plant provide
    B) provides the plant
    C) the plant provides
-   D) does the plant provide
-   ANSWER: D  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not only", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does the plant provide".
+   D) the plant does provide
+   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not only", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does the plant provide".
 
-[P12 written-expression] _A:Rarely_ _B:the summit is visible_ through the _C:thick_ _D:clouds_.
-   ANSWER: B  — After "Rarely" at the start of a sentence, use question word order: "is the summit visible", not "the summit is visible".
+[P12 structure] Rarely ____ in the Sahara Desert.
+   A) it snows
+   B) it does snow
+   C) does it snow
+   D) snows it
+   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Rarely", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "does it snow".
 
 [P12 structure] Hardly ever ____ this close to Earth.
-   A) pass large comets
-   B) large comets pass
-   C) large comets do pass
-   D) do large comets pass
-   ANSWER: D  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Hardly ever", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "do large comets pass".
+   A) do large comets pass
+   B) large comets do pass
+   C) large comets pass
+   D) pass large comets
+   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Hardly ever", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "do large comets pass".
 
-[P12 written-expression] Under no _A:circumstances_ _B:visitors should feed_ the _C:wild_ _D:animals_ in the park.
-   ANSWER: B  — After "Under no circumstances" at the start of a sentence, use question word order: "should visitors feed", not "visitors should feed".
-
-[P12 structure] Not until the 1960s ____ into outer space.
-   A) traveled humans
-   B) humans did travel
-   C) humans traveled
-   D) did humans travel
-   ANSWER: D  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Not until", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did humans travel".
-
-[P12 written-expression] So _A:rare_ _B:this orchid is_ that few botanists have _C:seen_ it in the _D:wild_.
-   ANSWER: B  — After "So rare" at the start of a sentence, use question word order: "is this orchid", not "this orchid is".
-
-[P12 written-expression] Seldom _A:wild bears attack_ _B:people_ _C:unless_ the bears feel _D:threatened_.
-   ANSWER: A  — After "Seldom" at the start of a sentence, use question word order: "do wild bears attack", not "wild bears attack".
-
-[P12 structure] Only after the storm ____ the isolated mountain village.
-   A) reached the rescue teams
-   B) the rescue teams did reach
-   C) the rescue teams reached
-   D) did the rescue teams reach
-   ANSWER: D  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only after", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "did the rescue teams reach".
-
-[P12 written-expression] Only in recent _A:decades_ _B:scientists have begun_ to fully _C:understand_ how sleep affects _D:memory_.
+[P12 written-expression] Only in recent _A:decades_ _B:scientists have begun_ to _C:fully_ _D:understand_ how sleep affects memory.
    ANSWER: B  — After "Only in recent decades" at the start of a sentence, use question word order: "have scientists begun", not "scientists have begun".
 
-[P12 written-expression] Never before _A:the city had seen_ _B:such_ a _C:large_ _D:crowd_.
-   ANSWER: A  — After "Never before" at the start of a sentence, use question word order: "had the city seen", not "the city had seen".
-
-[P12 written-expression] Little _A:the early settlers knew_ _B:about_ the _C:harsh_ _D:winters_.
-   ANSWER: A  — After "Little" at the start of a sentence, use question word order: "did the early settlers know", not "the early settlers knew".
-
 [P12 structure] Rarely ____ through the thick clouds.
-   A) is the summit visible
+   A) the summit is visible
    B) visible the summit is
-   C) the summit visible is
-   D) the summit is visible
-   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Rarely", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "is the summit visible".
+   C) is the summit visible
+   D) the summit visible is
+   ANSWER: C  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Rarely", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "is the summit visible".
 
-[P12 written-expression] _A:Seldom_ _B:wild bears attack_ people _C:unless_ the bears feel _D:threatened_.
-   ANSWER: B  — After "Seldom" at the start of a sentence, use question word order: "do wild bears attack", not "wild bears attack".
+[P12 written-expression] Under no _A:circumstances_ _B:visitors should feed_ the wild _C:animals_ in the _D:park_.
+   ANSWER: B  — After "Under no circumstances" at the start of a sentence, use question word order: "should visitors feed", not "visitors should feed".
 
-[P12 structure] Only in recent decades ____ to fully understand how sleep affects memory.
-   A) scientists began
-   B) have scientists begun
-   C) begun scientists have
-   D) scientists have begun
-   ANSWER: B  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Only in recent decades", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "have scientists begun".
+[P12 written-expression] Not until the _A:1960s_ _B:humans traveled_ _C:into_ _D:outer_ space.
+   ANSWER: B  — After "Not until" at the start of a sentence, use question word order: "did humans travel", not "humans traveled".
 
-[P12 written-expression] _A:Rarely_ _B:it snows_ _C:in_ the Sahara _D:Desert_.
-   ANSWER: B  — After "Rarely" at the start of a sentence, use question word order: "does it snow", not "it snows".
+[P12 written-expression] Only in recent _A:decades_ _B:scientists have begun_ to _C:fully_ understand how sleep affects _D:memory_.
+   ANSWER: B  — After "Only in recent decades" at the start of a sentence, use question word order: "have scientists begun", not "scientists have begun".
 
-[P12 written-expression] Hardly _A:ever_ _B:large comets pass_ _C:this_ _D:close_ to Earth.
-   ANSWER: B  — After "Hardly ever" at the start of a sentence, use question word order: "do large comets pass", not "large comets pass".
+[P12 structure] Under no circumstances ____ the wild animals in the park.
+   A) should visitors feed
+   B) visitors should feed
+   C) visitors feed
+   D) feed visitors should
+   ANSWER: A  — When a sentence begins with a negative, limiting, or "so + adjective" expression such as "Under no circumstances", the subject and the auxiliary verb (or the verb "be") are inverted, as in a question: "should visitors feed".
 
-[P12 written-expression] Not until the 1960s _A:humans traveled_ _B:into_ _C:outer_ _D:space_.
-   ANSWER: A  — After "Not until" at the start of a sentence, use question word order: "did humans travel", not "humans traveled".
+[P13 structure] If the gallery opened on weekends, more families ____ its exhibits.
+   A) would visited
+   B) would visit
+   C) would to visit
+   D) visiting
+   ANSWER: B  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause: "would visit". After "would", use the base form, without "to".
 
-[P12 written-expression] _A:Little_ _B:the early settlers knew_ about the _C:harsh_ _D:winters_.
-   ANSWER: B  — After "Little" at the start of a sentence, use question word order: "did the early settlers know", not "the early settlers knew".
+[P13 structure] If the farmers had planted drought-resistant seeds, their crops ____ the dry summer.
+   A) would survived
+   B) would had survived
+   C) will have survived
+   D) would have survived
+   ANSWER: D  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have survived".
 
-[P13 structure] If the farmers planted drought-resistant seeds, their crops ____ the dry summer.
-   A) would survive
-   B) would survived
-   C) surviving
-   D) would to survive
-   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause: "would survive". After "would", use the base form, without "to".
+[P13 structure] If the city ____ more bicycle lanes, fewer people would have driven to work.
+   A) building
+   B) has built
+   C) had built
+   D) would build
+   ANSWER: C  — The main clause "would have driven" shows an unreal past condition, so the if-clause needs the past perfect: "had built". "Would" does not belong in the if-clause.
 
-[P13 structure] If the store ____ its prices, more customers would have bought its products.
-   A) would lower
-   B) lowering
-   C) has lowered
-   D) had lowered
-   ANSWER: D  — The main clause "would have bought" shows an unreal past condition, so the if-clause needs the past perfect: "had lowered". "Would" does not belong in the if-clause.
+[P13 structure] Some new employees wish they ____ more about the history of the firm.
+   A) will know
+   B) knew
+   C) knowing
+   D) know
+   ANSWER: B  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they knew".
 
-[P13 structure] Most farmers wish they ____ more modern machinery for their fields.
-   A) own
-   B) owning
-   C) owned
-   D) will own
-   ANSWER: C  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they owned".
+[P13 written-expression] If the hospital _A:will hire_ more _B:nurses_, patients _C:would spend_ less time waiting for _D:care_.
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "hired".
 
-[P13 written-expression] If the _A:hospital_ _B:will hire_ more nurses, patients would spend less _C:time_ waiting for _D:care_.
-   ANSWER: B  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "hired".
-
-[P13 written-expression] Some new _A:employees_ _B:wish_ they _C:know_ more about the _D:history_ of the firm.
-   ANSWER: C  — After "wish", a present situation is described with the simple past: "knew", not "know".
-
-[P13 structure] If the researchers had used a larger sample, the results ____ more reliable.
-   A) would been
-   B) would have been
-   C) would had been
-   D) will have been
-   ANSWER: B  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have been".
-
-[P13 written-expression] If the _A:students_ _B:will read_ the _C:instructions_ carefully, they would make fewer _D:mistakes_.
-   ANSWER: B  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "read".
-
-[P13 written-expression] Many language learners _A:wish_ they _B:speak_ more _C:fluently_ _D:at_ work.
-   ANSWER: B  — After "wish", a present situation is described with the simple past: "spoke", not "speak".
-
-[P13 structure] If the city had built more bicycle lanes, fewer people ____ to work.
-   A) would have driven
-   B) would driven
-   C) will have driven
-   D) would had driven
-   ANSWER: A  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have driven".
+[P13 written-expression] Many language _A:learners_ _B:wish_ they _C:speak_ more fluently _D:at_ work.
+   ANSWER: C  — After "wish", a present situation is described with the simple past: "spoke", not "speak".
 
 [P13 structure] Many travelers wish they ____ more time to explore each city.
-   A) had
-   B) will have
-   C) have
-   D) having
-   ANSWER: A  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they had".
+   A) will have
+   B) have
+   C) having
+   D) had
+   ANSWER: D  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they had".
+
+[P13 written-expression] If the students _A:will read_ the _B:instructions_ carefully, they _C:would make_ fewer _D:mistakes_.
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "read".
 
 [P13 written-expression] If the researchers _A:will use_ a larger _B:sample_, the _C:results_ would be more _D:reliable_.
    ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "used".
+
+[P13 written-expression] Most farmers wish they _A:own_ more modern _B:machinery_ _C:for_ their _D:fields_.
+   ANSWER: A  — After "wish", a present situation is described with the simple past: "owned", not "own".
 
 [P13 structure] If the region had received more rain, the lake ____ to its normal level.
    A) would risen
@@ -1282,6 +1295,9 @@
    D) would have risen
    ANSWER: D  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have risen".
 
+[P13 written-expression] If the store _A:had lowered_ its _B:prices_, more _C:customers_ _D:would bought_ its products.
+   ANSWER: D  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have bought", not "would bought".
+
 [P13 structure] Many commuters wish they ____ closer to their offices.
    A) will live
    B) lived
@@ -1289,14 +1305,21 @@
    D) live
    ANSWER: B  — A wish about the present is unreal, so the verb after "wish" moves back to the simple past: "wish they lived".
 
-[P13 written-expression] If the gallery _A:had opened_ on _B:weekends_, more _C:families_ _D:would visited_ its exhibits.
-   ANSWER: D  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have visited", not "would visited".
-
 [P13 written-expression] If the city _A:will build_ more bicycle _B:lanes_, fewer _C:people_ _D:would drive_ to work.
    ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "built".
 
+[P13 structure] If the researchers had used a larger sample, the results ____ more reliable.
+   A) would had been
+   B) will have been
+   C) would have been
+   D) would been
+   ANSWER: C  — An unreal condition about the past uses "had + past participle" in the if-clause and "would have + past participle" in the main clause: "would have been".
+
 [P13 written-expression] If the store _A:will lower_ its _B:prices_, more _C:customers_ would buy its _D:products_.
    ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "lowered".
+
+[P13 written-expression] If the farmers _A:will plant_ drought-resistant _B:seeds_, their _C:crops_ would survive the dry _D:summer_.
+   ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "planted".
 
 [P13 written-expression] If the _A:region_ _B:will receive_ more _C:rain_, the _D:lake_ would rise to its normal level.
    ANSWER: B  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "received".
@@ -1307,38 +1330,32 @@
 [P13 written-expression] If the store _A:will lower_ its prices, more _B:customers_ _C:would buy_ its _D:products_.
    ANSWER: A  — An unreal condition about the present uses the simple past in the if-clause and "would + base verb" in the main clause. "Will" does not belong in this if-clause: write "lowered".
 
-[P13 written-expression] Many _A:travelers_ wish they _B:have_ more _C:time_ to explore each _D:city_.
-   ANSWER: B  — After "wish", a present situation is described with the simple past: "had", not "have".
-
-[P14 structure] Many birds avoid ____ near busy roads.
-   A) nesting
-   B) to nest
-   C) nested
-   D) nest
-   ANSWER: A  — The verb "avoid" is followed by a gerund (-ing form), not an infinitive: "avoid nesting".
+[P14 structure] The witness denied ____ the stolen car.
+   A) to see
+   B) seeing
+   C) see
+   D) seen
+   ANSWER: B  — The verb "deny" is followed by a gerund (-ing form), not an infinitive: "denied seeing".
 
 [P14 structure] The members decided ____ the vote until Friday.
-   A) postpone
-   B) postponing
-   C) postponed
+   A) postponing
+   B) postponed
+   C) postpone
    D) to postpone
    ANSWER: D  — The verb "decide" is followed by an infinitive (to + base verb): "decided to postpone".
 
-[P14 structure] The curator is responsible for ____ many rare paintings.
-   A) protect
-   B) protected
-   C) to protect
-   D) protecting
-   ANSWER: D  — A verb that follows a preposition such as "for" must be a gerund (-ing form): "for protecting".
+[P14 structure] The engineers were interested in ____ a quieter engine.
+   A) designed
+   B) to design
+   C) designing
+   D) design
+   ANSWER: C  — A verb that follows a preposition such as "in" must be a gerund (-ing form): "in designing".
 
-[P14 written-expression] The _A:engineers_ _B:postponed_ _C:to launch_ the satellite _D:until_ spring.
-   ANSWER: C  — "postpone" takes a gerund, not an infinitive: "postponed launching".
+[P14 written-expression] Most patients _A:enjoy_ _B:to walk_ _C:in_ the hospital _D:garden_.
+   ANSWER: B  — "enjoy" takes a gerund, not an infinitive: "enjoy walking".
 
-[P14 written-expression] The _A:landlord_ refused _B:lowering_ the _C:rent_ _D:this_ year.
-   ANSWER: B  — "refuse" takes an infinitive, not a gerund: "refused to lower".
-
-[P14 written-expression] _A:Some_ desert _B:plants_ _C:are capable of_ _D:to survive_ long periods without water.
-   ANSWER: D  — After the preposition "of", use a gerund: "of surviving", not "to survive".
+[P14 written-expression] The _A:author_ _B:is famous for_ _C:to write_ detective _D:novels_ set in London.
+   ANSWER: C  — After the preposition "for", use a gerund: "for writing", not "to write".
 
 [P14 structure] The workers finished ____ the bridge before winter.
    A) painting
@@ -1354,6 +1371,13 @@
    D) buying
    ANSWER: C  — The verb "afford" is followed by an infinitive (to + base verb): "cannot afford to buy".
 
+[P14 structure] The curator is responsible for ____ many rare paintings.
+   A) to protect
+   B) protecting
+   C) protected
+   D) protect
+   ANSWER: B  — A verb that follows a preposition such as "for" must be a gerund (-ing form): "for protecting".
+
 [P14 written-expression] _A:City_ planners considered _B:to build_ a _C:second_ _D:airport_.
    ANSWER: B  — "consider" takes a gerund, not an infinitive: "considered building".
 
@@ -1363,13 +1387,6 @@
 [P14 written-expression] The _A:doctors_ succeeded in _B:to identify_ the _C:cause_ _D:of_ the illness.
    ANSWER: B  — After the preposition "in", use a gerund: "in identifying", not "to identify".
 
-[P14 structure] Most patients enjoy ____ in the hospital garden.
-   A) walked
-   B) walking
-   C) to walk
-   D) walk
-   ANSWER: B  — The verb "enjoy" is followed by a gerund (-ing form), not an infinitive: "enjoy walking".
-
 [P14 structure] The railway plans ____ its network across the country.
    A) to expand
    B) expand
@@ -1377,8 +1394,25 @@
    D) expanding
    ANSWER: A  — The verb "plan" is followed by an infinitive (to + base verb): "plans to expand".
 
-[P14 written-expression] The _A:engineers_ _B:were interested in_ _C:to design_ a _D:quieter_ engine.
-   ANSWER: C  — After the preposition "in", use a gerund: "in designing", not "to design".
+[P14 structure] Some desert plants are capable of ____ long periods without water.
+   A) survive
+   B) to survive
+   C) survived
+   D) surviving
+   ANSWER: D  — A verb that follows a preposition such as "of" must be a gerund (-ing form): "of surviving".
+
+[P14 written-expression] Many _A:birds_ _B:avoid_ _C:to nest_ _D:near_ busy roads.
+   ANSWER: C  — "avoid" takes a gerund, not an infinitive: "avoid nesting".
+
+[P14 written-expression] The _A:landlord_ _B:refused_ _C:lowering_ the _D:rent_ this year.
+   ANSWER: C  — "refuse" takes an infinitive, not a gerund: "refused to lower".
+
+[P14 structure] The engineers postponed ____ the satellite until spring.
+   A) launched
+   B) to launch
+   C) launching
+   D) launch
+   ANSWER: C  — The verb "postpone" is followed by a gerund (-ing form), not an infinitive: "postponed launching".
 
 [P14 structure] The local bakery hopes ____ three new stores next year.
    A) open
@@ -1387,18 +1421,15 @@
    D) opening
    ANSWER: C  — The verb "hope" is followed by an infinitive (to + base verb): "hopes to open".
 
-[P14 structure] The author is famous for ____ detective novels set in London.
-   A) written
-   B) writing
-   C) write
-   D) to write
-   ANSWER: B  — A verb that follows a preposition such as "for" must be a gerund (-ing form): "for writing".
-
 [P14 written-expression] _A:Both_ _B:countries_ agreed _C:reducing_ their carbon emissions _D:by_ half.
    ANSWER: C  — "agree" takes an infinitive, not a gerund: "agreed to reduce".
 
-[P14 written-expression] The _A:witness_ _B:denied_ _C:to see_ the _D:stolen_ car.
-   ANSWER: C  — "deny" takes a gerund, not an infinitive: "denied seeing".
+[P14 structure] Many birds avoid ____ near busy roads.
+   A) nested
+   B) to nest
+   C) nesting
+   D) nest
+   ANSWER: C  — The verb "avoid" is followed by a gerund (-ing form), not an infinitive: "avoid nesting".
 
 [P14 structure] The doctors succeeded in ____ the cause of the illness.
    A) identify
@@ -1407,25 +1438,22 @@
    D) identified
    ANSWER: B  — A verb that follows a preposition such as "in" must be a gerund (-ing form): "in identifying".
 
-[P14 written-expression] Most _A:patients_ enjoy _B:to walk_ _C:in_ the hospital _D:garden_.
-   ANSWER: B  — "enjoy" takes a gerund, not an infinitive: "enjoy walking".
-
-[P15 structure] Visitors to the laboratory must ____ protective glasses.
-   A) wear
-   B) to wear
-   C) wears
-   D) wearing
-   ANSWER: A  — A modal such as "must" is always followed by the base form of the verb, with no "to" and no ending: "must wear".
+[P15 structure] Regular exercise may ____ the risk of heart disease.
+   A) to lower
+   B) lower
+   C) lowering
+   D) lowers
+   ANSWER: B  — A modal such as "may" is always followed by the base form of the verb, with no "to" and no ending: "may lower".
 
 [P15 structure] The first people in the Americas may ____ a land bridge from Asia.
-   A) have cross
-   B) had crossed
-   C) crossed
+   A) had crossed
+   B) crossed
+   C) have cross
    D) have crossed
    ANSWER: D  — To talk about the past with a modal, use modal + have + past participle: "may have crossed". "Had" and the simple past cannot follow a modal.
 
-[P15 written-expression] Some _A:insects_ _B:can_ _C:survives_ _D:freezing_ temperatures.
-   ANSWER: C  — "Can" is followed by the base form of the verb: "can survive", not "can survives".
+[P15 written-expression] Visitors to the _A:laboratory_ must _B:wearing_ _C:protective_ _D:glasses_.
+   ANSWER: B  — "Must" is followed by the base form of the verb: "must wear", not "must wearing".
 
 [P15 written-expression] The _A:ancient_ city _B:must_ _C:had been_ _D:abandoned_ suddenly.
    ANSWER: C  — A modal about the past takes "have", not "had": "must have been".
@@ -1436,9 +1464,6 @@
    C) repeats
    D) repeating
    ANSWER: A  — A modal such as "should" is always followed by the base form of the verb, with no "to" and no ending: "should repeat".
-
-[P15 written-expression] Regular _A:exercise_ _B:may_ _C:lowered_ the risk of heart _D:disease_.
-   ANSWER: C  — "May" is followed by the base form of the verb: "may lower", not "may lowered".
 
 [P15 written-expression] The _A:builders_ should _B:had tested_ the _C:bridge_ more _D:carefully_.
    ANSWER: B  — A modal about the past takes "have", not "had": "should have tested".
@@ -1474,24 +1499,24 @@
 [P15 written-expression] _A:All_ _B:drivers_ _C:must_ _D:stops_ at a red light.
    ANSWER: D  — "Must" is followed by the base form of the verb: "must stop", not "must stops".
 
+[P15 written-expression] Some _A:insects_ _B:can_ _C:surviving_ _D:freezing_ temperatures.
+   ANSWER: C  — "Can" is followed by the base form of the verb: "can survive", not "can surviving".
+
+[P15 structure] Visitors to the laboratory must ____ protective glasses.
+   A) wearing
+   B) to wear
+   C) wears
+   D) wear
+   ANSWER: D  — A modal such as "must" is always followed by the base form of the verb, with no "to" and no ending: "must wear".
+
 [P15 written-expression] A small change in _A:temperature_ _B:can_ _C:affected_ the growth of _D:crops_.
    ANSWER: C  — "Can" is followed by the base form of the verb: "can affect", not "can affected".
 
 [P15 written-expression] The first _A:people_ in the Americas _B:may_ _C:had crossed_ a land _D:bridge_ from Asia.
    ANSWER: C  — A modal about the past takes "have", not "had": "may have crossed".
 
-[P15 written-expression] Visitors to the _A:laboratory_ must _B:wears_ _C:protective_ _D:glasses_.
-   ANSWER: B  — "Must" is followed by the base form of the verb: "must wear", not "must wears".
-
 [P15 written-expression] The missing _A:letter_ might _B:had been_ _C:lost_ in the _D:mail_.
    ANSWER: B  — A modal about the past takes "have", not "had": "might have been".
-
-[P15 structure] Regular exercise may ____ the risk of heart disease.
-   A) lower
-   B) lowers
-   C) to lower
-   D) lowering
-   ANSWER: A  — A modal such as "may" is always followed by the base form of the verb, with no "to" and no ending: "may lower".
 
 [P15 written-expression] Regular exercise _A:may_ _B:lowers_ the _C:risk_ of heart _D:disease_.
    ANSWER: B  — "May" is followed by the base form of the verb: "may lower", not "may lowers".
@@ -1502,187 +1527,100 @@
 [P15 written-expression] Visitors to the laboratory _A:must_ _B:wore_ _C:protective_ _D:glasses_.
    ANSWER: B  — "Must" is followed by the base form of the verb: "must wear", not "must wore".
 
-[P16 structure] Many birds build ____ nests in tall trees.
-   A) their
-   B) its
-   C) them
-   D) they're
-   ANSWER: A  — The pronoun refers to the plural noun "birds", so it must be the plural possessive "their". "They're" means "they are".
+[P15 written-expression] The ancient _A:city_ must _B:had been_ _C:abandoned_ _D:suddenly_.
+   ANSWER: B  — A modal about the past takes "have", not "had": "must have been".
+
+[P16 structure] The students presented ____ findings at the conference.
+   A) its
+   B) their
+   C) they're
+   D) them
+   ANSWER: B  — The pronoun refers to the plural noun "students", so it must be the plural possessive "their". "They're" means "they are".
 
 [P16 structure] The river gradually changed ____ course over many centuries.
-   A) their
-   B) it's
-   C) it
+   A) it's
+   B) it
+   C) their
    D) its
    ANSWER: D  — The pronoun refers to the singular noun "river", so use the possessive "its". "It's" (with an apostrophe) means "it is".
 
-[P16 structure] The farmers harvested the apples and sold ____ at the local market.
+[P16 structure] The scientists collected the samples and tested ____ in the laboratory.
+   A) it
+   B) they
+   C) them
+   D) their
+   ANSWER: C  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+
+[P16 written-expression] Female mammals _A:feed_ _B:its_ _C:young_ with _D:milk_.
+   ANSWER: B  — "mammals" is plural, so the possessive must be "their", not "its".
+
+[P16 written-expression] The _A:library_ received two old maps and _B:displayed_ _C:they_ in the main _D:hall_.
+   ANSWER: C  — An object of a verb needs an object pronoun: "them", not "they".
+
+[P16 structure] A deciduous tree loses ____ leaves every autumn.
    A) their
    B) it
+   C) it's
+   D) its
+   ANSWER: D  — The pronoun refers to the singular noun "tree", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+
+[P16 structure] The teacher marked the essays and returned ____ to the class.
+   A) their
+   B) them
    C) they
-   D) them
-   ANSWER: D  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+   D) it
+   ANSWER: B  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+
+[P16 written-expression] Many _A:birds_ _B:build_ _C:its_ _D:nests_ in tall trees.
+   ANSWER: C  — "birds" is plural, so the possessive must be "their", not "its".
+
+[P16 written-expression] An octopus _A:can change_ _B:their_ _C:color_ very _D:quickly_.
+   ANSWER: B  — "octopus" is singular, so the possessive must be "its", not "their".
 
 [P16 written-expression] Early _A:farmers_ _B:stored_ _C:its_ grain in clay _D:pots_.
    ANSWER: C  — "farmers" is plural, so the possessive must be "their", not "its".
 
-[P16 written-expression] The planet _A:Mercury_ _B:completes_ _C:their_ _D:orbit_ in about 88 days.
-   ANSWER: C  — "Mercury" is singular, so the possessive must be "its", not "their".
+[P16 written-expression] The _A:glacier_ _B:has lost much of_ _C:it's_ _D:ice_ over the past century.
+   ANSWER: C  — The possessive form is "its" with no apostrophe. "It's" means "it is".
 
-[P16 written-expression] The _A:library_ received two old _B:maps_ and _C:displayed_ _D:they_ in the main hall.
+[P16 structure] The planet Mercury completes ____ orbit in about 88 days.
+   A) their
+   B) it's
+   C) its
+   D) it
+   ANSWER: C  — The pronoun refers to the singular noun "Mercury", so use the possessive "its". "It's" (with an apostrophe) means "it is".
+
+[P16 written-expression] The _A:farmers_ harvested the _B:apples_ and _C:sold_ _D:they_ at the local market.
    ANSWER: D  — An object of a verb needs an object pronoun: "them", not "they".
 
-[P16 structure] The glacier has lost much of ____ ice over the past century.
-   A) their
-   B) it
-   C) its
-   D) it's
-   ANSWER: C  — The pronoun refers to the singular noun "glacier", so use the possessive "its". "It's" (with an apostrophe) means "it is".
-
-[P16 written-expression] Female _A:mammals_ feed _B:its_ _C:young_ with _D:milk_.
-   ANSWER: B  — "mammals" is plural, so the possessive must be "their", not "its".
-
-[P16 structure] An octopus can change ____ color very quickly.
-   A) its
-   B) their
-   C) it
-   D) it's
-   ANSWER: A  — The pronoun refers to the singular noun "octopus", so use the possessive "its". "It's" (with an apostrophe) means "it is".
-
-[P16 structure] A deciduous tree loses ____ leaves every autumn.
-   A) it
-   B) it's
-   C) their
-   D) its
-   ANSWER: D  — The pronoun refers to the singular noun "tree", so use the possessive "its". "It's" (with an apostrophe) means "it is".
-
-[P16 written-expression] _A:Honeybees_ _B:use_ _C:its_ _D:dances_ to share the location of food.
+[P16 written-expression] _A:Honeybees_ _B:use_ _C:its_ dances to share the _D:location_ of food.
    ANSWER: C  — "Honeybees" is plural, so the possessive must be "their", not "its".
 
-[P16 structure] The students presented ____ findings at the conference.
+[P16 structure] Many birds build ____ nests in tall trees.
    A) they're
    B) its
    C) their
    D) them
-   ANSWER: C  — The pronoun refers to the plural noun "students", so it must be the plural possessive "their". "They're" means "they are".
+   ANSWER: C  — The pronoun refers to the plural noun "birds", so it must be the plural possessive "their". "They're" means "they are".
 
-[P16 structure] The teacher marked the essays and returned ____ to the class.
-   A) it
-   B) they
-   C) their
-   D) them
-   ANSWER: D  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
+[P16 structure] The glacier has lost much of ____ ice over the past century.
+   A) their
+   B) its
+   C) it's
+   D) it
+   ANSWER: B  — The pronoun refers to the singular noun "glacier", so use the possessive "its". "It's" (with an apostrophe) means "it is".
 
-[P16 written-expression] The _A:scientists_ collected the _B:samples_ and tested _C:they_ in the _D:laboratory_.
-   ANSWER: C  — An object of a verb needs an object pronoun: "them", not "they".
+[P16 written-expression] An _A:octopus_ can change _B:their_ _C:color_ very _D:quickly_.
+   ANSWER: B  — "octopus" is singular, so the possessive must be "its", not "their".
 
-[P16 structure] Female mammals feed ____ young with milk.
-   A) its
-   B) them
-   C) they're
-   D) their
-   ANSWER: D  — The pronoun refers to the plural noun "mammals", so it must be the plural possessive "their". "They're" means "they are".
+[P16 written-expression] The _A:scientists_ collected the _B:samples_ and _C:tested_ _D:they_ in the laboratory.
+   ANSWER: D  — An object of a verb needs an object pronoun: "them", not "they".
 
-[P16 structure] The scientists collected the samples and tested ____ in the laboratory.
-   A) them
-   B) it
-   C) they
-   D) their
-   ANSWER: A  — The pronoun is the object of the verb and refers to a plural noun, so use the plural object pronoun "them".
-
-[P16 written-expression] An octopus _A:can change_ _B:it's_ _C:color_ very _D:quickly_.
+[P16 written-expression] The planet _A:Mercury_ completes _B:it's_ _C:orbit_ in about 88 _D:days_.
    ANSWER: B  — The possessive form is "its" with no apostrophe. "It's" means "it is".
 
-[P16 written-expression] The _A:library_ received two old _B:maps_ and displayed _C:they_ in the main _D:hall_.
+[P16 written-expression] The farmers harvested the _A:apples_ and _B:sold_ _C:they_ at the local _D:market_.
    ANSWER: C  — An object of a verb needs an object pronoun: "them", not "they".
-
-[P16 structure] Honeybees use ____ dances to share the location of food.
-   A) its
-   B) their
-   C) they're
-   D) them
-   ANSWER: B  — The pronoun refers to the plural noun "Honeybees", so it must be the plural possessive "their". "They're" means "they are".
-
-[P16 written-expression] The students _A:presented_ _B:its_ _C:findings_ at the _D:conference_.
-   ANSWER: B  — "students" is plural, so the possessive must be "their", not "its".
-
-[P17 structure] The Nile is one of the ____ in the world.
-   A) longest rivers
-   B) longest river
-   C) most longest rivers
-   D) longest river's
-   ANSWER: A  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the longest rivers".
-
-[P17 structure] During the storm, several ____ were badly damaged.
-   A) building's
-   B) building
-   C) kind of building
-   D) buildings
-   ANSWER: D  — With a countable noun, "several" requires the plural form: "several buildings".
-
-[P17 structure] The laboratory bought ____ for its experiments.
-   A) many equipments
-   B) an equipment
-   C) some new equipments
-   D) some new equipment
-   ANSWER: D  — "Equipment" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "some new equipment".
-
-[P17 written-expression] _A:The cheetah_ _B:is_ one of the _C:fastest_ _D:animal_ on land.
-   ANSWER: D  — After "one of the", use a plural noun: "animals", not "animal".
-
-[P17 written-expression] In such _A:dry_ soil, few _B:plant_ _C:can_ _D:survive_ for long.
-   ANSWER: B  — With a countable noun, "few" requires the plural form: "few plants", not "plant".
-
-[P17 written-expression] The _A:professor_ _B:gave_ the students some useful _C:advices_ about their _D:essays_.
-   ANSWER: C  — "Advice" is uncountable, so it has no plural: write "advice", not "advices".
-
-[P17 structure] Jupiter is one of the ____ in the night sky.
-   A) most brightest objects
-   B) brightest object's
-   C) brightest object
-   D) brightest objects
-   ANSWER: D  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the brightest objects".
-
-[P17 structure] At the gate, all ____ must show a ticket.
-   A) passenger
-   B) passenger's
-   C) passengers
-   D) kind of passenger
-   ANSWER: C  — With a countable noun, "all" requires the plural form: "all passengers".
-
-[P17 written-expression] Tokyo _A:is_ one of the _B:largest_ _C:city_ _D:in_ the world.
-   ANSWER: C  — After "one of the", use a plural noun: "cities", not "city".
-
-[P17 written-expression] The researchers _A:gathered_ a great deal of _B:informations_ _C:about_ the _D:disease_.
-   ANSWER: B  — "Information" is uncountable, so it has no plural: write "information", not "informations".
-
-[P17 structure] K2 is one of the ____ on Earth.
-   A) highest mountains
-   B) highest mountain's
-   C) highest mountain
-   D) most highest mountains
-   ANSWER: A  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the highest mountains".
-
-[P17 structure] A number of ____ have applied for the scholarship.
-   A) students
-   B) student's
-   C) student
-   D) kind of student
-   ANSWER: A  — With a countable noun, "a number of" requires the plural form: "a number of students".
-
-[P17 structure] Both ____ were tested twice in the laboratory.
-   A) kind of sample
-   B) samples
-   C) sample
-   D) sample's
-   ANSWER: B  — With a countable noun, "both" requires the plural form: "both samples".
-
-[P17 structure] Each passenger may bring ____ on the bus.
-   A) a small amount of luggage
-   B) many luggages
-   C) a luggage
-   D) a small amount of luggages
-   ANSWER: A  — "Luggage" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "a small amount of luggage".
 
 [P17 structure] The Sahara is one of the ____ on Earth.
    A) driest region
@@ -1691,12 +1629,82 @@
    D) most driest regions
    ANSWER: B  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the driest regions".
 
-[P17 structure] The hotel replaced ____ in its rooms.
-   A) a furniture
-   B) most of the old furniture
-   C) many furnitures
-   D) most of the old furnitures
-   ANSWER: B  — "Furniture" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "most of the old furniture".
+[P17 structure] During the storm, several ____ were badly damaged.
+   A) building
+   B) kind of building
+   C) building's
+   D) buildings
+   ANSWER: D  — With a countable noun, "several" requires the plural form: "several buildings".
+
+[P17 structure] The researchers gathered ____ about the disease.
+   A) an information
+   B) a great deal of informations
+   C) a great deal of information
+   D) many informations
+   ANSWER: C  — "Information" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "a great deal of information".
+
+[P17 written-expression] _A:Jupiter_ is one of the _B:brightest_ _C:object_ _D:in_ the night sky.
+   ANSWER: C  — After "one of the", use a plural noun: "objects", not "object".
+
+[P17 written-expression] Each _A:passenger_ _B:may_ bring a small amount of _C:luggages_ _D:on_ the bus.
+   ANSWER: C  — "Luggage" is uncountable, so it has no plural: write "luggage", not "luggages".
+
+[P17 structure] K2 is one of the ____ on Earth.
+   A) highest mountains
+   B) most highest mountains
+   C) highest mountain
+   D) highest mountain's
+   ANSWER: A  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the highest mountains".
+
+[P17 structure] At the gate, all ____ must show a ticket.
+   A) passenger's
+   B) kind of passenger
+   C) passengers
+   D) passenger
+   ANSWER: C  — With a countable noun, "all" requires the plural form: "all passengers".
+
+[P17 structure] The laboratory bought ____ for its experiments.
+   A) some new equipments
+   B) some new equipment
+   C) an equipment
+   D) many equipments
+   ANSWER: B  — "Equipment" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "some new equipment".
+
+[P17 written-expression] _A:Tokyo_ is one of the _B:largest_ _C:city_ _D:in_ the world.
+   ANSWER: C  — After "one of the", use a plural noun: "cities", not "city".
+
+[P17 structure] In such dry soil, few ____ can survive for long.
+   A) kind of plant
+   B) plants
+   C) plant's
+   D) plant
+   ANSWER: B  — With a countable noun, "few" requires the plural form: "few plants".
+
+[P17 structure] The professor gave the students ____ about their essays.
+   A) many advices
+   B) some useful advice
+   C) some useful advices
+   D) an advice
+   ANSWER: B  — "Advice" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "some useful advice".
+
+[P17 written-expression] Both _A:sample_ _B:were_ tested _C:twice_ in the _D:laboratory_.
+   ANSWER: A  — With a countable noun, "both" requires the plural form: "both samples", not "sample".
+
+[P17 written-expression] The cheetah _A:is_ one of the _B:fastest_ _C:animal_ _D:on_ land.
+   ANSWER: C  — After "one of the", use a plural noun: "animals", not "animal".
+
+[P17 written-expression] The _A:hotel_ _B:replaced_ most of the old _C:furnitures_ _D:in_ its rooms.
+   ANSWER: C  — "Furniture" is uncountable, so it has no plural: write "furniture", not "furnitures".
+
+[P17 written-expression] A number of _A:student_ _B:have_ applied _C:for_ the _D:scholarship_.
+   ANSWER: A  — With a countable noun, "a number of" requires the plural form: "a number of students", not "student".
+
+[P17 structure] The Nile is one of the ____ in the world.
+   A) longest river's
+   B) most longest rivers
+   C) longest river
+   D) longest rivers
+   ANSWER: D  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the longest rivers".
 
 [P17 structure] The cheetah is one of the ____ on land.
    A) fastest animals
@@ -1705,94 +1713,95 @@
    D) fastest animal
    ANSWER: A  — "One of the" is always followed by a plural noun, and a superlative that already ends in -est does not take "most": "one of the fastest animals".
 
-[P17 structure] The researchers gathered ____ about the disease.
-   A) an information
-   B) a great deal of information
-   C) many informations
-   D) a great deal of informations
-   ANSWER: B  — "Information" is an uncountable noun: it has no plural form and is not used with "a/an" or "many": "a great deal of information".
-
-[P17 written-expression] Both _A:sample_ _B:were_ tested _C:twice_ in the _D:laboratory_.
-   ANSWER: A  — With a countable noun, "both" requires the plural form: "both samples", not "sample".
+[P17 written-expression] _A:The cheetah_ _B:is_ one of the _C:fastest_ _D:animal_ on land.
+   ANSWER: D  — After "one of the", use a plural noun: "animals", not "animal".
 
 [P17 written-expression] The _A:laboratory_ _B:bought_ some new _C:equipments_ for its _D:experiments_.
    ANSWER: C  — "Equipment" is uncountable, so it has no plural: write "equipment", not "equipments".
 
-[P20 structure] The population of the city increased ____ after the war.
-   A) rapidly
-   B) rapid
-   C) more rapid
-   D) rapidity
-   ANSWER: A  — The word modifies the verb "increased", so it must be an adverb: "increased rapidly". Adjectives describe nouns, not verbs.
+[P17 structure] A number of ____ have applied for the scholarship.
+   A) student's
+   B) students
+   C) student
+   D) kind of student
+   ANSWER: B  — With a countable noun, "a number of" requires the plural form: "a number of students".
+
+[P20 structure] The new engine runs ____ in cold weather.
+   A) efficient
+   B) efficiently
+   C) efficiency
+   D) more efficient
+   ANSWER: B  — The word modifies the verb "runs", so it must be an adverb: "runs efficiently". Adjectives describe nouns, not verbs.
 
 [P20 structure] The water in the mountain lake looks ____ even in winter.
-   A) clarity
-   B) clearly
-   C) more clearly
+   A) clearly
+   B) more clearly
+   C) clarity
    D) clear
    ANSWER: D  — "Looks" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "looks clear".
 
-[P20 written-expression] Food _A:prices_ rose _B:sharp_ _C:during_ the _D:drought_.
-   ANSWER: B  — An adverb is needed to describe the verb "rose": "sharply", not the adjective "sharp".
+[P20 written-expression] The population of the _A:city_ _B:increased_ _C:rapid_ _D:after_ the war.
+   ANSWER: C  — An adverb is needed to describe the verb "increased": "rapidly", not the adjective "rapid".
 
-[P20 written-expression] The explanation in the _A:textbook_ _B:sounds_ _C:reasonably_ to most _D:readers_.
-   ANSWER: C  — After the linking verb "sounds", use an adjective that describes the subject: "reasonable", not the adverb "reasonably".
+[P20 written-expression] The _A:results_ of the survey _B:seemed_ _C:surprisingly_ _D:to_ most economists.
+   ANSWER: C  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
+
+[P20 structure] The island economy depends ____ on tourism.
+   A) heavily
+   B) heavy
+   C) more heavy
+   D) heaviness
+   ANSWER: A  — The word modifies the verb "depends", so it must be an adverb: "depends heavily". Adjectives describe nouns, not verbs.
+
+[P20 structure] The witness answered ____ during the trial.
+   A) calmness
+   B) more calm
+   C) calmly
+   D) calm
+   ANSWER: C  — The word modifies the verb "answered", so it must be an adverb: "answered calmly". Adjectives describe nouns, not verbs.
+
+[P20 structure] The explanation in the textbook sounds ____ to most readers.
+   A) reasonably
+   B) reasonable
+   C) reason
+   D) more reasonably
+   ANSWER: B  — "Sounds" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "sounds reasonable".
+
+[P20 structure] The volcano erupts ____ but rarely causes damage.
+   A) frequently
+   B) frequency
+   C) more frequent
+   D) frequent
+   ANSWER: A  — The word modifies the verb "erupts", so it must be an adverb: "erupts frequently". Adjectives describe nouns, not verbs.
+
+[P20 structure] The old bridge remains ____ for light traffic.
+   A) safety
+   B) safely
+   C) more safely
+   D) safe
+   ANSWER: D  — "Remains" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "remains safe".
 
 [P20 written-expression] The _A:surgeon_ _B:operated_ _C:careful_ _D:on_ the injured patient.
    ANSWER: C  — An adverb is needed to describe the verb "operated": "carefully", not the adjective "careful".
 
-[P20 structure] The new engine runs ____ in cold weather.
-   A) efficiency
-   B) efficiently
-   C) efficient
-   D) more efficient
-   ANSWER: B  — The word modifies the verb "runs", so it must be an adverb: "runs efficiently". Adjectives describe nouns, not verbs.
-
-[P20 written-expression] The _A:patient_ became _B:calmly_ _C:after_ the _D:treatment_.
-   ANSWER: B  — After the linking verb "became", use an adjective that describes the subject: "calm", not the adverb "calmly".
-
-[P20 structure] The witness answered ____ during the trial.
-   A) more calm
-   B) calmly
-   C) calm
-   D) calmness
-   ANSWER: B  — The word modifies the verb "answered", so it must be an adverb: "answered calmly". Adjectives describe nouns, not verbs.
-
-[P20 structure] The island economy depends ____ on tourism.
-   A) heavy
-   B) heavily
-   C) more heavy
-   D) heaviness
-   ANSWER: B  — The word modifies the verb "depends", so it must be an adverb: "depends heavily". Adjectives describe nouns, not verbs.
-
-[P20 written-expression] The _A:results_ of the survey seemed _B:surprisingly_ _C:to_ most _D:economists_.
-   ANSWER: B  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
+[P20 written-expression] Food _A:prices_ _B:rose_ _C:sharp_ _D:during_ the drought.
+   ANSWER: C  — An adverb is needed to describe the verb "rose": "sharply", not the adjective "sharp".
 
 [P20 structure] The air in the desert feels ____ at night.
-   A) coolness
-   B) cool
-   C) coolly
-   D) more coolly
-   ANSWER: B  — "Feels" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "feels cool".
+   A) coolly
+   B) more coolly
+   C) coolness
+   D) cool
+   ANSWER: D  — "Feels" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "feels cool".
 
-[P20 written-expression] The _A:volcano_ _B:erupts_ _C:frequent_ _D:but_ rarely causes damage.
-   ANSWER: C  — An adverb is needed to describe the verb "erupts": "frequently", not the adjective "frequent".
-
-[P20 written-expression] The old _A:bridge_ _B:remains_ _C:safely_ _D:for_ light traffic.
-   ANSWER: C  — After the linking verb "remains", use an adjective that describes the subject: "safe", not the adverb "safely".
+[P20 written-expression] The patient _A:became_ _B:calmly_ _C:after_ the _D:treatment_.
+   ANSWER: B  — After the linking verb "became", use an adjective that describes the subject: "calm", not the adverb "calmly".
 
 [P20 written-expression] The _A:population_ of the _B:city_ _C:increased_ _D:rapid_ after the war.
    ANSWER: D  — An adverb is needed to describe the verb "increased": "rapidly", not the adjective "rapid".
 
 [P20 written-expression] The results of the _A:survey_ _B:seemed_ _C:surprisingly_ _D:to_ most economists.
    ANSWER: C  — After the linking verb "seemed", use an adjective that describes the subject: "surprising", not the adverb "surprisingly".
-
-[P20 structure] The volcano erupts ____ but rarely causes damage.
-   A) frequency
-   B) frequent
-   C) more frequent
-   D) frequently
-   ANSWER: D  — The word modifies the verb "erupts", so it must be an adverb: "erupts frequently". Adjectives describe nouns, not verbs.
 
 [P20 written-expression] The island _A:economy_ _B:depends_ _C:heavy_ on _D:tourism_.
    ANSWER: C  — An adverb is needed to describe the verb "depends": "heavily", not the adjective "heavy".
@@ -1810,49 +1819,58 @@
    D) more surprisingly
    ANSWER: C  — "Seemed" is a linking verb here: it connects the subject to a word that describes it, so use an adjective: "seemed surprising".
 
-[P23 structure] The region is famous both for its wine ____ for its cheese.
-   A) and
-   B) or
-   C) but
-   D) nor
-   ANSWER: A  — "Both" is always paired with "and": "both for its wine and for its cheese".
+[P20 written-expression] The water in the mountain _A:lake_ looks _B:clearly_ _C:even_ in _D:winter_.
+   ANSWER: B  — After the linking verb "looks", use an adjective that describes the subject: "clear", not the adverb "clearly".
 
-[P23 structure] The disease affects both young children ____ older adults.
-   A) but
-   B) or
-   C) and
-   D) nor
-   ANSWER: C  — "Both" is always paired with "and": "both young children and older adults".
-
-[P23 written-expression] The _A:experiment_ can be done either in the _B:morning_ _C:and_ in the _D:evening_.
-   ANSWER: C  — "Either" is always paired with "or", so "and" is wrong: "either ... or".
-
-[P23 structure] The festival attracts not only local residents ____ tourists from abroad.
-   A) but also
-   B) or also
-   C) and also
-   D) nor
-   ANSWER: A  — "Not only" is paired with "but (also)": "not only local residents but also tourists from abroad".
-
-[P23 structure] Honeybees provide not only honey ____ pollination for many crops.
-   A) and also
-   B) or also
-   C) but also
-   D) nor
-   ANSWER: C  — "Not only" is paired with "but (also)": "not only honey but also pollination for many crops".
-
-[P23 structure] Applications may be submitted either online ____ by mail.
-   A) but also
+[P23 structure] The new drug is neither cheap ____ widely available.
+   A) or
    B) nor
    C) and
-   D) or
-   ANSWER: D  — "Either" is always paired with "or": "either online or by mail".
+   D) but
+   ANSWER: B  — "Neither" is always paired with "nor": "neither cheap nor widely available".
 
-[P23 written-expression] Visitors _A:can_ enter either through the main gate _B:but also_ through the _C:side_ _D:door_.
-   ANSWER: B  — "Either" is always paired with "or", so "but also" is wrong: "either ... or".
+[P23 written-expression] The _A:disease_ _B:affects_ both young _C:children_ _D:or_ older adults.
+   ANSWER: D  — "Both" is always paired with "and", so "or" is wrong: "both ... and".
 
-[P23 written-expression] The _A:gallery_ _B:displays_ both _C:paintings_ _D:but_ sculptures.
-   ANSWER: D  — "Both" is always paired with "and", so "but" is wrong: "both ... and".
+[P23 structure] Visitors can enter either through the main gate ____ through the side door.
+   A) nor
+   B) or
+   C) and
+   D) but also
+   ANSWER: B  — "Either" is always paired with "or": "either through the main gate or through the side door".
+
+[P23 written-expression] Applications _A:may_ be submitted either online _B:nor_ _C:by_ _D:mail_.
+   ANSWER: B  — "Either" is always paired with "or", so "nor" is wrong: "either ... or".
+
+[P23 structure] The festival attracts not only local residents ____ tourists from abroad.
+   A) or also
+   B) and also
+   C) but also
+   D) nor
+   ANSWER: C  — "Not only" is paired with "but (also)": "not only local residents but also tourists from abroad".
+
+[P23 written-expression] The _A:gallery_ _B:displays_ both _C:paintings_ _D:nor_ sculptures.
+   ANSWER: D  — "Both" is always paired with "and", so "nor" is wrong: "both ... and".
+
+[P23 written-expression] The _A:region_ is famous both for its wine _B:or_ _C:for_ its _D:cheese_.
+   ANSWER: B  — "Both" is always paired with "and", so "or" is wrong: "both ... and".
+
+[P23 structure] Bamboo is not only strong ____ flexible.
+   A) nor
+   B) or also
+   C) and also
+   D) but also
+   ANSWER: D  — "Not only" is paired with "but (also)": "not only strong but also flexible".
+
+[P23 written-expression] The _A:experiment_ _B:can_ be done either in the _C:morning_ _D:and_ in the evening.
+   ANSWER: D  — "Either" is always paired with "or", so "and" is wrong: "either ... or".
+
+[P23 structure] Honeybees provide not only honey ____ pollination for many crops.
+   A) nor
+   B) or also
+   C) but also
+   D) and also
+   ANSWER: C  — "Not only" is paired with "but (also)": "not only honey but also pollination for many crops".
 
 [P23 structure] The early settlers had neither electricity ____ running water.
    A) or
@@ -1861,22 +1879,15 @@
    D) nor
    ANSWER: D  — "Neither" is always paired with "nor": "neither electricity nor running water".
 
-[P23 structure] The new drug is neither cheap ____ widely available.
-   A) but
-   B) nor
-   C) and
-   D) or
-   ANSWER: B  — "Neither" is always paired with "nor": "neither cheap nor widely available".
-
-[P23 structure] Bamboo is not only strong ____ flexible.
-   A) and also
-   B) or also
-   C) but also
-   D) nor
-   ANSWER: C  — "Not only" is paired with "but (also)": "not only strong but also flexible".
-
 [P23 written-expression] _A:Honeybees_ provide not only _B:honey_ _C:and also_ _D:pollination_ for many crops.
    ANSWER: C  — "Not only" is paired with "but (also)", so "and also" is wrong: "not only ... but also".
+
+[P23 structure] Applications may be submitted either online ____ by mail.
+   A) or
+   B) and
+   C) but also
+   D) nor
+   ANSWER: A  — "Either" is always paired with "or": "either online or by mail".
 
 [P23 written-expression] Visitors _A:can_ enter either through the main _B:gate_ _C:and_ through the _D:side_ door.
    ANSWER: C  — "Either" is always paired with "or", so "and" is wrong: "either ... or".
@@ -1884,15 +1895,8 @@
 [P23 written-expression] The _A:festival_ _B:attracts_ not only local _C:residents_ _D:or also_ tourists from abroad.
    ANSWER: D  — "Not only" is paired with "but (also)", so "or also" is wrong: "not only ... but also".
 
-[P23 written-expression] The _A:experiment_ _B:can_ be done either in the _C:morning_ _D:nor_ in the evening.
-   ANSWER: D  — "Either" is always paired with "or", so "nor" is wrong: "either ... or".
-
-[P23 structure] Visitors can enter either through the main gate ____ through the side door.
-   A) or
-   B) nor
-   C) but also
-   D) and
-   ANSWER: A  — "Either" is always paired with "or": "either through the main gate or through the side door".
+[P23 written-expression] The _A:experiment_ can be done either in the _B:morning_ _C:and_ in the _D:evening_.
+   ANSWER: C  — "Either" is always paired with "or", so "and" is wrong: "either ... or".
 
 [P23 written-expression] The early _A:settlers_ _B:had_ neither _C:electricity_ _D:but_ running water.
    ANSWER: D  — "Neither" is always paired with "nor", so "but" is wrong: "neither ... nor".
@@ -1910,93 +1914,89 @@
 [P23 written-expression] The festival attracts not only local _A:residents_ _B:nor_ _C:tourists_ from _D:abroad_.
    ANSWER: B  — "Not only" is paired with "but (also)", so "nor" is wrong: "not only ... but also".
 
-[P24 structure] The professor made the students ____ their essays twice.
-   A) rewrite
-   B) to rewrite
-   C) rewrites
-   D) rewrote
-   ANSWER: A  — After "make" + person, use the base form of the verb without "to": "made the students rewrite".
+[P24 structure] Some parents let their children ____ their own books.
+   A) to choose
+   B) choose
+   C) chose
+   D) chooses
+   ANSWER: B  — After "let" + person, use the base form of the verb without "to": "let their children choose".
 
 [P24 structure] The residents got the city ____ the broken streetlights.
-   A) repaired
-   B) repair
-   C) repairs
+   A) repair
+   B) repairs
+   C) repaired
    D) to repair
    ANSWER: D  — Unlike "make", "let" and "have", the verb "get" + person takes an infinitive with "to": "got the city to repair".
+
+[P24 structure] The owners had the roof ____ after the storm.
+   A) have repaired
+   B) repair
+   C) repaired
+   D) repairing
+   ANSWER: C  — When someone else does the action to a thing, use "have" + thing + past participle: "had the roof repaired".
+
+[P24 written-expression] The coach made the _A:players_ _B:to run_ extra _C:laps_ _D:after_ practice.
+   ANSWER: B  — "Make" + person is followed by the base form, without "to": "made ... run".
+
+[P24 written-expression] The _A:author_ _B:got_ a famous _C:scientist_ _D:write_ the introduction to the book.
+   ANSWER: D  — "Get" + person takes an infinitive with "to": "got ... to write".
+
+[P24 structure] The doctor had the patient ____ the pain carefully.
+   A) to describe
+   B) described
+   C) describe
+   D) describes
+   ANSWER: C  — After "have" + person, use the base form of the verb without "to": "had the patient describe".
+
+[P24 structure] The manager got the workers ____ the new schedule.
+   A) to accept
+   B) accepts
+   C) accepted
+   D) accept
+   ANSWER: A  — Unlike "make", "let" and "have", the verb "get" + person takes an infinitive with "to": "got the workers to accept".
 
 [P24 structure] The gallery had the old painting ____ by an expert.
    A) restoring
    B) have restored
-   C) restore
-   D) restored
-   ANSWER: D  — When someone else does the action to a thing, use "have" + thing + past participle: "had the old painting restored".
+   C) restored
+   D) restore
+   ANSWER: C  — When someone else does the action to a thing, use "have" + thing + past participle: "had the old painting restored".
 
-[P24 written-expression] The doctor _A:had_ the _B:patient_ _C:to describe_ the pain _D:carefully_.
-   ANSWER: C  — "Have" + person is followed by the base form, without "to": "had ... describe".
-
-[P24 written-expression] The _A:publisher_ had the _B:novel_ _C:translate_ into _D:Spanish_.
-   ANSWER: C  — The novel cannot do the action itself, so use "have" + thing + past participle: "had ... translated".
-
-[P24 structure] The coach made the players ____ extra laps after practice.
-   A) run
-   B) to run
-   C) runs
-   D) ran
-   ANSWER: A  — After "make" + person, use the base form of the verb without "to": "made the players run".
-
-[P24 structure] The driver had the brakes ____ before the long trip.
-   A) checking
-   B) checked
-   C) check
-   D) have checked
-   ANSWER: B  — When someone else does the action to a thing, use "have" + thing + past participle: "had the brakes checked".
+[P24 written-expression] The _A:driver_ had the _B:brakes_ _C:check_ _D:before_ the long trip.
+   ANSWER: C  — The brakes cannot do the action itself, so use "have" + thing + past participle: "had ... checked".
 
 [P24 structure] The zookeepers let the visitors ____ the goats by hand.
-   A) to feed
-   B) feeds
-   C) feed
-   D) fed
-   ANSWER: C  — After "let" + person, use the base form of the verb without "to": "let the visitors feed".
+   A) feeds
+   B) feed
+   C) fed
+   D) to feed
+   ANSWER: B  — After "let" + person, use the base form of the verb without "to": "let the visitors feed".
 
-[P24 structure] The author got a famous scientist ____ the introduction to the book.
-   A) writes
-   B) wrote
-   C) to write
-   D) write
-   ANSWER: C  — Unlike "make", "let" and "have", the verb "get" + person takes an infinitive with "to": "got a famous scientist to write".
+[P24 structure] The publisher had the novel ____ into Spanish.
+   A) have translated
+   B) translated
+   C) translate
+   D) translating
+   ANSWER: B  — When someone else does the action to a thing, use "have" + thing + past participle: "had the novel translated".
 
-[P24 written-expression] Some _A:parents_ _B:let_ their _C:children_ _D:to choose_ their own books.
-   ANSWER: D  — "Let" + person is followed by the base form, without "to": "let ... choose".
+[P24 structure] The professor made the students ____ their essays twice.
+   A) to rewrite
+   B) rewrote
+   C) rewrite
+   D) rewrites
+   ANSWER: C  — After "make" + person, use the base form of the verb without "to": "made the students rewrite".
 
-[P24 written-expression] The _A:manager_ _B:got_ the _C:workers_ _D:accept_ the new schedule.
-   ANSWER: D  — "Get" + person takes an infinitive with "to": "got ... to accept".
-
-[P24 structure] The teacher had each student ____ a poem aloud.
-   A) recited
-   B) to recite
-   C) recite
-   D) recites
-   ANSWER: C  — After "have" + person, use the base form of the verb without "to": "had each student recite".
-
-[P24 structure] The owners had the roof ____ after the storm.
-   A) repaired
-   B) have repaired
-   C) repairing
-   D) repair
-   ANSWER: A  — When someone else does the action to a thing, use "have" + thing + past participle: "had the roof repaired".
+[P24 written-expression] The _A:teacher_ had each _B:student_ _C:to recite_ a poem _D:aloud_.
+   ANSWER: C  — "Have" + person is followed by the base form, without "to": "had ... recite".
 
 [P24 written-expression] The _A:doctor_ _B:had_ the _C:patient_ _D:to describe_ the pain carefully.
    ANSWER: D  — "Have" + person is followed by the base form, without "to": "had ... describe".
 
+[P24 written-expression] The _A:manager_ _B:got_ the _C:workers_ _D:accept_ the new schedule.
+   ANSWER: D  — "Get" + person takes an infinitive with "to": "got ... to accept".
+
 [P24 written-expression] The _A:owners_ had the _B:roof_ _C:repair_ _D:after_ the storm.
    ANSWER: C  — The roof cannot do the action itself, so use "have" + thing + past participle: "had ... repaired".
-
-[P24 structure] The manager got the workers ____ the new schedule.
-   A) accepted
-   B) accepts
-   C) to accept
-   D) accept
-   ANSWER: C  — Unlike "make", "let" and "have", the verb "get" + person takes an infinitive with "to": "got the workers to accept".
 
 [P24 written-expression] The _A:coach_ made the players _B:to run_ extra _C:laps_ _D:after_ practice.
    ANSWER: B  — "Make" + person is followed by the base form, without "to": "made ... run".
@@ -2007,26 +2007,18 @@
 [P24 written-expression] The publisher _A:had_ the _B:novel_ _C:translate_ into _D:Spanish_.
    ANSWER: C  — The novel cannot do the action itself, so use "have" + thing + past participle: "had ... translated".
 
-[P24 structure] Some parents let their children ____ their own books.
-   A) choose
-   B) to choose
-   C) chose
-   D) chooses
-   ANSWER: A  — After "let" + person, use the base form of the verb without "to": "let their children choose".
+[P24 written-expression] Some _A:parents_ _B:let_ their _C:children_ _D:to choose_ their own books.
+   ANSWER: D  — "Let" + person is followed by the base form, without "to": "let ... choose".
 
-[P25 structure] The doctor recommended that the patient ____ more water.
-   A) drink
-   B) drinks
-   C) drinking
-   D) to drink
-   ANSWER: A  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "the patient drink", not "drinks".
+[P25 structure] It is vital that a pilot ____ the safety checklist.
+   A) follows
+   B) follow
+   C) to follow
+   D) following
+   ANSWER: B  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "a pilot follow", not "follows".
 
-[P25 structure] It is essential that every applicant ____ two photographs.
-   A) submitting
-   B) submits
-   C) submit
-   D) to submit
-   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "every applicant submit", not "submits".
+[P25 written-expression] It is _A:essential_ that every applicant _B:submits_ _C:two_ _D:photographs_.
+   ANSWER: B  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "submit", not "submits".
 
 [P25 written-expression] The committee proposed that the _A:city_ _B:builds_ a _C:new_ _D:library_.
    ANSWER: B  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "build", not "builds".
@@ -2047,6 +2039,9 @@
 [P25 written-expression] The _A:teacher_ _B:asked_ that each _C:student_ _D:brings_ a dictionary to class.
    ANSWER: D  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "bring", not "brings".
 
+[P25 written-expression] The _A:doctor_ _B:recommended_ that the _C:patient_ _D:drinks_ more water.
+   ANSWER: D  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "drink", not "drinks".
+
 [P25 structure] It is necessary that each visitor ____ at the front desk.
    A) registering
    B) register
@@ -2060,9 +2055,6 @@
    C) be
    D) to be
    ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "the sample be", not "is".
-
-[P25 written-expression] It is _A:vital_ that a _B:pilot_ _C:follows_ the safety _D:checklist_.
-   ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "follow", not "follows".
 
 [P25 written-expression] The _A:judge_ _B:ordered_ that the tenant _C:pays_ the _D:rent_ immediately.
    ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "pay", not "pays".
@@ -2086,6 +2078,13 @@
 [P25 written-expression] It is _A:essential_ that every _B:applicant_ _C:submits_ two _D:photographs_.
    ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "submit", not "submits".
 
+[P25 structure] It is essential that every applicant ____ two photographs.
+   A) submitting
+   B) submits
+   C) to submit
+   D) submit
+   ANSWER: D  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "every applicant submit", not "submits".
+
 [P25 written-expression] It is _A:essential_ that every _B:applicant_ _C:submits_ _D:two_ photographs.
    ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "submit", not "submits".
 
@@ -2098,10 +2097,3 @@
 
 [P25 written-expression] The _A:law_ requires that each _B:driver_ _C:carries_ a valid _D:license_.
    ANSWER: C  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "carry", not "carries".
-
-[P25 structure] The judge ordered that the tenant ____ the rent immediately.
-   A) pays
-   B) to pay
-   C) paying
-   D) pay
-   ANSWER: D  — After verbs and expressions of necessity or recommendation such as "recommend", "require", "demand" and "it is essential that", the verb in the that-clause is in the base form for every subject: "the tenant pay", not "pays".
